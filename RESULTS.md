@@ -273,6 +273,38 @@ rather than combined — because the pattern-match treated `ô` and `ö` as diac
 They are the letters ơ and ư, so `giôùi` (giới) matched and inflated the count to 24
 across the corpus. The real count is **one**.
 
+## After VIP-91 — and why 0.998 measures nothing, again
+
+viparse's VNI table went from 6 entries to 130
+([viparse#82](https://github.com/TrizenX/viparse/pull/82)), derived against the four
+VNI documents here: 104 entries observed directly, 26 from two rules each observed
+dozens of times, and `ẳ ẵ Ẳ Ẵ` deliberately absent.
+
+| Subset | before | after |
+| --- | ---: | ---: |
+| VNI diacritic (4 documents) | 0.307 | **0.998** |
+| TCVN3 diacritic (42 documents) | 0.987 | 0.987 |
+
+**Do not report 0.998.** This is the TCVN3 story from VIP-85 repeating exactly: the
+ground truth for these four documents was produced by `scripts/vni.py`, and the table
+now in viparse is that same table inverted. The benchmark is asking whether viparse's
+table equals the table that generated the answers, and the answer is yes by
+construction. It would read 0.998 even if every mapping in it were wrong.
+
+Worth keeping as a regression check — it confirms 130 entries transferred without one
+being mistyped, and that viparse's extraction path loses no characters on these files.
+The residual 0.002 is whitespace, not encoding.
+
+The evidence that the table is *right* is elsewhere and does not come from this score:
+the per-entry occurrence counts (`ö` → ư 927 times and so on), and the fixed
+administrative formulas whose Unicode reading is externally known rather than derived
+from any table.
+
+**Both dimensions are now spent.** Measuring either encoding again needs ground truth
+typed by a person reading the rendered document, produced by no conversion at all.
+That is the only thing that breaks the circle, and it is why `corpus.md` insists the
+synthetic subset never supplies a headline number.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.
