@@ -1,0 +1,96 @@
+{
+  "tool": "viparse.normalize",
+  "tool_version": "0.1.7",
+  "subset": "public-domain",
+  "metric_version": "1",
+  "summary": {
+    "n_documents": 10,
+    "n_failures": 0,
+    "failures": [],
+    "char_accuracy": 0.862861,
+    "diacritic_accuracy": 0.327706,
+    "syllable_accuracy": 0.4226
+  },
+  "documents": [
+    {
+      "document": "2003-02144qd",
+      "char_accuracy": 0.864163,
+      "diacritic_accuracy": 0.293796,
+      "syllable_accuracy": 0.376689,
+      "truth_chars": 2849,
+      "diacritic_positions": 548
+    },
+    {
+      "document": "2004-0328NDCP",
+      "char_accuracy": 0.863813,
+      "diacritic_accuracy": 0.351013,
+      "syllable_accuracy": 0.446013,
+      "truth_chars": 11051,
+      "diacritic_positions": 2319
+    },
+    {
+      "document": "2004-1E849_Tran_Du_Lich",
+      "char_accuracy": 0.858231,
+      "diacritic_accuracy": 0.344156,
+      "syllable_accuracy": 0.404635,
+      "truth_chars": 4987,
+      "diacritic_positions": 1078
+    },
+    {
+      "document": "2004-B1-1-DONTC",
+      "char_accuracy": 0.94124,
+      "diacritic_accuracy": 0.349398,
+      "syllable_accuracy": 0.848234,
+      "truth_chars": 3676,
+      "diacritic_positions": 332
+    },
+    {
+      "document": "2004-B6",
+      "char_accuracy": 0.868413,
+      "diacritic_accuracy": 0.335394,
+      "syllable_accuracy": 0.418398,
+      "truth_chars": 3169,
+      "diacritic_positions": 647
+    },
+    {
+      "document": "2004-B8",
+      "char_accuracy": 0.858587,
+      "diacritic_accuracy": 0.317479,
+      "syllable_accuracy": 0.397036,
+      "truth_chars": 11873,
+      "diacritic_positions": 2523
+    },
+    {
+      "document": "2004-NghiDinh29_1998",
+      "char_accuracy": 0.847454,
+      "diacritic_accuracy": 0.299253,
+      "syllable_accuracy": 0.36147,
+      "truth_chars": 17752,
+      "diacritic_positions": 3883
+    },
+    {
+      "document": "2005-1DCA4_3b",
+      "char_accuracy": 0.855301,
+      "diacritic_accuracy": 0.178862,
+      "syllable_accuracy": 0.45283,
+      "truth_chars": 698,
+      "diacritic_positions": 123
+    },
+    {
+      "document": "2005-nghiencuu_2004_07_21_110129",
+      "char_accuracy": 0.859214,
+      "diacritic_accuracy": 0.346613,
+      "syllable_accuracy": 0.416452,
+      "truth_chars": 24207,
+      "diacritic_positions": 5196
+    },
+    {
+      "document": "2006-Hamau1BK1995",
+      "char_accuracy": 0.913591,
+      "diacritic_accuracy": 0.296928,
+      "syllable_accuracy": 0.391892,
+      "truth_chars": 2384,
+      "diacritic_positions": 293
+    }
+  ]
+}

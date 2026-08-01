@@ -1,0 +1,65 @@
+# Results — first run, 2026-08-01
+
+Ten TCVN3 documents from Vietnamese government sites, transcribed by hand and
+scored per [`METRIC.md`](METRIC.md). Raw output in [`results/`](results/).
+
+## Numbers
+
+| Tool | char | **diacritic** | syllable |
+| --- | ---: | ---: | ---: |
+| No conversion — byte-faithful extraction | 0.797 | **0.008** | 0.194 |
+| viparse 0.1.7, normalize layer, `encoding="tcvn3"` | 0.863 | **0.328** | 0.423 |
+
+Competitors are not in this table. Comparing before the corpus can be published, and
+before the LlamaParse terms are read, would be a claim nobody can check.
+
+## What the baseline row establishes
+
+A parser that extracts the bytes correctly and does nothing about the encoding scores
+**0.797 on characters and 0.008 on diacritics**. That gap is the product thesis,
+measured on real documents for the first time: the text looks 80% intact and carries
+essentially none of the Vietnamese.
+
+This row needs no competitor to be useful. It is what every generic loader produces
+on these files, because none of them attempt the encoding layer.
+
+## What the viparse row shows — the finding that matters
+
+**viparse recovers 32.8% of diacritics.** Better than 0.8%, and far from usable.
+
+The cause is not subtle. viparse's TCVN3 charmap contains **12 mappings**; the corpus
+needs **74**. Missing, by vowel family:
+
+```
+o=19  e=12  u=12  a=8  i=5  y=5  đ=1
+```
+
+Everything viparse has is correct — the two tables disagree nowhere. It is simply the
+`a` family plus `đ`, and nothing else. Sample output:
+
+```
+QuyÕt đÞnh
+cña Bé trëng Bé Tài chÝnh sè 1141-TC/Q§/C§KT
+```
+
+`à á ả ã ạ ă đ` come back; `ế ị ộ ứ ổ ơ ề` do not.
+
+**This is the moat, and it is roughly a sixth built.** Completing the table is a
+contained change to one file and would move this number more than any other work
+available.
+
+## Caveats, so the numbers are not read as more than they are
+
+- **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.
+  The corpus holds 3 VNI files and no VISCII or VPS at all.
+- **The normalize layer was measured, not the library.** viparse's legacy `.doc`
+  engine needs LibreOffice, which was not installed, so `viparse.load()` failed on
+  10/10. Text was extracted with `scripts/doc_text.py` and fed to
+  `VietnameseNormalizer` directly. That isolates the moat, which is the point of the
+  headline metric — but it is not an end-to-end measurement.
+- **Encoding was passed explicitly** (`encoding="tcvn3"`). Detection was not
+  exercised, so this is an upper bound: a run relying on auto-detection can only do
+  worse.
+- **Heading case is unresolved in the ground truth** for lines typed entirely in
+  lowercase ASCII — 24 of 593 lines, 1.9% of characters. It depresses every tool's
+  score equally, so the comparison stands, but the absolute numbers carry that error.
