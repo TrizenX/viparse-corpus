@@ -364,16 +364,28 @@ One French correction was needed, and only one: TCVN3 reads `ç` as `ỗ`, and o
 `chỗ`, `hỗn độn`, `mỗi`, `hỗ trợ`, `nỗ lực`. Editing artifacts in the original are kept,
 including a typist's note reading `(thiếu trang 10, thầy ơi!!!`.
 
-### Corpus after both
+### Corpus after both, and after the fix
 
 | Subset | n | char | diacritic |
 | --- | ---: | ---: | ---: |
-| TCVN3 | 43 | 0.949 | 0.959 |
+| TCVN3 | 43 | 0.965 | **0.977** |
 | VNI | 4 | 0.984 | **0.998** |
 | mixed TCVN3+VNI | 1 | 0.786 | **0.084** |
 
-TCVN3 falls from 0.987 to 0.959 purely because the Godement document rejoined the set,
-carrying the `w:ins` loss with it. Nothing about TCVN3 conversion changed.
+TCVN3 read 0.959 the moment the Godement document rejoined the set, carrying the
+`w:ins` loss with it; [viparse#86](https://github.com/TrizenX/viparse/pull/86) takes it
+to 0.977. Nothing about TCVN3 *conversion* changed in either direction — the whole
+movement was extraction.
+
+Two things keep that document off ~0.99, both measured rather than assumed. Footnotes
+live in `word/footnotes.xml`, a part the engine does not read (1,062 characters here).
+And LibreOffice loses about 5,642 characters converting this `.doc` at all: passages
+present in the original appear in neither `document.xml` nor `footnotes.xml`. That
+second one is upstream of viparse entirely, and worth knowing before anyone reads a
+legacy-`.doc` score as a parser score.
+
+**The mixed document is now the corpus's sharpest open finding at 0.084.** It is also
+the one viparse's per-run detection was built for.
 
 ## Four errors found in this harness, not in viparse
 
