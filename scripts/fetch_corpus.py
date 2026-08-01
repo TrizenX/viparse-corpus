@@ -123,7 +123,7 @@ def main() -> int:
             except Exception:
                 continue
 
-            encoding = classify(legacy_fonts(data))
+            encoding = classify(legacy_fonts(data), data)
             if not encoding:
                 continue
 

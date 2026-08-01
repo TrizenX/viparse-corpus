@@ -5,10 +5,16 @@ Live government portals have been rebuilt and their documents re-published as
 Unicode, so they are useless as corpus material. The legacy encodings survive in
 archived copies of those sites from before the migration.
 
-Screening is by **font table**, not by guessing at the text. A Word 97 document
-that declares `.VnTime` or `VNI-Times` is TCVN3/VNI by construction — the bytes
-only render as Vietnamese with that font applied. Reading the text and looking
-for suspicious characters would be a heuristic; this is a fact stated by the file.
+Screening is in two stages, and **both are needed**.
+
+A font declaration alone is not proof. `.VnTime` survives conversion: a document
+whose text was migrated to Unicode often keeps the legacy font in its table, and
+screening on that signal alone gave a 44% false-positive rate over 62 files — 27
+of them were already Unicode.
+
+So the font table narrows the candidates, and the **text itself decides**. A file
+counts as legacy only when its extracted characters are Latin-1 byte values rather
+than Vietnamese Unicode.
 
     python3 scripts/find_candidates.py --domain mof.gov.vn --from 2001 --to 2008
     python3 scripts/find_candidates.py --domain mof.gov.vn --download out/
@@ -26,6 +32,9 @@ import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from doc_text import extract  # noqa: E402
 
 CDX = "http://web.archive.org/cdx/search/cdx"
 WAYBACK = "http://web.archive.org/web/{ts}id_/{url}"
@@ -110,12 +119,50 @@ def legacy_fonts(data: bytes) -> set[str]:
     return found
 
 
-def classify(fonts: set[str]) -> str | None:
+# Vietnamese letters that exist only in Unicode; they cannot appear in a legacy
+# byte stream, so seeing them means the text was already converted.
+UNICODE_VN = set("ăâđêôơưĂÂĐÊÔƠƯ") | {chr(c) for c in range(0x1EA0, 0x1EFA)}
+# Latin-1 range where the legacy encodings park their Vietnamese letters.
+LEGACY_BYTES = {chr(c) for c in range(0xA1, 0x100)}
+
+
+def text_is_legacy(data: bytes) -> bool | None:
+    """Decide from the text, not the font table. None when there is too little to tell."""
+    import io
+    import tempfile
+
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".doc", delete=True) as tmp:
+            tmp.write(data)
+            tmp.flush()
+            text = extract(tmp.name)
+    except Exception:
+        return None
+
+    unicode_hits = sum(1 for c in text if c in UNICODE_VN)
+    legacy_hits = sum(1 for c in text if c in LEGACY_BYTES)
+    if unicode_hits == 0 and legacy_hits < 20:
+        return None
+    return legacy_hits > unicode_hits
+
+
+def classify(fonts: set[str], data: bytes | None = None) -> str | None:
+    """Legacy encoding name, or None.
+
+    `fonts` says which legacy encoding the document was authored in; `data`, when
+    given, says whether the text is still in it.
+    """
+    family = None
     for font in fonts:
         key = font[:3].lower()
         if key in ENCODING_OF:
-            return ENCODING_OF[key]
-    return None
+            family = ENCODING_OF[key]
+            break
+    if family is None:
+        return None
+    if data is not None and text_is_legacy(data) is not True:
+        return None
+    return family
 
 
 def main() -> int:
@@ -147,7 +194,7 @@ def main() -> int:
         time.sleep(0.5)  # stay under the archive's rate limit
 
         fonts = legacy_fonts(data)
-        encoding = classify(fonts)
+        encoding = classify(fonts, data)
         if not encoding:
             continue
 

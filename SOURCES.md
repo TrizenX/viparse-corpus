@@ -53,17 +53,61 @@ quyÕt ®Þnh cña bé tr­ëng bé tµi chÝnh
 vÒ viÖc söa ®æi møc thuÕ suÊt cña mét sè mÆt hµng trong
 ```
 
-## How screening works
+## How screening works — corrected 2026-08-01
 
-By **font table**, not by inspecting the text. A Word 97 file that declares
-`.VnTime` or `VNI-Times` is legacy-encoded *by construction* — those bytes only
-render as Vietnamese with that font applied. Reading the text and looking for
-suspicious characters would be a heuristic that a Spanish or Portuguese document
-could trip; the font declaration is a fact the file states about itself.
+The first version of this screen used the **font table alone**, on the reasoning that
+a file declaring `.VnTime` is legacy-encoded by construction.
 
-This is deliberately the same signal `viparse`'s own detector treats as primary, so
-a document that lands in the corpus is one the library should get right — and if it
-does not, that is a real failure rather than an argument about the corpus.
+**That was wrong, and it cost 28 of 62 collected documents.** The font declaration
+survives conversion: when a document's text is migrated to Unicode, the legacy font
+often stays in its table. Screening on that signal alone had a **44% false-positive
+rate** — 27 files were already Unicode and one was empty.
+
+Screening is now two stages, and both are needed:
+
+1. **Font table** narrows the candidates — it says which encoding the document was
+   authored in.
+2. **The extracted text decides** — a file counts as legacy only when its characters
+   are Latin-1 byte values rather than Vietnamese Unicode.
+
+Stage 2 needs a working `.doc` extractor, which is `scripts/doc_text.py` — written
+here rather than borrowed from viparse, because a corpus screened by the library
+under test would be a corpus of exactly the files that library already handles.
+
+## Ground truth
+
+Also produced independently of viparse, for the same reason: a transcript generated
+by the tool being measured would score 100% against itself and mean nothing.
+
+`scripts/tcvn3.py` holds a TCVN3 → Unicode table derived from the corpus itself, by
+aligning byte sequences against the fixed phrases Vietnamese legal documents always
+carry — "Cộng hoà xã hội chủ nghĩa Việt Nam", "Căn cứ Nghị định số", "Độc lập - Tự
+do - Hạnh phúc" — and extended until no Latin-1 byte was left unmapped across all 31
+TCVN3 files.
+
+A first draft of that table guessed at four bytes to make the unmapped count reach
+zero. All four guesses were wrong: `¡ ¢ £ ¤` are **Ă Â Ê Ô**, not accented lowercase.
+They sit in a block, `A1–A7`, holding the uppercase base vowels, with `A8–AE` holding
+the lowercase ones — a structure invisible to anyone filling gaps to make a number
+look tidy. Every entry is now backed by a context quotation.
+
+### The one thing still unresolved
+
+TCVN3 has **no uppercase accented letters**. An uppercase heading is typed with
+uppercase ASCII and the same accented bytes as lowercase, and `.VnTimeH` draws them
+uppercase. Byte-level conversion therefore produces `TOàN` for `TOÀN`.
+
+Where the ASCII in a line is uppercase, this is unambiguous and repaired. Where a
+heading was typed entirely in lowercase ASCII and left to the font, it is not
+recoverable from the bytes — and those lines stay lowercase.
+
+Measured exposure across the ten transcripts: **24 of 593 lines (4.0%), 1.9% of
+characters.** Concentrated in document letterheads and titles.
+
+Fixing it properly means parsing the character-property runs to find which text is
+set in `.VnTimeH`. Until then the ten transcripts are marked `ready` with this
+caveat recorded per file, because a transcript that is 98% right and honest about the
+other 2% is more useful than no transcript.
 
 ## Measured yield, 2026-08-01
 
