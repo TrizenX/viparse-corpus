@@ -99,6 +99,50 @@ fixtures are synthetic and contain no soft hyphens; and invisible to the normali
 run here, which used an extractor that preserves `0xAD`. Only the real library over real
 documents showed it — which is the argument for the corpus existing.
 
+## Full corpus, 33 documents
+
+| Tool | char | diacritic | syllable |
+| --- | ---: | ---: | ---: |
+| viparse 0.1.9, end-to-end | **0.980** | **0.990** | **0.991** |
+
+32 TCVN3 documents and 1 VNI. Scored in 3.8 seconds.
+
+### VNI is where TCVN3 was
+
+The single VNI document scores **0.220** — viparse leaves it almost
+untouched, returning `Maãu soá 5` and `COÄNG HOØA XAÕ HOÄI`. Its VNI charmap holds **6
+mappings** where the encoding needs roughly fifty, exactly the shape the TCVN3 table was
+in before VIP-85.
+
+One document is not enough to fix it from. Deriving a table from a single source is how
+the TCVN3 table got four entries wrong the first time. More VNI documents first —
+southern provincial portals are where the three collected so far came from.
+
+## Four errors found in this harness, not in viparse
+
+Recorded because a benchmark whose own defects go unlisted is not evidence.
+
+**The scorer could not process the corpus.** `normalise()` collapsed all whitespace
+including newlines, flattening a 145k-character document into one line, so the
+"line-level" alignment had nothing to split on and every metric ran quadratically over
+the whole file. It never finished. Segments are now split on sentence punctuation —
+content-derived, so a tool's choice of where to break lines still does not affect its
+score — and the full corpus scores in 3.8s.
+
+**Alignment was computed three times**, once per metric, and ran a full comparison even
+for lines that were byte-identical. Both fixed.
+
+**Predictions were markdown, ground truth was plain text.** `viparse.load()` defaults to
+`output="markdown"`, so every heading carried a `#` that scored as an error. Passing
+`output="text"` moved the corpus from 0.934 to 0.958 — a fifth of the apparent error was
+the harness comparing two different formats.
+
+**One transcript was corrupt.** `2004-1ED4D_Francois_Godement` mixes Vietnamese and
+French, and applying the TCVN3 table to the whole document turned `François` into
+`Franỗois`. Demoted to `pending-transcript`; it needs per-run conversion, which is
+precisely the case viparse's own per-run detection exists for. A scan of the other 33
+found no second instance.
+
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.

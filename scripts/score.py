@@ -18,7 +18,11 @@ from dataclasses import dataclass, asdict
 from difflib import SequenceMatcher
 from pathlib import Path
 
-_WS = re.compile(r"\s+")
+_ALL_WS = re.compile(r"\s+")
+# Segment boundaries for chunking. Deliberately punctuation, not line breaks: where a
+# tool puts its newlines is a layout choice and must not affect the score, but the
+# comparison still has to run on pieces small enough to be quadratic in.
+_SEGMENT = re.compile(r"(?<=[.;:!?])\s+")
 
 # đ/Đ carry no combining mark, so NFD leaves them untouched; they are still the
 # same base letter as d/D for alignment purposes.
@@ -26,8 +30,8 @@ _DSTROKE = str.maketrans({"đ": "d", "Đ": "D"})
 
 
 def normalise(text: str) -> str:
-    """NFC, whitespace collapsed. METRIC.md §Preprocessing."""
-    return _WS.sub(" ", unicodedata.normalize("NFC", text)).strip()
+    """NFC, all whitespace collapsed to single spaces. METRIC.md §Preprocessing."""
+    return _ALL_WS.sub(" ", unicodedata.normalize("NFC", text)).strip()
 
 
 def base_letters(text: str) -> str:
@@ -53,14 +57,54 @@ class Score:
     diacritic_positions: int
 
 
-def char_accuracy(pred: str, truth: str) -> float:
-    if not truth:
-        return 1.0 if not pred else 0.0
-    matched = sum(b.size for b in SequenceMatcher(None, truth, pred, autojunk=False).get_matching_blocks())
-    return matched / len(truth)
+def _aligned_line_pairs(pred: str, truth: str) -> list[tuple[str, str]]:
+    """Pair up segments, then compare within a pair.
+
+    A single global alignment is O(n²) and does not survive real documents: the largest
+    file in the corpus is 145k characters, which is ~21 billion comparisons and does not
+    finish. Aligning *segments* first is cheap, and the character alignment then runs on
+    pieces small enough to be instant — 0.3s for that file instead of never.
+
+    Segments are split on sentence punctuation rather than on newlines. Splitting on
+    newlines was tried and is wrong: it made line-break placement affect the score, and
+    two tools that agree on every letter but disagree on where paragraphs break would be
+    scored as different.
+    """
+    truth_lines, pred_lines = _SEGMENT.split(truth), _SEGMENT.split(pred)
+    matcher = SequenceMatcher(None, truth_lines, pred_lines, autojunk=False)
+
+    pairs: list[tuple[str, str]] = []
+    for tag, t1, t2, p1, p2 in matcher.get_opcodes():
+        if tag == "equal":
+            pairs += [(pred_lines[p1 + k], truth_lines[t1 + k]) for k in range(t2 - t1)]
+        else:
+            # A changed region: pair line-for-line as far as both sides go, and pair the
+            # remainder against nothing so deletions and insertions still count.
+            changed_t, changed_p = truth_lines[t1:t2], pred_lines[p1:p2]
+            for k in range(max(len(changed_t), len(changed_p))):
+                pairs.append((
+                    changed_p[k] if k < len(changed_p) else "",
+                    changed_t[k] if k < len(changed_t) else "",
+                ))
+    return pairs
 
 
-def diacritic_accuracy(pred: str, truth: str) -> tuple[float | None, int]:
+def char_accuracy(pairs: list[tuple[str, str]], truth_len: int) -> float:
+    if not truth_len:
+        return 1.0 if not any(p for p, _ in pairs) else 0.0
+    matched = 0
+    for p_line, t_line in pairs:
+        if p_line == t_line:  # the common case; no alignment needed
+            matched += len(t_line)
+        else:
+            matched += sum(
+                b.size
+                for b in SequenceMatcher(None, t_line, p_line, autojunk=False).get_matching_blocks()
+            )
+    return matched / truth_len
+
+
+def diacritic_accuracy(pairs: list[tuple[str, str]]) -> tuple[float | None, int]:
     """Fraction of the ground truth's diacritic-bearing characters recovered exactly.
 
     The denominator is **every** diacritic-bearing character in the ground truth, not
@@ -72,44 +116,70 @@ def diacritic_accuracy(pred: str, truth: str) -> tuple[float | None, int]:
     characters carry a diacritic, so a parser that strips every one of them would
     still score above 0.8.
     """
-    pred_base, truth_base = base_letters(pred), base_letters(truth)
-    matcher = SequenceMatcher(None, truth_base, pred_base, autojunk=False)
-
-    aligned_pred_at: dict[int, int] = {}
-    for block in matcher.get_matching_blocks():
-        for offset in range(block.size):
-            aligned_pred_at[block.a + offset] = block.b + offset
-
     total = correct = 0
-    for t_i, t_ch in enumerate(truth):
-        if not is_diacritic_bearing(t_ch):
+    for pred_line, truth_line in pairs:
+        if pred_line == truth_line:
+            n = sum(1 for c in truth_line if is_diacritic_bearing(c))
+            total += n
+            correct += n
             continue
-        total += 1
-        p_i = aligned_pred_at.get(t_i)
-        if p_i is not None and p_i < len(pred) and pred[p_i] == t_ch:
-            correct += 1
+        matcher = SequenceMatcher(
+            None, base_letters(truth_line), base_letters(pred_line), autojunk=False
+        )
+        aligned_at: dict[int, int] = {}
+        for block in matcher.get_matching_blocks():
+            for offset in range(block.size):
+                aligned_at[block.a + offset] = block.b + offset
+
+        for t_i, t_ch in enumerate(truth_line):
+            if not is_diacritic_bearing(t_ch):
+                continue
+            total += 1
+            p_i = aligned_at.get(t_i)
+            if p_i is not None and p_i < len(pred_line) and pred_line[p_i] == t_ch:
+                correct += 1
 
     return (correct / total if total else None), total
 
 
-def syllable_accuracy(pred: str, truth: str) -> float:
-    truth_tokens, pred_tokens = truth.split(), pred.split()
+def syllable_accuracy(pairs: list[tuple[str, str]], truth_tokens: int) -> float:
+    """Whitespace tokens matching exactly, compared within aligned lines.
+
+    Per line for the same reason as the other two: a global token alignment on a
+    170k-character document is ~25,000 tokens, and quadratic on that does not finish.
+    This was the last of the three still doing it globally, and it was the one that
+    hung the full-corpus run.
+    """
     if not truth_tokens:
-        return 1.0 if not pred_tokens else 0.0
-    matched = sum(
-        b.size for b in SequenceMatcher(None, truth_tokens, pred_tokens, autojunk=False).get_matching_blocks()
-    )
-    return matched / len(truth_tokens)
+        return 1.0
+    matched = 0
+    for pred_line, truth_line in pairs:
+        t_tokens = truth_line.split()
+        if not t_tokens:
+            continue
+        if pred_line == truth_line:
+            matched += len(t_tokens)
+            continue
+        matched += sum(
+            b.size
+            for b in SequenceMatcher(
+                None, t_tokens, pred_line.split(), autojunk=False
+            ).get_matching_blocks()
+        )
+    return matched / truth_tokens
 
 
 def score_pair(name: str, pred_raw: str, truth_raw: str) -> Score:
     pred, truth = normalise(pred_raw), normalise(truth_raw)
-    dia, aligned = diacritic_accuracy(pred, truth)
+    # Aligned once and shared: the three metrics each used to recompute it, which
+    # tripled the cost of the most expensive step for no reason.
+    pairs = _aligned_line_pairs(pred, truth)
+    dia, aligned = diacritic_accuracy(pairs)
     return Score(
         document=name,
-        char_accuracy=round(char_accuracy(pred, truth), 6),
+        char_accuracy=round(char_accuracy(pairs, len(truth)), 6),
         diacritic_accuracy=round(dia, 6) if dia is not None else None,
-        syllable_accuracy=round(syllable_accuracy(pred, truth), 6),
+        syllable_accuracy=round(syllable_accuracy(pairs, len(truth.split())), 6),
         truth_chars=len(truth),
         diacritic_positions=aligned,
     )

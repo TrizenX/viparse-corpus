@@ -1,0 +1,204 @@
+Hướng dẫn viết thuyết minh đề tài
+nghiên cứu khoa học và
+ phát triển công nghệ
+
+(Kèm theo Quyết định số 16/2003/QĐ-BKHCN ngày 18/7/2003
+của Bộ trưởng Bộ Khoa học và Công nghệ)
+
+Biểu B1-2-TMĐT  (Thuyết minh đề tài nghiên cứu khoa học và phát triển công nghệ), là một trong các biểu mẫu được ban hành kèm theo Quy định về việc tuyển chọn tổ chức và cá nhân chủ trì thực hiện Đề tài khoa học và công nghệ và các Dự án sản xuất thử nghiệm cấp Nhà nước (Quyết định số  16/2003/QĐ-BKHCN ngày  18/7/2003 của Bộ trưởng Bộ Khoa học và Công nghệ (Bộ KH&CN)), dùng để thuyết minh các đề tài đăng ký tham gia tuyển chọn tổ chức và cá nhân chủ trì đề tài KH&CN cấp Nhà nước.
+
+	Biểu B1-2-TMĐT cũng được sử dụng để thuyết minh các đề tài KH&CN cấp Nhà nước được giao trực tiếp (không qua tuyển chọn).
+
+	Bộ KH&CN khuyến khích sử dụng biểu B1-2-TMĐT để thuyết minh cho các đề tài KH&CN cấp Bộ/Tỉnh-Thành phố và cấp cơ sở.
+
+	Sau khi được cấp quản lý đề tài phê duyệt, Thuyết minh đề tài nghiên cứu khoa học và phát triển công nghệ trở thành văn bản pháp lý quan trọng để quản lý đề tài (theo dõi thực hiện, kiểm tra, đánh giá, nghiệm thu) trong quá trình thực hiện đến khi kết thúc đề tài.
+
+	Để các tổ chức và cá nhân hiểu thống nhất khi lập Hồ sơ đăng ký thực hiện đề tài (và để các thành viên Hội đồng KH&CN tư vấn tuyển chọn tổ chức và cá nhân chủ trì đề tài hoặc Hội đồng KH&CN tư vấn xét duyệt thuyết minh đề tài hiểu thống nhất khi đánh giá - chấm điểm), dưới đây Bộ KH&CN hướng dẫn ghi các thông tin chi tiết vào biểu B1-2-TMĐT.
+
+I. Thông tin chung về đề tài
+1. Tên đề tài:
+Tên đề tài nên viết ngắn gọn nhưng nêu được vấn đề cơ bản cần giải quyết.
+Không ghi tên đề tài quá dài và chứa đựng quá nhiều mục tiêu.
+Nên bắt đầu tên đề tài bằng danh động từ. Ví dụ, nghiên cứu, triển khai, chế tạo, xây dựng, soạn thảo, biên soạn, v.v... (dài khoảng 2-3 dòng), và tránh giải trình dài trong mục này về mục tiêu nghiên cứu, như để phục vụ xuất khẩu, góp phần hiện đại hoá, nâng cao mức sống nhân dân, v.v... (phần giải trình chi tiết sẽ được trình bày trong các mục 9-12 của biểu B1-2-TMĐT này).
+Trường hợp đề tài thực hiện theo phương thức tuyển chọn: ghi tên đề tài đã công bố của cấp quản lý đề tài.
+2. Mã số:
+Ghi mã số do cơ quan quản lý cấp tương ứng (Nhà nước, Bộ/Ngành, Tỉnh/Thành phố, cơ sở) cấp.
+Ví dụ, đề tài thứ hai thuộc Chương trình KH&CN trọng điểm cấp Nhà nước giai đoạn 5 năm 2001 - 2005 “Nghiên cứu Khoa học và phát triển Công nghệ Vật liệu mới” KC.02  có mã số là KC.02.02.
+Nếu là đề tài độc lập cấp Nhà nước, ghi theo thông báo của Bộ KH&CN.
+3. Thời gian thực hiện,     .. tháng.
+Ghi số tháng thực hiện đề tài, thông thường 18-24 tháng.
+(Từ tháng ..../200..  đến tháng ..../200.. )
+4. Cấp quản lý:
+Đánh dấu vào một trong 3 ô trống thể hiện cấp quản lý đề tài: NN: Bộ, Tỉnh; CS (Nhà nước, Bộ/Ngành hoặc Tỉnh/Thành phố; Cơ sở)
+5. Kinh phí
+Tổng số: Ghi tổng kinh phí thực hiện đề tài, bao gồm các nguồn: NS SNKH, nguồn vốn  khác (vốn tự có, vốn huy động, v.v...)
+Trong đó, từ Ngân sách SNKH: . . . triệu đồng. Đây là phần kinh phí đề nghị cấp (hoặc đã được duyệt) cho nghiên cứu đề tài từ Ngân sách SNKH.
+6. Thuộc Chương trình (nếu có):
+Chỉ ghi tên và mã số của Chương trình mà đề tài thuộc Chương trình đó do cấp quản lý tương ứng quyết định (các Chương trình KH&CN trọng điểm cấp Nhà nước giai đoạn 5 năm 2001-2005 đã được thủ tướng Chính phủ quyết định tại Quyết định số 82/2001/QĐ-TTg ngày 24/5/2001).
+7. Chủ nhiệm đề tài:
+Họ và tên: Ghi đầy đủ họ và tên Chủ nhiệm đề tài, viết hoa.
+Học hàm/học vị: Ghi học hàm là giáo sư, phó giáo sư và học vị: tiến sĩ khoa học; tiến sĩ; thạc sĩ; kỹ sư hoặc cử nhân, bác sĩ, luật sư, v.v...
+Chức danh khoa học: Ghi chức danh theo quy định như nghiên cứu viên cao cấp, nghiên cứu viên chính,... (nếu có).
+Điện thoại, E-mail, địa chỉ: Ghi đầy đủ điện thoại, địa chỉ thư tín điện tử, địa chỉ cơ quan và nhà riêng (để tiện sử dụng trong việc liên lạc, trao đổi thông tin khi cần thiết).
+8. Cơ quan chủ trì đề tài:
+Ghi tên đầy đủ của tổ chức thực hiện chính đề tài và cơ quan chủ quản của tổ chức đó.
+Ví dụ 1: Viện Công nghệ, Bộ Công nghiệp (Viện Công nghệ là cơ quan chủ trì đề tài, Bộ Công nghiệp là cơ quan chủ quản của Viện Công nghệ).
+Ví dụ 2: Trường Đại học Bách khoa Hà Nội, Bộ Giáo dục và Đào tạo.
+Ví dụ 3: Công ty Điện tử Hà Nội, UBND Thành phố Hà Nội.
+II.  Nội dung KH&CN của đề tài
+9. Mục tiêu của đề tài:
+Ghi mục tiêu tổng quát cần đạt ở mức độ cụ thể hơn tên đề tài và mục tiêu chi tiết nhưng không diễn giải quá cụ thể thay cho nội dung cần thực hiện của đề tài (nội dung sẽ được trình bày tại mục 12 của biểu này).
+10. Tình hình nghiên cứu trong và ngoài nước:
+Tình trạng đề tài: Ghi tình trạng đề tài hiện nay đang ở giai đoạn nào. Đánh dấu (x) vào 1 trong 2 ô trống- chú ý không đánh dấu vào cả 2 ô trống cùng 1 lúc.
+ FORMCHECKBOX  Mới
+ FORMCHECKBOX  Kế tiếp đề tài đã kết thúc giai đoạn trước (việc tiếp tục đề tài theo hướng nghiên cứu đã chọn để đưa ra những kết quả cụ thể hơn là cần thiết).
+Tổng quan tình hình nghiên cứu thuộc lĩnh vực của đề tài: Đây là phần rất quan trọng của công trình nghiên cứu, thể hiện sự hiểu biết cần thiết của tổ chức, cá nhân đăng ký chủ trì đề tài về lĩnh vực nghiên cứu, là tiền đề để giải quyết thành công đề tài cần nghiên cứu.
+Tổng quan phải thể hiện việc tổ chức, cá nhân đăng ký chủ trì đề tài nắm được những công trình nghiên cứu đã có liên quan đến đề tài, những kết quả nghiên cứu mới nhất trong lĩnh vực nghiên cứu đề tài (nghĩa là, tác giả phải thu thập được những thông tin chủ yếu trong và ngoài nước liên quan đến đề tài, phải tra cứu tư liệu sáng chế (tại Cục SHCN, ...), tra cứu thông tin tại các trung tâm thông tin tư liệu KH&CN hoặc trên mạng Internet; nắm được khá cụ thể tình hình triển khai vấn đề nghiên cứu này ở trong và ngoài nước, ... )
+Ví dụ, đối với các đề tài thuộc lĩnh vực khoa học kỹ thuật có thể giới thiệu và đánh giá những nội dung tài liệu tham khảo mới: bằng sáng chế độc quyền (patent), các bài báo trong tạp chí chuyên ngành và sách chuyên khảo; xu hướng phát triển hiện nay và những yêu cầu khoa học đối với phương pháp, quy trình kỹ thuật/công nghệ, hoặc chỉ tiêu kinh tế-kỹ thuật đạt được của sản phẩm KHCN liên quan đến kết quả nghiên cứu hoặc đề tài, dự án đang tiến hành của tổ chức khoa học công nghệ, của cơ sơ sản xuất hoặc doanh nghiệp cụ thể (chú ý: tài liệu tham khảo càng mới, càng có giá trị học thuật và thực tiễn cao, càng được đánh giá cao);
+Nói cách khác, phải ghi rõ đã có tổ chức khoa học công nghệ hoặc doanh nghiệp nào đã tiến hành nghiên cứu đề tài tương tự này chưa, nếu có thì bằng phương pháp, công nghệ nào và kết quả nghiên cứu đã được đánh giá định lượng hoặc định tính như thế nào? rút ra kết luận cần thiết để trả lời câu hỏi về nhu cầu và tính bức xúc đối với đề tài nghiên cứu.
+ Những gợi ý trên đây nên trình bày tương tự như nhau cho 2 mục tổng quan tình hình nghiên cứu ngoài nước và trong nước (tổng số trang của mục 10 này nên dài khoảng 4-5 trang).
+Liệt kê danh mục các công trình nghiên cứu có liên quan: Ghi tên đầy đủ tài liệu (bài báo, ấn phẩm, ... ) đã tham khảo theo thứ tự: Họ tên tác giả/Nhan đề bài báo/Các yếu tố về xuất bản. Ví dụ, Phạm Minh Long. Đánh giá khoa học và công nghệ và thực tế triển khai tại Việt Nam. Tạp chí Cơ khí, 2000, số 3, tr.13.
+	Chú ý, chỉ ghi những tài liệu (có thể của các tác giả khác trong và ngoài nước và/hoặc của bản thân tác giả) liên quan đến đề tài nghiên cứu, tránh ghi các tài liệu không liên quan đến nội dung nghiên cứu của đề tài.
+	Trường hợp có quá nhiều tài liệu liên quan, chỉ nêu những công trình chính mà tác giả tâm đắc nhất.
+11. Cách tiếp cận, phương pháp nghiên cứu, kỹ thuật sẽ sử dụng:
+- Luận cứ cho việc lựa chọn đối tượng nghiên cứu, cách tiếp cận và thiết kế nghiên cứu;
+- Trình bày phương pháp nghiên cứu và kỹ thuật sẽ sử dụng;
+- Lập luận về tính mới, tính sáng tạo và những nét độc đáo của đề tài.
+Thiết kế nghiên cứu có thể hiểu là hình dung khái quát - tổng thể về đề tài (như thiết kế tổng thể một ngôi nhà vậy): đề tài sẽ đạt được những kết quả gì, đề tài sẽ phát triển tiếp như thế nào; đề tài sẽ trải qua những công đoạn nào để đi đến kết quả cuối cùng, ...
+Sau khi lập luận về thiết kế nghiên cứu, lựa chọn đối tượng nghiên cứu, phải  nêu cách tiếp cận để đạt mục tiêu và kết quả của đề tài. Ví dụ, đối với một số đề tài nghiên cứu công nghệ ở giai đoạn hiện nay, cách tiếp cận có thể là căn cứ kết quả nghiên cứu tổng quan các tài liệu và công trình đã có (đã nêu tại mục 10 trên đây) luận giải rõ việc chọn công nghệ tiên tiến phù hợp của nước ngoài và nắm vững công nghệ đó triển khai vào điều kiện Việt Nam để tạo ra sản phẩm phục vụ thiết thực cho sản xuất và đời sống (không chỉ dừng lại tổng quan về nguyên lý chế tạo, mà bắt chước được công nghệ để tạo ra công nghệ và sản phẩm cho Việt Nam).
+Sau đó phân tích những phương pháp, giải pháp hoặc nguyên lý kỹ thuật/công nghệ hiện đang sử dụng đối với đối tượng nghiên cứu, đánh giá sự khác biệt, nêu rõ những tồn tại, hạn chế và rút ra phương cách riêng của mình để đạt mục tiêu đặt ra của đề tài.
+Nêu điểm giống và khác biệt so với những người đi trước (so sánh với các phương thức giải quyết tương tự khác của các tác giả trong và ngoài nước) để nêu được tính mới, tính độc đáo, tính sáng tạo của đề tài trong cách tiếp cận và kỹ thuật sẽ sử dụng.
+12. Nội dung nghiên cứu:
+Nội dung nghiên cứu phải dẫn xuất từ nghiên cứu tổng quan (mục 10) và cách tiếp cận, phương pháp nghiên cứu (mục 11), đồng thời là cơ sở cho việc xây dựng tiến độ thực hiện (mục 14) và kinh phí thực hiện đề tài (mục 23).
+Phải nêu được những nội dung, giải pháp cụ thể cần thực hiện để đạt mục tiêu đề ra.
+So sánh với các nội dung, giải pháp đã giải quyết của các tác giả trong và ngoài nước để nêu được tính mới, tính độc đáo, tính sáng tạo của đề tài về nội dung nghiên cứu.
+13. Hợp tác quốc tế:
+
+Tên đối tác
+Nội dung hợp tác
+
+Đã hợp tác
+
+Ghi tên đầy đủ của tổ chức KHCN hoặc doanh nghiệp nước ngoài đã có quan hệ hợp tác.
+
+Chỉ ghi những quan hệ hợp tác chặt chẽ  (dưới các hình thức trao đổi chuyên gia, cùng hợp tác nghiên cứu, định kỳ thăm viếng nhau hoặc có quan hệ thư tín thường xuyên - trao đổi e-mail, thư từ, tài liệu, tạp chí hoặc những thông tin khác) đang tồn tại trong thời gian 2-3 năm gần đây - không ghi những mối quan hệ đã bị gián đoạn, hoặc chỉ ngẫu nhiên gặp nhau 1 lần trong đợt khảo sát nào đó mà không ký kết được biên bản để triển khai hợp tác tiếp theo.
+Ghi rõ nội dung đã hợp tác liên quan đến đề tài nghiên cứu
+
+Dự kiến hợp tác
+
+Ghi tên đầy đủ của tổ chức KHCN hoặc doanh nghiệp nước ngoài dự kiến hợp tác/hoặc đã có kế hoạch hợp tác.
+
+Không ghi chung chung tên nước mong muốn hợp tác.
+Ghi một/hoặc một vài nội dung sẽ tiến hành hợp tác (trong những nội dung đã nêu trong mục 12 của Thuyết minh đề tài).
+
+14. Tiến độ thực hiện:
+Tiến độ thực hiện được xây dựng căn cứ vào nội dung nghiên cứu (đã nêu tại mục 12). ở đây, chỉ nêu các nội dung, công việc thực hiện chủ yếu - những mốc đánh giá chủ yếu (nêu tên công việc,  các sản phẩm và kết quả trung gian cụ thể tương ứng được tạo ra có thể chứng minh và đánh giá được, chỉ rõ thời điểm tạo ra).
+Thông thường, trình tự nghiên cứu của đề tài nghiên cứu công nghệ bao gồm: nghiên cứu lý thuyết (trong đó có nghiên cứu tổng quan các kết quả nghiêncứu và tài liệu liên quan), xây dựng quy trình công nghệ hoặc xây dựng phương pháp, tiến hành thí nghiệm và thử nghiệm trong Labo hoặc tại hiện trường hoặc áp dụng thử, chế thử và chế tạo loạt đầu tạo ra sản phẩm mới hoặc vật liệu mới, tổng kết đánh giá kết quả đạt được và hoàn thiện phương pháp hoặc quy trình công nghệ, sản phẩm tạo ra.
+Tiến độ thực hiện của đề tài nghiên cứu công nghệ có thể gồm:
+
+TT
+Các nội dung, công việc
+thực hiện chủ yếu
+(Các mốc đánh giá chủ yếu)
+Sản phẩm
+phải đạt
+Thời gian
+(BĐ-KT)
+Người, cơ quan thực hiện
+
+1
+2
+3
+4
+5
+
+1
+Xây dựng Thuyết minh chi tiết của đề tài
+Bản Thuyết minh chi tiết của đề tài
+
+2
+Thu thập tài liệu, phân tích, đánh giá và xây dựng báo cáo tổng quan về hiện trạng của đề tài nghiên cứu
+
+Báo cáo tổng quan về hiện trạng của đề tài nghiên cứu
+
+3
+Phần nghiên cứu lý thuyết (Nghiên cứu lý thuyết hoặc lý luận về từng nội dung cụ thể của đề tài)
+- ...
+
+- Báo cáo về ...
+
+ - Báo cáo về ...
+
+4
+Phần nghiên cứu thực nghiệm:
+- Thiết kế sản phẩm
+- Xây dựng quy trình công nghệ hoặc phương pháp...
+(những công việc chuẩn bị thí nghiệm , như mua sắm nguyên vật liệu, vật tư, sửa chữa hoặc mua mới thiết bị, tuy rất quan trọng trong thực tế, nhưng không nên coi là những mốc đánh giá chủ yếu - trừ trường hợp rất đặc biệt).
+
+- Bản thiết kế sản phẩm
+- Quy trình công nghệ/hoặc phương pháp ...
+
+5
+Chế thử sản phẩm (có thể ghi cụ thể cho từng sản phẩm trung gian và sản phẩm cuối cùng của đề tài)
+- Chế thử  01 thiết bị A
+
+01 thiết bị A
+
+6
+Kiểm tra, thử nghiệm đánh giá kết quả (đo đạc, kiểm định trong phòng thí nghiệm hoặc ngoài hiện trường, nêu phương pháp/cách thức đánh giá các kết quả tạo ra)
+
+7
+Viết báo cáo tổng kết khoa học và kỹ thuật của đề tài (theo Biểu mẫu C-BC-02-TKKHKT)
+
+Cột  Thời gian BĐ-KT (cột 4) ghi thời gian bắt đầu và kết thúc từng công việc tương ứng (tháng/năm đến tháng/năm).
+Cột kế tiếp (cột 5) ghi người và cơ quan thực hiện chính phần công việc tương ứng.
+
+III. Kết quả của đề tài
+15. Dạng kết quả dự kiến của đề tài:
+Dạng kết quả loại I dùng cho đề tài nghiên cứu công nghệ (chủ yếu thuộc lĩnh vực khoa học kỹ thuật, khoa học nông nghiệp, khoa học y dược, v.v...) tạo ra những sản phẩm có các chỉ tiêu định lượng có thể đo đếm được.
+Dạng kết quả loại II, III dùng cho đề tài nghiên cứu cơ bản và lý thuyết  (chủ yếu thuộc lĩnh vực khoa học tự nhiên và khoa học xã hội) với những sản phẩm mang tính chất định tính hoặc chủ yếu là định tính, khó xác định được bằng chỉ tiêu định lượng cụ thể.
+Chỉ đánh dấu vào dòng tương ứng với kết quả tạo ra đặc trưng cho tính chất của đề tài nghiên cứu. Ví dụ, đề tài nghiên cứu công nghệ - sản phẩm mới, thường có dạng kết quả: quy trình công nghệ, sản phẩm mới, vật liệu mới, thiết bị mới, phương pháp mới, v.v...; đề tài khoa học xã hội, thường có dạng kết quả: phương pháp luận, mô hình, bảng số liệu, bản quy hoạch, bản sơ đồ, v.v...
+Cần lưu ý là ghi bao nhiêu sản phẩm tạo ra tại mục 15 này thì tương ứng phải có bấy nhiêu dòng khai báo về yêu cầu khoa học hoặc chỉ tiêu chất lượng đối với những sản phẩm đó tại mục 16 và 17 tiếp theo.
+16. Yêu cầu khoa học đối với sản phẩm tạo ra (dạng kết quả II+III):
+Mục này dành cho sản phẩm tạo ra chủ yếu mang tính định tính, thích hợp với dạng sản phẩm khoa học và kỹ thuật dưới dạng quy trình công nghệ, phương pháp, tiêu chuẩn, quy phạm, luận chứng khả thi, phần mềm, v.v... và cho sản phẩm của đề tài khoa học xã hội hoặc quản lý như đề án, quy hoạch, quy định, bảng số liệu, phương án, v.v...
+Tên sản phẩm: Ghi rõ tên sản phẩm tương ứng với việc đã kê khai tại mục 15 (dạng kết quả II+III)
+Yêu cầu khoa học: Nêu một số yêu cầu định tính và có thể định lượng. Ví dụ, đối với quy trình công nghệ, đó là công suất, tốc độ, sản lượng tạo ra, trình độ tự động hoá, chủng loại sản phẩm.
+ở cột Chú thích tương ứng, nếu là tên sản phẩm thì phải ghi số lượng sản phẩm tạo ra; nếu là chỉ tiêu chất lượng thì phải ghi tên nguồn tài liệu có chứa các chỉ tiêu chất lượng đó (như tên tiêu chuẩn sản phẩm đã trình bày trong đoạn trên).
+17. Yêu cầu kỹ thuật, chỉ tiêu chất lượng đối với sản phẩm tạo ra (dạng kết quả I):
+Tên sản phẩm và chỉ tiêu chất lượng chủ yếu: Ghi đúng như tên sản phẩm dạng kết quả I đã khai báo tại  mục 15 và các chỉ tiêu chất lượng của sản phẩm đó kèm theo ký hiệu chỉ tiêu đã quy định như (, (, (, (, (, v.v... (thông thường phải tham khảo các tiêu chuẩn về sản phẩm như TCVN, ISO, ASTM, DIN, JIS, BS, GOST, GB, v.v... mới có được các chỉ tiêu hoặc thông số kỹ thuật nói trên. Nếu như không có tiêu chuẩn phù hợp thì có thể tham khảo yêu cầu kỹ thuật trong đơn chào hàng của các hãng sản xuất các sản phẩm cùng loại, v.v.. Ngoài ra, cần tham khảo tiêu chuẩn thử nghiệm đối với các chỉ tiêu sản phẩm nói trên).
+Đơn vị  đo: Ghi đơn vị đo lường tương ứng đối với từng chỉ tiêu chất lượng, ví dụ: kg, m, mm, %, N/mm2, v.v...
+Số lượng sản phẩm tạo ra: ghi số lượng là tấn (t) hoặc ki lô gam (Kg), mét (m), hoặc đơn vị đo tương ứng khác như cái (chiếc),...
+Mức chất lượng dự kiến và cần đạt: Ghi mức chất lượng như đã giải thích ở mục trên. Đây là mục tiêu phấn đấu, thông thường phải cao hơn chỉ tiêu của mẫu tương tự hiện có trong nước và nhỏ hơn hoặc bằng chỉ tiêu của mẫu tương tự tiên tiến của thế giới. Ghi theo cột: Mẫu tương tự trong nước hoặc thế giới
+18. Phương thức chuyển giao kết quả nghiên cứu:
+Ghi dự kiến đánh giá kết quả nghiên cứu đạt được về tính ổn định và lặp lại của các chỉ tiêu chất lượng để có thể đánh giá khả năng thương mại hoá sản phẩm (chuyển giao hoặc bán cho khách hàng).
+Ghi rõ tên và địa chỉ của khách hàng (nếu có thể) để thể hiện tính hiện thực của việc kết quả nghiên cứu sẽ được chấp nhận.
+Ghi phương thức chuyển giao như bán sản phẩm tạo ra trọn gói, chuyển giao công nghệ có đào tạo, chuyển giao theo hình thức trả dần theo tỷ lệ % của doanh thu, hoặc góp vốn (với đơn vị phối hợp nghiên cứu hoặc với cơ sở sẽ áp dụng kết quả nghiên cứu) theo tỷ lệ đã thoả thuận để cùng triển khai sản xuất,...
+19. Các tác động của kết quả nghiên cứu (ngoài tác động đã nêu tại mục 18 trên đây):
+Bồi dưỡng, đào tạo cán bộ KH&CN: Ghi số lượng tiến sĩ, thạc sĩ, kỹ sư dự kiến đào tạo; dự kiến số lượng cán bộ được nâng cao trình độ chuyên môn trong quá trình thực hiện đề tài. (Nếu chỉ tham gia giúp đỡ đơn vị khác thực hiện nhiệm vụ này thì ghi rõ là chỉ tham gia phối hợp).
+Đối với lĩnh vực khoa học có liên quan: Ghi những đóng góp vào các thành tựu nổi bật trong khoa học quốc tế, đóng góp vào tiêu chuẩn quốc tế; triển vọng phát triển theo hướng nghiên cứu của đề tài; ảnh hưởng của những sáng tạo về lý luận đến phát triển ngành khoa học, đến sáng tạo trường phái khoa học mới; ...
+Đối với kinh tế và xã hội:
+Tiềm năng và tác động thực tiễn của đề tài đối với sự phát triển kinh tế xã hội: những luận cứ khoa học của đề tài có khả năng ảnh hưởng đến chủ trương chính sách, cơ chế quản lý cụ thể của đảng và Nhà nước; có khả năng nâng cao tiêu chuẩn văn hoá của xã hội; ảnh hưởng tốt đến môi trường; có khả năng ảnh hưởng tốt đến sự nghiệp chăm sóc sức khoẻ cộng đồng,...
+Đề tài tạo ra sản phẩm hàng hoá đáp ứng nhu cầu thị trường, góp phần tạo công ăn việc làm, nâng cao hiệu quả sản xuất, ...
+IV. Các tổ chức/cá nhân tham gia thực hiện đề tài
+20. Hoạt động của các tổ chức phối hợp tham gia thực hiện đề tài (Ghi tất cả các tổ chức phối hợp thực hiện đề tài và phần nội dung công việc tham  gia trong đề tài):
+Ghi rõ tên và địa chỉ của tổ chức phối hợp và dự kiến phân công thực hiện những nội dung cụ thể trong đề tài đã được bàn bạc và thoả thuận với nhau từ khi xây dựng Thuyết minh nghiên cứu để thể hiện được những hoạt động/đóng góp cho đề tài của từng tổ chức.
+(Những dự kiến phân công này sẽ được thể hiện bằng các hợp đồng thực hiện giữa chủ nhiệm đề tài và cơ quan chủ trì đề tài với các đơn vị, tổ chức nói trên - khi được giao nhiệm vụ chính thức hoặc sau khi trúng tuyển).
+21. Liên kết với sản xuất và đời sống
+Ghi rõ đơn vị sản xuất hoặc những người sử dụng kết quả nghiên cứu tham gia vào quá trình thực hiện và nêu rõ nội dung công việc thực hiện trong đề tài:
+Ghi rõ tên, địa chỉ của các đơn vị và những công việc dự kiến thực hiện của họ (tương tự như hướng dẫn ghi mục 20).
+
+22. Đội ngũ cán bộ thực hiện đề tài
+Về những người tham gia thực hiện đề tài: Ghi họ và tên, chức vụ, học vị, chức danh, đơn vị công tác của một số cán bộ chủ chốt - thực hiện chính đề tài (thường là những người có trình độ kỹ sư trở lên, thông thường 5-7 người, nhiều nhất cũng không quá 10 - là những người tham gia đóng góp trí tuệ cho đề tài, tối thiểu phải đóng góp khoảng 10% khối lượng công việc sáng tạo của đề tài).
+Về số tháng làm việc cho đề tài: Ngoài một số ít cán bộ khoa học công nghệ có trình độ được phân công chủ yếu thực hiện đề tài (dành 2/3 tổng thời gian hoặc 100% thời gian cho nghiên cứu đề tài), số cán bộ tham gia thông thường chỉ nên ghi dưới 12 tháng làm việc cho đề tài là hợp lý (mỗi cán bộ khoa học chủ chốt thường bận rất nhiều công việc, do đó chỉ có thể  dành tối đa  50% tổng thời gian vật chất của bản thân mỗi người cho việc nghiên cứu đề tài). Thông thường một đề tài có thời gian thực hiện khoảng 24 tháng.
+V. Kinh phí thực hiện đề tài và nguồn kinh phí
+23. Kinh phí thực hiện đề tài phân theo các khoản chi
+Mục 23 này được tổng hợp từ dự toán kinh phí chi tiết của đề tài (được giải trình tại Phụ lục dự toán kinh phí đề tài kèm theo bản Thuyết minh). Cụ thể là:
+Sau khi đã giải trình chi tiết các nội dung theo 5 khoản chi (Thuê khoán chuyên môn, Nguyên vật liệu, năng lượng, Thiết bị, máy móc, Xây dựng, sửa chữa nhỏ và Chi khác) và theo các nguồn vốn (NSNN, tự có, khác) tại Phụ lục về dự toán kinh phí đề tài,  dự toán kinh phí đề tài được tổng hợp vào mục 23:
+Kinh phí thực hiện đề tài theo cột dọc: theo các nguồn vốn (NSNN, tự có, khác).
+Theo hàng ngang: kinh phí thực hiện từ các nguồn tương ứng được phân thành 5 khoản chi (Thuê khoán chuyên môn, Nguyên vật liệu, năng lượng, Thiết bị, máy móc, Xây dựng, sửa chữa nhỏ và Chi khác).
+
+Việc huy động vốn từ các nguồn khác cho việc thực hiện đề tài chỉ có giá trị khi được chứng minh bằng văn bản gửi kèm theo Hồ sơ đăng ký tuyển chọn.
+
+PAGE
+
+PAGE  10

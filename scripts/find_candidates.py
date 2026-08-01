@@ -146,23 +146,59 @@ def text_is_legacy(data: bytes) -> bool | None:
     return legacy_hits > unicode_hits
 
 
+# VNI keeps the ASCII vowel and appends a tone character (``laäp`` → lập); TCVN3
+# replaces the vowel outright with a single high byte (``lËp`` → lập). So the share of
+# high bytes that sit immediately after an ASCII vowel separates them: measured across
+# the corpus, TCVN3 documents land at 0.14–0.18 and VNI at 0.56.
+_VOWELS = set("aeiouyAEIOUY")
+_VNI_THRESHOLD = 0.35
+
+
+def text_family(text: str) -> str | None:
+    """Which legacy encoding the *text* is in, or None when there is too little to tell."""
+    high = after_vowel = 0
+    for i, ch in enumerate(text):
+        if 0xA0 < ord(ch) < 0x100:
+            high += 1
+            if i and text[i - 1] in _VOWELS:
+                after_vowel += 1
+    if high < 50:
+        return None
+    return "vni" if after_vowel / high > _VNI_THRESHOLD else "tcvn3"
+
+
 def classify(fonts: set[str], data: bytes | None = None) -> str | None:
     """Legacy encoding name, or None.
 
-    `fonts` says which legacy encoding the document was authored in; `data`, when
-    given, says whether the text is still in it.
+    The font table narrows the candidates and the text decides. Font alone is not
+    enough twice over: a declaration survives conversion to Unicode, and a document
+    that declares *both* ``.VnTime`` and ``VNI-Times`` — many do — would otherwise be
+    classified by whichever name a set iteration happened to yield first. Two documents
+    were filed as VNI that way and are TCVN3.
     """
-    family = None
-    for font in fonts:
-        key = font[:3].lower()
-        if key in ENCODING_OF:
-            family = ENCODING_OF[key]
-            break
-    if family is None:
+    families = {ENCODING_OF[f[:3].lower()] for f in fonts if f[:3].lower() in ENCODING_OF}
+    if not families:
         return None
-    if data is not None and text_is_legacy(data) is not True:
+    if data is None:
+        return sorted(families)[0]
+
+    import tempfile
+
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".doc") as tmp:
+            tmp.write(data)
+            tmp.flush()
+            text = extract(tmp.name)
+    except Exception:
         return None
-    return family
+
+    if text_is_legacy(data) is not True:
+        return None
+    from_text = text_family(text)
+    if from_text is None:
+        return None
+    # Trust the text over the font table; the declaration can be a leftover.
+    return from_text
 
 
 def main() -> int:
