@@ -54,6 +54,16 @@ and the redaction is noted.
 If a document cannot be redacted without destroying the encoding artefacts it was
 collected for, it does not go in the public corpus.
 
+Redacting the transcript alone is not redaction: the source `.doc` still carries the
+data, and editing an OLE2 binary in place would corrupt the very artefacts the file was
+collected for. So a document with personal identifiers is **excluded**, not cleaned.
+
+Applied once, before the corpus was made public: `2006-1A79E_Phuluc_TT03-DKKD`, a
+worked example inside a business-registration circular, carried a name, a birth date,
+a national ID number, an address and an email. It was probably an invented company —
+the registration number reads `0102000001` — but that could not be confirmed, and
+publishing is not reversible.
+
 ## Files
 
 | file | source | retrieved | publisher | basis | encoding | status | notes |
@@ -69,7 +79,6 @@ collected for, it does not go in the public corpus.
 | `2004-1113C_Michele_Debonneuil-_Phattrien_congnghe.doc` | http://www.mpi.gov.vn:80/bangbieu/1113C_Michele_Debonneuil-_Phattrien_congnghe.doc | 2004-04-19 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
 | `2004-13D56_Le_Quang_Thung-phatbieu.doc` | http://www.mpi.gov.vn:80/bangbieu/13D56_Le_Quang_Thung-phatbieu.doc | 2004-04-19 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
 | `2004-19Z9A_Luat_hop_tac_xasuadoi.doc` | http://www.mpi.gov.vn:80/bangbieu/19Z9A_Luat_hop_tac_xasuadoi.doc | 2004-01-06 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
-| `2006-1A79E_Phuluc_TT03-DKKD.doc` | http://www.mpi.gov.vn:80/Bangbieu/1A79E_Phuluc_TT03-DKKD.doc | 2006-09-02 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
 | `2005-1DCA4_3b.doc` | http://www.mpi.gov.vn:80/bangbieu/1DCA4_3b.doc | 2005-05-01 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
 | `2004-1E849_Tran_Du_Lich.doc` | http://www.mpi.gov.vn:80/bangbieu/1E849_Tran_Du_Lich.doc | 2004-04-19 | mpi | public-domain-law | tcvn3 | ready | transcript from scripts/tcvn3.py, read through; heading case in all-lowercase-ASCII lines unverified |
 | `2004-1ED4D_Francois_Godement-Thoikyquado.doc` | http://www.mpi.gov.vn:80/bangbieu/1ED4D_Francois_Godement-Thoikyquado.doc | 2004-04-19 | mpi | public-domain-law | tcvn3 | pending-transcript | mixed Vietnamese/French; whole-document TCVN3 conversion corrupts the French (Franỗois for François). Needs per-run conversion |

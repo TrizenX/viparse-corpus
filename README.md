@@ -4,8 +4,9 @@ Benchmark corpus and scoring harness for [viparse](https://github.com/TrizenX/vi
 how well does a document loader recover Vietnamese diacritics from files written in
 pre-Unicode encodings?
 
-**Status: scaffolding.** The metric and the harness exist and are tested; the corpus
-is empty. Numbers land with viparse v0.2.
+**33 documents, 32 transcribed.** 32 TCVN3 and 1 VNI, collected from Vietnamese
+government sites via the Internet Archive, every one confirmed legacy-encoded and
+carrying a provenance record. First results are in [`RESULTS.md`](RESULTS.md).
 
 ## Why this is a separate repo
 

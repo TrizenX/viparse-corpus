@@ -4,12 +4,12 @@
   "subset": "public-domain",
   "metric_version": "1",
   "summary": {
-    "n_documents": 33,
+    "n_documents": 32,
     "n_failures": 0,
     "failures": [],
-    "char_accuracy": 0.979929,
-    "diacritic_accuracy": 0.990456,
-    "syllable_accuracy": 0.991004
+    "char_accuracy": 0.979789,
+    "diacritic_accuracy": 0.989785,
+    "syllable_accuracy": 0.990033
   },
   "documents": [
     {
@@ -235,14 +235,6 @@
       "syllable_accuracy": 0.953479,
       "truth_chars": 11746,
       "diacritic_positions": 2406
-    },
-    {
-      "document": "2006-1A79E_Phuluc_TT03-DKKD",
-      "char_accuracy": 0.98066,
-      "diacritic_accuracy": 0.997793,
-      "syllable_accuracy": 0.996039,
-      "truth_chars": 144624,
-      "diacritic_positions": 14049
     },
     {
       "document": "2006-HHamau3-1995",
