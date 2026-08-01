@@ -314,6 +314,67 @@ typed by a person reading the rendered document, produced by no conversion at al
 That is the only thing that breaks the circle, and it is why `corpus.md` insists the
 synthetic subset never supplies a headline number.
 
+## The last two transcripts, and two more bugs they found
+
+`ground-truth/pending/` is empty: 60 of 60 documents are `ready`.
+
+### The mixed-encoding document is 57% VNI, not "a few runs"
+
+`2004-duanLD9820` was recorded here as TCVN3 with some VNI runs. Reading it properly
+gives **1241 VNI lines against 856 TCVN3** — roughly 57% of its diacritic-bearing lines
+are VNI. `scripts/mixed.py` decides per line on two signals: residue after conversion
+(TCVN3's bytes are absent from the VNI table, so TCVN3-as-VNI leaves a great deal
+behind) and invalid vowel clusters (VNI's `Caùc` read as TCVN3 gives `Caúc`, and `aú` is
+not Vietnamese). Three lines change encoding *mid-line* and get a second pass at token
+granularity.
+
+**viparse scores 0.084 on it.** It detects `vni` at 0.95 confidence for the whole
+document — the majority is VNI, so the vote is not wrong — and returns the TCVN3 45%
+untouched: `MôC LôC`, `PHÇN THø NHÊT`. Per-run detection did not engage.
+
+### `ẵ` has a VNI sequence after all
+
+Reading this document turned up `saün coù` (sẵn có) and `Ñaø Naüng` (Đà Nẵng) — two
+different words, one a place name that settles it. **`aü` is ẵ.** It was invisible until
+now because both occurrences sit in the one document nobody could read. Added to
+`scripts/vni.py`; `ẳ` is still unobserved and still not guessed.
+
+### 41% of a document was silently dropped, and it is not the encoding layer
+
+`2004-1ED4D_Francois_Godement` scores **char 0.198** while its visible output reads as
+correct Vietnamese. viparse returns 15,128 characters where the document holds 32,073.
+
+The text is in the file. In the `.docx` LibreOffice produces:
+
+| where the run sits | characters |
+| --- | ---: |
+| `w:r` directly under `w:p` | 14,904 |
+| `w:r` inside `<w:ins>` — a tracked insertion | **10,473** |
+
+`python-docx`'s `paragraph.runs` returns only direct `w:r` children, so every run inside
+a tracked insertion is invisible to it. This is VIP-87's shape exactly — a convenience
+API that silently under-reports — and it was found the same way, by a real document
+rather than a fixture.
+
+The transcript here is right and the score is a real measurement, not a harness fault:
+the inserted text is ordinary body prose that any reader of the document sees.
+
+One French correction was needed, and only one: TCVN3 reads `ç` as `ỗ`, and of the 18
+`ç` in this file exactly one is French (`François`). The other 17 are Vietnamese —
+`chỗ`, `hỗn độn`, `mỗi`, `hỗ trợ`, `nỗ lực`. Editing artifacts in the original are kept,
+including a typist's note reading `(thiếu trang 10, thầy ơi!!!`.
+
+### Corpus after both
+
+| Subset | n | char | diacritic |
+| --- | ---: | ---: | ---: |
+| TCVN3 | 43 | 0.949 | 0.959 |
+| VNI | 4 | 0.984 | **0.998** |
+| mixed TCVN3+VNI | 1 | 0.786 | **0.084** |
+
+TCVN3 falls from 0.987 to 0.959 purely because the Godement document rejoined the set,
+carrying the `w:ins` loss with it. Nothing about TCVN3 conversion changed.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.

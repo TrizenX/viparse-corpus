@@ -1,0 +1,7039 @@
+MỤC LỤC
+
+PHẦN THỨ NHẤT: 	Kế hoạch tổng thể phát triển CNTT tỉnh Lâm Đồng giai đoạn 1998 - 2000
+CHƯƠNG I:   	Đánh giá chung về hệ thống – phân tích hiện trạng ứng dụng CNTT và đánh giá hiệu quả hoạt động hiện hành
+CHƯƠNG II:   	Mục tiêu của kế hoạch tổng thể
+CHƯƠNG III:  	Hệ thống các dự án CNTT trong kế hoạch tổng thể (1998-2000)
+CHƯƠNG IV:  	Biện pháp thực hiện kế hoạch tổng thể
+CHƯƠNG V:   	Tổng hợp kế hoạch kinh phí dự án CNTT Tỉnh Lâm Đồng
+
+PHẦN THỨ HAI: 	Dự án tin học hóa khối các Sở, Ban Ngành và Huyện, Thị, Thành phố của tỉnh Lâm Đồng giai đoạn 1998 - 2000
+PHẦN I :  	 Đánh giá chung về hệ thống - phân tích hiện trạng ứng dụng CNTT và đánh giá hiệu quả hoạt động hiện hành
+PHẦN II:  	Các nội dung phát triển dự án tin học hóa khối các Sở Ban Ngành và các Huyện Thị Thành Phố của tỉnh Lâm Đồng
+PHẦN III: 	Tổng hợp các dự toán kinh phí phân theo các nguồn và theo các nội dung dự án
+
+PHẦN THỨ BA: 	Dự án tin học hóa khối đảng của tỉnh Lâm Đồng giai đoạn 1998 - 2000
+PHẦN 1:   	Cơ sở và luận cứ của dự án CNTT tại tỉnh ủy Lâm Đồng
+PHẦN 2:  	Nội dung ứng dụng và phát triển CNTT tại tỉnh ủy Lâm Đồng
+			CHƯƠNG 1:  	 Các mục tiêu phát triển cntt tại tỉnh ủy Lâm Đồng
+CHƯƠNG 2:   	Phân tích hiện trạng và xây dựng các hệ thông tin tại tỉnh ủy Lâm Đồng
+CHƯƠNG 3:  	Nội dung kỹ thuật của dự án cntt tại tỉnh ủy Lâm Đồng giai đoạn 1998 - 2000
+PHẦN 3: 	Tổng hợp dự toán tổng kinh phí từ các nguồn phân
+theo các nội dung dự án và theo các mục chi của mục lục ngân sách nhà nước
+PHẦN THỨ TƯ: 	Tổng hợp dự toán tổng kinh phí từ các nguồn phân
+theo các nội dung dự án và theo các mục chi của mục lục ngân sách nhà nước của dự án Tin học hóa tỉnh Lâm Đồng giai đoạn 1998-2000 và kế hoạch CNTT năm 1998
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN THỨ NHẤT:
+
+KẾ HOẠCH TỔNG THỂ PHÁT TRIỂN CNTT 
+TỈNH LÂM ĐỒNG GIAI ĐOẠN 1998 - 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHƯƠNG I:
+ĐÁNH GIÁ CHUNG VỀ HỆ THỐNG – PHÂN TÍCH HIỆN TRẠNG ỨNG DỤNG CNTT VÀ ĐÁNH GIÁ HIỆU QUẢ 
+HOẠT ĐỘNG HIỆN HÀNH
+
+I. PHÂN TÍCH,  ĐÁNH GIÁ CHUNG:
+	Hiện nay, trong điều kiện mở rộng sự phát triển công nghệ thông tin (CNTT) trên toàn quốc, Lâm Đồng mặc dù là một tỉnh miền núi cũng đã có những hoạt động tương đối tốt trên lĩnh vực này. Việc ứng dụng tin học trong các cơ quan Nhà nước bước đầu đã được sớm hình thành và phát triển theo ngành dọc ở các ngành Bưu điện, Ngân hàng, Điện lực.
+	Từ năm 1992 một số các Sở, Ban, Ngành khác cũng đã trang bị máy vi tính và triển khai ứng dụng những phần mềm đơn giản phục vụ các khâu cơ bản trong quản lý nội bộ (phần mềm về kế toán, quản lý nhân sự) cùng với các phần mềm đơn giản phục vụ cho công tác chuyên môn tại đơn vị (Sở Khoa học-Công nghệ & Môi trường, Cục thống kê, Sở Tài chính, Sở Giao thông Vận tải, Sở Kế hoạch – Đầu tư, Ban tổ chức Chính quyền, Cục kiểm lâm, Sở Giáo dục & Đào tạo…). Tuy nhiên tính kỹ thuật và hiệu quả của một số phần mềm đang được ứng dụng hãy còn nhiều hạn chế, cần được phân tích thiết kế theo một chương trình tiện ích và hữu hiệu hơn. 
+	Tại các đơn vị phát triển mạnh trên lĩnh vực ứng dụng tin học như Bưu điện, Điện lực, Ngân hàng Nhà nước, Kho bạc Nhà nước, Cục thống kê đã có nhiều phát triển trên lĩnh vực hoạt động CNTT trong chuyên ngành trên các hệ thống mạng Ethernet, LAN, WAN. 
+	Giai đoạn 1996-1997, dự án Tin học hoá hệ thống quản lý Nhà nước của Tỉnh theo chương trình CNTT quốc gia đã được triển thực hiện tại Văn phòng UBND Tỉnh, bước đầu đã tổ chức đào tạo và bồi dưỡng tin học cho hơn 42 người là các chuyên viên và cán bộ, nhân viên hành chính thuộc Văn phòng ủy ban nhân dân tỉnh, Huyện, Thị xã, Thành phố và VP Tỉnh ủy và 1 chuyên viên tin học.  Văn phòng UBND Tỉnh đã và đang tiếp tục trang bị các máy móc thiết bị CNTT, hợp đồng thiết kế và cài đặt để đưa vào ứng dụng các phần mềm quản lý ở các phân hệ chủ yếu ban đầu (Quản lý hồ sơ văn bản; Tổng hợp báo cáo định kỳ; Lưu trữ tra cứu; Quản lý nội bộ; CSDL pháp quy). 
+	Đánh giá hoạt động CNTT của các đơn vị thuộc khu vực sự nghiệp hành chính bao gồm các Sơ, Ban, Ngành trong Tỉnh, qua tổng hợp báo cáo của 20 đơn vị (tháng 7.1977) tổng số máy vi tính được trang bị là 574 máy; trong đó số máy trên 486 là 115 máy (chiếm tỉ lệ 20% so với tổng số máy). Đa số máy được sử dụng trong việc xử lý văn bản, hỗ trợ cho phần kế toán và nhân sự nội bộ. Một số đơn vị đã có các phần mềm chuyên ngành hỗ trợ cho việc quản lý của đơn vị (8 đơn vị). Trong số các Sở, Ban, Ngành hiện nay đã có 7 đơn vị hình thành hệ thống mạng (Ethernet, LAN, WAN) với mức độ khai thác ở các trình độ khác nhau.  
+	Đánh giá về nhân lực CNTT (tính trong đội ngũ CBCNV ở các đơn vị sự nghiệp hành chính khối Sở, Ban, Ngành) hiện nay đạt mức tương đối khá ở trình độ sử dụng đơn giản. Tuy nhiên, số lượng chuyên viên tin học có hiểu biết chuyên sâu cả về kỹ thuật và kinh nghiệm quản lý về mặt Nhà nước còn nhiều hạn chế. Đây là yếu tố then chốt, cần được quan tâm nhằm nâng cao tỉ lệ này cho phù hợp với tiến độ phát triển CNTT trong những năm kế tiếp. ở các đơn vị trọng yếu cần sớm bổ sung và đào tạo thêm các chuyên viên tin học có trình độ. Riêng đối với các đơn vị thuộc các Huyện, Thị trong Tỉnh các kiến thức về CNTT, cơ sở hạ tầng CNTT còn nhiều thiếu kém, cần phải từng bước mở rộng quy mô phát triển CNTT từ  các khâu giản đơn, cơ bản để nâng cao nhận thức về ứng dụng tin học trong công tác quản ly. 
+	Để triển khai các nội dung phát triển CNTT giai đoạn II, Ban chỉ đạo CNTT của Tỉnh đã hướng dẫn một số nội dung cụ thể trong chương trình phát triển CNTT đến năm 2000 để các Sở, Ban, Ngành và các Huyện, Thị xã, Thành phố trong Tỉnh lập kế hoạch CNTT cho các đơn vị và sắp  xếp tổ chức lại hợp lý các khâu quản lý của đơn vị. Mục tiêu của việc xây dựng các kế hoạch nhằm hình thành cơ bản đối với khối cơ quan quản lý Nhà nước một hệ thống cơ sở hạ tầng CNTT, sớm đưa các ứng dụng CNTT vào hệ thống quản lý Nhà nước tại địa phương, bảo đảm hệ thống mạng hoạt động được hiệu quả, góp phần thúc đẩy nhanh sự phát triển tại địa phương trong những năm tiếp đến .
+II. PHÂN TÍCH VÀ ĐÁNH GIÁ HIỆN TRẠNG VỀ TỔ CHỨC:
+	Toàn tỉnh Lâm Đồng hiện nay có 22 Sở, Ban, Ngành có chức năng quản lý nhà nước, 6 đơn vị sự nghiệp và 6 Hội được giao biên chế, cụ thể là:
+* Quản lý Nhà nước có 22 đơn vị gồm: 
+Văn phòng UBND Tỉnh, 
+Sở Khoa học, Công nghệ & Môi trường
+Sở Công nghiệp
+Sở  Kế hoạch & Đầu tư
+Sở Tài chính & Vật giá
+Sở Văn hoá, Thông tin & Thể thao
+Sở Tư pháp
+Sở Y tế
+Sở Giáo dục & Đào tạo
+Sở Lao động, Thương binh  & Xã hội
+Sở Xây dựng
+Sở Địa chính
+Sở Giao thông, Vận tải
+Sở Nông nghiệp & Phát triển Nông thôn
+Sở Du lịch
+Sở Thương mại
+ ủy ban dân số kế hoạch
+Ban tổ chức chính quyền
+Ban tôn giáo
+ủy ban bảo vệ và chăm sóc trẻ em
+Ban dân tộc và miền núi
+Thanh tra Tỉnh
+* Các đơn vị sự nghiệp  gồm 6 đơn vị :
+Chi cục kiểm lâm
+Đài phát thanh truyền hình
+Trung tâm đào tạo, bồi dưỡng tại chức
+Trường đào tạo bồi dưỡng cán bộ
+Nhà thiếu nhi
+Trường Hoa phong lan
+	Ngoài ra, Cục thống kê là đơn vị chuyên môn thuộc ngành dọc nhưng có quan hệ mật thiết về việc tổng hợp tình hình kinh tế-xã hội của địa phương cùng với vp UBND tỉnh, Sở Kế hoạch- Đầu tư cung cấp số liệu kịp thời phục vụ sự chỉ đạo, điều hành của UBND tỉnh.
+* Tổ chức bộ máy cấp Huyện, Thị, Thành phố toàn tỉnh Lâm Đồng hiện nay: 	Có 9 Huyện, 1 Thị xã, 1 Thành phố. Mô hình bộ máy cấp huyện có 10 phòng ban chuyên môn là: VP. UBND huyện, phòng Tài chính-Kế hoạch (gồm tài chính, giá, thương mại và quản lý thị trường), phòng thống kê, phòng Kinh tế (gồm nông , lâm, thủy, xây dựng,công nghiệp và giao thông), phòng Địa chính, Phòng Giáo dục-Đào tạo, phòng Tài chính-Lao động-Thương binh xã hội, Phòng VHTT-TT, phòng Tư pháp và Thanh tra huyện.
+	Riêng thị xã Bảo Lộc và Tp. Đà Lạt  có thêm 3 phòng: phòng Xây dựng và quản lý đô thị (bao gồm cả giao thông), phòng Nông lâm thủy (do tách chức năng nông lâm thủy ra khỏi phòng kinh tế), phòng Thương mại-Du lịch (do tách chức năng Thương mại-Du lịch ra khỏi phòng Tài chính-Kế hoạch).
+	Toàn Tỉnh có 127 xã, phường, thị trấn. ở mỗi đơn vị cơ sở được sắp xếp theo 4 khối công tác: VP. UBND, Ban Kinh tế-Kế hoạch, Ban Văn hóa-xã hội và ban Nội chính.
+III. PHÂN TÍCH VÀ ĐÁNH GIÁ HIỆN TRẠNG VỀ THÔNG TIN 
+	Tỉnh Lâm Đồng, xét  về mặt thông tin quản lý theo hướng dẫn 83/BCD-KHTC là đơn vị hành chánh cấp hai trong hệ thống hành chánh bốn cấp. Do đó tỉnh đang có những mối quan hệ thông tin quản lý như sau:
+	- Mối quan hệ thông tin với cấp trên (Trung ương)
+	-  Mối quan hệ thông tin với cấp dưới trực tiếp về quản lý hành chính (cấp huyện)
+	- Mối quan hệ thông tin với với các Sở quản lý chuyên môn trong tỉnh.
+	Trong các mối quan hệ thông tin  trên, hiện nay vẫn còn đa số sử dụng các phương thức liên lạc cổ điển (báo cáo trên giấy, qua điện thoại…) nên chưa kịp đáp ứng nhu cầu cấp thiết, đầy đủ và đồng bộ thông tin.
+
+
+
+SƠ ĐỒ NGỮ CẢNH HỆ THỐNG QUẢN LÝ NHÀ NƯỚC CỦA TỈNH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SƠ ĐỒ QUAN HỆ THÔNG TIN TỈNH LÂM ĐỒNG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV. PHÂN TÍCH VÀ ĐÁNH GIÁ HIỆN TRẠNG VỀ NHÂN LỰC:
+	Hiện nay nhân lực về CNTT ở  Lâm Đồng bao gồm:
+* Tại các cơ quan quản lý Nhà nước trong Tỉnh:
+	- Đội ngũ cán bộ, CNV chưa được đào tạo đấy đủ về CNTT, trình độ ứng dụng còn rất hạn chế.
+	- Đội ngũ cán bộ Tin học chuyên nghiệp: Còn thiếu nhiều, chỉ có một vài đơn vị đã có kỹ sư Tin học. Thiếu nhân sự phân tích và thiết kế    hệ thống.
+* Tại các cơ quan Trung ương đóng trên địa bàn Lâm Đồng;
+	 - Viện nghiên cứu hạt nhân: Hầu hết các chuyên viên Tin học chủ yếu nghiên cứu tạo các ứng dụng phục vụ chuyên môn: vật lý hạt nhân.
+	- Trường ĐH Đàlạtội ngũ các giáo viên các ngành Tin học, Toán và Vật lý, chuyên đào tạo các sinh viên các ngành Toán-Tin học, Vật lý-Tin học.
+	- Học viện Lục quân Đà Lạt: chủ yếu phục vụ cho công tác đào tạo của học viện.
+* Tại các cơ quan, công ty, trung tâm Tin học trên địa bàn tỉnh Lâm Đồng:
+	- Bưu điện tỉnh Lâm Đồng: Thực hiện theo kế hoạch ngành dọc của Tổng cục Bưu điện.
+	- Ngành ngân hàng: Điều hành các chương trình quản lý chuyên ngành Ngân hàng.
+	- Chuyên viên máy tính tại các Sở, Ban, Ngành trong tỉnh.
+	- Công ty ứng dụng kỹ thuật Đà Lạt: là công ty chuyên xây dựng các phần mềm  ứng dụng, cơ sở dữ liệu   và mạng máy tính. 
+	Tại cả hai khu vực trên, lực lượng nói chung còn rất mỏng và còn thiếu khá nhiều cho các cơ quan, ban ngành.
+V. PHÂN TÍCH VÀ ĐÁNH GIÁ HIỆN TRẠNG VỀ CƠ SỞ HẠ TẦNG KỸ THUẬT CNTT:
+	Có thể chia các khu vực ứng dụng CNTT như sau:
+	1. Khu vực quản lý Nhà nước :
+	- UBND tỉnh: Sử dụng mạng cục bộ trong văn phòng, kết nối mạng diện rộng với văn phòng Chính phủ. ứng dụng máy tính trong công tác văn bản, nghiên cứu thiết kế tổng thể về ứng dụng Tin học trong công tác văn phòng, sử dụng các ứng dụng trên mạng cục bộ. Số lượng máy tính trên 30 máy. Các cán bộ Lãnh đạo và Các chuyên viên của văn phòng đã qua các lớp đào tạo căn bản về CNTT.
+	- UBND Tp. Đà Lạt và các huyện:  đã có trang bị từ một bộ máy (máy tính + máy in) trở lên, đa số các ứng dụng là tạo văn bản, lưu trữ file, tính toán …
+
+	2. Khu vực các cơ quan tổng hợp:
+	- Cục Thống kê: Với 17 máy tính các loại, 13 máy in các loại. Mô hình ứng dụng đã có sử dụng mạng cục bộ. Một số ứng dụng do các cán bộ của cục xây dựng như: Quản lý nhân sự, tiền lương; Xử lý, lưu trữ số liệu điều tra cơ bản thống kê, báo cáo thống kê định kỳ.
+	- Các cơ quan khác: Sở Kế hoạch - Đầu tư: 4 máy tính các loại, 1 máy in. Sở Tài chính Vật giá: 6 máy tính các loại. Các ứng dụng đang sử dụng chủ yếu là các xử lý số liệu trên bảng tính, lập và lưu trữ văn bản, thực hiện các báo cáo với bộ chủ quản qua modem; triển khai sử dụng các phần mềm ứng dụng trong quản lý kế toán…
+	- Tại các Sở chuyên môn: Một số Sở đã ứng dụng máy tính khá lâu như:
+		+ Sở Giáo dục-Đào tạo: đã có các ứng dụng trong công tác quản lý tiền lương, quản lý nhân sự và quản lý các kỳ thi. Hiện cũng là một ngành có số lượng máy tính nhiều nhất (trên 300 máy- từ 286-586), trang bị tại Vp. Sở và các trường cấp II, III. Riêng trong công tác đào tạo họcc sinh phổ thông đã có được 22 cán bộ giảng dạy Tin học.
+		+ Sở Khoa học-Công nghệ và Môi trường: Có 12 máy tính và 5 máy in các loại, đã ứng dụng mạng cục bộ sử dụng NOVELL được hơn 2 năm và đang triển khai mạng cục bộ có quy mô hơn sử dụng Windows NT, tiến tới nối mạng diện rộng với UBND tỉnh; Kết nối các mạng Trung ương như: TOOLNET. ITNET;  ứng dụng các phần mềm quản lý nhân sự, kế toán tiền lương.
+		Một đơn vị trực thuộc của Sở là Chi cục tiêu chuẩn đo lường chất lượng Tỉnh cũng đã triển khai sử dụng mạng cục bộ được đưa vào ứng dụng trong quản lý.
+		+ Sở Nông nghiệp và PTNT: 5 máy tính các loại; Ban Tổ chức Chính quyền: 2 máy tính; Chủ yếu ứng dụng trong công tác văn phòng: văn bản, lưu trữ file. Riêng Ban tổ chức chính quyền đã sử dụng phần mềm ứng dụng quản lý nhân sự.  
+	Các Sở còn lại đều có trang bị và sử dụng máy tính một hai năm gần đây nhưng chủ yếu vẫn ở dạng máy đơn, chưa có những ứng dụng nghiệp vụ.
+	3. Khu vực các cơ quan chuyên ngành:
+	Ngành Bưu điện và ngành Ngân hàng, Kho bạc có khá nhiều máy tính. Đa số các máy tính được sử dụng phục vụ quản lý. Sử dụng mạng cục bộ. Riêng ngành Bưu điện đã kết nối mạng diện rộng. Do được   chuyển giao kỹ thuật theo ngành dọc nên khu vực này ứng dụng CNTT nhanh chóng và ổn định.
+	4. Khu vực các cơ quan sản xuất kinh doanh, dịch vụ:
+	Việc ứng dụng CNTT chủ yếu trên lĩnh vực kế toán-tài chính, xử lý văn bản, chưa có những ứng dụng nghiệp vụ khác.
+	Riêng Công ty ứng dụng kỹ thuật Đà Lạt, là một đơn vị nghiên cứu và sản xuất sản phẩm phần mềm, xây dựng các ứng dụng Tin học do đó có tổ chức quản lý trên hệ thống mạng cục bộ. Một số các sản phẩm của Công ty như: Bộ Font TrueType; phần mềm ứng dụng quản lý kế toán và nhân sự. Đây cũng là đơn vị chuyên triển khai các ứng dụng CNTT thông qua các đề tài nghiên cứu Khoa học của Sở Khoa học-Công nghệ và Môi trường.
+	Một số đơn vị SXKD khác có ứng dụng CNTT khá đặc trưng như: Công ty du lịch tỉnh Lâm Đồng, cty liên doanh DRI, có trên 60 máy tính sử dụng trong khách sạn Palace trên mạng Novell, hiện nay đang sử dụng ứng dụng quản lý khách sạn.
+	Viện Thiết kế xây dựng tỉnh Lâm Đồng, Xí ngiệp thiết kế Thủy lợi, Xí nghiệp gà, Xí nghiệp chế biến gỗ Lạc dương, Cty dược và Vật tư y tế, Cty Nông sản thực phẩm, Cty phát triển kinh tế … bước đầu có ứng dụng máy tính hỗ trợ công tác quản lý .	
+	Ngoài ra, số các dịch vụ-trung tâm Tin học trên địa bàn Đà Lạt cũng như toàn tỉnh khá nhiều. Chủ yếu các cơ sở này là các dịch vụ buôn bán thiết bị CNTT, đào tạo các học viên theo các chứng chỉ A, B; nhưng vẫn chưa có kế hoạch mang lại hiệu qủa đáng kể cho chương trình CNTT.
+	5. Khu vực đào tạo, dạy nghề:
+	Ngoài Trường ĐH Đà Lạt đào tạo hàng năm khoảng 50-100 sinh viên Tin học kể cả các ngành Toán, Vật lý; trường CĐSP từ năm 1993-1994 cũng tham gia đào tạo lĩnh vực này. Bên cạnh đó Trường kỹ thuật Lâm Đồng cũng tham gia đào tạo hệ kỹ thuật viên Tin học;  Cty ứng dụng kỹ thuật Đà Lạt: đào tạo hệ chứng chỉ A, B; Trung tâm xúc tiến việc làm.
+	6. Khu vực truyền thông, thông tin:
+	Đài truyền hình Lâm Đồng: ứng dụng trong tạo kỹ xảo truyền hình, thông tin quảng cáo.
+	Báo Lâm Đồng:, Nhà in Lâm Đồng: ứng dụng Tin học từ 1990 trong kỹ thuật xếp chữ, làm chế bản.
+	Trong hầu hết các khu vực nói trên, cho thấy lượng thiết bị Tin học đầu tư những năm gần đây tăng đáng kể. Mặt khó khăn hiện nay vẫn là thiếu nhân sự phấn tích, thiết kế hệ thống các ứng dụng cũng như tận dụng được môi trường vật lý hiện tại kết nối mạng cục bộ cũng như mạng diện rộng nhằm làm tăng hiệu quả của CNTT trong quản lý cũng như mặt thông tin, hiện nay vấn đề này vẫn còn khá mới lạ với một số đơn vị.  
+
+
+
+
+CHƯƠNG II:
+MỤC TIÊU VÀ NHIỆM VỤ CỦA 
+KẾ HOẠCH TỔNG THỂ CNTT TỈNH LÂM ĐỒNG 
+GIAI ĐOẠN 1998 - 2000
+
+	“Xây dựng nền móng vững chắc đối với cơ sở hạ tầng CNTT của Tỉnh, đáp ứng nhu cầu quản lý đối với một số hệ thông tin trọng điểm của Tỉnh thông qua các ứng dụng Tin học (với các kết quả cụ thể nhằm vào một số hạng mục trọng tâm đã được thống nhất), hình thành cơ bản việc tin học hoá hệ thống quản lý nhà nước trên địa bàn Tỉnh để đáp ứng các yêu cầu về quản lý trong giai đoạn phát triển KT-XH theo hướng CNH-HĐH, và chuẩn bị đầy đủ thích hợp cho việc kết nối với hệ thống thông tin quốc gia”
+Các kế hoạch được đề ra phải đem lại những kết quả ứng dụng CNTT thiết thực trong lãnh vực phục vụ quản lý nhà nước trước mắt là về mặt quản lý hành chính tiếp đến là quản lý các thông tin kinh tế-xã hội, thông tin tiềm lực khoa học công nghệ và mội trường, thông tin tài chính. . . 
+	Tổ chức hoạt động phát triển CNTT phải được nghiên cứu thích hợp với hiện trạng tại địa phương, xác lập được mối quan hệ của các phần việc trong các hệ thống xây dựng và tạo được giá trị gia tăng thiết thực: mọi việc làm phải đem lại hiệu quả. Nghiên cứu tập trung vào những ứng dụng quan trọng chủ yếu của đơn vị và tìm những giải pháp tối ưu đáp ứng cho mục tiêu được đề ra. Tiêu chuẩn hoá các thông tin phục vụ hoạt động quản lý tại các đơn vị: VP. UBND Tỉnh, Sở kế hoạch & đầu tư, Cục thống kê, Sở khoa học- công ngệ & môi trường, Sở tài chính, tuân thủ theo những quy định nhằm thực hiện kết hợp việc cải cách hành chính song song với phát triển CNTT trong các cơ quan quản lý Nhà nước.
+A. MỤC TIÊU ĐƯA ỨNG DỤNG CNTT VÀO TRONG CÁC HOẠT ĐỘNG QUẢN LÝ VÀ NGHIỆP VỤ: 
+	Nhằm nâng cao hiệu quả quản lý, đáp ứng về thông tin quản lý của các cấp có liên quan trong bộ máy Nhà nước trên địa bàn Tỉnh.
+* Đối với các Sở, Ban, Ngành: 
+	- Yêu cầu khoảng 80% đơn vị vào cuối năm 1998, cơ bản tin học hoá các phần quản lý nội bộ về nhân sự, kế toán tài chính; một số đơn vị được xây dựng cơ sở hạ tầng CNTT đủ mạnh để triển khai ứng dụng một số các phần mềm nghiệp vụ, chuyên môn, nối mạng cục bộ và triển khai theo ngành dọc (Sở kế hoạch và đầu tư, Sở địa chính, Sở tài chính, Sở KHCN&MT, Sở xây dựng. . . ) 
+	- Thực hiện kết nối vào hệ thống mạng diện rộng của UBND tỉnh (đối với một số đơn vị có điều kiện). Bước đầu thực hiện trao đổi thông tin trên mạng diện rộng và mạng cục bộ. 
+	- Năm 1999 đến 2000: 100% các Sở, Ban, Ngành hình thành căn bản cơ sở hạ tầng CNTT; Hình thành cơ bản việc xây dựng các cơ sở dữ liệu để phục vụ cho hệ thông tin thống nhất của Tỉnh trong hướng kết nối với hệ thống thông tin quốc gia. Các thông tin trọng yếu có thể được khai thác, truyền gửi trực tiếp thông qua hệ thống liên mạng trong Tỉnh. Triển khai kết nối mạng diện rộng các đơn vị còn lại, đồng bộ hoá các cơ sở dữ liệu về quản lý thông tin trên mạng diện rộng. 
+* Đối với các Huyện, Thị, Thành phố: 
+	- Năm 1998: phổ cập kiến thức tin học, khả năng sử dụng máy tính trong các khâu hành chính đối với CBCNV đương chức;
+	- Đối với các huyện chưa được trang bị máy tính cho công tác quản lý sẽ khuyến khích trang bị để 100% huyện, thị xã, thành phố sử dụng máy tính trong công tác hành chính.
+	- Năm 1999 – 2000: 100 % tin học hoá khâu hành chính tại VP UBND các huyện, thị, thành phố; một số các huyện trọng điểm và thành phố nối mạng với UBND Tỉnh bảo đảm cho việc cung cấp các thông tin trọng yếu giữa UBND Tỉnh và các Huyện, Thị.
+B. MỤC TIÊU ĐỐI VỚI VIỆC GIÁO DỤC ĐÀO TẠO, PHÁT TRIỂN CÔNG NGHIỆP CNTT 
+Xây dựng chính sách, kế hoạch đào tạo CNTT với sự phối hợp chặt chẽ giữa Sở Khoa học, Công nghệ và Môi trường, Sở giáo dục & Đào tạo, Ban tổ chức chính quyền và Văn phòng UBND Tỉnh. Việc đào tạo phải được cụ thể  và thiết thực nhằm xây dựng được một nguồn lực đủ vững mạnh cho việc triển khai xây dựng và phát triển CNTT tại địa phương. Cần thiết phải đào tạo được một lực lượng chủ chốt có khả năng kỹ thuật tin học và cả về quản lý nhà nước để bảo đảm việc sử dụng hệ thống mạng hiệu quả và có thể nhanh chóng thâm nhập vào những ứng dụng thành tựu mới.
+	- Đối với các cán bộ lãnh đạo, yêu cầu đặt ra là đạt được trình độ để có thể xem, lấy các thông tin cần thiết; Nắm bắt được các bước, các hướng phát triển CNTT của cơ quan, ngành và địa phương.	
+	- Xây dựng các chương trình đào tạo cho từng đối tượng trong xã hội, trong các cơ quan nhà nước thiết thực và cụ thể để có thể sử dụng phổ thông.
+	- Từng bước đào tạo nâng cấp kiến thức cho các quản trị mạng tại các cơ quan, đơn vị.
+	- Đề xuất các chế độ, chính sách để đào tạo, tuyển chọn các chuyên viên Tin học.
+	- Các ngành chức năng có liên quan đến lĩnh vực này phối hợp nghiên cứu, tham mưu giúp UBND Tỉnh ban hành các chế độ, chính sách nhằm hướng dẫn và hỗ trợ cho việc phát triển tin học của địa phương
+	- Xây dựng  Trung tâm CNTT phục vụ cho các hoạt động có liên quan đến việc phát triển CNTT của Tỉnh; quản lý hệ thống và dữ liệu với những cán bộ có trình độ và kinh nghiệm.
+C. MỤC TIÊU XÂY DỰNG CƠ SỞ HẠ TẦNG CNTT, CÔNG NGHIỆP CNTT
+	- Việc xây dựng cơ sở hạ tầng (CSHT) kết hợp trong kế hoạch triển khai các hệ thống thông tin, cần có các phương án thống nhất cho toàn bộ hệ thống cơ sở hạ tầng, thiết kế theo chuẩn quốc tế về giao thức truyền tin, phương thức truyền dẫn: Tel, X.25, FDDI. . .phần mềm khai thác theo chế độ on-line / off-line. Ngoài ra phải đạt  yêu cầu đối với các mặt: liên kết, bảo mật an toàn, quản trị mạng.
+-  Hoàn thành cơ bản việc xây dựng mạng thông tin máy tính tại các cơ quan Sở, Ban, Ngành và các Huyện, Thị, Thành phố. 
+- Kết nối mạng máy tính của tỉnh uỷ với mạng máy tính của Uỷ ban nhân dân Tỉnh, mạng tại các Sở, Ban, Ngành và các trạm làm việc tại các Huyện, Thị, Thành phố bằng những khả năng tốt nhất của mạng viễn thông tại địa phương.
+- Kết nối mạng thông tin máy tính của VP UBND tỉnh với VP Chính phủ, VP. Tỉnh ủy với Trung ương Đảng thông qua mạng thông tin chuyên dùng (ISDN) và mạng truyền thông Quốc gia.
+- Khai thác các dịch vụ mạng máy tính của các cơ quan khối Sở, Ban, Ngành, Huyện, Thị, Thành phố và trao đổi dữ liệu với mạng máy tính quản lý Nhà nước ở địa phương; mạng máy tính trong hệ thống lãnh đạo của các cơ quan Đảng để đáp ứng yêu cầu phục vụ sự lãnh đạo của tỉnh uỷ và UBND tỉnh.
+	- Phát triĩn mạng VP UBND, kt ni mạng diƯn rng víi mt s S, ngành và mt s huyƯn,thị trng điĩm.
+	- Ni mạng quc gia theo thĩt k mạng quản lý hành chính Nhà nưíc.
+	- Truyịn thông trao đỉi thông tin trên địa bàn tnh.
+	- Truyịn thông, trao đỉi thông tin trên mạng Quc gia.
+	- Khai thác các dịch vơ mạng quc gia và mạng Quc t phơc vơ phát triĩn kinh t-xã hi cđa tnh.
+	- Việc trang bị cơ sở hạ tầng trong các dự án đã có dự trù trong khoảng 60% tổng kinh phí dự án; trong đó 50% dành cho thiết bị máy móc, 20% dành cho mạng, 20% dành cho phần mềm và 10% dành cho cài đặt tích hợp hệ thống.
+	D. CÁC MỤC TIÊU XÂY DỰNG CÁC HỆ THÔNG TIN VÀ CƠ SỞ DỮ LIỆU
+	-Tĩp tơc xây dng và phát triĩn các phân hƯ thông tin quản lý tại VP UBND tnh và m rng cho mt s cơ quan quản lý nhà nưíc theo đơn vị hành chính cp dưíi: Huyện, Thị, Thành phố (Phân hƯ điịu hành tác nghiƯp, phân hƯ trỵ giĩp quỹt định, phân hƯ quản lý ni b);
+	- Phân tích, thĩt k các phân hƯ thông tin k hoạch kinh t-xã hi, tài chính-ngân sách, công chc và đi tưỵng chính sách, khoa hc-Công NghƯ và Môi trưng. Tại mt s cơ quan quản lý nhà nưíc theo ngành.
+	- Phát triĩn CNTT trong sản xut kinh doanh
+	- ng dơng CNTT trong hoạt đng văn hoá, giáo dơc.
+	- Xây dựng các phân hệ xử lý tác nghiệp và phân hệ quản lý nội bộ và các phân hệ ứng dụng phục vụ các công tác chuyên môn tại mỗi đơn vị thuộc khối các Sở, Ban, Ngành và Huyện, Thị, Thành phố.
+	- Triĩn khai phân hệ quản lý tổng hợp công tác Đảng tại các đơn vị trên cơ sở liên kết và tổng hợp thông tin của các phân hệ xử lý tác nghiệp.
+E. CÁC MỤC TIÊU VỀ HIỆU QUẢ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN.
+- Các quá trình truyịn nhn và xử lý thông tin giữa UBND Tỉnh với Chính phủ; giữa UBND tỉnh với các Sở, Ban, Ngành và các Huyện, Thị, Thành phố  được thực hiện trên mạng máy tính, bảo đảm đủ, kịp thời, chính xác, an toàn những thông tin cần thiết phản ảnh tình hình xã hội trong toàn tỉnh  phục vụ sự lãnh đạo của UBND tỉnh  và cung cấp thông tin phục vụ VP Chính phủ.
+- Quản lý lưu trình công việc của UBND tỉnh  và các cơ quan trong Tỉnh  trên mạng thông tin máy tính và các dạng văn bản truyền thống lưu chuyển trong các cơ quan, giữa UBND tỉnh  với Chính phủ và các đơn vị cấp dưới bảo đảm công việc được xử lý kịp thời, chính xác.
+- Bảo đảm điều kiện cần thiết cho công tác lưu trữ và khai thác dữ liệu, khai thác các cơ sở dữ liệu của Trung ương và của các cơ quan Nhà nước trong Tỉnh, đáp ứng yêu cầu công tác lãnh đạo của UBND tỉnh và cung cấp dữ liệu cho Trung ương.
+- Tin hc ha tng bưíc các nghiệp vụ hiện đang thực hiện thủ công trong các cơ quan khối các Sở, Ban, Ngành và Huyện, Thị, Thành phố của Tỉnh  bằng công nghệ tin học như soạn thảo văn bản, quản lý nhân sự, quản lý tài chính kế toán...
+
+
+
+
+
+
+
+
+
+
+
+
+CHƯƠNG III:
+HỆ THỐNG CÁC DỰ ÁN CNTT 
+TRONG KẾ HOẠCH TỔNG THỂ CNTT TỈNH LÂM ĐỒNG 
+GIAI ĐOẠN 1998 - 2000
+
+A. CÁC DỰ ÁN ỨNG DỤNG CNTT TRONG QUẢN LÝ VÀ NGHIỆP VỤ Ở NHỮNG CƠ QUAN  QUẢN LÝ  NHÀ NƯỚC ĐƯỢC TẬP TRUNG VÀO 3 DỰ ÁN:
+1 - Dự án Tin học hoá quản lý Nhà nước tại VP UBND Tỉnh(tiếp tục giai đoạn 1).
+	- Tên dự án: Dự án Tin học hoá quản lý Nhà nước tại VP UBND Tỉnh (tiếp tục giai đoạn 1).
+	- Cơ quan chủ trì dự án: Văn phòng UBND Tỉnh.
+	- Nội dung: Tiếp tục dự án Tin học hoá quản lý Nhà nước tại VP UBND Tỉnh: Triển khai các phần mềm ứng dụng đối với các phân hệ đã được cài đặt. Hoàn chỉnh mạng nội bộ LAN tại VP UBND Tỉnh và tiếp tục hoàn thiện theo từng giai đoạn. Đảm bảo việc truyền nhận các báo cáo định kỳ trong hệ thống hành chính Trung ương – Địa phương. Xây dựng tiếp tục và hoàn thiện các CSDL trong cơ cấu hệ thống thông tin quản lý Nhà nước. 
+2 - Dự án Tin học hoá tại các cơ quan Đảng tỉnh Lâm Đồng
+	- Tên dự án: Dự án Tin học hoá tại các cơ quan Đảng tỉnh Lâm Đồng
+	- Cơ quan chủ trì dự án: Văn phòng Tỉnh ủy.
+	- Nội dung: Xây dựng cơ sở hạ tầng CNTT tại VP Tỉnh ủy và các đơn vị trực thuộc khối Đảng: Trong giai đoạn đầu trang bị các máy móc thiết bị  CNTT cơ bản tại Văn phòng Tỉnh ủy và các Ban trực thuộc Tỉnh ủy. Triển khai nối mạng cục bộ và mạng diện rộng với UBND tỉnh và Trung Ương. Bước đầu ứng dụng tin học ở các khâu cơ bản trong tổ chức hành chính nội bộ. Tiếp tục mở rộng quy mô ở những năm sau để từng bước hình thành hệ thống mạng nối kết với các Ban còn lại thuc khối Tỉnh ủy víi các Huyện, Thị, Thành đy; cùng với việc triĩn khai các thông tin báo cáo, các cơ sở dữ liệu phục vụ công tác lãnh đạo của Đảng.
+3 - Dự án Tin học hóa khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố.
+- Tên dự án: Dự án Tin học hóa Khối các Sở, Ban, Ngành và các Huyện, Thị,  Thành phố.
+- Cơ quan chủ trì dự án: Sở Khoa học – Công nghệ và Môi trường.
+- Nội dung: 
+3.1- Xây dựng cơ sở hạ tầng CNTT ở một số các Sở, Ban, Ngành trọng điểm: Yêu cầu của dự án là xây dựng ở các đơn vị được chọn ưu tiên (Sở kế hoạch-đầu tư, Sở tài chính-vật giá, Sở Khoa học, Công nghệ & Môi trường, Cục thống kê, Ban tổ chức chính quyền) một hệ thống mạng cục bộ đủ mạnh để hình thành một hệ thông tin chuyên ngành tại đơn vị. Bước đầu bảo đảm việc cung cấp các thông tin chuyên ngành, các báo cáo định kỳ theo yêu cầu của các cấp trong hệ thống quản lý Nhà nước và qua mạng diện rộng của tỉnh. Tiếp tục hoàn thiện việc xây dựng các cơ sở dữ liệu chuyên ngành trên quan điểm kết hợp với ngành chủ quản. Chuẩn bị cho việc hình thành các hệ thông tin kinh tế xã hội, thông tin ngân sách tài chính, thông tin tiềm lực khoa học CN&MT, thông tin về nguồn nhân lực, lao động của Tỉnh. . .
+3.2- Xây dựng cơ sở hạ tầng CNTT tại một số các Huyện, Thị, Thành phố trọng điểm: Căn cứ khả năng kinh phí trong từng năm để giải quyết yêu cầu tin học hoá tại các Huyện, Thị, Thành phố. Trước mắt sẽ trang bị các máy móc thiết bị  CNTT cơ bản để  các đơn vị có thể sớm tiếp cận, ứng dụng tin học vào các khâu cơ bản trong nghiệp vụ hành chính . Giai đoạn tiếp theo sẽ cài đặt các máy móc thiết bị bảo đảm được cho việc truyền gửi các thông tin, báo cáo định kỳ trong hệ thống quản lý Nhà nước.
+3.3- Xây dựng các phần mềm, ứng dụng tin học trong các khâu quản lý tổ chức hành chính nội bộ ở các đơn vị  thuộc khối hành chính sự nghiệp:  Đây là chương trình tổng quát nhằm đưa tin học vào các khâu quản lý nhân sự, tiền lương, quản lý công sản, vật tư; nghiên cứu thiết kế, chọn lựa những phần mềm ứng dụng có tính kỹ thuật và hiệu quả cao, có thể ứng dụng cho toàn bộ các đơn vị sự nghiệp hành chính. Đối với điều kiện cụ thể của từng đơn vị , việc điều chỉnh có thể thực hiện nhằm giảm bới chi phí  thiết kế phần mềm riêng từng đơn vị một dựa trên kết quả đã nghiên cứu từ năm 1994 đến nay.
+B. CÁC DỰ ÁN TĂNG CƯỜNG NĂNG LỰC CNTT VÀ PHÁT TRIỂN CƠ SỞ HẠ TẦNG.
+1- Tổ chức tập huấn, đào tạo và bồi dưỡng cho các cán bộ, chuyên viên chủ chốt trong chương  trình phát CNTT của Tỉnh: Tập hợp một số các cán bộ lãnh đạo, quản lý và chuyên viên kỹ thuật được giao  trách nhiệm triển khai chương trình phát triển CNTT của Tỉnh đĩ  đào tạo chuyên sâu theo định hướng, nâng cao nhận thức về lĩnh vực CNTT, tham mưu giúp Ban chỉ đạo có hướng tổ chức và triển khai hiệu quả các dự án cũng như những hoạt động liên quan đến CNTT.
+	2 – Xây dựng cơ sở hạ tầng máy tính – truyền thông cho mạng miền rộng WAN : dự án được xây dựng nhằm chuẩn bị cho việc kết nối các hệ thống thông tin của Tỉnh với hệ thống mạng quốc gia khi bước vào những năm  sau 2000 và tiến đến kết nối với mạng Internet. Việc nghiên cứu thiết kế và trang bị  cho hệ thống liên mạng truyền thông nói trên  cần được triển khai hợp lý với một đội ngũ cán bộ chuyên viên có thể điều hành, khai thác đảm bảo an toàn và hiệu quả.
+	3 – Nghiên cứu đề án thành lập Trung tâm CNTT của tỉnh: Trên tinh thần Chỉ thị 16/CT-UB Trung tâm CNTT cần sớm được thành lập để tư vấn giúp UBND Tỉnh, Ban chỉ đạo CNTT trong các vấn đề có liên quan đến lĩnh vực này. Là một đơn vị quản lý các hệ thống thông tin của Tỉnh đồng thời  thực hiện một số chức năng khác nhằm phát triển CNTT trên địa bàn Tỉnh.
+	4- Nghiên cứu xây dựng các chính sách, biện pháp nhằm tăng cường việc quản lý và phát triển CNTT tại địa phương :  Giao cho một số cán bộ quản lý thuộc các đơn vị có liên quan tùy theo lĩnh vực thực hiện, nhằm định hướng và tạo điều kiện thuận lợi mở rộng cho sự phát triển CNTT cũng như bảo đảm được sự tuân thủ, an toàn về các mặt pháp lý, và các chuẩn trong Công nghệ thông tin.
+C. CÁC DỰ ÁN CHUYÊN NGÀNH DO CHƯƠNG TRÌNH QUỐC GIA VỀ CNTT PHÂN CÔNG
+	Xây dựng CSDL ở các chuyên ngành trọng yếu : Trên cơ sở triển khai các dự án cấp Bộ, Ngành trong chương trình CNTT quốc gia, mỗi địa phương có thể được phân công tham gia  trong  dự án xây dựng 6 CSDL trọng yếu đã được hình thành vào cuối giai đoạn một, dự án sẽ được bổ sung để kết hợp triển khai nhằm tăng cường nguồn thông tin dữ liệu của Tỉnh đồng thời mở rộng sự nối kết trên mạng miền rộng ở lãnh vực chuyên ngành.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHƯƠNG IV:
+Ni dung k thut các d án tin hc hoá TỈNH LÂM ĐỒNG giai đoạn 1998-2000.
+
+
+I. Mô hình tỉ chc cơ s hạ tầng CNTT cho mạng cơc b và mạng diƯn rng trên địa bàn tnh
+	A. MƠC ĐÍCH VÀ YÊU CẦU HƯ THNG
+	A.1. MƠC ĐÍCH CĐA HƯ THNG
+1. Xây dng hƯ thng hạ tầng cơ s phơc vơ quản lý hành chính cp địa phương
+NhiƯm vơ chđ ỹu cđa hƯ thng hạ tầng CNTT cp địa phương là:
+Trang bị các thĩt bị tin hc cần thĩt cho địa phương nhằm hỗ trỵ công tác điịu hành hành chính.
+Kt ni các hƯ thng tin hc cđa các địa phương, ngành thng nht trên phạm vi cả nưíc 
+Cho phép các hƯ thng thông tin địa phương trao đỉi thông tin phơc vơ công tác điịu hành hành chính
+Cung cp các dịch vơ Tin hc phơc vơ công tác  quản lý (thư tín điƯn tư, truyịn văn bản, tƯp, khai thác CSDL vv)..
+Ni ghép, trao đỉi thông tin víi các hƯ thng khác trong mạng thông qua hƯ thng mạng Thông tin Quc gia.
+
+2. Khả năng nâng cp và kt ni  vào hƯ thng mạng thông tin quc gia
+Đĩ hƯ thng hạ tầng cơ s CNTT cđa địa phương hoạt đng hiƯu quả trưíc mắt cịng như lâu dài, yêu cầu thiêt k hƯ thng mạng tuân thđ các nguyên tắc sau:
+1 - Thĩt k theo các tiêu chun Quc t vị giao thc truyịn tin
+2 - Sư dơng đưỵc nhiịu phương thc truyịn dn khác nhau (Tel, X25, FDDI,..)
+3 - C khả năng nâng cp cho ph hỵp víi môi trưng truyịn tin
+4 - Các phần mịm ng dơng c thĩ khai thác theo cơ ch trc tuỹn (On-line) hoỉc Offline
+Thĩt k chi tĩt hƯ thng hạ tầng cơ s CNTT cđa địa phương, các  yêu cầu sau phải đưỵc đáp ng cho ph hỵp víi hoạt đng khai thác thông tin trên mạng diƯn rng cđa hƯ thng thông tin :
+Là mạng đưỵc tỉ chc phân cp theo ngành dc t trung ương đn địa phương c qui mô xư lý và trang bị khác nhau, hƯ thng mạng phải c công sut ph hỵp yêu cầu trao đỉi thông tin và xư lý trong toàn b hƯ thng (thí dơ các mạng con ch yêu cầu trao đỉi thông tin víi tc đ xư lý thp, các mạng trung ương là đầu mi thông tin cđa Chính phđ cần c công sut xư lý cao đáp ng yêu cầu phơc vơ thông tin trong toàn b hƯ thng)
+C khả năng liên kt đưỵc víi các hƯ thng mạng khác nhau trong và ngoài ngành (Virtual Inter-networking). HƯ thng mạng phải bao gm nhiịu hƯ thng kt ni mạng thông minh cho phép giao tĩp víi nhiịu thđ tơc mạng chun khác nhau (Ni ghép víi mạng truyịn tin Quc gia). 
+C khả năng bảo mt và đ an toàn dữ liƯu bao gm khả năng quản lý các gi s liƯu và khả năng bảo mt thông  tin trên mạng. Vn đị nén thông tin và quản lý các gi s liƯu đưỵc thc hiƯn bi các thĩt bị đầu cui ni ghép mạng, thí dơ như nhiịu loại modem và router c khả năng nén dữ liƯu trong quá trình trao đỉi thông tin trên mạng. Vn đị mã ha thông tin là vn đị thuc líp phần mịm hƯ thng phơ thuc vào yêu cầu cơ thĩ c thĩ ch tạo ra các modun mt mã phơc vơ công tác bảo mt trên mạng.
+HƯ thng mạng phải c khả năng quản trị mạng cho phép theo di đưỵc toàn b hoạt đng chc năng cđa toàn b mạng. HiƯn nay các hƯ thng ni ghép mạnh thưng đưỵc cy các modun quản trị trong nhân hƯ thng và t các trạm làm viƯc, thông qua thđ tơc SNMP (Simple Network Management Protocols) c thĩ theo di toàn b hƯ thng mạng.
+HƯ thng mạng hạ tầng cp địa phương sư dơng nhiịu đưng thuê bao là các đưng thoại sư dơng cơ ch DIALUP, hƯ thng c thĩ trao đỉi thông tin víi nhiịu hƯ thng khác nhau hiƯu quả nht, thi gian chĩm kênh truyịn cđa các cuc trao đỉi thông tin phải ti ưu
+HƯ thng mạng hạ tầng cp địa phương phải cho phép ghép ni và nâng cp mạng khi c nhu cầu. trong tương lai khi hạ tầng cơ s mạng truyịn s liƯu đưỵc nâng cp, cải tĩn, các thĩt bị ghép ni mạng cịng phải thay đỉi cho ph hỵp víi hạ tầng cơ s mạng míi bằng cách nâng cp, thay th các modun phần cng và phần mịm cần thĩt đĩ đảm bảo hiƯu quả cđa đầu tư
+A.2. CÁC YÊU CẦU hƯ thng cơ s hạ tầng công nghƯ thông tin
+1. Tn dơng đưỵc Môi trưng Vt lý hiƯn tại.
+HiƯn tại, hƯ thng hạ tầng cơ s CNTT kt ni  các trung tâm thông tin thông qua môi trưng vt lý hiƯn c là mạng điƯn thoại cp địa phương và Quc gia. HƯ thng hạ tầng cơ s CNTT phải tn dơng đưỵc phương thc truyịn thông hiƯn c và phải sẵn sàng nâng cp đưỵc khi các mạng truyịn s liƯu đưỵc thĩt lp. Víi hƯ thng mạng thoại, cần sư dơng các loại modem thích hỵp c tc đ t 28.800 bps - 33.600bps víi các thđ tơc (protocol) sưa sai và nén ph hỵp. Trong tương lai c thĩ dng các Router và các thĩt bị phơc vơ cho mạng truyịn s liƯu .
+2. Các Phương pháp truy nhp ph hỵp
+Đĩ tn dơng ti đa khả năng truyịn dn cđa mạng thoại trong điịu kiƯn hạn ch vị tc đ, cần sư dơng các phương thc truy nhp khác nhau. C hai phương pháp truy nhp căn bản cho các hƯ thng mạng diƯn rng (WAN)
+	- Truy nhp Online: Cho các yêu cầu truy vn cơ s dữ liƯu, hi đáp
+	- Truy nhp  Offline: Thư tín điƯn tư, truyịn công văn, tƯp tài liƯu
+3. Bảo đảm tính an toàn và Bảo mt thông tin
+-Tuân thđ các quy định và định hưíng bảo mt cđa VPCP và ban Cơ ỹu Chính phđ trong quá trình thĩt k và triĩn khai hƯ thng.
+- Kt hỵp víi các cơ quan chc năng vị bảo mt đĩ xây dng qui trình k thut bảo mt cho toàn b hƯ thng
+- Tạo ra cơ ch cy ghép các công cơ bảo mt riêng
+- Tn dơng các chc năng bảo mt và an toàn sẵn c cđa công nghƯ. 
+- Cung cp các trang thĩt bị c cht lưỵng và đ tin cy ph hỵp víi điịu kiƯn địa phương
+- Các hƯ điịu hành đa chương/nhiịu ngưi sư dơng UNIX và Windows NT địu c cơ ch bảo mt và an toàn thông tin đạt tiêu chun quc t :
+Qui định quyịn ngưi sư dơng, quyịn truy nhp thông tin, 
+Qui định thi gian, địa điĩm truy nhp hƯ thng
+Lưu trữ thông tin nht ký khai thác hƯ thng
+C các cơ ch nén, mã ha chun theo cơ ch kha ngu nhiên
+HƯ thng mt khu kiĩm soát quyịn truy nhp đưỵc thc hiƯn thng nht trên toàn mạng LAN/WAN.
+Các giao thc chun sư dơng trên mạng LAN/WAN đảm bảo an toàn tuyƯt đi cho s liƯu truyịn đi mt cách chính xác.
+4. Cho phép kt ni các hƯ Cơ s dữ liƯu
+Cho phép các hƯ quản trị CSDL vn hành đưỵc trên các hƯ thng Tin hc cp địa phương
+C khả năng kt ni các dạng CSDL c môi trưng làm viƯc khác nhau
+
+A.3. TỔ CHỨC CƠ SỞ HẠ TẦNG CNTT CHO HỆ THỐNG MẠNG MÁY TÍNH TẠI CÁC ĐƠN VỊ SỞ, BAN, NGÀNH VÀ HUYỆN, THỊ, THÀNH PHỐ TỈNH LÂM ĐỒNG 
+1- Các chức năng chính của cơ sở hạ tầng CNTT :
+- Trao đổi thông tin nội bộ trong các cơ quan, đơn vị  và thông tin với các đơn vị bên ngoài.
+- Trao đổi thông tin với Uỷ ban nhân dân Tỉnh và Tỉnh ủy.
+- Trao đổi thông tin, cung cấp và khai thác dữ  liệu với các cơ quan của Trung ương qua mạng trung tâm của UBND tỉnh, mạng Tỉnh ủy.
+- Trao đổi thông tin với các Tỉnh, thành phố khác qua mạng trung tâm của UBND tỉnh, mạng Tỉnh ủy.
+
+
+2- Nhiệm vụ và yêu cầu kết nối hệ thống
+Nhiệm vụ chung là xây dựng hệ thống hạ tầng cơ sở phục vụ quản lý công tác hành chính bằng mạng thông tin máy tính.
+- Trang bị đủ máy tính và thiết bị phụ trợ cho mạng và các trạm làm việc đủ khả năng đáp ứng yêu cầu thực hiện các mục tiêu đề ra. 
+- Trước mắt sử dụng một số máy tính đủ mạnh để làm nhiệm vụ mã - dịch, truyền tin,  chứa các cơ sở dữ liệu chuyên môn của từng đơn vị. Trong các năm tới, khi nhu cầu công việc và lượng thông tin tăng lên sẽ thay thế bằng các Server đủ mạnh.  Các đơn vị  sử dụng cơ chế DIALUP kết nối với mạng trung tâm qua mạng điện thoại của thành phố.
+- Kết nối mạng máy tính của Uỷ ban nhân dân Tỉnh với  với mạng máy tính của Tỉnh uỷ, bảo đảm các đơn vị  trao đổi thông tin và khai thác chung cơ sở dữ liệu của tỉnh.
+- Kết nối mạng máy tính của UBND tỉnh với mạng máy tính của các cơ quan Trung ương và Chính phủ qua các hình thức:
+ 	+ Trực tiếp qua mạng thông tin số liên kết đa dịch vụ (ISDN) chuyên dùng của Tổng Cục Bưu điện.
+	+  Qua mạng máy tính của UBND Tỉnh và sử dụng chung các kênh X.25 trên mạng thông tin quốc gia.
+	+  Sử dụng các kênh điện thoại thông dụng theo cơ chế DIALUP, có khả năng trao đổi thông tin với nhiều hệ thống khác qua mạng thông tin quốc gia, sẽ nâng cao hiệu quả sử dụng và tiết kiệm chi phí.
+	+  Qua các tuyến thông tin dự phòng hoặc mạng thông tin dự phòng của Tổng cục Bưu điện  trong những tình huống đặc biệt.
+	+  Kết nối mạng thông tin máy tính của UBND tỉnh với các trạm làm việc đặt tại các huyện, thị, thành phố theo cơ chế DIALUP qua mạng điện thoại địa phương.
+- Các dịch vụ cung cấp trên mạng bao gồm :
+	+ Thư tín điện tử
+	+ Truyền các tập tin văn bản, siêu văn bản
+	+ Khai thác các cơ  sở dữ liệu dùng chung.
+	+ Cung cấp các chương trình ứng dụng thống nhất trong hệ thống.
+3- Các yêu cầu về tính năng của hệ thống.
+- Tính an toàn và bảo mật thông tin là yêu cầu cao nhất đối với mạng máy tính của các đơn vị Sở, Ban, Ngành và Huyện, Thị, Thành phố. Yêu cầu này phải được bảo đảm bằng các biện pháp kỹ thuật - công nghệ và hành chính nghiêm ngặt.
+	+ Hệ thống phải có khả năng chống mất mát, sai lệch dữ liệu do phần cứng, phần mềm gây ra hoặc do virus phá hoại.
+	+ Khi mạng máy tính đã trở thành phương tiện chủ yếu bảo đảm công việc của từng đơn vị  thì phải bổ sung một hệ thống dự phòng có kiến trúc Fault Tolerant tại các khâu lưu trữ và xử lý dữ liệu quan trọng.
+	+ Tận dụng có hiệu quả các chức năng bảo mật, an toàn sẵn có của hệ điều hành mạng, phần mềm truyền thông và bổ sung các biện pháp bảo mật cụ thể trong quá trình phát triển các chương trình ứng dụng.
+	+ Phải xây dựng và thực hiện nghiêm ngặt các quy chế bảo mật thông tin. Mỗi đối tượng sử dụng mạng chỉ được phép thâm nhập, xử lý và khai thác dữ liệu theo đúng quyền hạn được quy định.
+	+ Mỗi mạng cục bộ của đơn vị  có một Server hoặc trạm làm việc mạnh làm nhiệm vụ mã dịch và truyền tin. Thông tin mật lưu chuyển giữa UBND tỉnh với Trung ương và Tỉnh, Thành phố khác nhất thiết phải qua mã dịch.
+- Tính hệ thống mở: Hệ thống được thiết kế trên các chuẩn quốc gia và quốc tế, bảo đảm khả năng thay thế, phát triển và nâng cấp trong tương lai cả phần cứng, phần mềm phù hợp với môi trường truyền tin và yêu cầu của các dịch vụ mới.
+- Tính thống nhất: Mạng thông tin máy tính của Tỉnh  là một bộ phận trong hệ thống thông tin của các cơ quan nhà nước và phát triển trong chương trình Quốc gia về công nghệ thông tin. Trang bị cơ bản và các phần mềm công cụ phải thống nhất trong hệ thống các thông tin lưu chuyển trong hệ thống phải được chuẩn hóa theo các chuẩn thống nhất trong hệ thống tổ chức 	quản lý hành chính Nhà nước.
+- Mạng máy tính của Tỉnh được quản lý và điều khiển thống nhất do một trung tâm thông tin đặt tại Văn phòng UBND Tỉnh. Các cơ sở dữ liệu quan trọng phải được lưu trữ ở server chính và hệ thống trợ giúp quyết định được đặt tại trung tâm của hệ thống.
+4- Môi trường truyền thông :
+Trong các sơ đồ cấu trúc mạng máy tính cục bộ (LAN) của các đơn vị  đã dựa trên khả năng mạng truyền thông tại địa phương đủ mạnh. Trong thực tế có thể những trường hợp cá biệt phải có giải pháp riêng phù hợp điều kiện địa lý và môi trường truyền thông thực tại.
+a) Các đơn vị liên hệ với Uỷ ban nhân dân Tỉnh và các đơn vị khác thông qua mạng truyền thông X.25 tại địa phương (bố trí trong sơ đồ) hoặc cơ chế DIALUP qua mạng điện thoại tùy theo khả năng mạng truyền thông.
+c) UBND tỉnh liên với Chính phủ; Tỉnh ủy liên lạc với Trung ương Đảng có thể sử dụng :
+- Sử dụng mạng thông tin chuyên dùng ISDN. Trong những năm tới diện kết nối qua mạng chuyên dùng ISDN sẽ được mở rộng dần.
+- Thông qua kênh thông tin dùng chung (X.25) giữa  Tỉnh (Tỉnh uỷ và Uỷ ban nhân dân Tỉnh) với Trung ương.
+- Thông qua nút mạng trên mạng truyền thông Quốc gia nối vào hệ thống chuyên dùng ISDN và liên hệ với các mạng cục bộ (LAN) của các cơ quan. 
+B. Thĩt k hƯ thng hạ tầng Cntt 
+	B.1. CHỨC NĂNG - NHIỆM VỤ VÀ MÔ HÌNH THIẾT KÊ CHUNG
+	1. Các chc năng chính cđa cơ s hạ tầng CNTT bao gm:
+Liên lạc, trao đỉi thông tin ni b trong mạng cơc b
+Thu thp thông tin t các đơn vị trc thuc (cp S, HuyƯn)
+Báo cáo lên Văn phòng Chính phđ, VP. Trung Ương Đảng
+Trao đỉi thông tin giưã các địa phương dạng văn bản điƯn tư và CSDL
+2. Đĩ thc hiƯn các chc năng nhiƯm vơ trên hƯ thng cần đưỵc xây dng theo các bưíc cơ bản sau
+Xây dng mạng cơc b cho các cơ quan quản lý địa phương (Thĩt k mạng LAN)
+Ni ghép vào mạng diƯn rng qua Modem (Thĩt k mạng WAN)
+La chn hƯ điịu hành mạng cho mạng LAN.
+La chn phần mịm cho mạng WAN.
+Các yêu cầu trang thĩt bị máy mc ph hỵp.
+La chn các phần mịm phơc vơ điịu hành.
+	3. Mt s chi tĩt k thut cho CSHT tạI các S Ban Ngành:
+	a/ Mục tiêu - nhiệm vụ:
+		Hệ thông tin các Sở, Ban, Ngành là hệ thông tin nghiệp vụ (các CSDL thông tin kinh tế xã hội thuộc nhiệm vụ quản lý của đơn vị), mạng máy tính ở các đơn vị này được xác định là đầu mối cơ sở thực hiện các nhiêm vụ:
+		- Cung cấp thông tin đầu vào cho mạng số liệu VP. UBND tỉnh phục vụ công tác quản lý và điều hành của lãnh đạo UBND tỉnh, Tỉnh ủy.
+		- Trao đổi thông tin quản lý Nhà nước giữa các đơn vị hành chính trong hệ thống.
+		- Tin học hóa công tác quản lý công văn đi, công văn đến, thông tin từ chuyên viên tổng hợp phục vụ  công tác quản lý và điều hành của lãnh đạo các Sở, Ban, Ngành. 
+		- Tin học hóa công tác quản lý nội bộ: tổ chức, nhân sự, kế toán, tài sản…
+	b/ Quy mô mạng:
+		Mạng được thiết kế với cấu trúc tối thiểu với nhiệm vụ trung tâm là xây dựng các CSDL thuộc lĩnh vực của đơn vị quản lý.  Sử dụng thêm các modul  phần cứng và phần mềm ( nối thêm HUB, Server, modem kết nối mạng diện rộng với UBND tỉnh và bổ sung các trạm làm việc … tài nguyên cũ vẫn được tận dụng lại hoàn toàn).
+		Do đó hệ thống mạng tại các Sở, Ban, Ngành sẽ tận dụng những trang bị hiện có và kết hợp với trang bị mới 02 máy chủ đủ mạnh, một số thiết bị mạng, hệ quản trị CSDL lớn (Oracle) thực hiện nhiệm vụ xây dựng các CSDL.
+	- Máy chủ: 01 máy (CSDL và truyền thông)
+	- Trạm làm việc: 02 (sử dụng phương án tận dụng hệ thống CSHT có sẵn tại đơn vị)
+	- Kênh truyền số liệu: 1 đường điện thoại.
+	Đối với một số đơn vị được triển khai điểm, có thể trang bị các máy chủ với cấu hình đủ mạnh để có thể sử dụng làm Database Server (máy chủ CSDL).
+	c/ Các trang thĩt bị c cu hình ti thiĩu: 
+		- Máy chđ: 586/64MRAM/4,3GByte HDD
+		- Trạm làm viƯc : 586/32MRAM 2,1GByte HDD
+		- Modem: 28.800bps hay 33.600bps Hayes Modem
+		- UPS : 1000VA
+		- intelligent HUB : 12-24 port 
+	- Máy in (Printer) : HP laser + In kim
+	d/Các phần mịm: 
+		- HƯ điịu hành: WINDOWS NT, WINDOWS 95
+		- Phần mịm ng dơng: theo mơc các ng dơng trên hƯ thng
+		- Phần mịm truyịn tin: LOTUS NOTES
+		- Phần mềm quản trị CSDL: MS Office
+	e/ Topo ni ghép: (Hình 3e)
+
+
+
+
+4. Mt s chi tĩt k thut cho CSHT tại các Huyện, Thị, Thành phố :
+	a/ Mục tiêu - nhiệm vụ:
+		Hệ thông tin UBND Huyện, Thị, Thành phố là mô hình thu nhỏ của UBND tỉnh, mạng được xác định là đầu mối cơ sở thực hiện các nhiêm vụ:
+		- Cung cấp thông tin đầu vào cho mạng số liệu VP. UBND tỉnh phục vụ công tác quản lý và điều hành của lãnh đạo UBND tỉnh, Tỉnh ủy.
+		- Trao đổi thông tin quản lý Nhà nước giữa các đơn vị hành chính trong hệ thống.
+		- Tin học hóa công tác quản lý công văn đi, công văn đến, thông tin từ chuyên viên tổng hợp phục vụ  công tác quản lý và điều hành của lãnh đạo UBND Huyện, Thị, Thành phố.
+		- Tin học hóa công tác quản lý nội bộ: tổ chức, nhân sự, kế toán, tài sản…
+	b/ Quy mô mạng:
+		Mạng được thiết kế với cấu trúc tối thiểu với số lượng người dùng: Lãnh đạo VP., chuyên viên tổng hợp, phòng hành chánh văn thư và phòng quản trị tài vụ.  Sử dụng thêm các modul  phần cứng và phần mềm ( nối thêm HUB, Server, modem kết nối mạng diện rộng với UBND tỉnh và bổ sung các trạm làm việc … tài nguyên cũ vẫn được tận dụng lại hoàn toàn).
+	- Máy chủ: 01 máy (CSDL và truyền thông)
+	- Trạm làm việc: 03
+	- Kênh truyền số liệu: 1 đường điện thoại.
+	Đối với một số đơn vị được triển khai điểm, có thể trang bị các máy chủ với cấu hình đủ mạnh để có thể sử dụng làm Database Server (máy chủ CSDL).
+	c/ Các trang thĩt bị cu hình ti thiĩu :		
+		- Máy chđ: 586/ 32-64MRAM/4,3GByte HDD
+		- Trạm làm viƯc : 586/16-32MRAM 1-2,1GByte HDD
+		- Modem: 28.800bps hay 33.600bps Hayes Modem
+		- UPS : 1000VA
+		- Non intelligent HUB : 4-12 port
+		- Máy in (Printer) : HP laser + In kim
+	d/Các phần mịm: 
+		- HƯ điịu hành: Windows NT, Windows95, Windows for Worgroup 3.11
+		- Phần mịm ng dơng: theo mơc các ng dơng trên hƯ thng
+		- Phần mịm truyịn tin: Lotus Notes
+	e/ Topo ni ghép: (hình 4e)
+
+
+
+B.2.  TỔNG HỢP THIẾT KẾ CƠ SỞ HẠ TẦNG CNTT TẠI CÁC ĐƠN VỊ SỞ, BAN, NGÀNH VÀ HUYỆN, THỊ, THÀNH PHỐ TỈNH LÂM ĐỒNG
+	Hệ thống các dự án CNTT tỉnh Lâm Đồng giai đoạn 1998-2000 sẽ triển khai đến tất cả các Sở, Ban, Ngành và các Huyện, Thị, Thành phố trong tỉnh (bao gồm 22 Sở, Ban, Ngành và 11 Huyện, Thị, Thành phố). Trên cơ sở   tận dụng CSHT và môi trường vật lý trang bị sẵn có tại các đơn vị với quan điểm đầu tư thiết bị CSHT CNTT làm cơ sở cho tất cả các đơn vị và các đơn vị dựa vào kinh phí thường xuyên của mình tiến hành xây dựng hệ thống mạng cục bộ và kết nối mạng diện rộng từng bước với UBND tỉnh. Dự án sẽ tập trung đầu tư cơ bản và hỗ trợ một phần trong  việc kết nối mạng diện rộng cho các đơn vị, riêng đối với một số đơn vị được triển khai điểm sẽ sẽ được hỗ trợ triển khai cả kết nối mạng cục bộ và mạng diện rộng. 
+	Dự kiến yêu cầu trang bị CSHT CNTT theo phương án đủ đến năm cuối khi hoàn tất dự án cho các đơn vị như sau:
+	* Máy tính:
+		- Máy chủ: 33 máy/33 đơn vị (22 máy/22 đơn vị Sở, Ban, Ngành;  11 máy/11 Huyện, Thị, Thành phố )
+		- Máy trạm: 77 máy/33 đơn vị (33 máy/11 Huyện, Thị, Thành phố; 44 máy/22 đơn vị Sở, Ban, Ngành)  
+		- Máy in: 33 máy/33 đơn vị
+		- Bộ lưu điện (UPS): 110 máy/33 đơn vị 
+		…
+	* Các thiết bị nối mạng:
+		- HUB: 33 HUB các loại/33 đơn vị 
+		- Card mạng: 110 card/33 đơn vị 
+		- Cable: 50.000 m/33 đơn vị
+		…
+	* Các thiết bị truyền thông:
+		- Modem: 33 chiếc/33 đơn vị 
+		- Các thiết bị truyền thông khác: Router, Access Server… tuỳ theo điều kiện từng đơn vị khi triển khai dự án.
+		- Kênh truyền số liệu: 33 đường điện thoại
+	* Các phần mềm:
+		- Hệ điều hành: Windows NT, Windows 95
+		- Phần mềm ứng dụng: MS Office
+		- Phần mềm quản trị CSDL: MS Foxpro, MS Access, Oracle
+		- Phần mềm truyền thông: Lotus Notes
+	Đối với các Hệ  điều hành: Windows NT server: trang bị số lượng license trên số lượng các máy chủ; Windows 95, Windows for Workgroup: trang bị số lượng license trên số lượng các trạm làm việc.
+	Đối với các phần mềm ứng dụng và các phần mềm quản trị CSDL: Trang bị số lượng license trên số lượng các user. 
+	Đối với phần mềm truyền thông: Lotus Notes: Trang bị số lượng license Lotus Domino trên số lượng các máy chủ và Lotus Notes workstation trên số lượng các user.
+
+
+BẢNG TỔNG HỢP TRANG THIẾT BỊ CNTT DỰ ÁN TIN HỌC HÓA 
+TỈNH LÂM ĐỒNG GIAI ĐOẠN 1998-2000
+ĐVT: 1000 đồng
+S
+TT
+Tên, nhãn hiƯu thĩt bị và cu hình k thut
+Đơn vị
+Hãng sản xut
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 300Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+25.000
+33
+825.000
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+9.500
+77
+731.500
+
+3
+Máy lưu điện 1000 VA
+Chiếc
+
+3.000
+110
+330.000
+
+4
+  Máy in
+Chiếc
+
+5.000
+33
+165.000
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 -24 port 
+10 Base-T
+Chiếc
+
+3.000
+33
+99.000
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+800
+110
+88.000
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+8
+50.000
+400.000
+
+4
+Modem 56,6 bps
+Chiếc
+
+2.000
+33
+66.000
+
+5
+Các thiết bị phụ trợ
+
+
+
+
+100.000
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+1
+Windows NT 
+Bộ
+
+20.000
+33
+660.000
+
+2
+Lotus Domino
+Bộ
+
+12.000
+33
+330.000
+
+
+Lotus Notes
+Bộ
+
+700
+77
+53.900
+
+
+Tổng cộng
+
+
+
+
+ 3.848.400
+
+
+
+
+
+
+
+
+C. Kết nối mạng diện rộng cho UBND tỉnh và các SỞ, BAN, NGÀNH, HUYỆN, THỊ, THÀNH PHỐ 
+	Trong phần này sẽ nêu một số phương án kết nối mạng diện rộng giữa mạng cục bộ tại UBND tỉnh và mạng của các sở trực thuộc, cũng như kết nối các máy lẻ ở xa vào mạng trung taõm taùi UBND tổnh trieồn khai trong giai ủoaùn 1998 - 2000.
+	Xây dựng mạng WAN
+	1. Xây dựng một máy chủ chuyên trách công việc truyền số liệu tại VPUBND tỉnh có một hoặc nhiều  kênh, có khả năng kết nối với mạng truyền  số liệu Quốc gia.
+	2. Các mạng cấp Sở, Huyện nối với trung tâm truyền số liệu tại VPUBND Tỉnh thông qua kênh thoại. Có hai phương án khai thác thông tin:
+	Phương án 1: Khai thác số liệu của các hệ thống cấp Sở, Huyện khi các máy cấp cơ sở chủ động thiết lập cuộc nối
+	Phương án 2: Cấp UBND tỉnh chủ động khai thác CSDL của các Sở, Huyện
+
+1. Phân tích
+	Taùi UBND đã thiết lập xong mạng cục bộ (LAN), còn tại các sở có thể đã có hoặc đang chuẩn bị xây dựng mạng cục bộ.
+	Vấn đề đặt ra là phải liên kết được các mạng cục bộ này với nhau (kết nối LAN-to-LAN) và nối các máy lẻ ở xa vào mạng cục bộ (kết nối point-to-LAN). Các kiểu kết nối mạng diện rộng này khác với việc truyền thông giữa 2 máy lẻ vẫn được dùng phổ biến (point-to-point).
+	Mạng cục bộ của các ủụn vũ sẽ phải được nối với mạng cục bộ tại UBND và qua đó nối với mạng quốc gia. Kết nối LAN-to-LAN là cần thiết để mọi máy trong mạng LAN có thể sử dụng được các dịch vụ mạng như thư điện tử và tra cứu CSDL từ các mạng khác. Tùy theo điều kiện truyền thông sẽ kết nối các mạng LAN bằng đường truyền X.25 hoặc leased line, hay giải quyết bằng các phương pháp kết nối qua đường thoại (dùng modem).
+	Trong điều kiện  các ủụn vũ chưa có mạng cục bộ thì có thể nối một số máy tính đơn lẻ vào mạng của UBND tỉnh theo kiểu point-to-LAN, bằng cách này các máy đó có thể hoạt động như máy trạm trên mạng cục bộ và sử dụng được tất cả các dịch vụ mạng.
+	Ngoài ra một số bộ phận ở xa trụ sở chính, các cán bộ làm việc từ xa, các huyện v.v... cũng có nhu cầu kết nối với mạng cục bộ của UBND hoặc mạng cục bộ của sở. Các kết nối này cũng theo kiểu point-to-LAN và qua đường thoại.
+
+
+Sơ đồ kết nối giữa UBND và các ủụn vũ  có thể hình dung như sau:
+ 
+
+
+
+
+
+
+
+2. Thiết bị
+a. Tại UBND tỉnh:
+	- Sử dụng Access Server chuyên dụng, với 8-16 cổng asynchronous để nối với các modem, hoặc có thể sử dụng Multi-port card cho nhiều đường thoại. Sử dụng các loại modem có tốc độ 28.8kbps - 56.6 kbps.
+	- Để sử dụng cho việc kết nối LAN-to-LAN, Access Server cần có những tính năng như:
++ Giao thức mạng TCP/IP, IPX
++ Cho phép kết nối PPP (nên có cả Multilink PPP), xác thực bằng CHAP/PAP
++ Tương thích với Microsoft Windows và UNIX
++ Có hỗ trợ cho kết nối LAN-to-LAN qua đường thoại, có Dial-on-demand
++ Cho phép routing TCP/IP và IPX qua PPP (RIP và static IP route)
+b. Tại các sở, ban ngành và huyện, thị:
+Tuỳ thuộc vào kinh phí, có thể dùng một trong các phương án sau:
+	- Nếu có đủ kinh phí và có nhu cầu kết nối từ các máy lẻ ở xa thì nên sử dụng Access Server chuyên dụng như phương án của UBND tỉnh
+	- Nếu không cần phục vụ cho người dùng từ xa (chỉ cần cho kết nối LAN-to-LAN) thì có thể dùng loại Access Server  hoặc Multi-port
+	- Cũng có thể dùng một máy tính với 1-2 modem làm Communication Server (chạy hệ điều hành Windows NT hoặc Unix). 
+c. Tại các điểm kết nối từ xa
+	Tại các máy lẻ ở xa, để kết nối vào mạng cục bộ (theo kiểu point-to-LAN) chỉ cần có một modem và đường dây điện thoại. Trong Lotus Notes và Microsoft Windows đã có đủ các phần mềm cần thiết.
+II. CÁC HỆ THÔNG TIN ỨNG DỤNG:
+Các hệ thông tin tại các Sở, Ban, Ngành và các Huyện, Thị, Thành phố Tỉnh Lâm Đồng phải đáp ứng yêu cầu của nhiều cấp quản lý, từ việc trợ giúp ra quyết định, quản lý  nhà nước đến việc thực hiện công tác quản lý và điều hành công việc hàng ngày của các bộ phận. Thông tin đến từ nhiều nguồn và rất đa dạng, qua nhiều bộ phận xử lý để đáp ứng những yêu cầu cụ thể của hệ thống.
+
+1- Phân hệ điều hành tác nghiệp :
+Phân hệ điều hành tác nghiệp hay xử lý tác nghiệp (Transaction Processing System) là phần tử căn bản của hệ thông tin, bảo đảm cho các chuyên viên và nhân viên sử dụng mạng máy tính để thực hiện nhiệm vụ thay các phần việc thủ công, xử lý thông tin đúng yêu cầu nhiệm vụ, theo quy trình khoa học, hợp lý và chặt chẽ, cập nhật thông tin cần thiết vào các cơ sở dữ liệu phục vụ công tác quản lý và các yêu cầu khác. Các phân hệ điều hành tác nghiệp phổ cập trong các cơ quan là :
+. Xử lý văn bản đến và đi
+. Xử lý thông tin tổng hợp
+. Xử lý mã - dịch
+. Lưu trữ và khai thác thông tin
+Các phân hệ điều hành tác nghiệp được bố trí ở Văn phòng các đơn vị . Những công việc  như cập nhật và xử lý văn bản, thu thập, tổng hợp thông tin... có nội dung tương tự và quy trình thực hiện như nhau. Vì vậy nhiều phân hệ xử lý tác nghiệp có tính thống nhất trong hệ thống, một số phân hệ có tính thống nhất cao từ cơ sở đến Trung ương. Do đó các phân hệ điều hành tác nghiệp được xây dựng bằng các Modul có khả năng ứng dụng rộng rãi ở nhiều bộ phận và liên hệ các các Modul khác.
+2- Phân hệ thông tin quản lý :
+Phân hệ thông tin quản lý (Management Information System) bảo đảm thông tin cho lãnh đạo nắm được tình hình bao quát và các dự báo cần thiết để quyết định công việc của đơn vị hoặc chuẩn bị quyết định theo chức năng được phân công. Các phân hệ thông tin quản lý sử dụng và tổng hợp thông tin, cơ sở dữ liệu từ nhiều phân hệ điều hành tác nghiệp.
+Một hệ thông tin quản lý có thể sử dụng cho nhiều cấp, cấp cao hơn phục vụ cho UBND tỉnh đồng thời là phân hệ trong hệ thống chung của toàn Tỉnh như hệ quản lý cán bộ, nhân sự, kế toán... cấp thấp là phân hệ quản lý nội bộ bảo đảm công tác quản lý và điều hành của từng đơn vị.
+Đối với hệ thông tin quản lý cùng chức năng sử dụng cho nhiều cấp thì sự khác nhau ở các cấp là quy mô của các cơ sở dữ liệu, nội dung của các cơ sở dữ liệu phải nhất quán. Cơ sở dữ liệu của cấp thấp phải có khả năng cập nhật vào cơ sở dữ liệu cấp cao hơn.
+Các phân hệ thông tin quản lý cần thiết là :
+. Phân hệ thông tin quản lý lưu trình công việc bảo đảm cho UBND tỉnh có đủ thông tin cần thiết để thực hiện việc kiểm tra và điều chỉnh các quá trình xử lý công việc thường xuyên trong bộ máy của các đơn vị.
+. Phân hệ thông tin quản lý cán bộ, nhân viên.
+. Phân hệ thông tin quản lý tài chính kế toán.
+Các phân hệ thông tin quản lý tại có cùng chức năng được xây dựng theo mẫu chung, nội dung và phần mềm ứng dụng thống nhất chung.
+ 3- Phân hệ xử lý văn bản .
+Phân hệ xử lý văn bản có nhiệm vụ xử lý các văn bản từ ngoài đến và các văn bản được phát hành (công văn đến-công văn đi).
+Quy trình xử lý văn bản đến :
+. Thực hiện các công việc kiểm tra :
+- Kiểm tra đối tượng thông tin được quan hệ với hệ thống,
+- Kiểm tra thể thứcvà xác nhận văn bản đến.
+.Trích yếu nội dung và cập nhật các thông tin quản lý văn bản vào cơ sở dữ liệu văn bản.
+- Các văn bản điện tử được tự động cập nhật vào CSDL.
+- Các văn bản trên giấy do nhân viên cập nhật.
+. Văn bản hóa các cuộc điện thoại quan trọng xử lý công việc và cập nhật vào CSDL.
+. Theo dõi quá trình xử lý văn bản, cập nhật những ý kiến của lãnh đạo và chuyên viên giải quyết công việc cùng với văn bản đang được xử lý (bao gồm cả thư điện tử kèm theo) vào CSDL và thông báo trở lại cho những người tham gia xử lý những thông tin cần thiết cho đến kết quả xử lý cuối cùng.
+. Tra cứu nhanh hiện trạng văn bản đang được xử lý và trả lời cho lãnh đạo khi có yêu cầu.
+. Tiếp nhận văn bản dự thảo và chuyển tiếp đến các địa chỉ xử lý theo quy chế.
+. Thẩm tra thể thức các văn bản chính thức của Tỉnh uỷ trước khi phát hành, xác nhận các thông tin quản lý văn bản và cập nhật vào cơ sở dữ liệu, chuyển tiếp văn bản đến bộ phận văn bản hóa, nhân sao và phát hành.
+Quy trình xử lý văn bản đi: theo các bước : Dự thảo văn bản, ký duyệt văn bản, sao lưu … Toàn bộ chu trình hình thành văn bản được thực hiện chặt chẽ bằng thông tin quản lý văn bản kèm theo tập tin văn bản (bản dự thảo) được tu chỉnh và cập nhật đầy đủ qua từng khâu cho đến khi văn bản phát hành chính thức.
+Phân hệ này được thực hiện bằng “Modul xử lý văn bản” theo sự hướng dẫn thống nhất về nội dung, quy trình công nghệ và cung cấp phần mềm ứng dụng từ Trung ương vì vậy dự án này không giải trình cụ thể.
+4- Phân hệ xử lý thông tin tổng hợp 
+Phân hệ xử lý thông tin tổng hợp bao gồm một số công việc như sau :
+. Xử lý những thông tin đến, cập nhật vào CSDL thông tin tổng hợp, bảo đảm cho bộ phận biên tập thực hiện nhanh các bản tin điện tử,  các báo cáo định kỳ và bất thường gởi UBND tỉnh, các báo cáo gởi Trung ương và các báo cáo, thông báo gởi các đơn vị  cấp dưới.
+. Tổng hợp thông tin về các quá trình triển khai và kiểm tra việc thực hiện các Nghị quyết, Chỉ thị của Trung ương, của UBND tỉnh  và những công tác quan trọng được thực hiện ở địa phương, cập nhật vào cơ sở dữ liệu chuyên đề.
+. Tổng hợp thông tin thực hiện chương trình công tác và kiểm tra các quá trình chuẩn bị các dự án đưa ra cuộc họp Ban Thường vụ, Ban Chấp hành, cập nhật vào CSDL chương trình công tác làm căn cứ để xây dựng và triển khai chương trình công tác.
+. Tổng hợp thông tin và lưu trữ các biên bản họp.
+Phân hệ xử lý thông tin tổng hợp nhằm phục vụ yêu cầu xử lý công việc hàng ngày tại các đơn vũù, ủửụùc thửùc hieọn baống 3 Modul. Moói Modul thửùc hieọn moọt chửực naờng vaứ caọp nhaọt vaứo cụ sụỷ dửừ lieọu. Caực cụ sụỷ dửừ lieọu naứy chổ lửu giửừ taùm thụứi, sau tửứng thụứi gian seừ ủửụùc lửùa choùn ủửa vaứo CSDL chung cuỷa Tổnh.
+5- Phân hệ xử lý mã - dịch.
+Phân hệ này có nhiệm vụ mã và giải mã các thông tin mật được lưu chuyển giữa các cơ quan của Đảng thông qua mạng truyền thông Quốc gia. Công việc này do Ban Cơ yếu Chính phủ đảm nhiệm.
+6- Phân hệ lưu trữ và khai thác thông tin.
+Phân hệ lưu trữ và khai thác thông tin có nhiệm vụ tạo cơ sở dữ liệu tập trung chứa những thông tin quan trọng, yêu cầu bảo mật cao đồng thời khai thác thông tin trong các CSDL của các đơn vị, các ngành ở địa phương hoặc dự liệu từ Trung ương bảo đảm thông tin phục vụ sự lãnh đạo, điều hành công việc hàng ngày .
+7- Phân hệ quản trị nội bộ :
+Công việc quản trị nội bộ của từng đơn vị  được thực hiện trên mạng máy tính gồm một số Modul và tạo các CSDL riêng :
+. Modul quản lý văn bản đến và đi về công việc của nội bộ đơn vị.
+. Modul quản lý nhân sự , CSDL cán bộ, nhân viên của đơn vị sẽ định kỳ được cập nhật vào CSDL của  Tỉnh.
+. Phân hệ quản lý các kế hoạch của đơn vị như kế hoạch tài chính, xây dựng cơ bản, xe ô tô...
+Phân hệ quản trị nội bộ sử dụng các Modul đã được thiết kế chung cho các đơn vị, những việc đơn giản có thể xây dựng trên các hệ quản trị CSDL hoặc sử dụng bảng tính điện tử.
+
+
+
+CHƯƠNG IV:
+BIỆN PHÁP THỰC HIỆN KẾ HOẠCH TỔNG THỂ
+
+A. BIỆN PHÁP VÀ CHÍNH SÁCH TỔ CHỨC:
+Chương trình phát triển CNTT do Ban chỉ đạo Tỉnh tham mưu giúp UBND Tỉnh đề ra biện pháp, tổ chức xây dựng kế hoạch, triển khai chương trình CNTT theo hướng chung đã được đề ra theo NQ 49/TTg và kế hoạch tổng thể CNTT toàn quốc đến năm 2000.
+Việc thực hiện triển khai các dự án trong chương trình do Ban chủ nhiệm giám sát, với sự hỗ trợ của nhóm chuyên gia kỹ thuật; trực tiếp quản lý chung toàn bộ các dự án để báo cáo lên BCĐ Tỉnh và BCĐ Quốc gia.
+Các hạng mục trong dự án tùy theo nhu cầu và điều kiện thực tế sẽ được thực hiện theo các hợp đồng chính thức đã được phê duyệt.
+Từng dự án triển khai ở đơn  vị sẽ do chính đơn vị trực tiếp triển khai, điều hành sau khi thông qua ý kiến của cơ quan chủ trì dự án.
+Tổ chức bồi dưỡng, đào tạo xây dựng một đội ngũ cán bộ đương chức hiểu biết về CNTT, có thể tổ chức khai thác thông tin trong phạm vi chuyên môn của mình góp phần xây dựng chương trình Tin học hoá hệ thống Quản lý Nhà nước.
+B. BIỆN PHÁP KỸ THUẬT, CÔNG NGHỆ VÀ HOÀN THIỆN CẤU TRÚC THÔNG TIN DỮ LIỆU:
+Để hình thành và triển khai các hệ thống thông tin của Tỉnh dựa vào cơ sở hạ tầng hiện có( đặc biệt với những thiết bị, máy móc đã trang bị trong giai đoạn 1) cần đưa vào ứng dụng ngay để đạt được những mục tiêu ngắn hạn. Phải có đánh giá kết quả thực hiện, hiệu quả đạt được trong từng năm để tránh sai lầm, lãng phí, rút kinh nghiệm trong việc thực hiện các hạng mục, các dự án tiếp nối trong chương trình.
+Việc trang bị cơ sở hạ tầng căn cứ trên quy mô dự kiến triển khai ứng dụng theo từng mục tiêu ngắn hạn để có thể đánh giá hiệu quả công việc; đồng thời căn cứ trên các chuẩn đã được BCĐ QG khuyến cáo và trên quan điểm hệ thống mở(tính ổn định và phát triển hệ thống).
+Mỗi đơn vị được dự kiến triển khai thực hiện dự án phải có những đánh giá, phân tích về khả năng, yêu cầu nhiệm vụ để lên kế hoạch chi tiết( dự án TKT, dự án khả thi) cho đơn vị mình; chuẩn bị nhân lực CNTT để có thể đảm nhiệm thực hiện việc tham gia ứng dụng Tin học hoá, xây dựng CSDL chuyên ngành, đảm bảo việc cung cấp đầy đủ thông tin cần thiết vào hệ thông tin của Tỉnh, bảo đảm việc quản trị, vận hành bảo mật của hệ thống mạng được xây dựng tại đơn vị.
+Hệ quản lý của Tỉnh với kiến trúc mạng máy tính được chọn theo phương án hỗn hợp với hệ CSDL phân tán tuỳ thuộc đặc điểm cuả từng cấp, từng phân hệ. Hệ thống có dạng phân cấp phi tập trung ở dạng tổng thể.
+Với đặc điểm của địa phương, có thể nghiên cứu phát triển Công nghiệp CNTT trên lãnh vực phần mềm ứng dụng; tăng cường việc phổ cập Tin học. Tiếp nhận đội ngũ Tin học có trình độ Đại học tại điạ phương , có hướng phát triển bồi dưỡng để xây dựng một đội ngũ vững vàng cho những năm sau này.
+C. BIỆN PHÁP VỀ ĐẦU TƯ TÀI CHÍNH:
+Trong những giai đoạn đầu, do cơ sở hạ tầng còn thiếu kém, việc xây dựng các dự án phát triển CNTT cần được sự hỗ trợ của Trung ương thông qua vốn đầu tư của các chương trình phát triển sự nghiệp kinh tế. Tỷ lệ ngân sách địa phương cân đối cho chương trình cố gắng là nguồn vốn chính bên cạnh vốn hỗ trợ của Trung ương. Kinh phí dành cho dự án CNTT tập trung vào việc ưu tiên xây dựng các hệ thông tin trọng yếu phục vụ cho hệ thống quản lý Nhà nước vàhệ thống lãnh đạo của Đảng trên địa bàn toàn Tỉnh. Một số các phần việc có liên quan đến sự phát triển CNTT chung của địa phương ở tại các đơn vị cơ sở có tính phổ quát, thiết thực thì mỗi đơn vị, cơ sở nên huy động nguồn vốn của đơn vị đưa vào kế hoạch hàng năm trong việc phát triển chung cho đơn vị mình.
+D. BIỆN PHÁP THỰC HIỆN VÀ QUẢN LÝ DỰ ÁN
+Ban chỉ đạo CNTT Tỉnh tham mưu giúp UBND Tỉnh đề ra biện pháp, tổ chức xây dựng kế hoạch, triển khai xây dựng chương trình phát triển CNTT theo hướng chung đã được nêu ra theo Nghị Quyết 49/TTg và kế hoạch tổng thể CNTT đến năm 2000. Các dự án CNTT được xây dựng và triển khai trên địa bàn Tỉnh Lâm Đồng đều nằm trong chương trình phát triển CNTT chung của Tỉnh và là một trong những chương trình mục tiêu chính  (giai đoạn: 1998 – 2000). Ban chỉ đạo CNTT của Tỉnh đã thống nhất chia các nội dung triển khai thành 3 dự án chính:
+1. Dự án tin học hoá tại Văn phòng UBND Tỉnh Lâm Đồng;
+2. Dự án tin học hoá tại các cơ quan thuộc khối Đảng của tỉnh Lâm Đồng;
+3. Dự án tin học hoá khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố.
+Ủy ban nhân dân tỉnh Lâm Đồng đã ra quyết định thành lập Ban chủ nhiệm của mỗi dự án nói trên (các quyết định này đã được photo đính kèm theo mỗi dự án).
+Sở Khoa Học, Công Nghệ & Môi Trường được giao trực tiếp quản lý, tổ chức xây dựng và thiết kế triển khai dự án tin học hoá tại các đơn vị thuộc khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố của tỉnh Lâm Đồng. Với nội dung đa dạng và tổng hợp khi triển khai dự án ở các đơn vị, Sở KH-CN & MT sẽ phối hợp tổ chức thực hiện với sự tham gia cộng tác và hỗ trợ của các đơn vị được triển khai và Tổ tư vấn  CNTT.
+	Sở Khoa học-Công nghệ và Môi trường được giao nhiệm vụ là thường trực, có trách nhiệm tổ chức việc xây dựng kế hoạch CNTT từng năm để trình duyệt với trung ương và địa phương. Nguồn kinh phí dành cho chương trình CNTT căn cứ  trên kế hoạch đã được phê duyệt chính thức và phần ngân sách đã được cân đối từ nguồn trung ương và địa phương sẽ được chuyển về tài khoản của Sở KHCN & MT;  Đối với từng dự án cụ thể, căn cứ tiến độ thực hiện hàng quý, kinh phí sẽ được cấp phát để Ban chủ nhiệm dự án triển khai thực hiện; Ban chủ nhiệm dự án chịu trách nhiệm quyết toán tài chính trong việc sử dụng kinh phí  theo kế hoạch được duyệt và các quy định của Nhà nước.
+	Đối với việc mua sắm trang thiết bị máy móc, xây dựng các phần mềm hệ thống, phần mềm ứng dụng CNTT, các Ban chủ nhiệm dự án căn cứ trên những văn bản hướng dẫn và quy định hiện hành để thực hiện. Các nội dung kỹ thuật có liên quan phải được Hội đồng thẩm định về  CNTT phê duyệt và tham gia trong quá trình xét chọn thầu cũng như nghiệm thu.
+	Đối với vấn đề đào tạo, Ban chỉ đạo CNTT thống nhất ý kiến giao cho thường trực của Ban chỉ đạo là Sở Khoa học-Công nghệ và Môi trường phối hợp với các đơn vị có liên quan tổ chức các lớp đào tạo đáp ứng cho chương trình mục tiêu phát triển CNTT của tỉnh Lâm Đồng. Các đối tượng cũng nội dung đào tạo căn cứ trên nền căn bản của chương trình đào tạo do Ban chỉ đạo Quốc gia về CNTT đưa ra với các phương thức và biện pháp tổ chức phù hợp với 3 đối tượng chính, chú trọng đến việc đào tạo theo vị trí với các nhu cầu cụ thể cần đạt được và đem lại hiệu quả thiết thực.
+Do tình hình kinh phí, việc triển khai Dự án khối các sở, ban, ngành và các huyện thị, thành phố của tỉnh Lâm Đồng trong năm 1998 chỉ tập trung chủ yếu vào 6 đơn vị nêu trên. Việc huy động và sử dụng các nguồn kinh phí khác bổ sung vào chương trình hoạt động phát triển CNTT tại mỗi đơn vị là điều cần thiết và  đến các yếu tố chính ảnh hưởng đến  hiệu quả trong xây dựng thiết kế và triển khai thực hiện dự án:
+- Việc trang bị các thiết bị máy móc phải được cân nhắc hợp lý để đem lại tính hiệu quả thiết thực; đối với thiết bị hệ thống phải đảm bảo tính khoa học, thống nhất, tính nguyên tắc và hợp lý trên quan điểm hệ thống mở (cùng với các khuyến cáo của Ban chỉ đạo QG) tránh gây ra những lãng phí trên lĩnh vực này. Khai thác thiết bị máy móc đã trang bị để đem lại hiệu quả thiết thực cho đơn vị, tránh việc mua sắm các thiết bị cao cấp nhưng chưa thể đưa vào sử dụng hoặc chưa đủ nhân lực để khai thác sử dụng máy.
+- Vấn đề nhân lực trong bộ máy quản lý của đơn vị: kịp thời bồi dưỡng đào tạo để CBCNV vững trong nghiệp vụ, làm chủ được phương tiện thiết bị và nhạy bén đối với sự đổi mới và phát triển liên tục của khoa học công nghệ, trong lĩnh vực CNTT để có thể tổ chức khai thác thông tin trong phạm vi chuyên môn và gắn kết với chương trình tin học hoá hệ thống quản lý nhà nước.
+- Vấn đề thông tin – xử lý thông tin: có những tiêu chuẩn  được quy định thống nhất và phù hợp theo ngành, theo cấp trung ương, địa phương; các văn bản phải theo quy trình xử lý khoa học (thống nhất và rõ ràng), để có thể kết hợp tối ưu năng lực của người quản lý với các phương tiện tin học hỗ trợ đã được trang bị trong công việc.
+	- Việc triển khai các nội dung trong dự án do Ban chủ nhiệm tổ chức và giám sát có sự hỗ trợ của nhóm chuyên viên kỹ thuật. Các hạng mục trong dự án tùy theo điều kiện thực tế của mỗi năm, sau khi được phê duyệt sẽ tổ chức triển khai theo các hợp đồng chính thức. Đối với các nội dung kỹ thuật trong quá trình xét chọn thầu cũng như nghiệm thu, đều phải có ý kiến của Hội đồng thẩm định kỹ thuật.
+	Các Ban chủ nhiệm dự án từng quý phải có báo cáo về Ban chỉ đạo CNTT Tỉnh về việc triển khai thực hiện dự án: Nội dung đã thực hiện và các vướng mắc, kiến nghị. Sở KH-CN & MT có trách nhiệm tổng hợp để kịp thời tổng hợp báo cáo  với BCĐ chương trình CNTT quốc gia, UBND tỉnh.
+
+
+
+
+CHƯƠNG V:
+TỔNG HỢP KẾ HOẠCH KINH PHÍ DỰ ÁN CNTT TỈNH LÂM ĐỒNG
+
+
+
+ BẢNG 1:  KẾ HOẠCH TỔNG THỂ CỦA TỈNH LÂM ĐỒNG 1999 - 2000
+																																		(Đơn vị tính: triệu đồng)
+
+Số TT
+
+Giai đoạn
+
+Nội dung
+(Tên các dự án và các hoạt động khác)
+
+Kết quả dự kiến
+
+Kinh phí dự kiến
+
+
+
+A. QUẢN LÝ NGHIỆP VỤ
+
+1998
+1999
+2000
+
+1
+Giai đọan II
+1998-2000
+Tiếp tục dự án Tin học hoá tại VP UBND Tỉnh.
+- Hình thành cơ bản mạng LAN, WAN.
+- Hệ thông tin các b/c định kỳ của VP UBND.
+- Tin học hóa hệ thống quản lý HCNN  tại VP UBND.
+- Tin học hóa khâu quản lý tổ chức hành chính nội bộ.
+- Xây dựng các CSDL tại VP UBND.
+100
+250
+350
+
+2
+1998-2000
+Xây dựng cơ sở hạ tầng CNTT tại VP Tỉnh ủy, các đơn vị trực thuộc hệ Đảng.
+- Tin học hóa khâu quản lý tổ chức hành chính nội bộ.
+- Hệ thông tin các b/c định kỳ của VP Tỉnh ủy vàcác đơn vị trực thuộc hệ Đảng.
+- Xây dựng các CSDL tại VP Tỉnh ủy .
+300
+300
+350
+
+3.1
+1998-2000
+Xây dựng cơ sở hạ tầng  CNTT ở một số các Sở Ban Ngành trọng điểm : Sở KH-ĐT, Sở TC-VG, Sở KHCNMT, Ban TCCQ.
+- Hình thành mạng cục bộ LAN tại mỗi đơn vị.
+- Tin học hóa khâu tổ chức hành chính nội bộ.
+- Tin học hóa trong nghiệp vụ chuyên môn.
+- CSDL chuyên ngành.
+200
+300
+450
+
+3.2
+1998-2000
+Xây dựng cơ sở hạ tầng CNTT tại một số Huyện, Thị, Thành phố trọng điểm (Thành phố Đà Lạt và Thị xã Bảo Lộc) và tiếp tục mở rộng mở rộng .
+- Tin học hóa khâu quản lý tổ chức hành chính nội bộ. 
+- Hệ thông tin các b/c định kỳ của VP UBND.
+150
+300
+300
+
+3.3
+1998-2000
+Chuyển giao phần mềm ứng dụng cho khâu quản lý nội bộ và kế toán ở các đơn vị khối HCSN.
+- Tin học hoá trong các khâu quản lý nhân sự, tài chính cho tất cả các đơn vị thuộc khối HCSN
+
+100
+50
+
+
+
+
+B. TĂNG CƯỜNG NĂNG LỰC CNTT
+
+
+
+
+
+1
+1998
+ Tổ chức tập huấn, đào tạo,bồi dưỡng, xây dựng nguồn lực chủ chốt cho chương trình CNTT.
+- Nâng cao nhận thức về CNTT, thực hiện ứng dụng CNTT trên địa bàn Tỉnh có hiệu quả và theo kịp với đà phát triển chung của quốc gia.
+
+35
+45
+
+2
+1999-2000
+Xây dựng cơ sở hạ tầng cho mạng diện rộng WAN của Tỉnh.
+- Chuẩn bị cho việc kết nối với hệ thống mạng vùng, mạng quốc gia.
+
+75
+100
+
+3
+1998-2000
+Nghiên cứu việc thành lập Trung tâm CNTT của Tỉnh.
+- Tư vấn về lĩnh vực CNTT, Quản lý các hệ thống và thông tin dữ liệu của Tỉnh, thực hiện một số nhiệm vụ khác nhằm phát triển CNTT của Tỉnh.
+
+35
+50
+
+4
+1998-2000
+Nghiên cứu, xây dựng các chính sách- biện pháp nhằm tăng cường việc quản lý và phát triển CNTT tại địa phương.
+- Định hướng và tạo điều kiện thuận lợi cho sự phát triển CNTT của địa phương. 
+
+5
+5
+
+
+
+
+
+
+Nguồn kinh phí
+
+Ngân sách Trung ương
+
+
+250
+
+1000
+
+1000
+
+
+
+
+
+Ngân sách địa phương
+
+
+500
+
+400
+
+700
+
+
+
+
+             
+TỔNG CỘNG
+
+750
+1400
+1700
+
+
+
+
+
+
+
+BẢNG 2: TỔNG DỰ TOÁN KINH PHÍ CNTT GIAI ĐOẠN 1998 - 2000 TỪ CÁC NGUỒN
+
+* Tổng dự toán kinh phí từ các nguồn: 3.850 triệu, được phân bổ cho các dự án trong hệ thống dự án CNTT tỉnh Lâm Đồng giai đoạn 1998 - 2000
+	Trong đó:
+	- Năm 1998: 750 triệu
+		+ Nguồn kinh phí TW: 250 triệu
+		+ Nguồn kinh phí địa phương: 500 triệu	
+	- Năm 1999: 1.400 triệu
+		+ Nguồn kinh phí TW: 467 triệu
+		+ Nguồn kinh phí địa phương: 933 triệu
+	- Năm 2000: 1.700 triệu
+		+ Nguồn kinh phí TW: 567 triệu
+		+ Nguồn kinh phí địa phương: 1.133 triệu
+
+			
+
+
+BẢNG 3: PHÂN BỔ NGUỒN KINH PHÍ ĐỊA PHƯƠNG CÁC DỰ ÁN CNTT TỈNH LÂM ĐỒNG NĂM 1998
+
+
+
+
+
+
+
+Khối Đảng
+UBND tỉnh
+UBND huyện 
+UBND TP 
+Ban Tổ chức
+Cục 
+
+
+
+Tổng kinh phí được cấp: 
+
+
+
+
+
+Bảo Lộc
+Dalat
+Chínhquyền
+thống kê
+
+
+
+500,000,000
+đồng
+
+
+200,000,000
+100,000,000
+50,000,000
+50,000,000
+50,000,000
+50,000,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khối Đảng
+UBND tỉnh
+UBND huyện
+UBND TP
+Ban Tổ chức
+Cục
+
+Stt
+Hạng mục
+
+
+Tỷ lệ
+Tổng số tiền
+
+
+Bảo Lộc
+Dalat
+Chínhquyền
+thống kê
+
+1
+Hoạt động quản lý & điều hành 
+dự án
+
+
+5%
+25,000,000
+10,000,000
+5,000,000
+2,500,000
+2,500,000
+2,500,000
+2,500,000
+
+2
+Trang bị máy móc
+
+
+68%
+340,000,000
+136,000,000
+68,000,000
+34,000,000
+34,000,000
+34,000,000
+34,000,000
+
+3
+Đào tạo CNTT
+
+
+16%
+80,000,000
+32,000,000
+16,000,000
+8,000,000
+8,000,000
+8,000,000
+8,000,000
+
+4
+Triển khai ứng dụng
+
+
+11%
+55,000,000
+22,000,000
+11,000,000
+5,500,000
+5,500,000
+5,500,000
+5,500,000
+
+
+Cộng
+
+
+100%
+500,000,000
+200,000,000
+100,000,000
+50,000,000
+50,000,000
+50,000,000
+50,000,000
+
+ 
+BẢNG 4: PHÂN BỔ NGUỒN KINH PHÍ TRUNG ƯƠNG CÁC DỰ ÁN CNTT TỈNH LÂM ĐỒNG NĂM 1998
+
+
+
+Tổng kinh phí được cấp: 
+
+
+
+Khối Đảng
+Sở tài chánh
+Sở kế hoạch
+
+
+
+250,000,000
+đồng
+
+
+100,000,000
+75,000,000
+75,000,000
+
+
+
+
+
+
+
+
+
+
+
+Stt
+Hạng mục
+
+
+Tỷ lệ
+Tổng số tiền
+Khối Đảng
+Sở tài chánh
+Sở kế hoạch
+
+1
+Hoạt động quản lý& điều hành dự án
+
+
+5%
+12,500,000
+5,000,000
+3,750,000
+3,750,000
+
+2
+Trang bị máy móc
+
+
+68%
+170,000,000
+68,000,000
+51,000,000
+51,000,000
+
+3
+Đào tạo CNTT
+
+
+16%
+40,000,000
+16,000,000
+12,000,000
+12,000,000
+
+4
+Triển khai ứng dụng
+
+
+11%
+27,500,000
+11,000,000
+8,250,000
+8,250,000
+
+
+Cộng
+
+
+100%
+250,000,000
+100,000,000
+75,000,000
+75,000,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN THỨ HAI:
+
+DỰ ÁN TIN HỌC HÓA KHỐI CÁC SỞ, BAN NGÀNH VÀ HUYỆN, THỊ, THÀNH PHỐ CỦA TỈNH LÂM ĐỒNG GIAI ĐOẠN 1998 - 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN I :
+ĐÁNH GIÁ CHUNG VỀ HỆ THỐNG - PHÂN TÍCH HIỆN TRẠNG ỨNG DỤNG CNTT VÀ ĐÁNH GIÁ HIỆU QUẢ 
+HOẠT ĐỘNG HIỆN HÀNH
+
+	Hiện nay, trong điều kiện mở rộng sự phát triển công nghệ thông tin (CNTT) trên toàn quốc. Lâm Đồng mặc dù là một tỉnh miền núi nhưng cũng đã có một số hoạt động tương đối tốt trên lĩnh vực này. 
+Việc ứng dụng tin học trong các cơ quan nhà nước đã bước đầu được sớm hình thành và phát triển theo ngành dọc ở các ngành Bưu điện, Ngân hàng, Điện lực. Từ năm 1992 một số các Sở Ban Ngành khác cũng  đã trang bị máy vi tính và triển khai ứng dụng các phần mềm đơn giản phục vụ các khâu cơ bản trong quản lý nội bộ (phần mềm kế toán, quản lý nhân sự) cùng với các phần mềm đơn giản phục vụ công tác chuyên môn tại đơn vị (Sở Khoa học, Công nghệ & Môi trường, Cục Thống kê, Sở Tài chính, Sở Giao thông Vận tải, Sở  Kế hoạch, Đầu tư, Ban tổ chức chính quyền, Sở Giáo dục đào tạo…). Tuy nhiên tính kỹ thuật và hiệu quả của một số phần mềm đang ứng dụng hãy còn nhiều hạn chế, cần được phân tích và thiết kế theo một chương trình tiện ích và hữu hiệu hơn. Tại các đơn vị phát triển mạnh trên lĩnh vực ứng dụng tin học như: Bưu điện, Điện lực, Ngân hàng nhà nước, Kho bạc nhà nước, Cục thống kê đã có nhiều phát triển trên lĩnh vực hoạt động CNTT trong chuyên ngành trên các hệ thống mạng Ethernet, LAN, WAN. 
+Giai đoạn 1996-1997, dự án tin học hóa hệ thống quản lý nhà nước của Tỉnh theo chương trình CNTT Quốc gia đã được triển khai thực hiện tại VP UBND Tỉnh, bước đầu đã tổ chức đào tạo tin học cho hơn 42  người là các chuyên viên và cán bộ, nhân viên hành chính thuộc VP UBND Tỉnh, Huyện, Thị xã, Thành phố và VP Tỉnh ủy và 1 chuyên viên Tin học. VP UBND Tỉnh đã và đang tiếp tục trang bị máy móc thiết bị CNTT, hợp đồng thiết kế và cài đặt để đưa vào ứng dụng các phần mềm quản lý ở các phân hệ chủ yếu ban đầu (Quản lý hồ sơ văn bản; Tổng hợp các báo cáo định kỳ; Lưu trữ tra cứu; Quản lý nội bộ; CSDL pháp qui).
+Đánh giá hoạt động CNTT của các đơn vị thuộc khu vực sự nghiệp hành chính bao gồm các Sở, Ban, Ngành trong Tỉnh, qua tổng hợp báo cáo của 20 đơn vị (tháng 7.1997) tổng số máy vi tính được trang bị là 574 máy; trong đó số máy trên 486 là 115 máy (chiếm 20%). Đa số máy được sử dụng trong việc xử lý văn bản, hỗ trợ cho phần kế toán và nhân sự nội bộ. Một số các đơn vị đã có phần mềm chuyên ngành để hỗ trợ cho việc quản lý của đơn vị (8 đơn vị). Trong số các Sở, Ban, Ngành hiện nay đã có 7 đơn vị hình thành hệ thống mạng (Ethernet, LAN, WAN) với mức độ khai thác ở các trình độ khác nhau. 
+Đánh giá về nhân lực CNTT (tính trong đội ngũ các CBCNV các đơn vị sự nghiệp hành chính khối Sở, Ban, Ngành) hiện nay đạt mức tương đối khá ở trình độ sử dụng đơn giản. Tuy nhiên số lượng chuyên viên tin học có hiểu biết chuyên sâu cả về kỹ thuật lẫn kinh nghiệm quản lý nhà nước còn nhiều hạn chế. Đây là yếu tố then chốt cần được quan tâm nhằm nâng cao tỷ lệ này cho phù hợp với tiến độ phát triển CNTT trong những năm kế tiếp. Ở các đơn vị trọng yếu cần sớm bổ sung và đào tạo thêm các chuyên viên tin học có trình độ. Riêng đối với các đơn vị thuộc các Huyện, Thị trong Tỉnh các kiến thức về CNTT, hạ tầng cơ sở CNTT còn nhiều thiếu kém, cần phải từng bước mở rộng quy mô phát triển CNTT từ các khâu đơn giản, cơ bản để nâng cao nhận thức về ứng dụng tin học trong công tác quản  lý.
+Để triển khai nội dung phát triển CNTT giai đoạn 2, ban chỉ đạo CNTT Tỉnh đã hướng dẫn một số nội dung cụ thể trong chương trình phát triển CNTT đến năm 2000 để các Sở, Ban, Ngành và các Huyện, Thị xã, Thành phố trong Tỉnh lập kế hoạch CNTT cho các đơn vị và sắp xếp  tổ chức lại hợp lý các khâu quản lý của đơn vị. Mục tiêu của việc xây dựng các kế hoạch là nhằm hình thành cơ bản đối với khối cơ quan quản lý nhà nước một hệ thống cơ sở hạ tầng CNTT, sớm đưa các ứng dụng CNTT vào hệ thống quản lý nhà nước tại địa phương, đảm bảo hệ thống mạng hoạt động được hiệu quả, góp phần thúc đẩy nhanh sự phát triển  tại địa phương trong những năm  tiếp đến.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN II:
+ CÁC NỘI DUNG PHÁT TRIỂN DỰ ÁN TIN HỌC HÓA KHỐI CÁC SỞ BAN NGÀNH VÀ CÁC HUYỆN THỊ THÀNH PHỐ CỦA TỈNH
+
+II.1. MÔ TẢ VÀ PHÂN TÍCH HIỆN TRẠNG CHỨC NĂNG, NHIỆM VỤ, SƠ ĐỒ TỔ CHỨC, CƠ CẤU NHÂN SỰ 
+Hiện nay qua đánh giá sơ bộ về tình hình ứng dụng CNTT tại các đơn vị quản lý Nhà nước trong Tỉnh, đặc biệt chú trọng đến các Sở, Ban, Ngành trực thuộc UBND Tỉnh, mức độ ứng dụng CNTT thấp, nhân lực còn hạn chế, các phần mềm sử dụng chủ yếu là soạn thảo văn bản, quản lý kế toán, tiền lương , nhân sự nội bộ. Một số các đơn vị có các phần mềm nghiệp vụ chuyên ngành: Sở KH-CN& MT, Giao thông-Vận tải,Lao động-Thương binh-Xã hội, Kế hoạch & Đầu tư, Tài chính - Vật giá, Ban tổ chức chính quyền, Cục kiểm lâm. Tuy nhiên các phần mềm thường chưa đủ mạnh hoặc chưa đủ nhân lực để khai thác ứng dụng một cách hiệu quả. Giai đoạn 1996-1997 vừa qua, việc triển khai ứng dụng chỉ  mới tập trung ở VP. UBND Tỉnh; kết quả đạt được trên 1 số nội dung căn bản: đào tạo, trang bị máy móc, xây dựng hệ thống mạng để truyền nhận thông tin và các phân hệ cơ bản liên quan đến lĩnh vực quản lý hành chính. Mặc dù còn gặp nhiều hạn chế trong việc triển khai, nhưng đây cũng là tiền đề giúp sự nhận thức về chương trình rõ nét hơn. Căn cứ kế hoạch xây dựng cho giai đoạn 1998-2000, trong năm 1998, mặc dù kinh phí hạn chế nhưng BCĐ CNTT thống nhất việc cân đối để mở rộng tin học hóa tại 6 đơn vị bằng những mục tiêu ngắn hạn, thiết thực với yêu cầu và điều kiện kinh phí cũng như năng lực hiện có đối với các cơ quan trong khối HCSN tại địa phương.
+Nhiệm vụ của các Sở Ban Ngành tập trung chủ yếu ở 2 phương diện:
+Quản lý Nhà nước trên địa bàn Tỉnh theo chuyên ngành đã được UBND Tỉnh phân công giao trách nhiệm.
+Báo cáo, tổ chức thực hiện các chương trình, kế hoạch theo Bộ chủ quản chuyên ngành sau khi đã thông qua ý kiến của UBND Tỉnh.
+Đối với dự án trong năm 1998, yêu cầu so với các nhiệm vụ của đơn vị chỉ đặt trọng tâm vào các khâu chính nhằm truyền nhận các thông tin chủ yếu trong báo cáo định kỳ lên UBND Tỉnh. Đồng thời tin học hóa một số khâu tác nghiệp hành chính cơ bản để tạo tiền đề cho việc thiết kế xây dựng các hệ thông tin nghiệp vụ, các cơ sở dữ liệu (CSDL) sau này.
+
+
+
+
+
+Kế hoạch 1998, các đơn vị được triển khai gồm có: 
+Sở Kế hoạch & Đầu tư
+Sở Tài chính & Vật giá
+Cục Thống kê
+Ban tổ chức chính quyền
+VP. UBND Thành phố Đà Lạt
+VP. UBND Thị xã Bảo Lộc
+	Với mức kinh phí cân đối là 350.000.000 đồng (Ba trăm năm mươi triệu đồng) từ hai nguồn ngân sách Trung ương và địa phương, mục đích của dự án nhằm vào các nội dung sau:
+Đối với các Sở và Ban được triển khai
+Trang bị và nâng cấp một số máy móc thiết bị tối thiểu để có thể xây dựng hệ thống mạng nội bộ và nối kết trao đổi thông tin báo cáo với UBND Tỉnh
+Ứng dụng hai phần mềm quản lý nhân sự, kế toán đối với một số đơn vị hoạt động theo HCSN.
+Đào tạo kiến thức tin học căn bản và chú trọng đến kiến thức về mạng và cơ sở dữ liệu đối với một số chuyên viên có khả năng cũng như nhận thức cần thiết phải tích cực ứng dụng CNTT vào các hoạt động của đơn vị.
+Phối hợp với chuyên ngành và căn cứ trên các yêu cầu thực tiễn tại địa phương tiến hành bước đầu việc khảo sát thiết kế xây dựng kế hoạch cụ thể cho các năm kế tiếp, đặc biệt đối với các CSDL chuyên ngành của đơn vị ở phạm vi địa phương
+Tiến hành việc truyền nhận các báo cáo với VP. UBND Tỉnh dưới hình thức truyềnthư điện tử.
+Đối với các VP. UBND cấp Huyện, Thị
+Trang bị máy tính, modem giúp Văn phòng có thể sử dụng máy trong công tác soạn thảo văn bản, in ấn, truyền nhận báo cáo qua modem.
+Ứng dụng hai phần mềm quản lý nhân sự, kế toán tại VP UBND huyện.
+Đào tạo kiến thức tin học căn bản và chú trọng đến kiến thức về mạng và cơ sở dữ liệu đối với một số chuyên viên có khả năng cũng như nhận thức cần thiết phải tích cực ứng dụng CNTT vào các hoạt động của đơn vị.  
+II.2. MỤC TIÊU THIẾT KẾ HỆ THỐNG TẠI CÁC SỞ, BAN, NGÀNH :  
+II.2.1. Mục tiêu :
+	Dự án đưa CNTT phục vụ quản lý Nhà nước của tỉnh được xây dựng trên cơ sở chính sách Quốc gia về phát triển CNTT ở nước ta đến năm 2000 và dự án “ tin học hoá hệ thống quản lý nhà nước tại UBND tỉnh “ . Do vậy mục tiêu của dự án không nằm ngoài mục tiêu chung của Chương trình Quốc gia , phù hợp với mục tiêu của dự án tỉnh :
+Nâng cao chất lượng các hoạt động quản lý nhà nước của caực ủụn vũ, cung cấp thông tin chính xác, đầy đủ, kịp thời cho các Nhà quản lý , lãnh đạo trên cơ sở một hệ thống phần mềm trợ giúp việc lưu trữ , sắp xếp, tìm kiếm, tổng hợp, phân tích tốt .
+Xây dựng CSDL cho một số lĩnh vực hoạt động của caực ủụn vũ.
+Thiết lập mạng máy tính tại caực ủụn vũ nhằm đảm bảo sự liên kết trao đổi thông tin giữa các phòng nghiệp vụ của ủụn vũ, giữa sở với UBND tỉnh, Bộ chuỷ quaỷn và các cơ quan khác , tiến tới hoà nhập vào mạng Quốc gia
+II.2.2. Các chức năng cụ thể 
+- Trao đổi thông tin nội bộ trong các cơ quan, đơn vị  và thông tin với các đơn vị bên ngoài.
+- Trao đổi thông tin với Uỷ ban nhân dân Tỉnh và Tỉnh ủy.
+- Trao đổi thông tin, cung cấp và khai thác dữ  liệu với các cơ quan của Trung ương qua mạng trung tâm của UBND tỉnh .
+- Trao đổi thông tin với các Tỉnh, thành phố khác qua mạng trung tâm của UBND tỉnh.
+II.2.3. Nhiệm vụ và yêu cầu kết nối hệ thống
+Nhiệm vụ chung là xây dựng hệ thống hạ tầng cơ sở phục vụ quản lý công tác hành chính bằng mạng thông tin máy tính.
+- Trang bị đủ máy tính và thiết bị phụ trợ cho mạng và các trạm làm việc đủ khả năng đáp ứng yêu cầu thực hiện các mục tiêu đề ra. 
+- Trước mắt sử dụng một số máy tính đủ mạnh để làm nhiệm vụ mã - dịch, truyền tin,  chứa các cơ sở dữ liệu chuyên môn của từng đơn vị. Trong các năm tới, khi nhu cầu công việc và lượng thông tin tăng lên sẽ thay thế bằng các Server đủ mạnh.  Các đơn vị  sử dụng cơ chế DIALUP kết nối với mạng trung tâm qua mạng điện thoại của thành phố.
+- Kết nối mạng máy tính của Uỷ ban nhân dân Tỉnh với  với mạng máy tính của Tỉnh uỷ, bảo đảm các đơn vị  trao đổi thông tin và khai thác chung cơ sở dữ liệu của tỉnh.
+- Kết nối mạng máy tính của UBND tỉnh với mạng máy tính của các cơ quan Trung ương và Chính phủ qua các hình thức.
+ 	+ Trực tiếp qua mạng thông tin số liên kết đa dịch vụ (ISDN) chuyên dùng của Tổng Cục Bưu điện.
+	+  Qua mạng máy tính của UBND Tỉnh và sử dụng chung các kênh X.25 trên mạng thông tin quốc gia.
+	+  Sử dụng các kênh điện thoại thông dụng theo cơ chế DIALUP, có khả năng trao đổi thông tin với nhiều hệ thống khác qua mạng thông tin quốc gia, sẽ nâng cao hiệu quả sử dụng và tiết kiệm chi phí.
+	+  Qua các tuyến thông tin dự phòng hoặc mạng thông tin dự phòng của Tổng cục Bưu điện  trong những tình huống đặc biệt.
+	+  Kết nối mạng thông tin máy tính của UBND tỉnh với các trạm làm việc đặt tại các huyện, thị, thành phố theo cơ chế DIALUP qua mạng điện thoại địa phương.
+- Các dịch vụ cung cấp trên mạng bao gồm :
+	+ Thư tín điện tử
+	+ Truyền các tập tin văn bản, siêu văn bản
+	+ Khai thác các cơ  sở dữ liệu dùng chung.
+	+ Cung cấp các chương trình ứng dụng thống nhất trong hệ thống.
+Hệ thống thông tin tại caực ủụn vũ phải thực hiện được các chức năng:
+Quản lý hiệu quả các công văn đến , các công văn đI và quá trình giải
+ quỹt vơ viƯc.
+Trợ giúp cho quá trình ra quyết định  của lãnh đạo
+Trợ giúp cho công tác xử lý vụ việc của chuyên viên
+Xử lý và tổng hợp một cách khoa học, có hệ thống, nhanh chóng các báo cáo định kỳ.
+Lưu trữ và cung cấp các thông tin để tra cứu sau này
+Quản lý các hoạt động trong nội bộ của ủụn vũ 
+II.2.4. Các yêu cầu nghiệp vụ và kỹ thuật đối với hệ thống thông tin
+Đảm bảo tính nghiệp vụ: Phù hợp với các nguyên tắc và nguyên lý vận hành của qui trình quản lý của ủụn vũ .
+Đảm bảo tính hiện đại: Hệ thống phải được xây dựng dựa trên cơ sở  CNTT hiện đại, ứng dụng được các công nghệ tương đối tiên tiến trên thế giới tin học ngày nay để tránh bị lạc hậu trong tương lai.
+Đảm bảo tính mở, dễ phát triển của hệ thống: Các phần CSDL phục vụ cho quản lý phải được thiết kế sao cho có thể thích nghi và đáp ứng được nhu cầu quản lý hiện nay cũng như có thể mở rộng trong tương lai. Do đặc điểm chưa ổn định của hệ thống hành chính hiện nay tại nước ta,  trong cuộc cải cách hành chính sắp tới chắc chắn sẽ có các thay đổi đáng kể tới các thủ tục hành chính. Vì thế hệ thống cần có khả năng mở rộng các chức năng mới khi cần thiết.
+Đảm bảo tính hiệu quả: Có khả năng lưu trữ lớn, quản lý được cả các dữ liệu có cấu trúc và phi cấu trúc (ví dụ như nội dung văn bản, ý kiến của lãnh đạo), khả năng cung cấp thông tin nhanh chóng, chính xác đầy đủ.
+Đảm bảo tính an toàn, bảo mật: Hệ cần có cơ chế hạn chế hỏng hóc về kỹ thuật, chống mất mát, sai hỏng dữ liệu, chống mất cắp thông tin. Dữ liệu cần được BackUp thường xuyên. Tùy khả năng của phần cứng có thể chạy trên chế độ hai modul lưu dữ liệu song song về các thông tin quan trọng nhất. Quyền truy nhập thông tin được gán tới từng đối tượng sử dụng theo mức độ phân cấp hay chế độ nhóm làm việc.
+Đảm bảo tính dễ sử dụng: Giao diện thân thiện với người sử dụng, các giao diện nên được viết trên các mô đun giao diện thống nhất để người sử dụng dễ nhớ các thủ tục thao tác vận hành.
+II.3. Các thành phần của hệ thống thông tin TẠI ẹễN Về
+     Hệ thống sẽ được xây dựng có thể chia ra thành các khối thông tin có các mối liên kết dữ liệu thông qua các quan hệ. Các khối thông tin lại có thể chia ra hai loại chính: Loại phục vụ công tác điều hành hoạt động quản lý nhà nước hàng ngày và loại cung cấp thông tin hỗ trợ ra quyết định . 
+II.3.1. Các phân hệ thông tin chính của ủụn vũ:
+Hệ điều hành và tác nghiệp: - Văn phòng Sở chủ trì với tư cách là đầu mối trao đổi thông tin chính trong Sở và giữa Sở với các cơ quan bên ngoài, đặc biệt là với UBND tỉnh. Vì vậy, hệ thống điều hành tác nghiệp của Sở cũng nên nhất quán và phù hợp với HTTT phục vụ QLNN chung của UBND tỉnh. Nội dung chính của điều hành tác nghiệp là:
+Quản lý và xử lý hồ sơ văn bản (trong đó có cả các văn bản nội bộ, ví dụ biên bản các cuộc họp của Sở...). Cần đặc biệt chú ý là phân hệ này quản lý tất cả các văn bản pháp quy. Các văn bản pháp quy này sẽ được các chuyên viên của ủụn vũ và các cá nhân đơn vị có liên quan tra cưú phục vụ cho các hoạt động của mình
+Lập lịch làm việc của ủụn vũ (có quan hệ với các biên bản sau này)
+Hệ quản lý hành chính, nội bộ: các bộ phận liên quan nằm trong Văn phòng ủụn vũ chủ trì; 
+Quản lý cán bộ của cơ quan
+Quản lý tài chính kế toán, 
+Quản lý tài sản, thiết bị của cơ quan
+...
+Đây là những bài toán quản lý nội bộ mà hầu như cơ quan nhà nước nào cũng cần có. Do vậy, nên sử dụng những phần mềm quản lý về cơ bản thống nhất, và được thích nghi cụ thể vào các qui trình thực hiện và nội dung dữ liệu cụ thể của ủụn vũ;
+II.3.2. Mục tiêu quản lý: 
+	Hệ điều hành tác nghiệp được xây dựng với mục đích phục vụ thông suốt và quản lý có hiệu quả quá trình điều hành công việc, xử lý, khai thác, trao đổi thông tin trong nội bộ ủụn vũ, giữa các cá nhân, đơn vị, phòng ban tại Văn phòng ủụn vũ và với bên ngoài. 
+	Hệ này trợ giúp công tác  điều hành và quản lý nhà nước của VP UB thông qua việc quản lý và theo dõi các công văn các công văn, tài liệu, văn bản, hồ sơ đi và đến, các xử lý văn bản tại các bộ phận của Văn phòng ủụn vũ, các trao đổi thông tin và các khai thác các dịch vụ ứng dụng trên hệ thống mạng diện rộng (trong trường hợp LAN của Văn phòng ủụn vũ được nối mạng với các nơi, nhất  trước hết là với VP UBND tỉnh).
+	Các khâu xử lý bao gồm: 
+Tiếp nhận, vào sổ, thống kê tình hình  văn bản đi và đến.
+Phân loại và xác định bộ phận nào trong Sở nhận và (nhóm) chuyên viên xử lý.
+Xử lý văn bản đến
+Ban hành văn bản đi.
+Tạo lập các hồ sơ quản lý công việc và quản lý theo vụ việc.
+Quản lý và theo dõi tình hình hồ sơ văn bản (bao gồm cả quá trình xử lý và tình hình hồi báo văn bản).
+Đánh máy, in, sao chụp, phát hành và lưu trữ văn bản
+Tổ chức lưu trữ thông tin.
+Cung cấp thông tin
+Tìm kiếm hồ sơ và văn bản theo chủ đề, tiêu thức.
+Tổng hợp thông tin, lập thống kê, báo cáo.
+Trao đổi thông tin (trong nội bộ và với bên ngoài)
+Khai thác các dịch vụ trên hệ thống mạng.
+
+II. 4. MÔ TẢ SƠ ĐỒ TRAO ĐỔI THÔNG TIN TRONG ĐƠN VỊ 
+Đối với các Sở có điều kiện về thiết bị máy móc, sẽ triển khai việc xây dựng  hệ thống mạng nội bộ; giúp việc trao đổi thông tin đơn giản bằng hình thức truyền files.Từng Sở theo chức năng chuyên môn và sự phân công chuyên trách theo phòng, dự án trong các năm kế tiếp sẽ trang bị và xây dựng các Cơ sở dữ liệu tương ứng để hình thành các hệ thống thông tin trong nội bộ được nghiên cứu theo các cấu hình thích hợp, giúp sau này có thể truy cập trên mạng ở mức độ cho phép. Trong năm 1998, việc triển khai chỉ giới hạn ở khâu xây dựng hệ thống báo cáo thường kỳ có liên quan trực tiếp đến một số lĩnh vực trọng yếu theo yêu cầu của lãnh đạo (UBND Tỉnh)
+
+Sơ đồ mô tả trao đổi thông tin trong Sở:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sơ đồ kiến trúc mạng cục bộ tại đơn vị
+
+
+
+
+
+
+
+
+
+
+
+
+
+II. 5. QUAN HỆ THÔNG TIN GIỮA ĐƠN VỊ VÀ CÁC CẤP TẠI ĐỊA PHƯƠNG
+Với nội dung triển khai nêu trên, sơ đồ trao đổi thông tin giữa đơn vị và VP. UBND Tỉnh chỉ giới hạn ở một vài phân hệ giúp việc truyền nhận các thông tin chủ yếu và báo cáo định kỳ lên UBND Tỉnh theo hệ thống mạng đã được xây dựng. Nội dung thông tin đưa vào hệ thống kết nối với VP.UBND Tỉnh bao gồm các phân hệ của đơn vị như:
+- Sở Kế hoạch & Đầu tư : Phần điều hành kế hoạch / Theo dõi quản lý các dự án đầu tư
+- Sở Tài chính & Vật giá: Phần thu chi ngân sách
+- Cục Thống kê: Phần số liệu Thống kê của đơn vị.
+- Ban tổ chức chính quyền: Quản lý nhân sự cán bộ trong Tỉnh, nhu cầu CB và vấn đề đào tạo.
+- Đối với VP. UBND TP. Đà lạt và Thị xã Bảo Lộc: Phân hệ báo cáo định kỳ.
+II. 6. MÔ TẢ, PHÂN TÍCH VÀ THIẾT KẾ CÁC PHÂN HỆ THÔNG TIN CỦA CÁC ĐƠN VỊ ĐƯỢC TRIỂN KHAI
+	Đối với các Sở Ban Ngành việc xây dựng các phân hệ chưa là vấn đề nhất thiết phải quan tâm ở bước đầu khi đơn vị vẫn chưa thực sự đủ năng lực để thực hiện. Vì những đặc thù mang tính chuyên môn theo ngành và để chuyên viên trong khi tiếp cận sử dụng máy móc, các phần mềm nghiệp vụ có thể tăng cường kiến thức về xử lý và khai thác, dự án chỉ xây dựng phân hệ báo cáo định kỳ thông tin và phân hệ quản lý nội bộ (nhân sự, kế toán, tài sản công...).
+II. 7. PHÂN TÍCH THIẾT KẾ TỔNG THỂ CƠ SỞ DỮ LIỆU TRONG CÁC ĐƠN VỊ ĐƯỢC TRIỂN KHAI (chưa thực hiện trong kế hoạch  năm 1998)
+
+
+
+II.8. MÔ TẢ THIẾT KẾ HỆ THỐNG MẠNG CỤC BỘ TẠI CÁC ĐƠN VỊ ĐƯỢC TRIỂN KHAI
+
+
+
+
+
+
+
+
+II.9. MÔ TẢ THIẾT KẾ HỆ THỐNG MẠNG DIỆN RỘNG TỈNH LÂM ĐỒNG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mô hình kết nối mạng diện rộng tỉnh Lâm Đồng 
+trong hệ thống mạng diện rộng Quốc gia:
+ 
+ EMBED Word.Picture.8  
+
+
+
+II. 10. TRANG BỊ CƠ SỞ HẠ TẦNG KỸ THUẬT CNTT TẠI CÁC ĐƠN VỊ ĐƯỢC TRIỂN KHAI
+Khối các Sở, Ban, Ngành
+1. Trang bị một hệ thống mạng cục bộ (LAN) bao gồm:
+	* 01 máy chủ làm nhiệm vụ quản lý files (Files Server), quản lý CSDL và truyền thông.
+	* Modem phục vụ truyền thông và kết nối mạng diện rộng với UBND tỉnh và các đơn vị khác.
+* Tăng cường thêm máy trạm, trang bị các hệ thống card giao tiếp mạng cho các máy hiện có, các thiết bị nối mạng để nối kết mạng LAN trong toàn đơn vị.
+2. Trang bị kiến thức tin học cho các cán bộ lãnh đạo, chuyên viên và các cán bộ kỹ thuật về cơ bản máy tính, khái niệm CSDL, quản trị và khai thác mạng… bằng các hình thức tổ chức tập trung, cử đi học hoặc qua các cuộc hội thảo có mời chuyên gia nhằm tăng cường nguồn lực CNTT tại mỗi đơn vị.
+3. Chuyển giao chạy thử, hiệu chỉnh cho các đơn vị HCSN 2 phần mềm:
+-  Quản lý nhân sự.
+ - Kế toán HCSN. 
+4. Để chuẩn bị cho các chương trình CNTT của những năm tiếp theo, đơn vị sẽ triển khai việc xây dựng các chương trình quản lý CSDL, các chương trình xử lý thông tin chuyên ngành theo tình hình hoạt động quản lý của đơn vị mình.
+VP. UBND Thành phố Đà Lạt và VP.UBND Thị xã Bảo Lộc
+Mục đích chính trong giai đoạn đầu của việc triển khai dự án tại VP. UBND các Huyện, Thị, Thành phố là thiết lập được việc truyền nhận thông tin với VP. UBND Tỉnh; từ đó có thể nhận, gửi các báo cáo định kỳ thông qua mạng lưới điện thoại công cộng bằng hình thức chuyển nhận thư điện tử. Đối với mỗi đơn vị sẽ thực hiện:
+1. Trang bị máy vi tính, modem và các phần mềm cần thiết.
+2. Trang bị 01 máy in.
+3. Chuyển giao, hiệu chỉnh 2 phần mềm:Quản lý nhân sự và Kế toán HCSN để các đơn vị ứng dụng trong khâu quản lý hành chính nội bộ.
+4. Trang bị kiến thức tin học cho các cán bộ lãnh đạo, chuyên viên và các cán bộ kỹ thuật về cơ bản máy tính, các kỹ thuật trong việc chuyển, nhận thông tin bằng các hình thức tổ chức tập trung, cử đi học hoặc qua các cuộc hội thảo có mời chuyên gia nhằm tăng cường nguồn lực CNTT tại mỗi đơn vị.
+II. 11. NHU CẦU ĐÀO TẠO CNTT CHO CÁC ĐỐI TƯỢNG  
+Đối với CB lãnh đạo: 
+Mục tiêu đào tạo nhằm giúp các cán bộ lãnh đạo nắm được khái quát nhưng chính xác các vấn đề cơ bản và hướng phát triển của CNTT, tác động  của CNTT đối với sự phát triển KT-XH. Trên cơ sở đó, các cán bộ lãnh đạo và quản lý sẽ chỉ đạo sâu sát việc thực hiện ứng dụng CNTT trong đơn vị, đề xuất được các yêu cầu thiết thực cho việc ứng dụng CNTT phục vụ công tác lãnh đạo, quản lý tại đơn vị của mình.
+Nội dung đào tạo tập trung vào việc trang bị kiến thức tổng quát giúp CB lãnh đạo có cái nhìn tổng quát về tin học. Trang bị các kiến thức về hệ thống thông tin trong công tác quản lý, một số kiến trúc của các hệ thông tin quản lý và các ứng dụng giúp các cán bộ lãnh đạo và quản lý sử dụng các phần mềm ứng dụng phù hợp với nhiệm vụ riêng. (Kiến thức cơ bản về tin học - Sử dụng, khai thác các Cơ sở dữ liệu có liên quan - Phương pháp tiếp cận mạng.)
+
+Đối với chuyên viên tin học: (lưu ý đào tạo ít nhất là 2 chuyên viên cho mỗi đơn vị)
+Ngoài việc nâng cao trình độ về kiến thức tin học hiện có, cần phải nắm bắt được nội dung, kỹ thuật căn bản về việc xây dựng và hình thành các hệ thống thông tin quản lý, các hệ thống mạng thông dụng, bảo trì máy tính và các hệ thống tin học. . . chuẩn bị việc thực hiện các nội dung tin học hóa đảm nhận trách nhiệm về mặt kỹ thuật đối với các phần việc có liên quan đến máy tính, đến việc quản lý mạng tại cơ quan. Các chuyên viên tin học cần đạt được các tiêu chuẩn sau:
+	- Sử dụng máy tính thành thạo.
+	- Có kiêán thức chuyên sâu về hệ điều hành chủ, hệ điều hành mạng.
+	- Có kiến thức về các phần mềm quản trị Cơ sở dữ liệu để có thể quản lý, sử dụng, thiết kế các bài toán đơn giản, xử lý tình huống.
+	- Có kiến thức hệ thống: Bảo trì cơ bản hệ thống máy cả phần cứng lẫn phần mềm; thiết kế, cài đặt các chương trình phần mềm.
+Đối với người sử dụng:
+Nội dung đào tạo tập trung vào việc phổ cập kiến thức căn bản tin học. Tập huấn sử dụng các phần mềm cơ bản để phục vụ cho các công việc quản lý thực tế hàng ngày của đơn vị. Người sử dụng cần đạt được các yếu tố sau:
+	- Tin học căn bản: Hệ điều hành, các chương trình tiện ích, ứng dụng văn phòng.
+	- Các khái niệm về Cơ sở dữ liệu, phương pháp nhập liệu, sử dụng, khai thác các Cơ sở dữ liệu liên quan đến công việc.
+	- Các khái niệm căn bản về mạng máy tính, các phương pháp truy nhập hệ thống mạng cục bộ.
+II. 12. CÂN ĐỐI NGUỒN TÀI CHÍNH CHO VIỆC THỰC HIỆN CÁC HẠNG MỤC DỰ ÁN
+Nguồn kinh phí thực hiện dự án được phân bổ theo sự cân đối kinh phí trong kế hoạch chung của chương trình CNTT của Tỉnh, các Sở, Ban, Ngành có thể huy động thêm các nguồn khác để bổ sung vào việc xây dựng cơ sở hạ tầng CNTT tại đơn vị.
+	* Trong năm 1998 tổng kinh phí theo kế hoạch đã xây dựng là 350.000.000 đồng. Trong đó:
+- Nguồn ngân sách trung ương  dự kiến là: 		150.000.000 đồng
+- Nguồn ngân sách địa phương là :			200.000.000 đồng
+	* Dự kiến tổng kinh phí năm 1999 theo kế hoạch là 747.000.000 đồng. Trong đó:
+- Nguồn ngân sách trung ương là: 		247.000.000 đồng
+- Nguồn ngân sách địa phương là :			500.000.000 đồng	
+	* Dự kiến tổng kinh phí năm 2000 theo kế hoạch là 1.150.000.000 đồng. Trong đó
+- Nguồn ngân sách trung ương là: 		367.000.000 đồng
+- Nguồn ngân sách địa phương là :		783.000.000 đồng
+
+II. 13. TỔ CHỨC THỰC HIỆN VÀ QUẢN LÝ DỰ ÁN
+Các dự án CNTT được xây dựng và triển khai trên địa bàn Tỉnh Lâm Đồng đều nằm trong chương trình phát triển CNTT chung của Tỉnh và là một trong những chương trình mục tiêu chính (1998 – 2000). Ban chỉ đạo CNTT của Tỉnh đã thống nhất chia các nội dung triển khai thành 3 dự án chính:
+1. Dự án tin học hóa tại Văn phòng UBND Tỉnh Lâm Đồng;
+2. Dự án tin học hóa tại các cơ quan thuộc khối Đảng của tỉnh Lâm Đồng;
+3. Dự án tin học hóa khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố.
+Ủy ban nhân dân tỉnh Lâm Đồng đã ra quyết định thành lập Ban chủ nhiệm đối với mỗi dự án nói trên.
+Sở KH-CN & MT ngoài nhiệm vụ được giao là thường trực của Ban chỉ đạo CNTT Tỉnh, được giao trực tiếp quản lý, tổ chức xây dựng, thiết kế và triển khai các nội dung tin học hóa tại các đơn vị thuộc khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố của tỉnh Lâm Đồng. Phối hợp tổ chức thực hiện với sự tham gia cộng tác và hỗ trợ của các đơn vị được triển khai, tổ tư vấn chương trình CNTT của Tỉnh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN III:
+TỔNG HỢP CÁC DỰ TOÁN KINH PHÍ PHÂN THEO CÁC NGUỒN VÀ THEO CÁC NỘI DUNG DỰ ÁN
+
+
+III.1. BẢNG TỔNG HỢP KINH PHÍ CÁC HẠNG MỤC CỦA DỰ ÁN TIN HỌC HÓA KHỐI CÁC SỞ, BAN, NGÀNH VÀ CÁC HUYỆN, THỊ, THÀNH PHỐ NĂM 1998
+1. Bảng tổng hợp các hạng mục của dự án năm 1998
+Tên dự án: “Tin học hoá khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố  của tỉnh Lâm  Đồng”
+Mã số dự án: 
+Giai đoạn :  1998-2000; Năm : 1998
+Tên cơ quan chủ trì dự án: Sở Khoa học, công nghệ và Môi trường tỉnh Lâm Đồng
+Đơn vị tính: Triệu đồng
+SỐ TT
+Tên gọi hạng mục dự án
+Mục tiêu chính 
+của hạng mục  dự án
+Dù kĩn kinh phÝ 
+thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+11,2
+
+2
+Xây dựng dự án 
+
+3,5
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+2,8
+
+4
+Mua sắm thiết bị
+
+238
+
+5
+Mua sắm phần mềm hệ thống
+
+
+
+6
+Lắp đặt hệ thống mạng 
+
+
+
+7
+Xây dựng các hệ cơ sở dữ liệu, kể cả công việc xây dựng chuẩn thông tin.
+
+
+
+8
+Triển khai phần mềm ứng dụng 
+
+35
+
+9
+Đào Tạo
+
+56
+
+10
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+
+
+11
+Hội thảo đánh giá kết quả thực hiện, nghiệm thu
+
+3,5
+
+
+Tổng cộng
+
+350
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Bảng tổng hợp các hạng mục của dự án năm 1999
+Tên dự án: “Tin học hoá khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố  của tỉnh Lâm  Đồng”
+Giai đoạn :  1998-2000; Năm : 1999
+Tên cơ quan chủ trì dự án: Sở Khoa học, công nghệ và Môi trường tỉnh Lâm Đồng
+
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+15
+
+2
+Xây dựng dự án 
+
+15
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+7,35
+
+4
+Mua sắm thiết bị
+
+400
+
+5
+Lắp đặt hệ thống mạng
+
+30
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+22,17
+
+7
+Mua sắm phần mềm hệ thống
+
+107,96
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+30
+
+9
+Đào tạo cán bộ
+
+119,52
+
+
+Tổng cộng
+
+747
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Bảng tổng hợp các hạng mục của dự án năm 2000
+Tên dự án: “Tin học hoá khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố  của tỉnh Lâm  Đồng”
+Giai đoạn :  1998-2000; Năm : 2000
+Tên cơ quan chủ trì dự án: Sở Khoa học, công nghệ và Môi trường tỉnh Lâm Đồng
+
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+20
+
+2
+Xây dựng dự án 
+
+20
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+17,5
+
+4
+Mua sắm thiết bị
+
+600
+
+5
+Lắp đặt hệ thống mạng
+
+60
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+16,5
+
+7
+Mua sắm phần mềm hệ thống
+
+182
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+50
+
+9
+Đào tạo cán bộ
+
+184
+
+
+Tổng cộng
+
+1.150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+III.2. TRANG THIEÁT BỀ CNTT
+A. Kinh phí trong năm 1998 được triển khai xây dựng cho 4 Sở, Ban, Ngành. Được phân bổ theo hai nguồn kinh phí: Sở tài chính Vật giá và Sở Kế hoạch đầu tư sử dụng nguồn kinh phí do Trung ương cấp. Ban Tổ chức chính quyền, cục Thống kê, UBND huyện Bảo Lộc và Thanh phố Đà Lạt sử dụng nguồn kinh phí do tỉnh cấp. Cụ thể được phân chia như sau:
+
+Bảng 1: (Đối với Sở Tài chính vật giá và Sở Kế hoạch & đầu tư)
+ĐVT: 1000 đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 300Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+20.000
+01
+20.000
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+9.500
+02
+19.000
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+2.000
+01
+2.000
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3.240
+01
+3.240
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+800
+02
+1.600
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+7
+500
+3.500
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.500
+01
+1.500
+
+5
+RJ-45 connector
+Cái
+
+10
+16
+160
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+IV
+Lắp đặt, kiểm tra, thử nghiệm, tích hợp hệ thống
+
+
+
+
+2.500
+
+
+Tổng cộng
+
+
+
+
+51.000
+
+
+
+
+
+
+Bảng 2: (Đối với Cơc Thèng kê vaứ Ban Toồ chửực Chớnh Quyeàn)
+ĐVT: 1000 đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 266 Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+18.000
+01
+18.000
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+
+8.500
+01
+8.500
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+1.500
+01
+1.500
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+HUB8 port 10 Base-T
+Chiếc
+
+2.500
+01
+2.500
+
+2
+Card nối mạng 
+Chiếc
+
+300
+02
+600
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+7
+100
+700
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.200
+01
+1.200
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+IV
+Lắp đặt, kiểm tra, thử nghiệm, tích hợp hệ thống
+
+
+
+
+1.000
+
+
+Tổng cộng
+
+
+
+
+34.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bảng 3: (Đối với UBND TP Đà Lạt và huyện Bảo Lộc)
+ĐVT: 1000 đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 266 Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+18.000
+01
+18.000
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+
+8.500
+01
+8.500
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+1.500
+01
+1.500
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+HUB8 port 10 Base-T
+Chiếc
+
+2.500
+01
+2.500
+
+2
+Card nối mạng 
+Chiếc
+
+300
+02
+600
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+7
+100
+700
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.200
+01
+1.200
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+IV
+Lắp đặt, kiểm tra, thử nghiệm, tích hợp hệ thống
+
+
+
+
+1.000
+
+
+Tổng cộng
+
+
+
+
+34.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baỷng 4: Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 1999
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+
+                                              				Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 400Mhz
+- 128 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+25
+5
+125
+
+2
+Máy trạm: PENTIUM 300 MMX
+- 32 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+15
+5
+75
+
+3
+Máy in
+Bộ
+
+4.5
+2
+9
+
+4
+Máy lưu điện 500 VA
+Chiếc
+
+2
+10
+20
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3
+5
+15
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+0.8
+10
+8
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+0.007
+20.000
+140
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.5
+5
+7.5
+
+5
+RJ-45 connector
+Cái
+
+0.01
+50
+0.5
+
+
+Tổng cộng
+
+
+
+
+400
+
+
+
+
+
+
+
+
+
+Baỷng 5: Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 2000
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+
+                                              				Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 400Mhz
+- 128 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+25
+10
+250
+
+2
+Máy trạm: PENTIUM 300 MMX
+- 32 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+15
+10
+150
+
+3
+Máy in
+Bộ
+
+4.5
+5
+22.5
+
+4
+Máy lưu điện 500 VA
+Chiếc
+
+2
+20
+40
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3
+21
+63
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+0.8
+30
+24
+
+3
+Modem 33,6 Bps
+Chiếc
+
+1.5
+30
+45
+
+4
+RJ-45 connector
+Cái
+
+0.01
+500
+5
+
+
+Tổng cộng
+
+
+
+
+600
+
+
+
+
+
+
+
+
+
+PHẦN IV: 
+BIỆN PHÁP THỰC HIỆN
+
+Chương trình phát triển CNTT do Ban chỉ đạo Tỉnh tham mưu giúp UBND Tỉnh đề ra biện pháp, tổ chức xây dựng kế hoạch, triển khai xây dựng chương trình CNTT theo hướng chung đã được nêu ra theo NQ 49/TTg và kế hoạch tổng thể CNTT đến năm 2000. Các dự án CNTT được xây dựng và triển khai trên địa bàn Tỉnh Lâm Đồng đều nằm trong chương trình phát triển CNTT chung của Tỉnh và là một trong những chương trình mục tiêu chính  (giai đoạn: 1998 – 2000). Ban chỉ đạo CNTT của Tỉnh đã thống nhất chia các nội dung triển khai thành 3 dự án chính:
+1. Dự án tin học hoá tại Văn phòng UBND Tỉnh Lâm Đồng;
+2. Dự án tin học hoá tại các cơ quan thuộc khối Đảng của tỉnh Lâm Đồng;
+3. Dự án tin học hoá khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố.
+
+Ủy ban nhân dân tỉnh Lâm Đồng đãra quyết định thành lập Ban chủ nhiệm đối với mỗi dự án nói trên (các quyết định này đã được photo đính kèm theo mỗi dự án).
+Sở KH-CN & MT ngoài nhiệm vụ được giao là thường trực của Ban chỉ đạo CNTT Tỉnh, được giao trực tiếp quản lý, tổ chức xây dựng và thiết kế triển khai các nội dung tin học hoá tại các đơn vị thuộc khối các Sở, Ban, Ngành và các Huyện, Thị, Thành phố của tỉnh Lâm Đồng. Với nội dung đa dạng và tổng hợp khi triển khai dự án ở các đơn vị, Sở KH-CN & MT sẽ phối hợp tổ chức thực hiện với sự tham gia cộng tác và hỗ trợ của các đơn vị được triển khai và Tổ tư vấn chương trình CNTT của Tỉnh.
+Do tình hình kinh phí, việc triển khai Dự án khối các sở, ban, ngành và các huyện thị, thành phố của tỉnh Lâm Đồng trong năm 1998 chỉ tập trung chủ yếu vào 6 đơn vị như đã nêu trên. Việc huy động và sử dụng các nguồn kinh phí khác bổ sung vào chương trình hoạt động phát triển CNTT tại mỗi đơn vị là điều cần thiết và cần lưu ý đến 3 yếu tố chính ảnh hưởng đến việc đem lại hiệu quả trong xây dựng thiết kế và triển khai thực hiện dự án.
+- Việc trang bị các thiết bị máy móc phải được cân nhắc thích hợp để đem lại tính hiệu quả thiết thực; đối với thiết bị hệ thống phải đảm bảo tính khoa học, thống nhất, tính nguyên tắc và hợp lý trên quan điểm hệ thống mở (cùng với các khuyến cáo của Ban chỉ đạo QG) tránh gây ra những lãng phí trên lĩnh vực này. Nghiên cứu việc khai thác thiết bị máy móc đã được trang bị để đem lại hiệu quả thiết thực cho đơn vị, tránh việc mua sắm các thiết bị cao cấp nhưng chưa thể đưa vào sử dụng hoặc chưa đủ nhân lực để khai thác sử dụng máy.
+- Vấn đề nhân lực trong bộ máy quản lý của đơn vị: cần phải kịp thời bồi dưỡng đào tạo để CBCNV vững trong nghiệp vụ, làm chủ được phương tiện trang bị và cần nhạy bén đối với sự đổi mới và phát triển liên tục của khoa học công nghệ, nhất là lĩnh vực CNTT để có thể tổ chức khai thác thông tin trong phạm vi chuyên môn và gắn kết với chương trình tin học hoá hệ thống quản lý nhà nước.
+- Vấn đề thông tin – xử lý thông tin: cần có những tiêu chuẩn  được quy định thống nhất và phù hợp theo ngành, theo cấp trung ương, địa phương; các văn bản phải theo quy trình xử lý khoa học (thống nhất và rõ ràng), để có thể kết hợp tối ưu năng lực của người quản lý với các phương tiện tin học hỗ trợ đã được trang bị trong công việc.
+	- Việc triển khai các nội dung trong dự án do Ban chủ nhiệm tổ chức và giám sát với sự hỗ trợ của nhóm chuyên viên kỹ thuật. Các hạng mục trong dự án tùy theo điều kiện thực tế của mỗi năm, sau khi được phê duyệt sẽ tổ chức triển khai theo các hợp đồng chính thức. Đối với các nội dung kỹ thuật trong quá trình xét chọn thầu cũng như nghiệm thu, đều phải có ý kiến của Hội đồng tư  vấn kỹ thuật.
+	Ban chủ nhiệm dự án từng quý phải có báo cáo về Ban chỉ đạo CNTT Tỉnh về việc triển khai thực hiện dự án: Nội dung đã thực hiện và các vướng mắc, kiến nghị. Sở KH-CN & MT có trách nhiệm tổng hợp để kịp thời tổng hợp báo cáo  với BCĐ chương trình CNTT quốc gia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN THỨ BA:
+
+DỰ ÁN TIN HỌC HÓA TẠI CÁC CƠ QUAN THUỘC KHỐI ĐẢNG CỦA TỈNH LÂM ĐỒNG 
+GIAI ĐOẠN 1998 - 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phần 1
+CƠ SỞ VÀ LUẬN CỨ CỦA DỰ ÁN CNTT
+TẠI TỈNH UỶ LÂM ĐỒNG
+
+I/- SỰ CẤP THIẾT XÂY DỰNG VÀ TRIỂN KHAI DỰ ÁN CNTT 				TẠI TỈNH UỶ LÂM ĐỒNG
+Thường vụ Bộ Chính trị đã có chủ trương ứng dụng công nghệ thông tin trong các cơ quan Trung ương Đảng, các Tỉnh, Thành uỷ và yêu cầu cung cấp thông tin cập nhật qua mạng máy tính về tình hình đất nước và toàn Đảng phục vụ sự lãnh đạo của Bộ Chính trị. Xây dựng mạng thông tin máy tính tại Tỉnh uỷ Lâm Đồng kết nối với mạng máy tính của các cơ quan Trung ương về hệ thống thông tin quản lý hành chính Nhà nước tại địa phương là để thực hiện chủ trương và yêu cầu nhiệm vụ trên, đáp ứng yêu cầu thông tin của Trung ương và bảo đảm sự lãnh đạo của tỉnh uỷ trong thời kỳ công nghiệp hóa, hiện đại hóa đất nước.
+Chương trình Quốc gia về công nghệ thông tin của Chính phủ và kế hoạch tổng thể phát triển công nghệ thông tin của tỉnh đã xác định các ứng dụng công nghệ thông tin trong các cơ quan lãnh đạo, quản lý ở địa phương. Các cơ quan trong hệ thống quản lý hành chính Nhà nước của Tỉnh đã được tin học hóa đòi hỏi tỉnh uỷ, cơ quan lãnh đạo của tỉnh có đủ điều kiện và khả năng thích ứng với trình độ chung về công nghệ thông tin như đối với các cơ quan Nhà nước tại địa phương.
+Những năm gần đây Tỉnh uỷ đã sử dụng máy tính để trao đổi thông tin với Trung ương Đảng, soạn thảo văn bản, quản lý văn bản đi và đến. Việc sử dụng máy tính tại cơ quan Tỉnh uỷ đã trở thành công việc cấp thiết và thực sự có nhu cầu thiết lập mạng máy tính tại khu vực cơ quan tỉnh uỷ, kết nối với mạng máy tính của Uỷ ban nhân dân để bảo đảm sự phối hợp giữa hai cơ quan lãnh đạo tại địa phương và tận dụng tài nguyên thông tin.
+Thực hiện chủ trương và đáp ứng yêu cầu, nhiệm vụ đối với Trung ương, tình hình khách quan tại địa phương và nhu cầu của cấp uỷ, việc xây dựng và triển khai dự án CNTT tại Tỉnh uỷ Lâm Đồng là công việc cần thiết và cấp bách trong năm 1998.
+
+
+
+
+	II/- NĂNG LỰC CÔNG NGHỆ THÔNG TIN HIỆN CÓ :
+Bảng 1:  Cán bộ, chuyên viên trong hệ thống Đảng đã được đào tạo công nghệ thông tin
+Đối tượng đã được đào tạo
+Số lượng 
+(đến cuối năm 1997)
+Ghi chú
+
+Cán bộ lãnh đạo
+10
+
+
+Chuyên viên nghiên cứu
+2
+
+
+Chuyên viên tin học
+2
+
+
+Bảng 2 : Các ứng dụng công nghệ thông tin
+Loại ứng dụng
+Nội dung
+Các thành viên
+Ghi chú
+
+Quản lý văn bản
+Quản lý công văn đi và đến
+1 thành viên
+
+
+Quản lý nghiệp vụ
+
+
+
+
+Các ứng dụng khác
+Công tác cơ yếu
+- Soạn thảo văn bản 
+2 thành viên
+29 thành viên
+
+
+	
+	Bảng 3 :Trang thiết bị công nghệ thông tin
+Loại thiết bị và cấu hình kỹ thuật
+Đơn vị
+Số lượng
+Ghi chú
+
+- Máy chủ
+
+
+
+
+...................
+
+
+
+
+- Máy trạm
+Cái
+
+
+
+386
+
+3
+
+
+486
+
+3
+
+
+586
+
+28
+
+
+Loại khác
+
+
+
+
+- Máy in Laser
+
+25
+
+
+- Máy in kim
+
+4
+
+
+..............phun
+
+
+
+
+- Thiết bị mạng
+
+
+
+
+.........................
+
+
+
+
+- Các thiết bị khác
+
+
+
+
+Modem
+
+1 (của cơ yếu)
+
+
+Đầu đọc CD-ROM
+
+
+
+
+
+
+	Bảng 4 :Phần mềm
+Loại và tên phần mềm
+Đơn vị
+Số lượng
+Ghi chú
+
+1- Hệ điều hành
+
+
+
+
+MS-DOS
+
+33
+
+
+Win 95
+
+01
+
+
+2-Hệ quản lý CSDL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3- Các phần mềm công cụ khác
+
+
+
+
+Word 6.0
+
+34
+
+
+4- Các phần mềm ứng dụng
+
+-
+
+
+Hệ quản lý VTLT
+
+
+
+
+5- Các phần mềm truyền thông
+
+
+
+
+......................
+
+
+
+
+......................
+
+
+
+
+
+III/- HIỆN TRẠNG THÔNG TIN VÀ NHIỆM VỤ TIN HỌC HÓA
+        QUẢN LÝ CÔNG TÁC ĐẢNG TẠI TỈNH UỶ LÂM ĐỒNG.
+1- Hiện trạng thông tin tại Tỉnh uỷ Lâm Đồng.
+Thông tin giữa Tỉnh uỷ Lâm Đồng với Trung ương và các tỉnh, thành uỷ khác được thực hiện bằng các phương thức :
+. Lưu chuyển văn bản qua bưu điện
+. Chuyển Fax trực tiếp giữa các cơ quan.
+Khối lượng thông tin với Trung ương chưa nhiều nhưng rất quan trọng, trong đó khoảng 30% là thông tin mật được chuyển nhận bằng máy tính, một số thông tin khẩn sử dụng Fax và hơn 60% là văn bản trên giấy.
+Thông tin giữa Tỉnh uỷ với các huyện, Thành, Thị uỷ, với Uỷ ban nhân dân tỉnh và các cơ quan Nhà nước, các đoàn thể nhân dân cấp tỉnh phải đáp ứng mối quan hệ hàng ngày, hiện nay hoàn toàn bằng văn bản qua bưu điện.
+Xử lý thông tin chủ yếu theo phương thức thủ công, các tập tin văn bản điện tử lưu chuyển giữa Trung ương và địa phương đều được in ra giấy để đưa vào bộ máy xử lý theo cách cổ truyền. Quy trình và nội dung các khâu xử lý còn giản đơn, chất lượng xử lý phụ thuộc vào khả năng, kinh nghiệm của chuyên viên tổng hợp tin và còn ở mức thấp.
+Thông tin phục vụ sự lãnh đạo của tỉnh uỷ đang đứng trước tình hình bất hợp lý và lạc hậu so với trình độ chung của các cơ quan hành chính, Nhà nước ở địa phương :
+. Trình độ và năng lực sử dụng công nghệ thông tin của cán bộ trong bộ máy cơ quan Đảng còn hạn chế so với các cơ sở kinh tế, cơ quan hành chính trong Tỉnh.
+. Quy chế và quy trình công nghệ công tác văn phòng và công tác thông tin còn lạc hậu chưa theo kịp trình độ chung về sự phát triển công nghệ thông tin.
+. Hạ tầng cơ sở kỹ thuật công nghệ thông tin chưa được đầu tư xây dựng.
+Thực trạng thông tin tại Tỉnh uỷ Lâm Đồng đặt ra yêu cầu bức thiết phải tổ chức lại công tác thông tin một cách khoa học, sử dụng công nghệ và kỹ thuật tiên tiến để bảo đảm phục vụ sự lãnh đạo của cấp uỷ. Đó là nhiệm vụ tin học hóa quản lý công tác Đảng tại địa phương nhằm đáp ứng yêu cầu phục vụ đổi mới phương thức lãnh đạo của Đảng trong thời kỳ công nghiệp hóa, hiện đại hóa.
+2- Nhiệm vụ tin học hóa quản lý công tác Đảng tại Tỉnh ủy Lâm Đồng.
+Ứng dụng công nghệ tin học phục vụ sự lãnh đạo của Trung ương và các tỉnh, thành uỷ là chủ trương rất quan trọng, thực hiện sự đổi mới sâu sắc về phương thức công tác nhằm góp phần đổi mới phương thức lãnh đạo của Đảng. Vì vậy nhiệm vụ tin học hóa quản lý công tác Đảng không chỉ bao gồm việc tổ chức và xây dựng cơ sở vật chất và các ứng dụng công nghệ thông tin mà điều rất quan trọng là cải tiến, xây dựng phương thức làm việc thích ứng với công nghệ mới, tạo ra khả năng tiếp nhận và sử dụng công nghệ thông tin có hiệu quả. Những nhiệm vụ đó là :
+a) Tổ chức lại cách làm việc, xây dựng quy trình công nghệ của từng công việc rõ ràng và thích ứng với điều kiện sử dụng công nghệ thông tin trên cơ sở chức năng, nhiệm vụ của từng bộ phận trong tổ chức được quy định cụ thể.
+b) Xây dựng đủ quy chế, quy trình cho mọi công việc trong cơ quan và xây dựng nếp làm việc theo quy chế, quy trình.
+c) Chuẩn hóa thông tin đối với công việc cụ thể của địa phương và thực hiện nghiêm túc các chuẩn thông tin của Trung ương.
+d) Nâng cao nhận thức và khả năng sử dụng công nghệ thông tin cho cán bộ lãnh đạo, cán bộ quản lý và chuyên viên nghiên cứu. Đào tạo chuyên viên kỹ thuật và nhân viên tác nghiệp công nghệ thông tin trong cơ quan Đảng bảo đảm yêu cầu làm việc trên mạng thông tin hiện đại.
+e) Xây dựng các hệ thống thông tin và cơ sở dữ liệu bảo đảm yêu cầu hoạt động của các bộ phận trong cơ quan Đảng và phục vụ sự lãnh đạo của Ban Thường vụ.
+f) Xây dựng hạ tầng cơ sở kỹ thuật công nghệ thông tin tại Tỉnh uỷ.
+3- Những khó khăn, thuận lợi trong việc triển khai CNTT tại Tỉnh uỷ Lâm Đồng.
+Những khó khăn hiện tại là :
+- Thiếu cán bộ tin học, nhất là kỹ sư có trình độ chuyên sâu về quản lý mạng máy tính và phát triển các ứng dụng bảo đảm các nhiệm vụ cụ thể của cơ quan.
+- Nếp làm việc của cán bộ, chuyên viên còn năng theo phong cách cổ truyền chưa đáp ứng với phong cách làm việc của sản xuất công nghiệp.
+Những thuận lợi :
+- Thường vụ Bộ Chính trị đã có chủ trương ứng dụng công nghệ thông tin trong lãnh đạo, điều hành công tác Đảng và đang được thực hiện rộng rãi trong cả nước.
+- Việc ứng dụng công nghệ thông tin tại Tỉnh uỷ Lâm Đồng đã được chuẩn bị và thực hiện trong một số công việc. Hệ thông tin quản lý hành chính Nhà nước đã thực hiện bước đầu có kết quả, những kinh nghiệm và thành quả về công nghệ, kỹ thuật có khả năng vận động tốt trong cơ quan của Đảng.
+- Mạng viễn thông Quốc gia đủ khả năng đáp ứng mọi yêu cầu truyền thông bảo đảm điều kiện phát triển các ứng dụng CNTT tại Tỉnh uỷ quan hệ với bên ngoài.
+Những khó khăn trên đây được khắc phục, những thuận lợi là yếu tố rất cơ bản tạo ra khả năng vững chắc và bảo đảm tính khả thi của chủ trương ứng dụng công nghệ thông tin phục vụ sự lãnh đạo và điều hành của Tỉnh uỷ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phần 2
+
+NỘI DUNG ỨNG DỤNG VÀ PHÁT TRIỂN CÔNG NGHỆ THÔNG TIN TẠI TỈNH UỶ LÂM ĐỒNG 
+Giai đoạn 1998 - 2000
+
+
+Chương I
+CÁC MỤC TIÊU PHÁT TRIỂN CÔNG NGHỆ THÔNG TIN 
+TẠI TỈNH UỶ LÂM ĐỒNG
+Giai đoạn 1998 - 2000
+
+1- Các mục tiêu nâng cao tiềm lực công nghệ thông tin 
+a) Nâng cao nhận thức và khả năng sử dụng công nghệ thông tin :
+. Đối với cán bộ lãnh đạo (Tỉnh uỷ viên và trưởng, phó ban của cấp uỷ, Bí thư, Phó bí thư các huyện, thành, thị uỷ, đảng uỷ)  - Nắm được xu hướng phát triển cơ bản về công nghệ thông tin và các ứng dụng chính trong hệ thống các cơ quan của Đảng. Biết sử dụng máy tính để trao đổi, tra cứu thông tin và kiểm tra công việc của các bộ phận hoạt động trên mạng máy tính. Năm 2000 sẽ có 80% cán bộ đạt yêu cầu trên, năm 1998 là 30 đồng chí, chiếm 20% tổng số cán bộ trong cơ quan Tỉnh uỷ.
+. Đối với chuyên viên nghiên cứu trong các cơ quan của tỉnh uỷ - Có kiến thức cơ bản về công nghệ thông tin và hiểu biết về các ứng dụng trong cơ quan. Sử dụng tốt máy tính để soạn thảo văn bản, khai thác thông tin trên mạng và thiết lập cơ sở dữ liệu thuộc phạm vi công tác. Năm 2000, trên 90% chuyên viên nghiên cứu đạt yêu cầu như trên, năm 1998 đạt 40% tổng số chuyên viên nghiên cứu.
+b) Đào tạo chuyên viên kỹ thuật và nhân viên tác nghiệp công nghệ thông tin.
+. Tỉnh uỷ cần có ít nhất 2 kỹ sư tin học được đào tạo về quản lý mạng và cơ sở dữ liệu, có khả năng xử lý những vấn đề thường gặp trên mạng máy tính, nắm vững kiến thức cơ bản và sử dụng tốt các phần mềm công cụ, phần mềm truyền thông và phát triển các ứng dụng cho một số công việc cụ thể của cơ quan.
+. Nhân viên tác nghiệp máy tính được đào tạo có hệ thống, sử dụng thành thạo máy tính và các ứng dụng cụ thể đối với công việc được giao. Năm 1998 đào tạo 28 người, chiếm 50% tổng số nhân viên đạt yêu cầu trên.
+2- Các mục tiêu xây dựng hạ tầng cơ sở kỹ thuật công nghệ thông tin giai đoạn 1998 - 2000.
+. Hoàn thành việc xây dựng mạng thông tin máy tính tại khu vực các cơ quan của Tỉnh uỷ, bao gồm Văn phòng tỉnh uỷ (trung tâm thông tin) với các Ban của Tỉnh uỷ và các đồng chí Thường trực Tỉnh uỷ.
+. Kết nối mạng máy tính của tỉnh uỷ với mạng máy tính của Uỷ ban nhân dân Tỉnh và các trạm làm việc tại các huyện uỷ bằng những khả năng tốt nhất của mạng viễn thông tại địa phương.
+. Kết nối mạng thông tin máy tính của tỉnh uỷ với các cơ quan của Trung ương Đảng thông qua mạng thông tin chuyên dùng (ISDN) của cơ quan Đảng và Nhà nước và mạng truyền thông Quốc gia.
+. Khai thác các dịch vụ mạng máy tính của các cơ quan Đảng và trao đổi dữ liệu với mạng máy tính quản lý Nhà nước ở địa phương để đáp ứng yêu cầu phục vụ sự lãnh đạo của tỉnh uỷ và Trung ương Đảng.
+3. Các mục tiêu xây dựng các hệ thông tin và cơ sở dữ liệu
+Tiếp nhận các hệ thông tin và CSDL do Trung ương chuyển giao và triển khai:
+ . Các phân hệ xử lý tác nghiệp và phân hệ quản lý nội bộ tại Văn phòng Tỉnh uỷ.
+. Phân hệ trợ giúp quyết định trên cơ sở tích hợp hệ thống và liên kết thông tin, cơ sở dữ liệu của các Ban và được xử lý tổng hợp tại Văn phòng tỉnh uỷ.
+. Phân hệ quản lý tổng hợp công tác Đảng tại Tỉnh uỷ trên cơ sở liên kết và tổng hợp thông tin của các phân hệ xử lý tác nghiệp.
+. Phân hệ quản lý các tổ chức Đảng và đảng viên theo quy chế chung, thống nhất nội dung và phần mềm ứng dụng của Trung ương.
+. Phân hệ quản lý tài chính và tài sản của Đảng thống nhất từ Trung ương đến các quận, huyện uỷ.
+4- Các mục tiêu về hiệu quả ứng dụng công nghệ thông tin.
+. Các quá trình giao lưu và xử lý thông tin giữa Tỉnh uỷ với Trung ương Đảng, giữa Thường vụ Tỉnh uỷ với các Ban và các Quận, Huyện uỷ được thực hiện trên mạng máy tính, bảo đảm đủ, kịp thời, chính xác và an toàn những thông tin cần thiết phản ảnh tình hình xã hội trong toàn tỉnh và toàn Đảng bộ tỉnh, phục vụ sự lãnh đạo của Thường vụ Tỉnh uỷ và cung cấp thông tin phục vụ Bộ Chính trị Trung ương Đảng.
+. Quản lý lưu trình công việc của Ban Thường vụ và các cơ quan của Tỉnh uỷ trên mạng thông tin máy tính và các dạng văn bản truyền thống lưu chuyển trong các cơ quan của Tỉnh uỷ, giữa Tỉnh uỷ với Trung ương và cấp uỷ cấp dưới bảo đảm công việc được xử lý kịp thời, chính xác.
+. Bảo đảm điều kiện cần thiết cho công tác lưu trữ và khai thác dữ liệu của Đảng bộ, khai thác các cơ sở dữ liệu của Trung ương và của các cơ quan Nhà nước trong Tỉnh, đáp ứng yêu cầu công tác lãnh đạo của Ban Thường vụ Tỉnh uỷ và cung cấp dữ liệu cho Trung ương Đảng.
+. Quản lý các tổ chức Đảng và cán bộ, đảng viên trong toàn Đảng bộ Tỉnh, được cập nhật hàng tuần và cung cấp dữ liệu cho Trung ương trên mạng máy tính.
+. Hiện đại hóa các nghiệp vụ hiện đang thực hiện thủ công trong các cơ quan của Tỉnh uỷ và Huyện uỷ bằng công nghệ tin học như soạn thảo văn bản, quản lý nhân sự, tài chính của Đảng...
+				    
+                                             Chương II
+PHÂN TÍCH HIỆN TRẠNG VÀ XÂY DỰNG CÁC HỆ THÔNG 				TIN TẠI TỈNH UỶ LÂM ĐỒNG
+			          (Giai đoạn 1998 - 2000)
+
+I/- Phân tích các quan hệ thông tin trong hệ thống tổ chức và bảo đảm sự lãnh đạo của Tỉnh uỷ Lâm Đồng.
+1- Chức năng và nhiệm vụ của Tỉnh uỷ Lâm Đồng
+Tỉnh uỷ Lâm Đồng là cơ quan lãnh đạo cao nhất, có nhiệm vụ lãnh đạo toàn diện về chính trị, kinh tế - xã hội, quốc phòng, an ninh... trên địa bàn tỉnh Lâm Đồng.
+Tỉnh uỷ thực hiện sự lãnh đạo thông qua việc :
+. Ban hành các quyết định (Nghị quyết, Chỉ thị...) cụ thể hóa đường lối, chủ trương của Trung ương Đảng và Nghị quyết của Đại hội Đảng bộ Tỉnh.
+. Kiểm tra các cấp uỷ Đảng và chính quyền các cấp, các đoàn thể nhân dân, các tổ chức chính trị - xã hội trong tỉnh về việc thực hiện các chủ trương, chính sách của Trung ương Đảng, của Nhà nước và của Tỉnh uỷ.
+. Quản lý tổ chức và cán bộ, đảng viên thuộc đảng bộ Tỉnh.
+2- Tổ chức của Tỉnh uỷ :
+Đảng bộ tỉnh Lâm Đồng được tổ chức theo quy định của “ Điều lệ Đảng Cộng sản Việt Nam”, tổ chức Tỉnh uỷ bao gồm :
+. Ban Chấp hành Đảng bộ Tỉnh
+. Ban Thường vụ Tỉnh uỷ
+. Thường trực Tỉnh uỷ
+Tổ chức và hoạt động của Tỉnh uỷ theo nguyên tắc tập trung dân chủ. Làm việc theo chế độ tập thể lãnh đạo quyết định các chủ trương, các vấn đề quan trọng của Tỉnh, cá nhân phụ trách từng phạm vi công việc. Trong đó một đồng chí Phó Bí thư Tỉnh uỷ là Chủ tịch UBND Tỉnh, Bí thư Ban Cán sự Đảng Uỷ ban nhân dân Tỉnh.
+Ban Thường vụ Tỉnh uỷ là cơ quan thay mặt Ban Chấp hành lãnh đạo mọi mặt công tác giữa 2 kỳ Hội nghị toàn thể Ban Chấp hành và điều hành công việc hàng ngày của Đảng bộ .
+Bộ máy của Tỉnh uỷ gồm có :
+- Ban Tổ chức Tỉnh uỷ
+- Uỷ ban Kiểm tra Tỉnh uỷ
+- Ban Tuyên giáo tỉnh uỷ
+- Ban Kinh tế Tỉnh uỷ
+- Ban Dân vận Tỉnh uỷ
+- Ban Tài chính tỉnh uỷ
+- Ban Nội chính Tỉnh uỷ
+- Ban Bảo vệ nội bộ Tỉnh uỷ
+- Văn phòng Tỉnh uỷ
+Quan hệ lãnh đạo của Tỉnh uỷ được phân bổ theo 2 khối :
+- Khối các cấp uỷ Đảng trực thuộc Tỉnh uỷ, trong đó Đảng uỷ Công an và Đảng uỷ quân sự địa phương bảo đảm sự lãnh đạo trực tiếp của Ban Thường vụ Tỉnh uỷ.
+- Khối các cơ quan Nhà nước (thông qua Ban Cán sự Đảng), các đoàn thể nhân dân và các tổ chức chính trị - xã hội cấp Tỉnh (thông qua Đảng đoàn).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3- Quan hệ thông tin giữa Tỉnh uỷ (Ban Thường vụ) với bên ngoài
+Hệ thống thông tin máy tính phục vụ sự lãnh đạo của Tỉnh uỷ bảo đảm các quan hệ thông tin giữa Tỉnh uỷ với bên ngoài như sau :
+- Thông tin hai chiều từ Bộ Chính trị và các Ban của Trung ương Đảng với Ban Thường vụ Tỉnh uỷ và các Ban của Tỉnh uỷ.
+- Thông tin từ Ban Thường vụ và các Ban của Tỉnh uỷ đến các huyện uỷ, các Đảng uỷ trực thuộc Tỉnh uỷ các cơ quan Nhà nước, các đoàn thể nhân dân, các tổ chức chính trị - xã hội cấp Tỉnh và ngược lại.
+- Thông tin giữa Ban Thường vụ và các Ban của Tỉnh uỷ với các Tỉnh, thành uỷ khác.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nội dung cơ bản các dòng thông tin :
+(1) Dòng thông tin từ Bộ Chính trị đến Ban Thường vụ Tỉnh uỷ :
+	. Cụ thể hóa đường lớp, chủ trương của Đại hội Đảng toàn quốc và các Hội nghị Ban Chấp hành Trung ương bằng các Nghị quyết, Chỉ thị...
+	. Các chủ trương về kinh tế - xã hội, đối ngoại, an ninh... đối với địa phương để đáp ứng tình hình cụ thể.
+	. Quyết định của Trung ương giải quyết các vấn đề thuộc chủ trương chung theo kiến nghị của Ban Thường vụ Tỉnh uỷ.
+	. Hướng dẫn của Trung ương về việc vận dụng đường lối, chủ trương, chính sách theo đề nghị của Ban Thường vụ Tỉnh uỷ.
+	. Báo cáo định kỳ của Trung ương gởi các cấp uỷ theo điều lệ Đảng.
+. Thông tin tham khảo của Trung ương có tính chất định hướng công tác của Đảng bộ Tỉnh.
+. Tài liệu tham khảo định kỳ của Trung ương nhằm bổ sung thông tin cần thiết cho cấp uỷ đối với công việc của địa phương hoặc góp ý kiến cho dự thảo văn kiện của Trung ương.
+. Dự thảo các chủ trương quan trọng chuẩn bị Đại hội Đảng toàn quốc, hội nghị Ban Chấp hành Trung ương hoặc của Bộ Chính trị gởi cấp uỷ tham gia ý kiến.
+. Yêu cầu cung cấp thông tin cho Trung ương và Bộ Chính trị.
+. Thư công tác của Uỷ viên Bộ Chính trị gởi Ban Thường vụ hoặc Bí thư Tỉnh uỷ.
+. Tra cứu, khai thác cơ sở dữ liệu tại Tỉnh uỷ.
+(2) Dòng thông tin từ Ban Thường vụ Tỉnh ủy đến Bộ Chính trị
+. Báo cáo định kỳ và bất thường theo quy định của Điều lệ Đảng và của Bộ Chính trị
+. Kiến nghị hoặc xin ý kiến về các chủ trương, chính sách thuộc thẩm quyền của Trung ương.
+. Xin ý kiến hướng dẫn các vấn đề  cụ thể hoá chủ trương của Trung ương tại địa phương.
+. Cung cấp thông tin theo yêu cầu của Bộ Chính trị
+. Các văn bản của Ban chấp hành hoặc Ban Thường vụ Tỉnh ủy gửi cấp dưới về việc triển khai các chủ trương, chính sách của Trung ương để thay báo cáo
+. Tra cứu, khai thác các cơ sở dữ liệu tại Trung ương.
+(3) Dòng thông tin từ Ban Thường vụ Tỉnh uỷ trực tiếp với các Ban của Trung ương Đảng.
+. Trao đổi về cụ thể hóa chủ trương, chính sách của Trung ương trên từng lĩnh vực cụ thể của địa phương.
+. Trao đổi thông tin tham khảo chuyên sâu trên từng lĩnh vực công tác theo yêu cầu của Ban Thường vụ Tỉnh uỷ hoặc của các Ban Trung ương Đảng.
+. Cập nhật thông tin định kỳ vào cơ sở dữ liệu của Trung ương về quản lý các tổ chức Đảng, quản lý cán bộ, đảng viên, công tác tư tưởng...
+(4) Dòng thông tin từ Ban Thường vụ đến Ban Chấp hành Đảng bộ :
+. Chương trình làm việc toàn khóa, hàng năm, các kỳ họp Ban Chấp hành.
+. Báo cáo hoạt động của Ban Thường vụ với Ban Chấp hành theo quy định của điều lệ Đảng.
+. Báo cáo và dự thảo Nghị quyết các vấn đề đưa ra Ban Chấp hành bàn bạc và quyết định.
+. Các tài liệu tham khảo lựa chọn từ thông tin của Trung ương và địa phương gởi đến các uỷ viên Ban Chấp hành.
+(5)Dòng thông tin giữa Văn phòng Tỉnh uỷ và Văn phòng UBND Tỉnh :
+. Trao đổi và tiếp nhận  chương trình công tác hàng tháng, hàng tuần của Ban Thường vụ Tỉnh uỷ và Uỷ ban nhân dân Tỉnh.
+. Trao đổi và tiếp nhận  tài liệu họp Ban Thường vụ, Ban Chấp hành do Ban Cán sự Đảng hoặc Thường trực Uỷ ban nhân dân Tỉnh chuẩn bị.
+. Trao đổi thông tin tổng hợp hàng tháng, hàng tuần.
+. Trao đổi thông tin, cơ sở dữ liệu về kinh tế - xã hội.
+(6) Dòng thông tin giữa Tỉnh uỷ với các huyện uỷ, thành uỷ, thị uỷ và các đảng uỷ trực thuộc Tỉnh uỷ; cụ thể hóa các chủ trương, Nghị quyết Tỉnh uỷ; báo cáo định kỳ của Tỉnh uỷ gởi các cấp uỷ, dự thảo các chủ trương của Tỉnh ủy, của Đại hội Đảng bộ Tỉnh, gởi các Đảng bộ trực thuộc lấy ý kiến tham gia...
+(7) Dòng thông tin giữa tỉnh uỷ với Ban Cán sự Đảng các Sở, Đảng đoàn các đoàn thể nhân dân và các Hội (tổ chức chính trị - xã hội) : (như dòng thông tin đối với các cấp uỷ trực thuộc Tỉnh uỷ)
+Thông tin trên đây được truyền tải trên mạng diện rộng bằng các hình thức :
+. Chuyển nhận các tập tin
+. Thư điện tử
+. Tra cứu, khai thác cơ sở dữ liệu từ xa.
+Trong thời gian tới sẽ phát triển hội nghị từ xa (Teleconferencing).
+Tính chất và nội dung thông tin trong các dòng tin đến Tỉnh uỷ phải được phân loại cụ thể và chuyển tới các khâu xử lý thích hợp được thực hiện trong mạng thông tin các cơ quan tỉnh uỷ.
+4- Quan hệ thông tin giữa các cơ quan Tỉnh uỷ.
+Quan hệ thông tin bên trong Tỉnh uỷ (giữa các Ban, Văn phòng Tỉnh uỷ và với Ban Thường vụ và Thường trực Tỉnh uỷ) như sau :
+. Quan hệ trực tiếp giữa các Ban của Tỉnh uỷ với ban ngoài, bảo đảm việc trao đổi thông tin và cơ sở dữ liệu trực tiếp với các cơ quan Trung ương Đảng, các cấp uỷ Đảng trực thuộc tỉnh uỷ và hệ thông tin quản lý hành chính Nhà nước, các đoàn thể nhân dân và tổ chức chính trị - xã hội tại địa phương.
+. Quan hệ bảo đảm công việc hàng ngày giữa các Ban và Văn phòng Tỉnh uỷ với nhau và trực tiếp với Ban Thường vụ và Thường trực Tỉnh ủy.
+. Quan hệ thực hiện nhiệm vụ xử lý thông tin phục vụ Ban Thường vụ và Thường trực Tỉnh uỷ theo quy chế và quy trình xử lý thông tin.
+. Quan hệ dịch vụ thông tin, bảo đảm yêu cầu của các Ban tra cứu và khai thác các cơ sở dữ liệu và tài liệu lưu trữ lịch sử của Tỉnh uỷ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II/- PHÂN TÍCH CÁC QUAN HỆ THÔNG TIN BẢO ĐẢM CÔNG TÁC QUẢN LÝ, ĐIỀU HÀNH CỦA VĂN PHÒNG VÀ CÁC BAN CỦA TỈNH UỶ LÂM ĐỒNG.
+1- Văn phòng Tỉnh uỷ :
+a) Chức năng nhiệm vụ của Văn phòng Tỉnh uỷ 
+Văn phòng Tỉnh uỷ là một Ban của Ban Chấp hành Đảng bộ Tỉnh, có chức năng tham mưu giúp Ban Thừng vụ Tỉnh uỷ lãnh đạo, điều hành công việc của cấp uỷ. trực tiếp phục vụ các hoạt động hàng ngày của cấp uỷ, là trung tâm thông tin của Tỉnh uỷ.
+Văn phòng Tỉnh uỷ có các nhiệm vụ giúp Ban Thường vụ :
+- Xây dựng chương trình công tác toàn khóa và hàng năm của Ban Chấp hành, chương trình công tác hàng tháng, hàng tuần của Ban Thường vụ, Thường trực Tỉnh uỷ và tổ chức thực hiện các chương trình công tác.
+- Phối hợp với các Ban của Tỉnh uỷ, Văn phòng Uỷ ban nhân dân Tỉnh và Ban Cán sự Đảng các Sở trong quá trình chuẩn bị các quyết định (Nghị quyết, chỉ thị...) và tổ chức thực hiện các quyết định của cấp uỷ.
+- Bảo đảm công tác thông tin tổng hợp (các báo cáo định kỳ, bất thường, báo cáo chuyên đề, bản tin điện tử hàng ngày...) phục vụ Ban Thường vụ, Thường trực Tỉnh uỷ và cung cấp thông tin cần thiết đến các uỷ viên Ban Chấp hành.
+- Thực hiện các nhiệm vụ của trung tâm thông tin của Tỉnh uỷ
+- Soạn thảo các quy chế, quy trình công tác của cấp uỷ.
+- Quản lý công tác văn thư, hành chính, cơ yếu và tiếp dân của cấp uỷ.
+- Bảo đảm điều kiện làm việc hàng ngày của Ban Thường vụ, Thường trực Tỉnh uỷ và các cuộc họp Ban chấp hành.
+- Quản lý tài liệu lưu trữ lịch sử của Đảng bộ Tỉnh
+Văn phòng Tỉnh uỷ đồng thời có nhiệm vụ quản lý toàn diện một đơn vị trong hệ thống tổ chức cơ quan Đảng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Giải thích một số chi tiết của quy trình công nghệ mới :
+. Trên hệ thống công nghệ thông tin, định nghĩa văn bản bao gồm :
+- Văn bản in trên giấy.
+- Các tập tin văn bản và siêu văn bản
+- Thư điện tử.
+- Văn bản hóa các cuộc điện thoại quan trọng để lưu giữ vào CSDL
+. Thông tin vào và ra khỏi hệ thống các cơ quan Đảng thông qua một trung tâm, tại đây thực hiện các nhiệm vụ :
+- Kiểm tra và xác nhận đối tượng thông tin.
+- Tiếp nhận thông tin và tự động cập nhật vào cơ sở dữ liệu “văn bản”.
+- Xử lý những trường hợp không đúng đối tượng được quan hệ với hệ thống.
+. Trên mô hình các quá trình thông tin trong mạng máy tính, quy trình thủ công, đã được sửa đổi phù hợp với công nghệ mới, lược bỏ một số việc trùng thừa và thêm một số côngđoạn để nâng cao hiệu suất và chất lượng xử lý :
+- Không cập nhật văn bản ở 2 nơi mà thống nhấtvào một cơ sở dữ liệu văn bản. Các văn bản điện tử được tự động cập nhật vào cơ sở dữ liệu nhờ việc chuẩn hóa nội dung và thể thức văn bản đạt trình độ cao và các chương trình ứng dụng đủ mạnh.
+- Thông tin dạng điện tử được phân loại theo tính chất và nội dung thông tin (giải thích tại phần trước), theo độ khẩn và được chuyển đồng thời đến các bộ phận có trách nhiệm để tăng tốc độ xử lý thông tin. Lãnh đạo Văn phòng có thể kiểm tra, điều chỉnh hoặc giao thêm nhiệm vụ xử lý cho chuyên viên. Những công việc này có thể thực hiện bằng thư điện tử gởi trực tiếp hoặc ý kiến bổ sung trong quá trình xử lý văn bản.
+- Lãnh đạoVăn phòng Tỉnh uỷ thực hiện việc kiểm tra và điều phối thông tin trong hệ thống, kiểm tra và điều chỉnh công việc của các chuyên viên, không trực tiếp phân phối thông tin như trong quy trình thủ công.
+- Các đồng chí Thường vụ, Thường trực Tỉnh uỷ, lãnh đạo Văn phòng và chuyên viên nghiên cứu có thể khai thác thông tin cần thiết cho công việc trong các cơ sở dữ liệu tại Văn phòng hoặc tại các Ban một cách nhanh chóng.
+. Công tác quản lý nội bộ của Văn phòng Tỉnh uỷ được thực hiện trên mạng máy tính và có các cơ sở dữ liệu riêng. Mô hình trên không thể hiện thành phần này.
+Các cơ sở dữ liệu cần xây dựng tại Văn phòng Tỉnh uỷ 
+Các cơ sở dữ liệu tại Văn phòng Tỉnh uỷ gồm 2 loại chính :
+. Những dữ liệu lưu giữ lâu dài và phục vụ chung cho các cơ quan của Tỉnh uỷ trong công tác nghiên cứu, lãnh đạo.
+- Các văn kiện của Tỉnh uỷ 
+- Các dữ liệu chuyên đề : tổng kết việc thực hiện các cuộc vận động lớn, các chủ trương, chính sách, các vấn đề, các sự kiện quan trọng về chính trị, kinh tế - xã hội... tại địa phương.
+. Những dữ liệu được cập nhật hàng ngày và lưu giữ không lâu dài, chủ yếu phục vụ cho công tác quản lý, điều hành của Văn phòng và Thường trực Tỉnh uỷ.
+-Các văn bản đến và đi hàng ngày của Tỉnh uỷ và Văn phòng Tỉnh uỷ.
+- Thông tin tổng hợp hàng ngày bảo đảm việc biên tập các báo cáo nhanh hàng ngày, hàng tuần... phục vụ Ban Thường vụ và cung cấp đến các Ban thông tin về những vấn đề cần nghiên cứu, kiểm tra, xử lý.
+- Những thông tin bảo đảm cho việc lập và thực hiện chương trình công tác, kiểm tra công việc và chất lượng chuẩn bị các cuộc họp, theo dõi thực hiện các quyết định, kết luận tại các cuộc họp, kiểm tra các công việc đang được thực hiện tại các Ban và Văn phòng Tỉnh uỷ.
+d) Một số yêu cầu thiết đối với Văn phòng Tỉnh uỷ để bảo đảm ứng dụng công nghệ thông tin tại tỉnh uỷ :
+Với chức năng trung tâm thông tin. Văn phòng tỉnh uỷ có nhiệm vụ xây dựng và quản lý hạ tầng cơ sở kỹ thuật công nghệ thông tin.
+Cần tổ chức Ban quản lý dự án để bảo đảm công việc chuẩn bị và xây dựng. Nội dung hoạt động của Ban quản lý dự án được giải trình cụ thể trong phần 4 của dự án này.
+Cần có một tổ chức đặt tại Văn phòng Tỉnh uỷ để điều hành thống nhất về kỹ thuật, nghiệp vụ và quản lý, bảo trì hệ thống thông tin máy tính của Tỉnh uỷ. Tổ chức này phải có đủ nhân lực để vận hành, khai thác hệ thống, trực kỹ thuật bảo đảm phục vụ cấp uỷ. Cần bố trí ít nhất 2 kỹ sư tin học và một số nhân viên kỹ thuật cho Văn phòng Tỉnh uỷ. Tổ chức của Văn phòng Tỉnh uỷ cần bổ sung một Phòng hoặc Trung tâm CNTT và sơ đổ tổ chức được điều chỉnh như sau:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2- Các Ban của Tỉnh uỷ :
+Mỗi Ban của Tỉnh uỷ có chức năng, nhiệm vụ và tổ chức bộ máy cụ thể theo quyết định của Ban Thường vụ Tỉnh uỷ. Tuy nhiên, các quan hệ thông tin bảo đảm công tác quản lý và điều hành của Ban có nội dung cơ bản như và tương tự Văn phòng Tỉnh uỷ.
+a) Chức năng, nhiệm vụ của Ban :
+.Nghiên cứu, đề xuất các chủ trương của Ban Thường vụ và Ban Chấp hành trên lĩnh vực công việc được phân công.
+. Chủ trì hoặc tham gia chuẩn bị các quyết định (Nghị quyết, chỉ thị...) và tư liệu cần thiết cho việc quyết định các vấn đề trình ra Ban Thường vụ, Ban Chấp hành.
+. Thẩm định các đề án, các kế hoạch công tác do các ngành chuẩn bị trước khi trình ra Ban Thường vụ, Ban Chấp hành. 
+. Theo dõi và kiểm tra việc thực hiện các Nghị quyết, chỉ thị, kế hoạch công tác của cấp uỷ trên lĩnh vực được phân công.
+. Theo dõi hoạt động của tổ chức, công tác xây dựng Đảng và thực hiện công tác cán bộ trên lĩnh vực được giao theo quy chế quản lý cản bộ của Trung ương.
+b) Tổ chức của Ban.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Một số Ban có  phó trưởng ban kiêm nhiệm là trưởng ban hoặc giám đốc sở thuộc Uỷ ban nhân dân Tỉnh  không trực tiếp làm việc tại khu vực cơ quan Tỉnh uỷ nhưng có yêu cầu kết nối thông tin trực tiếp với Tỉnh uỷ.
+Mỗi Ban có Văn phòng và 2 -4 Phòng nghiệp vụ chuyên môn tùy theo nhiệm vụ được giao. Văn phòng Ban vừa thực hiện chức năng tổng hợp thông tin trong Ban vừa bảo đảm công tác hành chính, quản trị của Ban.
+Quan hệ thông tin trong Ban chủ yếu bảo đảm thực hiện các nhiệm vụ :
+. Tổng hợp thông tin bảo đảm sự lãnh đạo của Ban và phục vụ Ban Thường vụ, Thường trực Tỉnh uỷ.
+. Quản lý văn bản và công việc của Ban trong hệ thống các co 7quan của Tỉnh uỷ.
+. Quản lý các công việc nội bộ của Ban.
+III/- CÁC HỆ THÔNG TIN TẠI TỈNH UỶ LÂM ĐỒNG
+Các hệ thông tin tại Tỉnh uỷ Lâm Đồng phải đáp ứng yêu cầu của nhiều cấp quản lý, từ việc trợ giúp ra quyết định, quản lý công tác Đảng của Ban Thường vụ đến việc thực hiện công tác quản lý và điều hành công việc hàng ngày của các bộ phận. Thông tin đến Tỉnh uỷ từ nhiều nguồn và rất đa dạng, qua nhiều bộ phận xử lý để đáp ứng những yêu cầu cụ thể của hệ thống.
+1- Phân hệ điều hành tác nghiệp :
+Phân hệ điều hành tác nghiệp hay xử lý tác nghiệp (Transaction Processing System) là phần tử căn bản của hệ thông tin, bảo đảm cho các chuyên viên và nhân viên sử dụng mạng máy tính để thực hiện nhiệm vụ thay các phần việc thủ công, xử lý thông tin đúng yêu cầu nhiệm vụ, theo quy trình khoa học, hợp lý và chặt chẽ, cập nhật thông tin cần thiết vào các cơ sở dữ liệu phục vụ công tác quản lý và các yêu cầu khác. Các phân hệ điều hành tác nghiệp phổ cập trong các cơ quan của Tỉnh uỷ là :
+. Xử lý văn bản đến và đi
+. Xử lý thông tin tổng hợp
+.Xử lý mã - dịch
+. Lưu trữ và khai thác thông tin
+......................
+Các phân hệ điều hành tác nghiệp được bố trí ở Văn phòng và các Ban củaTỉnh uỷ. Những công việc tương đương tại các Ban của Tỉnh uỷ như cập nhật và xử lý văn bản, thu thập, tổng hợp thông tin... có nội dung tương tự và quy trình thực hiện như nhau. Vì vậy nhiều phân hệ xử lý tác nghiệp có tính thống nhất trong hệ thống, một số phân hệ có tính thống nhất cao từ cơ sở đến Trung ương Đảng. Do đó các phân hệ điều hành tác nghiệp được xây dựng bằng các Modul có khả năng ứng dụng rộng rãi ở nhiều bộ phận và liên hệ các các Modul khác.
+2- Phân hệ thông tin quản lý :
+Phân hệ thông tin quản lý (Management Information System) bảo đảm thông tin cho lãnh đạo Văn phòng và các Ban của Tỉnh uỷ nắm được tình hình bao quát và các dự báo cần thiết để quyết định công việc của đơn vị hoặc chuẩn bị quyết định của Ban Thường vụ theo chức năng được phân công. Các phân hệ thông tin quản lý sử dụng và tổng hợp thông tin, cơ sở dữ liệu từ nhiều phân hệ điều hành tác nghiệp.
+Một hệ thông tin quản lý có thể sử dụng cho nhiều cấp, cấp cao hơn phục vụ cho Ban Thường vụ đồng thời là phân hệ trong hệ thống chung của toàn Đảng như hệ quản lý cán bộ, đảng viên... cấp thấp là phân hệ quản lý nội bộ bảo đảm công tác quản lý và điều hành của từng Ban.
+Đối với hệ thông tin quản lý cùng chức năng sử dụng cho nhiều cấp thì sự khác nhau ở các cấp là quy mô của các cơ sở dữ liệu, nội dung của các cơ sở dữ liệu phải nhất quán. Cơ sở dữ liệu của cấp thấp phải có khả năng cập nhật vào cơ sở dữ liệu cấp cao hơn.
+Các phân hệ thông tin quản lý cần thiết là :
+.Phân hệ thông tin quản lý lưu trình công việc bảo đảm cho Ban Thường vụ Tỉnh uỷ có đủ thông tin cần thiết để thực hiện việc kiểm tra và điều chỉnh các quá trình xử lý công việc thường xuyên trong bộ máy của cấp uỷ.
+. Phân hệ thông tin quản lý các tổ chức Đảng.
+. Phân hệ thông tin quản lý cán bộ, đảng viên
+. Phân hệ thông tin quản lý tài chính của Đảng
+......................
+Các phân hệ thông tin quản lý tại các Tỉnh, thành có cùng chức năng được xây dựng theo mẫu chung, nội dung và phần mềm ứng dụng thống nhất trong các cơ quan của Đảng.
+3- Hệ thống trợ giúp quyết định :
+Hệ thống trợ giúp quyết định ( Decision Support System) phải đạt được mức xử lý thông tin tổng hợp cao và có hệ thống, cung cấp đủ thông tin tham khảo chất lượng cao và các dự báo cần thiết phục vụ Ban Thường vụ và Ban Chấp hành trong quá trình chuẩn bị và quyết định các chủ trương quan trọng của địa phương.
+Các quyết định của Ban Chấp hành và Ban Thường vụ có phạm vi tác động rất rộng và thường là những quyết định không có cấu trúc. Vì vậy hệ thông tin trợ giúp quyết định phải dựa trên các cơ sở dữ liệu tin cậy và có hệ thống của các cơ quan Đảng ở Trung ương và địa phương, các cơ quan tổng hợp của Nhà nước và của Tỉnh cùng với những chuyên gia giỏi, chuyên sâu trên từng lĩnh vực công tác của các Ban để có được những dự báo đúng đắn. Yêu cầu trên đây đòi hỏi hệ thống thông tin của Tỉnh uỷ phải bảo đảm mối quan hệ thông suốt, kịp thời với các cơ quan Trung ương Đảng, các Ban của cấp uỷ, với Văn phòng và các Sở của Uỷ ban nhân dân.
+Hệ thống trợ giúp quyết định chỉ phát huy tác dụng, góp phần vào việc nâng cao chất lượng các quyết định khi cán bộ chủ chốt của các Ban và Văn phòng Tỉnh uỷ sử dụng các công cụ của công nghệ thông tin thực sự có hiệu quả và quy trình ra quyết định thích ứng với công nghệ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ghi chú : 
+- Sơ đồ trên đây mô tả khái quát sự trao đổi thông tin giữa các phân hệ điều hành tác nghiệp có quan hệ trực tiếp với hệ quản lý lưu trình công việc đặt tại Văn phòng để phục vụ Ban Thường vụ Tỉnh uỷ.
+- Các dòng thông tin và nội dung theo sơ đồ quan hệ thông tin tại Tỉnh uỷ ở phần trước.
+IV/- CÁC HỆ THÔNG TIN TẠI VĂN PHÒNG VÀ CÁC BAN CỦA TỈNH UỶ LÂM ĐỒNG.
+Căn cứ chức năng, nhiệm vụ của các đơn vị và quan hệ thông tin bảo đảm công tác quản lý và điều hành, cần triển khai các phân hệ thông tin như sau :
+1- Phân hệ xử lý văn bản .
+Phân hệ xử lý văn bản có nhiệm vụ xử lý các văn bản từ ngoài đến và các văn bản được tỉnh uỷ phát hành.
+Quy trình xử lý văn bản đến tại Văn phòng Tỉnh uỷ :
+. Thực hiện các công việc kiểm tra :
+- Kiểm tra đối tượng thông tin được quan hệ với hệ thống,
+- Kiểm tra thể thứcvà xác nhận văn bản đến.
+.Trích yếu nội dung và cập nhật các thông tin quản lý văn bản vào cơ sở dữ liệu văn bản.
+- Các văn bản điện tử được tự động cập nhật vào CSDL.
+- Các văn bản trên giấy do nhân viên cập nhật.
+. Văn bản hóa các cuộc điện thoại quan trọng xử lý công việc và cập nhật vào CSDL.
+. Theo dõi quá trình xử lý văn bản, cập nhật những ý kiến của lãnh đạo và chuyên viên giải quyết công việc cùng với văn bản đang được xử lý (bao gồm cả thư điện tử kèm theo) vào CSDL và thông báo trở lại cho những người tham gia xử lý những thông tin cần thiết cho đến kết quả xử lý cuối cùng.
+. Tra cứu nhanh hiện trạng văn bản đang được xử lý và trả lời cho lãnh đạo khi có yêu cầu.
+. Tiếp nhận văn bản dự thảo và chuyển tiếp đến các địa chỉ xử lý theo quy chế.
+. Thẩm tra thể thức các văn bản chính thức của Tỉnh uỷ trước khi phát hành, xác nhận các thông tin quản lý văn bản và cập nhật vào cơ sở dữ liệu, chuyển tiếp văn bản đến bộ phận văn bản hóa, nhân sao và phát hành.
+Quy trình phát hành văn bản tại Văn phòng Tỉnh uỷ, theo các bước : Chuyên viên (dự thảo văn bản) - Phó Văn phòng tổng hợp - Chánh văn phòng - Ban Thường vụ - Chánh Văn phòng - Phòng Văn thư - Bộ phận văn bản hóa và nhân sao. Toàn bộ chu trình hình thành văn bản được thựch iện chặt chẽ bằng thông tin quản lý văn bản kèm theo tập tin văn bản (bản dự thảo) được tu chỉnh và cập nhật đầy đủ qua từng khâu cho đến khi văn bản phát hành chính thức.
+Phân hệ này được thực hiện bằng “Modul xử lý văn bản” theo sự hướng dẫn thống nhất về nội dung, quy trình công nghệ và cung cấp phần mềm ứng dụng từ Trung ương vì vậy dự án này không giải trình cụ thể.
+Các Ban có thể điều chỉnh một số chi tiết của “Modul xử lý văn bản” cho phù hợp với quy trình văn bản đến và đi tại các Ban.
+2- Phân hệ xử lý thông tin tổng hợp 
+Phân hệ xử lý thông tin tổng hợp bao gồm một số công việc như sau :
+. Xử lý những thông tin đến cấp uỷ, cập nhật vào CSDL thông tin tổng hợp, bảo đảm cho bộ phận biên tập thực hiện nhanh các bản tin điện tử,  các báo cáo định kỳ và bất thường gởi Ban Thường vụ, Ban Chấp hành, các báo cáo gởi Trung ương và các báo cáo, thông báo gởi các cấp uỷ cấp dưới.
+. Tổng hợp thông tin về các quá trình triển khai và kiểm tra việc thực hiện các Nghị quyết, Chỉ thị của Trung ương, của cấp uỷ và những công tác quan trọng được thực hiện ở địa phương, cập nhật vào cơ sở dữ liệu chuyên đề.
+. Tổng hợp thông tin thực hiện chương trình công tác và kiểm tra các quá trình chuẩn bị các dự án đưa ra cuộc họp Ban Thường vụ, Ban Chấp hành, cập nhật vào CSDL chương trình công tác làm căn cứ để xây dựng và triển khai chương trình công tác.
+. Tổng hợp thông tin và lưu trữ các biên bản họp Ban Chấp hành và Ban Thường vụ Tỉnh ủy.
+Phân hệ xử lý thông tin tổng hợp nhằm phục vụ yêu cầu xử lý công việc hàng ngày của Văn phòng và Ban Thường vụ, được thực hiện bằng 3 Modul. mỗi Modul thực hiện một chức năng và cập nhật vào cơ sở dữ liệu. Các cơ sở dữ liệu này chỉ lưu giữ tạm thời, sau từng thời gian sẽ được lựa chọn đưa vào CSDL chung của Tỉnh.
+3- Phân hệ xử lý mã - dịch.
+Phân hệ này có nhiệm vụ mã và giải mã các thông tin mật được lưu chuyển giữa các cơ quan của Đảng thông qua mạng truyền thông Quốc gia. Công việc này do Ban Cơ yếu Chính phủ đảm nhiệm.
+4- Phân hệ lưu trữ và khai thác thông tin.
+Phân hệ lưu trữ và khai thác thông tin có nhiệm vụ tạo cơ sở dữ liệu tập trung chứa những thông tin quan trọng, yêu cầu bảo mật cao đồng thời khai thác thông tin trong các CSDL của các Ban, các ngành ở địa phương hoặc dự liệu từ Trung ương bảo đảm thông tin phục vụ sự lãnh đạo, điều hành công việc hàng ngày của Ban Thường vụ .
+Thực hiện nhiệm vụ tin học hóa công tác lưu trữ tài liệu lịch sử của Đảng bộ Tỉnh.
+5- Phân hệ quản lý lưu trình công việc :
+Thường vụ Bộ Chính trị đã giao nhiệm vụ cho các cơ quan Trung ương Đảng tổ chức trên hệ thống công nghệ thông tin phục vụ Bộ Chính trị theo dõi, kiểm tra các quá trình xử lý công việc thường xuyên của Trung ương Đảng. Tại Tỉnh uỷ, phân hệ quản lý lưu trình công việc có cùng chức năng như trên, cung cấp đủ thông tin cần thiết đến Ban Thường vụ về tình hình các công việc đang được giải quyết để xúc tiến, kiểm tra và điều chỉnh quá trình xử lý công việc thường xuyên trong bộ máy của Tỉnh uỷ.
+Phân hệ quản lý lưu trình công việc phải bao quát những việc thường xuyên do Ban Thường vụ và bộ máy của cấp uỷ xử lý. Những công việc này thường xuất phát từ các nguồn :
+. Chương trình công tác của Ban Thường vụ và Ban Chấp hành.
+. Các vấn đề do Trung ương đưa xuống hoặc cơ sở báo cáo, kiến nghị thông qua hệ thống văn bản.
+. Các đồng chí trong Ban Thường vụ hoặc lãnh đạo các Ban kiểm tra công tác cơ sở và đề xuất.
+. Các vấn đề được xác định tại cuộc họp Ban Thường vụ.
+Phân hệ quản lý lưu trình công việc được thực hiện bằng Modul tổng hợp và xử lý thông tin lấy từ các cơ sở dữ liệu do các phân hệ điều hành tác nghiệp tạo ra như sô đồ trao đổi thông tin tại trang 30.
+6- Phân hệ quản trị nội bộ :
+Công việc quản trị nội bộ của Văn phòng và các Ban của Tỉnh uỷ được thực hiện trên mạng máy tính gồm một số Modul và tạo các CSDL riêng :
+. Modul quản lý văn bản đến và đi về công việc của nội bộ đơn vị.
+. Modul quản lý nhân sự (do Ban Tổ chức Trung ương cung cấp) CSDL cán bộ, đảng viên của đơn vị sẽ định kỳ được cập nhật vào CSDL của Đảng bộ Tỉnh.
+. Phân hệ quản lý các kế hoạch của đơn vị như kế hoạch tài chính, xây dựng cơ bản, xe ô tô...
+Phân hệ quản trị nội bộ sử dụngcác Modul đã được thiết kế cho Tỉnh uỷ, những việc đơn giản có thể xây dựng trên các hệ quản trị CSDL hoặc sử dụng bảng tính điện tử.
+
+
+
+
+
+
+
+
+V/- PHƯƠNG ÁN TRANG BỊ MÁY TÍNH TẠI VĂN PHÒNG
+	          VÀ CÁC BAN CỦA TỈNH UỶ LÂM ĐỒNG
+
+1- Tại Văn phòng Tỉnh uỷ :
+Các phân hệ điều hành tác nghiệp và thông tin quản lý trình bày trên đây đã bao quát và thực hiện đủ các nhiệm vụ của Văn phòng Tỉnh uỷ dựa trên công nghệ thông tin. Đối chiếu mô mình xử lý thông tin đã trình bày và xác định các nút mạng để bố trí đủ các trạm làm việc bảo đảm thông tin và công tác quản lý, xây dựng hạ tầng cơ sở kỹ thuật, lựa chọn phương thức truyền thông cho mạng. Năm 1998 có thể lựa chọn phương án thích hợp.
+a) Phương án trang bị ban đầu (năm 1998).
+Tại mỗi điểm xử lý bố trí một trạm làm việc. Như vậy, tại Văn phòng Tỉnh uỷ trang bị ban đầy 1 máy chủ quản lý mạng chung và 5 trạm làm việc tại các vị trí :
+. Tại trung tâm đặt 1 Server quản trị mạng và một trạm làm việc mạnh làm nhiệm vụ mã - dịch.
+. Phòng văn thư - lưu trữ : 2 trạm làm việc
+. Phòng tổng hợp 1 trạm làm việc
+. Chánh văn phòng 1 trạm làm việc
+. Phó Văn phòng tổng hợp 1 trạm làm việc
+b) Phương án đủ (năm 1999 - 2000).
+Bố trí đủ các trạm làm việc cần thiết để thực hiện nhiệm vụ tại các vị trí như sau : :
+. Tại trung tâm : 2 Server quản lý mạng (một Server bảo mật và truyền thông),
+. Phòng CNTT và mã - dịch : 1 trạm làm việc để kiểm tra, thử nghiệm và chỉnh lý phần mềm ứng dụng.
+. Phòng Văn thư - Lưu trữ : 3 - 4 trạm làm việc
+- 1 máy cho công việc cập nhật và trích yếu nội dung các công văn.
+- Công việc văn bản hóa và nhân sao tài liệu. Khối lượng công việc thường không ổn định, có thể bố trí 1 - 2 máy tính và các thiết bị nhân sao. Khi công việc in ấn nhiều và thời gian gấp có thể sử dụng thêm một số máy tính của chuyên viên để phục vụ kịp thời.
+- 1 máy tính và thiết bị cần thiết, như máy quét quang học... để bảo đảm công tác lưu trữ tài liệu lịch sử của Đảng bộ Tỉnh.
+. Phòng tổng hợp : 3 trạm làm việc cho các chuyên viên bảo đảm công việc hàng ngày và cập nhật các cơ sở dữ liệu.
+- CSDL chương trình công tác bảo đảm yêu cầu lập chương trình công tác của cấp uỷ và Ban Thường vụ, theo dõi và kiểm tra công việc chuẩn bị các cuộc họp, phối hợp chương trình công tác của các Ban và các Bộ phận phục vụ các việc trọng tâm của cấp uỷ.
+- CSDL chuyên đề hệ thống hóa thông tin theo các vấn đề cấp uỷ và Ban Thường vụ đang tập trung giải quyết, theo dõi, kiểm tra việc thực hiện Nghị quyết , Chỉ thị của Trung ương Đảng và của cấp uỷ. Các chuyên đề sau khi được giải quyết xong thì đưa vào cơ sở dữ liệu lưu trữ tài liệu lịch sử của Đảng bộ.
+- CSDL thông tin tổng hợp cập nhật thường xuyên những thông tin mới để đưa vào bản tin điện tử hàng ngày phục vụ cấp uỷ và các báo cáo theo quy chế thông tin.
+. Chánh Văn phòng : 1 trạm làm việc
+Hiện nay, với công nghệ thủ công thì công tác kiểm tra và phân phối văn bản thường do Chánh Văn phòng đảm nhiệm. Với công nghệ mới, Chánh Văn phòng giao cho Phòng Văn thư phân phối (văn bản truyền thống và điện tử) đồng thời thực hiện sự kiểm tra chặt chẽ và điều chỉnh kịp thời thông qua mạng máy tính. Đây cũng là trung tâm điều hành phân hệ thông tin quản lý lưu trình công việc, duyệt các bản tin điện tử hàng ngày, các báo cáo (theo quy chế  thông tin) gởi Ban Thường vụ. Tại đây bố trí một trạm làm việc mạnh và có thể có một cơ sở dữ liệu thông tin tổng hợp tối mật.
+. Phòng Hành chính - Quản trị : 1 trạm làm việc để bảo đảm công tác quản lý và nghiệp vụ của nội bộ Văn phòng như làm các bảng lương, thống kê, báo cáo và quản lý nhân sự ,tài chính theo hệ thống của cơ quan Đảng.
+. Các trạm làm việc phục vụ đồng chí Bí thư và Phó Bí thư trực theo yêu cầu cụ thể.
+Số lượng trạm làm việc tại Văn phòng Tỉnh uỷ theo phương án đủ (trong giai đoạn 1998 - 2000) là 2 Server và 12 - 14 máy tính
+2- Tại các Ban của Tỉnh uỷ :
+Văn phòng là Trung tâm thông tin và trực tiếp phục vụ Ban Thường vụ nên bố trí nhiều phân hệ quản lý chung và sử dụng số lượng máy tính nhiều hơn. Các Ban cũng sử dụng các Modul được thiết lập cho hệ thống nhưng quy mô nhỏ hơn.
+Tại mỗi Ban, tuỳ theo nhiệm vụ được cấp uỷ giao, lượng thông tin phải xử lý, số chuyên ngành và cơ sở dữ liệu cần xây dựng như Ban Tổ chức Tỉnh uỷ có nhiệm vụ quản lý tổ chức cơ sở Đảng và quản lý cán bộ, đảng viên. Ban Tuyên giáo quản lý công tác tư tưởng... để bố trí số máy tính phù hợp đáp ứng yêu cầu công việc và sử dụng có hiệu quả.
+a) Phương án trang bị ban đầu 
+Bố trí tại mỗi Ban 1 trạm làm việc để bảo đảm thông tin
+b) Phương án đủ
+Bố trí tại mỗi Ban 3 - 5 trạm làm việc.
+3- Tại Tỉnh uỷ
+a) Với phương án trang bị ban đầu, Mạng máy tính của Tỉnh uỷ có quy mô :
+- 1 máy chủ (Server)
+- 1 PC mã - dịch và truyền thông
+- 10 - 12 trạm làm việc
+- 5 - 8 máy in Laser
+b) Với phương án đủ, mạng máy tính của Tỉnh uỷ có quy mô :
+- 2 máy chủ (File Server và Security and Communication Server)
+- 30 -45 trạm làm việc
+- 15 - 25 máy in Laser
+- Mỗi huyện, thành, thị  1 trạm làm việc.
+Trong giai đoạn 1998 - 2000 mạng máy tính của Tỉnh uỷ Lâm Đồng có quy mô 30 - 45 trạm làm việc và 11 trạm làm việc tại các huyện, thị, thành uỷ. Vì vậy bố trí một mạng LAN là hợp lý.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chương III
+NỘI DUNG KỸ THUẬT
+CỦA DỰ ÁN CÔNG NGHỆ THÔNG TIN TẠI TỈNH UỶ
+ LÂM  ĐỒNG GIAI ĐOẠN 1998 - 2000	
+
+I/- MÔ HÌNH TỔ CHỨC CƠ SỞ HẠ TẦNG CNTT CHO MẠNG 	MÁY TÍNH CỦA TỈNH UỶ VÀ LIÊN KẾT VỚI CÁC MẠNG KHÁC
+
+1- Các chức năng chính của cơ sở hạ tầng CNTT :
+. Trao đổi thông tin nội bộ trong các cơ quan của Tỉnh uỷ (giữa Ban Thường vụ, Thường trực Tỉnh uỷ với Văn phòng và các Ban của Tỉnh uỷ) và thông tin với các huyện, thành, thị uỷ, Đảng uỷ trực thuộc.
+. Trao đổi thông tin với Uỷ ban nhân dân Tỉnh và các Sở thuộc chính quyền địa phương.
+. Trao đổi thông tin, cung cấp và khai thác dữ  liệu với các cơ quan của Trung ương Đảng.
+. Trao đổi thông tin với cấp uỷ và chính quyền các Tỉnh, thành phố khác.
+2- Nhiệm vụ và yêu cầu kết nối hệ thống
+Nhiệm vụ chung là xây dựng hệ thống hạ tầng cơ sở phục vụ quản lý công tác Đảng bằng mạng thông tin máy tính.
+. Trang bị đủ máy tính và thiết bị phụ trợ cho mạng và các trạm làm việc đủ khả năng đáp ứng yêu cầu thực hiện các mục tiêu trong chương I. Mạng thông tin máy tính của Tỉnh uỷ bao gồm 2 Server và các trạm làm việc tại các Ban và Văn phòng Tỉnh ủy.
+Trước mắt sử dụng một số PC mạnh để làm nhiệm vụ mã - dịch, truyền tin,  chứa các cơ sở dữ liệu chuyên ban như quản lý cán bộ, đảng viên, công tác kiểm tra, công tác tuyên giáo của Đảng bộ... Trong các năm tới, khi nhu cầu công việc và lượng thông tin tăng lên sẽ thay thế bằng các Server đủ mạnh. Các trạm làm việc tại các Ban ở trong khu vực làm việc của cơ quan Tỉnh uỷ nối trực tiếp vào mạng máy tính của Tỉnh uỷ. Các Ban của khu vực xa cơ quan Tỉnh uỷ thì trước mắt sử dụng cơ chế DIALUP kết nối với trung tâm qua mạng điện thoại của thành phố.
+. Kết nối mạng máy tính của Tỉnh uỷ với mạng máy tính của Uỷ ban nhân dân Tỉnh bảo đảm các Ban của Tỉnh uỷ trao đổi thông tin và khai thác chung cơ sở dữ liệu của các cơ quan Nhà nước.
+. Kết nối mạng máy tính của Tỉnh uỷ với mạng máy tính của các cơ quan Trung ương Đảng bằng các hình thức.
+- Trực tiếp qua mạng thông tin số liên kết đa dịch vụ (ISDN) chuyên dùng của Cục Bưu điện Trung ương.
+- Qua mạng máy tính của UBND Tỉnh và sử dụng chung các kênh X.25 trên mạng thông tin quốc gia.
+- Sử dụng các kênh điện thoại thông dụng theo cơ chế DIALUP, có khả năng trao đổi thông tin với nhiều hệ thống khác qua mạng thông tin quốc gia, sẽ nâng cao hiệu quả sử dụng và tiết kiệm chi phí.
+- Qua các tuyến thông tin dự phòng hoặc mạng thông tin dự phòng của cục Bưu điện Trung ương trong những tình huống đặc biệt.
+. Kết nối mạng thông tin máy tính của Tỉnh uỷ với các trạm làm việc đặt tại các huyện, thị, thành uỷ theo cơ chế DIALUP qua mạng điện thoại địa phương.
+. Các dịch vụ cung cấp trên mạng bao gồm :
+- Thư tín điện tử
+- Truyền các tập tin văn bản, siêu văn bản
+- Khai thác các cơ  sở dữ liệu dùng chung.
+- Cung cấp các chương trình ứng dụng thống nhất trong hệ thống.
+.  Do Tỉnh uỷ Lâm Đồng đang xây dựng trụ sở làm việc, khả năng đầu năm 1999 mới đưa vào sử dụng. Do vậy, trong năm 1998 chỉ trang bị và thực hiện nối mạng trong nội bộ cơ quan Văn phòng Tỉnh uỷ với mục tiêu là trao đổi thông tin trong nội bộ và với UBND Tỉnh, với Trung ương Đảng.
+3- Các yêu cầu về tính năng của hệ thống.
+. Tính an toàn và bảo mật thông tin là yêu cầu cao nhất đối với mạng máy tính của Tỉnh uỷ. Yêu cầu này phải được bảo đảm bằng các biện pháp kỹ thuật - công nghệ và hành chính nghiêm ngặt.
+- Hệ thống phải có khả năng chống mất mát, sai lệch dữ liệu do phần cứng, phần mềm gây ra hoặc do virus phá hoại.
+- Khi mạng máy tính đã trở thành phương tiện chủ yếu bảo đảm công việc của Tỉnh uỷ thì phải bổ sung một hệ thống dự phòng có kiến trúc Fault Tolerant tại các khâu lưu trữ và xử lý dữ liệu quan trọng.
+- Tận dụng có hiệu quả các chức năng bảo mật, an toàn sẵn có của hệ điều hành mạng, phần mềm truyền thông và bổ sung các biện pháp bảo mật cụ thể trong quá trình phát triển các chương trình ứng dụng.
+- Phải xây dựng và thực hiện nghiêm ngặt các quy chế bảo mật thông tin. Mỗi đối tượng sử dụng mạng chỉ được phép thâm nhập, xử lý và khai thác dữ liệu theo đúng quyền hạn được quy định.
+- Mỗi mạng cục bộ của Tỉnh uỷ có một Server hoặc trạm làm việc mạnh làm nhiệm vụ mã dịch và truyền tin. Thông tin mật lưu chuyển giữa Tỉnh uỷ với Trung ương và Tỉnh, Thành uỷ khác nhất thiết phải qua mã dịch.
+. Tính hệ thống mở: Hệ thống được thiết kế trên các chuẩn quốc gia và quốc tế, bảo đảm khả năng thay thế, phát triển và nâng cấp trong tương lai cả phần cứng, phần mềm phù hợp với môi trường truyền tin và yêu cầu của các dịch vụ mới.
+. Tính thống nhất: Mạng thông tin máy tính của Tỉnh uỷ là một bộ phận trong hệ thống thông tin của các cơ quan Đảng và phát triển trong chương trình Quốc gia về công nghệ thông tin. Trang bị cơ bản và các phần mềm công cụ phải thống nhất trong hệ thống các thông tin lưu chuyển trong hệ thống phải được chuẩn hóa theo các chuẩn thống nhất trong hệ thống tổ chức Đảng và hệ thống 	quản lý hành chính Nhà nước.
+ Mạng máy tính của Tỉnh uỷ được quản lý và điều khiển thống nhất do một trung tâm thông tin đặt tại Văn phòng Tỉnh uỷ. Các cơ sở dữ liệu quan trọng phải được lưu trữ ở File server chính và hệ thống trợ giúp quyết định được đặt tại trung tâm của hệ thống.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4- Môi trường truyền thông :
+Trong các sơ đồ cấu trúc mạng máy tính cục bộ (LAN) của tỉnh uỷ đã dựa trên khả năng mạng truyền thông tại địa phương đủ mạnh và các Ban của cấp uỷ làm việc trong một khu vực tập trung. Trong thực tế có thể những trường hợp cá biệt phải có giải pháp riêng phù hợp điều kiện địa lý và môi trường truyền thông thực tại.
+a) Theo phương án đủ, mỗi Ban sử dụng 1 HUB và nối với Switching HUB trung tâm bằng cáp đồng trục, Các Ban không ở trong khu vực cơ quan Tỉnh uỷ mà khoảng cách dưới 2 km thì cần lựa chọn loại cáp đồng trục và số lượng Repeater thích hợp. Các Ban ở xa trên 2 km phải sử dụng mạng truyền thông X.25 tại địa phương hoặc cơ chế DIALUP trên mạng điện thoại. Trường hợp này cần sử dụng 1 máy PC làm máy chủ và tổ chức LAN của Ban.
+b) Tỉnh uỷ liên hệ với Uỷ ban nhân dân Tỉnh và các Sở thông qua mạng truyền thông X.25 tại địa phương (bố trí trong sơ đồ) hoặc cơ chế DIALUP qua mạng điện thoại tùy theo khả năng mạng truyền thông tại địa phương.
+c) Tỉnh uỷ liên hệ với Trung ương Đảng có thể sử dụng :
+. Sử dụng mạng thông tin chuyên dùng ISDN. Năm 1998 có khả năng kết nội với 7 Tỉnh, Thành uỷ : Thành phố Hồ Chí Minh, Hà Nội, Hải Phòng, Quảng Ninh, Đà Nẵng, Cần Thơ, Bà Rịa - Vũng Tàu. Trong những năm tới diện kết nối qua mạng chuyên dùng ISDN sẽ được mở rộng dần.
+. Thông qua kênh thông tin dùng chung (X.25) giữa  Tỉnh (Tỉnh uỷ và Uỷ ban nhân dân Tỉnh) với Trung ương.
+. Thông qua nút mạng trên mạng truyền thông Quốc gia nối vào hệ thống chuyên dùng ISDN và liên hệ với các mạng cục bộ (LAN) của cơ quan Đảng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phần 3
+TỔNG HỢP DỰ TOÁN TỔNG KINH PHÍ TỪ 
+CÁC NGUỒN PHÂN THEO CÁC NỘI DUNG DỰ ÁN VÀ THEO CÁC MỤC CHI CỦA MỤC LỤC NGÂÂN SÁCH NHÀ NƯỚC
+
+          CÂN ĐỐI CÁC NGUỒN KINH PHÍ THEO NỘI DUNG CHI TIẾT
+                                         CÁC HẠNG MỤC DỰ ÁN
+                                                          ------
+
+         BẢNG TỔNG HỢP CÁC HẠNG MỤC DỰ ÁN CHO TỪNG NĂM
+
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Giai đoạn : 1998- 2000  Năm : 1998 ( nguồn TW cấp: 100 triệu)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy
+
+
+                                                                                Đơn vị tính: triệu đồng
+STT
+Tên gọi hạng mục dự án
+Dự kiến kinh phí thực hiện dự án
+
+1
+Quản lý và xây dựng dự án
+5
+
+2
+-Mua sắm thiết bị
+-Tổ chức đấu thầu
+-Lắp đặt hệ thống mạng
+68
+
+3
+-Mua sắm phần mềm hệ thống
+-Thử nghiệm truyền thông dữ liệu
+-Hội thảo đánh giá kết quả
+-Tổng kết nghiệm thu
+11
+
+4
+Đào tạo cán bộ
+16
+
+
+     Tổng cộng
+100
+
+
+
+
+
+
+       CÂN ĐỐI CÁC NGUỒN KINH PHÍ THEO NỘI DUNG CHI TIẾT
+                                         CÁC HẠNG MỤC DỰ ÁN
+                                                          ------
+
+         BẢNG TỔNG HỢP CÁC HẠNG MỤC DỰ ÁN CHO TỪNG NĂM
+
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Giai đoạn : 1998- 2000  Năm : 1998 ( nguồn địa phương cấp: 150 triệu)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy
+
+
+                                                                                Đơn vị tính: triệu đồng
+STT
+Tên gọi hạng mục dự án
+Dự kiến kinh phí thực hiện dự án
+
+1
+Quản lý và xây dựng dự án
+7.5
+
+2
+-Mua sắm thiết bị
+-Tổ chức đấu thầu
+-Lắp đặt hệ thống mạng
+102
+
+3
+-Mua sắm phần mềm hệ thống
+-Thử nghiệm truyền thông dữ liệu
+-Hội thảo đánh giá kết quả
+-Tổng kết nghiệm thu
+16.5
+
+4
+Đào tạo cán bộ
+24
+
+
+     Tổng cộng
+150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        CÂN ĐỐI CÁC NGUỒN KINH PHÍ THEO NỘI DUNG CHI TIẾT
+                                         CÁC HẠNG MỤC DỰ ÁN
+                                                          ------
+
+         BẢNG TỔNG HỢP CÁC HẠNG MỤC DỰ ÁN CHO TỪNG NĂM
+
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Giai đoạn : 1998- 2000  Năm : 1999-2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy
+
+
+                                                                                Đơn vị tính: triệu đồng
+STT
+Tên gọi hạng mục dự án
+Dự kiến kinh phí thực hiện dự án
+
+1
+Quản lý và xây dựng dự án
+20
+
+2
+-Mua sắm thiết bị
+-Tổ chức đấu thầu
+-Lắp đặt hệ thống mạng
+438.8
+
+3
+-Mua sắm phần mềm hệ thống
+-Thử nghiệm truyền thông dữ liệu
+-Hội thảo đánh giá kết quả
+-Tổng kết nghiệm thu
+35
+
+4
+Đào tạo cán bộ
+50
+
+
+     Tổng cộng
+543.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG KỸ THUẬT CNTT
+Tên dự án: “Tin học hóa hệ thống qiản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Mua sắm thiết bị CNTT cho cơ sở hạ tầng kỹ thuật
+Giai đoạn 1998-2000; năm: 1998 ( nguồn kinh phí TW cấp : 100 triệu đồng)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng.
+                                                                                       Đơn vị tính: triệu đồng
+STT
+Tên thiết bị, cấu hình kỹ thuật
+Đơn vị
+Đơn giá
+Số lượng
+Thành tiền
+
+I
+Trang bị máy móc
+
+
+
+
+
+1
+Máy chủ: SERVER Pentium II 300 Mhz; 64 Mb RAM; 4,5 Gb HDD SCSI; CD-ROM
+chiếc
+20
+01
+20
+
+2
+Máy trạm: Pentium MMX 200 Mhz; 16 Mb RAM; 2,1 GB HDD 
+chiếc
+9.5
+02
+19
+
+3
+Modem: Acorp 56 K External Voice Fax
+chiếc
+1.5
+01
+  1.5
+
+4
+UPS
+chiếc
+1.5
+01
+  1.5
+
+5
+Card mạng: PCI/58; 32 bit
+chiếc
+1.04
+07
+  7.3
+
+6
+HUB 24 port
+chiếc
+8
+01
+  8
+
+7
+Cable RJ45+ linh kiện
+
+
+
+  5
+
+8
+Phí lắp đặt
+
+
+
+  2
+
+9
+Phụ kiện đi kèm
+
+
+
+  3,7
+
+
+Cộng  I
+
+
+
+68
+
+II
+Phần đào tạo
+
+
+
+
+
+1
+Lớp cho cán bộ lãnh đạo
+
+
+
+  4
+
+2
+Lớp cho chuyên viên tin học
+
+
+
+  6
+
+3
+Lớp cho người sử dụng
+
+
+
+  6
+
+
+Cộng  II
+
+
+
+16
+
+III
+Phần triển khai ứng dụng
+
+
+
+
+
+1
+Mua phần mềm hệ thống
+
+
+
+  9
+
+2
+Cài đặt
+
+
+
+  1
+
+3
+Chuyển giao
+
+
+
+  1
+
+
+Cộng  III
+
+
+
+11
+
+IV
+Quản lý dự án
+
+
+
+  5
+
+
+Tổng cộng (I,II,III,IV)
+
+
+
+100
+
+
+BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG KỸ THUẬT CNTT
+
+Tên dự án: “Tin học hóa qiản lý công tác Đảng”
+Tên hạng mục dự án: Mua sắm thiết bị CNTT cho cơ sở hạ tầng kỹ thuật
+Giai đoạn 1998-2000; năm: 1998 ( nguồn kinh phí  địa phương: 150 triệu)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng.
+
+                                                                                       Đơn vị tính: triệu đồng
+STT
+Tên thiết bị, cấu hình kỹ thuật
+Đơn vị
+Đơn giá
+Số lượng
+Thành tiền
+
+I
+Trang bị máy móc
+
+
+
+
+
+1
+Máy chủ: SERVER  IBM 315 4.5 Gb HDD SCSI; 128 Mb RAM; CD-ROM
+chiếc
+65
+01
+65
+
+2
+Máy trạm: Pentium MMX 200 Mhz; 16 Mb RAM; 2,1 GB HDD 
+chiếc
+9.5
+03
+28.5
+
+3
+Card mạng: PCI/58; 32 bit
+chiếc
+1.04
+03
+  3.1
+
+4
+Máy quét Sanner Color  Page HR5 Pro 30 bit
+chiếc
+5.4
+01
+   5.4
+
+
+Cộng  I
+
+
+
+102
+
+II
+Phần đào tạo
+
+
+
+  24
+
+III
+Phần triển khai ứng dụng
+
+
+
+  16.5
+
+IV
+Quản lý dự án
+
+
+
+  7.5
+
+
+Tổng cộng (I,II,III,IV)
+
+
+
+150
+
+
+
+
+
+
+
+
+
+
+
+
+BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG KỸ THUẬT CNTT
+
+Tên dự án: “Tin học hóa hệ thống qiản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Mua sắm thiết bị, đào tạo  CNTT cho cơ sở hạ tầng kỹ thuật.
+Giai đoạn 1998-2000; năm 1999 - 2000  ( Theo phương án đủ,đã trừ đi phần mua sắm thiết bị của năm 1998)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng.
+
+                                                                                       Đơn vị tính: triệu đồng
+STT
+Tên thiết bị, cấu hình kỹ thuật
+Đơn vị
+Đơn giá
+Số lượng
+Thành tiền
+
+I
+Trang bị máy móc
+
+
+
+
+
+1
+Máy trạm: Pentium MMX 200 Mhz; 16 Mb RAM; 2,1 GB HDD 
+chiếc
+9.5
+34
+323
+
+2
+Modem: Acorp 56 K External Voice Fax
+chiếc
+1.5
+11
+  16.5
+
+3
+UPS: On Line
+chiếc
+26
+01
+ 26
+
+4
+Card mạng: PCI/58; 32 bit
+chiếc
+1.04
+34
+ 35.3
+
+5
+HUB 24 port
+chiếc
+8
+01
+   8
+
+6
+Cable + linh kiện
+
+
+
+20
+
+7
+Phí lắp đặt
+
+
+
+   5
+
+8
+Phụ kiện đi kèm
+
+
+
+   5
+
+
+Cộng  I
+
+
+
+438.8
+
+II
+Phần đào tạo
+
+
+
+   50
+
+III
+Phần triển khai ứng dụng
+
+
+
+   35
+
+IV
+Quản lý dự án
+
+
+
+  20
+
+
+Tổng cộng (I,II,III,IV)
+
+
+
+543.8
+
+
+Tổng kinh phí cho dự án ứng dụng công nghệ thông  tin taị Tỉnh ủy Lâm Đồng: 793,8 triệu đồng. ( Chưa kể phần thiết kế, lắp đật cable mạng tại trụ sở Tỉnh ủy đang xây dựng, phần kinh phí này đã được dự án đầu tư xây dựng trụ sở Tỉnh ủy chi.)
+
+
+
+
+
+
+                          BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG
+                            ĐÀO TẠO CNTT CỦA DỰ ÁN THEO NĂM 
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho cán bộ lãnh đạo và quản lý
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính: triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Căn bản
+15
+0.15
+30      45        
+4.5            6.75
+
+2
+Khai thác CSDL
+15
+0.15
+30      45
+4.5            6.75
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+4               5
+
+
+Tổng cộng
+
+
+
+13             18.5  
+
+
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG
+                          ĐÀO TẠO CNTT CỦA DỰ ÁN THEO NĂM 
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho chuyên viên tin học
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính: triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Quản trị mạng
+30
+0.5
+2         3        
+1               1.5
+
+2
+Tập huấn WAN
+15
+0.2
+2         3 
+0.4            0.6
+
+3
+Sử dụng phần mềm chuyển giao
+15
+0.2
+2         3
+0.4            0.6
+
+4
+Khai thác CSDL
+15
+0.2
+2          3
+0.4            0.6
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+2               2.2
+
+
+Tổng cộng
+
+
+
+4.2             5.5  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        BẢNG TỔNG HỢP KINH PHÍ VÀ NỘI DUNG
+                          ĐÀO TẠO CNTT CỦA DỰ ÁN THEO NĂM 
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho người sử dụng
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính: triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Căn bản
+30
+0.3
+30      20        
+9                 6
+
+2
+Tập huấn WAN
+10
+0.15
+30      50
+4.5            7.5
+
+3
+Sử dụng phần mềm chuyển giao
+10
+0.15
+30      50 
+4.5            7.5
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+4.8            5
+
+
+Tổng cộng
+
+
+
+22.8          26  
+
+
+Tổng cộng kinh phí cho công tác đào tạo là 90 triệu đồng ( năm 1998: 40 triệu đồng; năm 1999 - 2000: 50 triệu đồng)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHẦN THỨ TƯ:
+
+ TỔNG HỢP DỰ TOÁN TỔNG KINH PHÍ TỪ CÁC NGUỒN PHÂN THEO CÁC NỘI DUNG DỰ ÁN VÀ THEO CÁC MỤC CHI CỦA MỤC LỤC NGÂÂN SÁCH NHÀ NƯỚC CỦA DỰ ÁN TIN HỌC HÓA TỈNH LÂM ĐỒNG GIAI ĐOẠN 1998-2000 VÀ KẾ HOẠCH CNTT NĂM 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dự toán kinh phí theo các mục chi 
+của mục lục ngân sách nhà nước
+							
+									Đơn vị tính: triệu đồng
+Mục NS
+Tên mục
+Tổng cộng
+Ngân sách Trung ương
+Ngân sách 
+Địa phương
+
+111
+Thông tin, tuyên truyền, liên lạc
+10
+5
+5
+
+114
+Chi phí thuê mướn
+120
+40
+80
+
+119
+Chi phí nghiệp vụ chuyên môn của từng ngành
+72.5
+22.5
+50
+
+134
+Chi khác
+37.5
+12.5
+25
+
+144
+Mua sắm TSCĐ dùng cho công tác chuyên môn
+510
+170
+340
+
+
+Cộng
+ =SUM(ABOVE) 750
+ =SUM(ABOVE) 250
+ =SUM(ABOVE) 500
+
+
+
+Phân chia các mục ngân sách sử dụng cho các hạng mục của các dự án:
+
+Mục NS
+Tên mục
+Được sử dụng cho các hạng mục
+
+111
+Thông tin, tuyên truyền, liên lạc
+Triển khai ứng dụng 
+
+114
+Chi phí thuê mướn
+Đào tạo CNTT
+
+119
+Chi phí nghiệp vụ chuyên môn của từng ngành
+- Triển khai ứng dụng
+- Thử nghiệm truyền thông dữ liệu liên mạng
+- Lắp đặt hệ thống mạng
+
+134
+Chi khác
+- Quản lý và đIều hành dự án
+- Xây dựng dự án
+- Tổ chức đấu thầu và mua sắm thiết bị
+
+144
+Mua sắm TSCĐ dùng cho công tác chuyên môn
+- Mua sắm thiết bị
+- Mua sắm phần mềm hệ thống
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cân đối  các nguồn kinh phí  theo nội dung chi 
+tiết các hạng mục dự án
+
+I. kế hoạch Phân bổ các nguồn kinh phí giai đoạn 1998 - 2000: (bảng trang 40)
+
+II. kế hoạch Phân bổ các nguồn kinh phí năm 1998:
+
+1. nguồn kinh phí trung ương:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. nguồn kinh phí địa phương:
+
+
+
+
+
+
+
+
+
+1a. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1998
+	Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+	(Nguồn kinh phí TW: 150.000.000đ)
+		
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+4,5
+
+2
+Xây dựng dự án 
+
+1,5
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+1,5
+
+4
+Mua sắm thiết bị
+
+80
+
+5
+Lắp đặt hệ thống mạng
+
+4,5
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+2
+
+7
+Mua sắm phần mềm hệ thống
+
+22
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+10
+
+9
+Đào tạo cán bộ
+
+24
+
+
+Tổng cộng
+
+150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1b. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1998
+	Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+	(Nguồn kinh phí địa phương: 200.000.000đ)
+		
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+5
+
+2
+Xây dựng dự án 
+
+3
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+2
+
+4
+Mua sắm thiết bị
+
+120
+
+5
+Lắp đặt hệ thống mạng
+
+7
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+3
+
+7
+Mua sắm phần mềm hệ thống
+
+16
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+12
+
+9
+Đào tạo cán bộ
+
+32
+
+
+Tổng cộng
+
+200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1c. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1999
+	Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+
+
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+15
+
+2
+Xây dựng dự án 
+
+15
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+7,35
+
+4
+Mua sắm thiết bị
+
+400
+
+5
+Lắp đặt hệ thống mạng
+
+30
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+22,17
+
+7
+Mua sắm phần mềm hệ thống
+
+107,96
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+30
+
+9
+Đào tạo cán bộ
+
+119,52
+
+
+Tổng cộng
+
+747
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1d. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 2000
+	Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+
+
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+20
+
+2
+Xây dựng dự án 
+
+20
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+17,5
+
+4
+Mua sắm thiết bị
+
+600
+
+5
+Lắp đặt hệ thống mạng
+
+60
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+16,5
+
+7
+Mua sắm phần mềm hệ thống
+
+182
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+50
+
+9
+Đào tạo cán bộ
+
+184
+
+
+Tổng cộng
+
+1.150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1e. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá hệ thống quản lý công tác Đảng của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1998
+	Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy
+	(Nguồn kinh phí TW: 100.000.000đ)
+		
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án và xây dựng dự án 
+
+5
+
+2
+- Mua sắm thiết bị
+- Tổ chức đấu thầu
+-  Lắp đặt hệ thống mạng
+
+68
+
+3
+- Mua sắm phần mềm hệ thống
+- Thử nghiệm truyền thông dữ liệu liên mạng
+- Hội thảo đáng giá kết quả
+- Tỉng kÕt, nghiƯm thu
+
+11
+
+4
+Đào tạo cán bộ
+
+16
+
+
+Tổng cộng
+
+100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1f. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá hệ thống quản lý công tác Đảng của tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1998
+	Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy
+	(Nguồn kinh phí địa phương: 150.000.000đ)
+		
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án và xây dựng dự án 
+
+7,5
+
+2
+- Mua sắm thiết bị
+- Tổ chức đấu thầu
+-  Lắp đặt hệ thống mạng
+
+102
+
+3
+- Mua sắm phần mềm hệ thống
+- Thử nghiệm truyền thông dữ liệu liên mạng
+- Hội thảo đáng giá kết quả
+- Tỉng kÕt, nghiƯm thu
+
+16,5
+
+4
+Đào tạo cán bộ
+
+24
+
+
+Tổng cộng
+
+150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1g. Bảng tổng hợp các hạng mục dự án công nghệ thông tin triển khai trong từng năm 
+	Tên dự án: “ Tin học hoá quản lý Nhà nước tại UBND tỉnh Lâm Đồng”
+	Giai đoạn :  1998-2000; Năm : 1998
+	Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+	(Nguồn kinh phí địa phương: 100.000.000đ)
+		
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+Tên gọi hạng mục 
+dự án 
+Mục tiêu chính của
+hạng mục  dự án 
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án 
+
+2
+
+2
+Xây dựng dự án 
+
+1,5
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+1,5
+
+4
+Mua sắm thiết bị
+
+65
+
+5
+Lắp đặt hệ thống mạng
+
+2
+
+6
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+1,5
+
+7
+Mua sắm phần mềm hệ thống
+
+3
+
+8
+Triển khai ứng dụng: chuyển giao ứng dụng
+
+6,5
+
+9
+Đào tạo cán bộ
+
+16
+
+
+Tổng cộng
+
+100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2a. Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+	Kinh phí trong năm 1998 được triển khai xây dựng cho 4 Sở, Ban, Ngành. Được phân bổ theo hai nguồn kinh phí: 
+	- Sở tài chính Vật giá và Sở Kế hoạch đầu tư sử dụng nguồn kinh phí do Trung ương cấp. 	- Ban Tổ chức chính quyền, Cục Thống kê, UBND huyện Bảo Lộc và Thanh phố Đà Lạt sử dụng nguồn kinh phí do Tỉnh cấp. 
+	Cụ thể được phân chia như sau: (2A, 2B, 2C)
+
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 1998
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+(Nguồn kinh phí TW sử dụng cho hạng mục này là: 102.000.000đ; trang bị cho 2 đơn vị: Sở Tài chính - Vật giá và Sở Kế hoạch - Đầu tư)
+                                              				Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 300Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+20
+01
+20
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+9.5
+02
+19
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+2
+01
+2
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3.24
+01
+3.24
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+0.8
+02
+1.6
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+0.007
+500
+3.5
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.5
+01
+1.5
+
+5
+RJ-45 connector
+Cái
+
+0.01
+16
+0.16
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+
+Tổng cộng
+
+
+
+
+51
+
+(Bảng tổng hợp này sử dụng chung cho 2 đơn vị nêu trên)
+
+2b. Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+(Nguồn kinh phí địa phương sử dụng cho hạng mục này là: 136.000.000đ; trang bị cho 4 đơn vị: 
+	- Cục Thống kê: 34.000.000đ
+	- Ban Tổ chức Chính quyền: 34.000.000đ
+	- UBND Thành phố Đà Lạt: 34.000.000đ
+	- UBND Huyện Bảo Lộc: 34.000.000đ )
+
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 1998
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+(Bảng tổng hợp sau sử dụng cho 2 đơn vị: Cục Thống kê và Ban Tổ chức Chính quyền)
+                                              					Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 266 Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+18
+01
+18
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+
+8.5
+01
+8.5
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+1.5
+01
+1.5
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+HUB8 port 10 Base-T
+Chiếc
+
+2.5
+01
+2.5
+
+2
+Card nối mạng 
+Chiếc
+
+0.3
+02
+0.6
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+0.007
+100
+0.7
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.2
+01
+1.2
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+IV
+Lắp đặt, kiểm tra, thử nghiệm, tích hợp hệ thống
+
+
+
+
+1
+
+
+Tổng cộng
+
+
+
+
+34
+
+
+2c. Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 1998
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+(Bảng tổng hợp sau sử dụng cho 2 đơn vị: UBND Thành phố Đà Lạt và UBND Huyện Bảo Lộc)
+									Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 266 Mhz
+- 64 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+18
+01
+18
+
+2
+Máy trạm: PENTIUM 233 MMX
+- 16 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+
+8.5
+01
+8.5
+
+3
+Máy lưu điện 500 VA
+Chiếc
+
+1.5
+01
+1.5
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+HUB8 port 10 Base-T
+Chiếc
+
+2.5
+01
+2.5
+
+2
+Card nối mạng 
+Chiếc
+
+0.3
+02
+0.6
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+0.007
+100
+0.7
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.2
+01
+1.2
+
+III
+Phần mềm hệ thống
+
+
+
+
+
+
+IV
+Lắp đặt, kiểm tra, thử nghiệm, tích hợp hệ thống
+
+
+
+
+1
+
+
+Tổng cộng
+
+
+
+
+34
+
+
+
+
+
+
+
+
+2D: Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 1999
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+
+                                              				Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 400Mhz
+- 128 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+25
+5
+125
+
+2
+Máy trạm: PENTIUM 300 MMX
+- 32 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+15
+5
+75
+
+3
+Máy in
+Bộ
+
+4.5
+2
+9
+
+4
+Máy lưu điện 500 VA
+Chiếc
+
+2
+10
+20
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3
+5
+15
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+0.8
+10
+8
+
+3
+Cable UTP 5 (RJ -45)
+Mét
+
+0.007
+20.000
+140
+
+4
+Modem 33,6 Bps
+Chiếc
+
+1.5
+5
+7.5
+
+5
+RJ-45 connector
+Cái
+
+0.01
+50
+0.5
+
+
+Tổng cộng
+
+
+
+
+400
+
+
+
+
+
+
+
+
+
+
+
+2E: Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật 
+Giai đoạn :  1998-2000 ;  năm : 2000
+Tên cơ quan chủ trì dự án:  Sở KH, CN & MT Lâm Đồng  
+
+                                              				Đơn vị tính: Triệu đồng
+Số
+TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+
+
+
+
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+
+
+
+
+
+1
+Máy chủ: PENTIUM II SERVER
+- Pentium II 400Mhz
+- 128 MB DIM RAM
+- CD-ROM 
+- 4,5 HDD
+Bộ
+
+25
+10
+250
+
+2
+Máy trạm: PENTIUM 300 MMX
+- 32 MB Ram
+- 2.1 GB HDD IDE
+Bộ
+Compaq
+15
+10
+150
+
+3
+Máy in
+Bộ
+
+4.5
+5
+22.5
+
+4
+Máy lưu điện 500 VA
+Chiếc
+
+2
+20
+40
+
+II
+Thiết bị mạng
+
+
+
+
+
+
+1
+Cabletron HUB SEHI-12 HUB 12 port 10 Base-T
+Chiếc
+
+3
+21
+63
+
+2
+Card nối mạng 3COM 
+Chiếc
+
+0.8
+30
+24
+
+3
+Modem 33,6 Bps
+Chiếc
+
+1.5
+30
+45
+
+4
+RJ-45 connector
+Cái
+
+0.01
+500
+5
+
+
+Tổng cộng
+
+
+
+
+600
+
+
+
+
+
+
+
+
+
+
+
+
+2f. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+Tên dự án: “Tin học hóa hệ thống qiản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Mua sắm thiết bị CNTT cho cơ sở hạ tầng kỹ thuật
+Giai đoạn 1998-2000; năm: 1998 ( nguồn kinh phí TW cấp : 100 triệu đồng)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng.
+
+                                                                                       Đơn vị tính: triệu đồng
+STT
+Tên thiết bị, cấu hình kỹ thuật
+Đơn vị
+Đơn giá
+Số lượng
+Thành tiền
+
+I
+Trang bị máy móc
+
+
+
+
+
+1
+Máy chủ: SERVER Pentium II 300 Mhz; 64 Mb RAM; 4,5 Gb HDD SCSI; CD-ROM
+Chiếc
+20
+01
+20
+
+2
+Máy trạm: Pentium MMX 200 Mhz; 16 Mb RAM; 2,1 GB HDD 
+Chiếc
+9.5
+02
+19
+
+3
+Modem: Acorp 56 K External Voice Fax
+Chiếc
+1.5
+01
+  1.5
+
+4
+UPS
+Chiếc
+1.5
+01
+  1.5
+
+5
+Card mạng: PCI/58; 32 bit
+Chiếc
+1.04
+07
+  7.3
+
+6
+HUB 24 port
+Chiếc
+8
+01
+  8
+
+7
+Cable RJ45+ linh kiện
+
+
+
+  5
+
+8
+Phí lắp đặt
+
+
+
+  2
+
+9
+Phụ kiện đi kèm
+
+
+
+  3,7
+
+
+Cộng  I
+
+
+
+68
+
+II
+Phần đào tạo
+
+
+
+
+
+1
+Lớp cho cán bộ lãnh đạo
+
+
+
+  4
+
+2
+Lớp cho chuyên viên tin học
+
+
+
+  6
+
+3
+Lớp cho người sử dụng
+
+
+
+  6
+
+
+Cộng  II
+
+
+
+16
+
+III
+Phần triển khai ứng dụng
+
+
+
+
+
+1
+Mua phần mềm hệ thống
+
+
+
+  9
+
+2
+Cài đặt
+
+
+
+  1
+
+3
+Chuyển giao
+
+
+
+  1
+
+
+Cộng  III
+
+
+
+11
+
+IV
+Quản lý dự án
+
+
+
+  5
+
+
+Tổng cộng (I,II,III,IV)
+
+
+
+100
+
+
+
+
+
+
+
+
+
+
+2g. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+Tên dự án: “Tin học hóa qiản lý công tác Đảng”
+Tên hạng mục dự án: Mua sắm thiết bị CNTT cho cơ sở hạ tầng kỹ thuật
+Giai đoạn 1998-2000; năm: 1998 ( nguồn kinh phí  địa phương: 150 triệu)
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng.
+
+                                                                                       Đơn vị tính: triệu đồng
+STT
+Tên thiết bị, cấu hình kỹ thuật
+Đơn vị
+Đơn giá
+Số lượng
+Thành tiền
+
+I
+Trang bị máy móc
+
+
+
+
+
+1
+Máy chủ: SERVER  IBM 315 4.5 Gb HDD SCSI; 128 Mb RAM; CD-ROM
+chiếc
+65
+01
+65
+
+2
+Máy trạm: Pentium MMX 200 Mhz; 16 Mb RAM; 2,1 GB HDD 
+chiếc
+9.5
+03
+28.5
+
+3
+Card mạng: PCI/58; 32 bit
+chiếc
+1.04
+03
+  3.1
+
+4
+Máy quét Sanner Color  Page HR5 Pro 30 bit
+chiếc
+5.4
+01
+   5.4
+
+
+Cộng  I
+
+
+
+102
+
+II
+Phần đào tạo
+
+
+
+  24
+
+III
+Phần triển khai ứng dụng
+
+
+
+  16.5
+
+IV
+Quản lý dự án
+
+
+
+  7.5
+
+
+Tổng cộng (I,II,III,IV)
+
+
+
+150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3A. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+	Tổng kinh phí: 56.000.000đ từ 2 nguồn:
+		- Trung ương: 24.000.000đ
+		- Địa phương: 32.000.000đ 
+	Phân bổ cho các hạng mục đào tạo:
+		- Cán bộ lãnh đạo và quản lý 
+		- Chuyên viên quản lý hệ thống
+		- Người sử dụng
+	
+Tên dự án: “ Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án:Đào tạo công nghệ thông tin cho cán bộ lãnh đạo và quản lý
+Giai đoạn : năm 1998-2000;  
+Tên cơ quan chủ trì dự án: Sở KH, CN & MT  Lâm Đồng
+	                          					Đơn vị tính: đồng
+
+SỐTT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học viên
+
+Số học viên 
+
+Thành tiền
+
+
+
+
+
+1998
+1999-2000
+1998
+1999  - 2000
+
+I
+Các môn học
+
+
+
+
+
+
+
+1
+Căn bản
+10
+150.000
+12
+5
+1.800.000
+750.000
+
+2
+Phương pháp tiếp cận mạng
+10
+150.000
+12
+5
+1.800.000
+750.000
+
+3
+Sử dụng, khai thác CSDL
+15
+225.000
+12
+5
+2.700.000
+1.125.000
+
+II
+Thuê thiết bị và nơi học
+
+
+
+
+1.275.000
+1.000.000
+
+
+Tổng cộng 
+
+
+
+
+
+7.575.000
+3.625.000
+
+
+Tổng cộng : 11.200.000
+
+3b. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho cán bộ lãnh đạo và quản lý
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính:  triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Căn bản
+15
+0.15
+30      45        
+4.5            6.75
+
+2
+Khai thác CSDL
+15
+0.15
+30      45
+4.5            6.75
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+4               5
+
+
+Tổng cộng
+
+
+
+13             18.5  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án THEO năm
+Tên dự án: “ Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án: Đào tạo công nghệ thông tin cho chuyên viên quản lý hệ thống
+Giai đoạn: năm 1998-2000
+Tên cơ quan chủ trì dự án: Sở KH, CN & MT  Lâm Đồng
+              Đơn vị tính:  đồng
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành 
+Kinh phí cho 1 học 
+
+Số học viên 
+
+Thành tiền
+
+
+
+
+viên
+1998
+1999 -2000
+1998
+1999 -2000
+
+I
+Các môn học
+
+
+
+
+
+
+
+1
+Quản trị mạng
+50
+750.000
+6
+6
+4.500.000
+4.500.000
+
+2
+Bảo trì hệ thống 
+15
+225.000
+6
+6
+1.350.000
+1.350.000
+
+3
+Khai thác CSDL, sử dụng các phần mềm chuyển giao
+15
+225.000
+6
+6
+1.350.000
+1.350.000
+
+II
+Thuê thiết bị và nơi học
+
+
+
+
+1.400.000
+1.000.000
+
+
+Tổng cộng 
+
+
+
+
+8.600.000
+8.200.000
+
+
+Tổng cộng : 16.800.000
+
+3d. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho Chuyên viên Tin học
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính: triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Quản trị mạng
+30
+0.5
+2          3        
+1            1.5
+
+2
+Tập huấn WAN
+15
+0.2
+2          3        
+0.4            0.6
+
+3
+Sử dụng phần mềm chuyển giao
+15
+0.2
+2          3        
+0.4            0.6
+
+4
+Khai thác CSDL
+15
+0.2
+2          3        
+0.4            0.6
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+2               2.2
+
+
+Tổng cộng
+
+
+
+4.2             5.5  
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3e. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+Tên dự án: “Tin học hoá Quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng“
+Tên hạng mục dự án:Đào tạo công nghệ thông tin cho người sử dụng tại các máy trạm
+Giai đoạn : năm 1998-2000
+Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+	                   Đơn vị tính:  đồng
+
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học 
+
+Số học viên 
+
+Thành tiền
+
+
+
+
+viên
+1998
+1999-2000
+1998
+1999-  2000
+
+I
+Các môn học
+
+
+
+
+
+
+
+1
+Căn bản
+40
+
+10
+10
+6,000,000
+6,000,000
+
+2
+Phương pháp tiếp cận, làm việc trên mạng
+25
+
+10
+10
+3,750,000
+3,750,000
+
+3
+Sử dụng, khai thác CSDL; Các phần mềm chuyển giao
+25
+
+10
+10
+3,750,000
+3,750,000
+
+II
+Thuê thiết bị và nơi học
+
+
+
+
+500.000
+500.000
+
+
+Tổng cộng 
+
+
+
+
+
+14.000.000
+14.000.000
+
+
+Tổng cộng: 28.000.000
+
+3f. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm 
+
+Tên dự án: “ Tin học hóa hệ thống quản lý công tác Đảng Tỉnh Lâm Đồng”
+Tên hạng mục dự án: Đào tạo CNTT cho người sử dụng
+Giai đoạn: năm 1998 - 2000
+Tên cơ quan chủ trì dự án: Văn phòng Tỉnh ủy Lâm Đồng
+
+                                                                          Đơn vị tính: triệu đồng
+Số
+TT
+Nội dung đào tạo
+Số tiết 
+   học     
+Kinh phí 1 học viên
+Số học viên
+
+98   99-2000
+Thành tiền
+
+98          99-2000
+
+I
+Các môn học
+
+
+
+
+
+1
+Căn bản
+30
+0.3
+30          20        
+9               6
+
+2
+Tập huấn WAN
+10
+0.15
+30          50        
+4.5            7.5 
+
+3
+Sử dụng phần mềm chuyển giao
+10
+0.15
+30          50        
+4.5            7.5 
+
+II
+Tham quan khảo sát, thuê thiết bị
+
+
+
+4.8               5
+
+
+Tổng cộng
+
+
+
+22.8             26  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Bảng tổng hợp kinh phí của các hạng mục dự án từ các nguồn
+Tên dự án: “ Tin học hoá quản lý Nhà nước khối các Sở, Ban ngành, Huyện, Thị, Thành phố của tỉnh Lâm Đồng”
+Giai đoạn :  1998-2000; năm  :1998
+Tên cơ quan chủ trì dự án: Sở KH, CN & MT Lâm Đồng
+	                   Đơn vị tính:Triệu đồng
+Mã 
+Tên  
+Kinh phí năm 1998
+Kinh phí năm 1999-2000
+
+hạng mục
+hạng mục
+Trung ương 
+Cơ sở 
+Khác
+Trung ương 
+Cơ sở 
+Khác
+
+1
+Quản lý và điều hành dự án
+4.5
+5
+
+
+
+
+
+2
+Tiếp tục Xây dựng dự án khả thi và thiết kế hệ thống thông tin
+1.5
+3
+
+
+
+
+
+3
+Tổ chức đấu thầu mua sắm thiết bị
+1.5
+2
+
+
+
+
+
+4
+Mua sắm thiết bị 
+80
+120
+
+
+
+
+
+7
+Mua sắm các phần mềm hệ thống
+22
+16
+
+
+
+
+
+5
+Lắp đặt và cài đặt hệ thống mạng
+4.5
+7
+
+
+
+
+
+8
+Xây dựng và mua sắm các chương trình khai thác và ứng dụng
+10
+12
+
+
+
+
+
+9
+Đào tạo cán bộ
+24
+32
+
+
+
+
+
+
+Tổng cộng
+
+150
+200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+PAGE  9
+
+
+PAGE  1
+
+
+PAGE  149
+
+
+
+ EMBED Excel.Sheet.8  
+
+
+Hệ thống thông tin văn phòng Sở
+
+BAN LÃNH ĐẠO
+(Giám đốc, Phó giám đốc)
+
+Phòng hành chính tổng hợp
+
+Các phòng ban chuyên môn
+
+Các cơ quan bên ngoài
+   * Cấp trên
+   * Cấp dưới
+   * Liên quan
+
+Kho lưu trữ
+
+TRẠM  PHỤC VỤ
+
+Điện Thoại hoặc X25
+
+
+Các cơ quan  chức năng  bên ngoài
+
+Văn
+phòng
+
+Lãnh đạo
+
+Phòng, Ban chuyên môn
+
+Kho lưu trữ
+
+HUB có SNMP
+
+UBND Tỉnh
+
+Máy chủ CSDL & Truyền thông
+
+DB
+
+
+Hệ thống hạ tầng cơ sở CNTT 
+tỉnh Lâm Đồng
+
+
+LAN của các Sở, Huyện
+
+(
+
+(
+
+ Mạng Trung tâm tỉnh 
+
+ tỉnh ủy
+
+Đơn vị Sở, Huyện
+
+
+
+TEL
+X25
+
+
+LAN
+Server
+
+(
+
+(
+
+(
+
+DB
+Server
+
+- Novel Netware
+- Windows
+- Unix
+
+
+
+
+
+Các phòng chuyên môn . . .
+
+Phòng Tổng hợp 
+
+-Router
+-File Transfer
+-E-Mail
+-Browser
+-Gateway
+
+Modem
+
+ EMBED Excel.Sheet.8  
+
+Printer
+
+Mô hình lan tạI  vp. ubnd huyện, thành phố 
+
+. .  .  .
+
+Lãnh đạo
+
+Non Intelligent HUB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modem
+
+Printer
+
+Máy chủ CSDL &
+Truyền thông
+
+ EMBED Excel.Sheet.8  
+
+Non Intelligent HUB
+
+
+
+
+
+
+
+ Mô hình lan tạI  sở
+
+Modem
+
+ hình 3e: Mô hình  lan tạI  sở
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non Intelligent HUB
+
+Lãnh đạo
+
+. .  .  .
+
+Printer
+
+Modem
+
+Phòng Tổng hợp 
+
+Các phòng chuyên môn . . .
+
+Máy chủ CSDL & Truyền thông
+
+Printer
+
+Máy chủ CSDL &
+Truyền thông
+
+Non Intelligent HUB
+
+
+
+
+
+
+
+Hình 4e: Mô hình lan tạI  vp. ubnd huyện, thành phố 
+
+VP. Chính phủ
+
+VP. Quốc Hội
+
+Bộ
+Tổng cục
+Ngành
+
+HĐND Tỉnh
+
+Tỉnh ủy
+
+Tỉnh, Thành phố khác
+
+UBND Tỉnh
+
+VP. UBND tỉnh 
+
+Sở
+Cục
+Ban
+
+Phòng
+Ban
+
+UBND
+Huyện, Thị, Thành phố
+
+UBND
+Xã, Phường, Thị trấn
+
+Công dân
+
+
+THỦ TƯỚNG CHÍNH PHỦ 
+
+VP. CHÍNH PHỦ
+
+VP. UBND tỉnh
+
+Chủ tịch UBND tỉnh
+
+Bộ
+Tổng cục
+Ngành
+
+Sở
+Cục
+Ban
+
+
+Phòng
+Ban
+
+
+Tỉnh ủy
+
+
+HĐND tỉnh
+
+
+Tỉnh, Thành phố khác
+
+
+UBND
+Huyện,Thị, Thành phố
+
+
+UBND
+Phường, Thị xã,Thị trấn

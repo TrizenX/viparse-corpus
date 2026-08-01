@@ -42,10 +42,15 @@ _MODIFIERS: dict[str, tuple[str, str]] = {
     # Breve family. `ë` is breve+*nặng*, read off `hoaëc` (hoặc) and `ñaëc` (đặc) in the
     # collected VNI documents — an earlier draft had it as breve+ngã, which is what a
     # first pass writes when it fills the row by symmetry instead of by observation.
-    # ẳ and ẵ are deliberately absent: no VNI document collected so far contains either,
-    # and guessing them is how the TCVN3 table got four entries wrong.
+    # `ü` is breve+ngã, from `saün coù` (sẵn có) and `Ñaø Naüng` (Đà Nẵng) — two
+    # different words, one of them a place name that settles it. Both turned up in the
+    # mixed-encoding Lâm Đồng document, which is why they were missed until it was read.
+    # ẳ is still absent: no collected VNI document contains it, and guessing the last
+    # row from the other five is how the TCVN3 table got four entries wrong.
     "é": ("\u0306", "\u0301"), "è": ("\u0306", "\u0300"), "ë": ("\u0306", "\u0323"),
+    "ü": ("\u0306", "\u0303"),
     "É": ("\u0306", "\u0301"), "È": ("\u0306", "\u0300"), "Ë": ("\u0306", "\u0323"),
+    "Ü": ("\u0306", "\u0303"),
 }
 
 # Base characters, mapped to the Unicode letter they stand for before a modifier is
