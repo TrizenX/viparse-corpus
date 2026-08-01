@@ -183,6 +183,42 @@ Step 4 is the real cost. Screening is cheap and automated; a correct Unicode
 transcript is manual. Scope the real-document set small and deep rather than large
 and shallow.
 
+## Overseas publishing — searched 2026-08-01, and why nothing came from it
+
+Government sources are exhausted for VNI: 28 Vietnamese domains produced 2 usable VNI
+documents against 43 TCVN3. The encoding was common in the south and in the diaspora,
+but the bodies that published to the web ran TCVN3.
+
+So the diaspora was searched. VNI is there:
+
+| Source | .doc archived | Legacy | Notes |
+| --- | ---: | ---: | --- |
+| `thuvienhoasen.org` | 60 | **2 VNI**, 2 TCVN3 | Names files by encoding — `-vni.doc`, `-tcvn.doc`. Seven more found by that filename pattern alone |
+| `buddhismtoday.com` | 72 | 0 | Already Unicode |
+| `quangduc.com` | 2 | 1 TCVN3 | |
+| `oc.ca.gov`, `sccgov.org` | 111 | 0 | US counties with large Vietnamese populations; their Vietnamese material is not archived `.doc` |
+| `nguoi-viet.com`, `vietbao.com` | 0 | — | Newspapers published HTML, not documents |
+
+**The blocker is not supply, it is licence.** Article 15 of the Vietnamese IP law
+places *legal and administrative* documents outside copyright, and that is the entire
+basis on which this corpus can be published. It does not reach a Buddhist library's
+translations, which belong to their translators. No licence statement was found on
+`thuvienhoasen.org` or its archived pages.
+
+So these documents are **not** in the corpus, and should not be added without
+permission. Three ways forward, in order of preference:
+
+1. **Ask.** Buddhist publishing has a strong free-distribution tradition (*ấn tống*),
+   and a request naming the purpose — measuring how well software recovers Vietnamese
+   from a dead encoding — is likely to be received well. `thuvienhoasen.org` labels its
+   own files by encoding, which suggests people there who would understand the problem.
+2. **Synthetic VNI**, generated and labelled as such. It cannot be a headline number —
+   see `corpus.md` on circularity — but it can carry a table far enough to be worth
+   contributing.
+3. **Keep looking** in Vietnamese-language material published by US state and local
+   government, which is public record. Two counties were checked and had none archived
+   as `.doc`; more exist.
+
 ## What is still missing
 
 - **VISCII and VPS samples — none found.** Twelve government domains produced 58
