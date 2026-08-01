@@ -1,0 +1,23 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      # The scorer is stdlib-only by design, so there is nothing to install —
+      # anyone must be able to re-run it against the published corpus.
+      - name: Scorer self-test
+        run: python3 scripts/score.py --pred . --truth . --subset public-domain --self-test
+
+      - name: Provenance and ground truth
+        run: python3 scripts/validate_provenance.py
