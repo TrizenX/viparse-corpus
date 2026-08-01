@@ -1,0 +1,13 @@
+# Screened 2026-08-01. Ministries first, then southern provinces where VNI turns up.
+mof.gov.vn
+sbv.gov.vn
+moit.gov.vn
+mpi.gov.vn
+mard.gov.vn
+molisa.gov.vn
+most.gov.vn
+hochiminhcity.gov.vn
+cantho.gov.vn
+danang.gov.vn
+binhduong.gov.vn
+dongnai.gov.vn

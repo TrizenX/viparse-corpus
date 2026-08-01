@@ -117,10 +117,14 @@ the failure count before believing it.
 
 ## Workflow
 
+Collect — screens, downloads, and writes each provenance row as its file lands:
+
 ```bash
-python3 scripts/find_candidates.py --domain mof.gov.vn --from 2001 --to 2008 \
-  --download corpus/public-domain/tcvn3/
+python3 scripts/fetch_corpus.py --domains-file domains.txt --limit 14
 ```
+
+Every row is written `pending-transcript` with PII review outstanding. Neither is
+optional before a document is marked `ready` and enters the scored set.
 
 Then, per file:
 
