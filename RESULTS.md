@@ -377,12 +377,17 @@ TCVN3 read 0.959 the moment the Godement document rejoined the set, carrying the
 to 0.977. Nothing about TCVN3 *conversion* changed in either direction — the whole
 movement was extraction.
 
-Two things keep that document off ~0.99, both measured rather than assumed. Footnotes
-live in `word/footnotes.xml`, a part the engine does not read (1,062 characters here).
-And LibreOffice loses about 5,642 characters converting this `.doc` at all: passages
-present in the original appear in neither `document.xml` nor `footnotes.xml`. That
-second one is upstream of viparse entirely, and worth knowing before anyone reads a
-legacy-`.doc` score as a parser score.
+Two things kept that document off ~0.99, both measured rather than assumed. Footnotes
+lived in `word/footnotes.xml`, a part the engine did not read — 1,062 characters here,
+the whole bibliography — now fixed in
+[viparse#89](https://github.com/TrizenX/viparse/pull/89), which takes TCVN3 to **0.981**
+and this document to 0.679.
+
+What remains is not viparse's to fix: **LibreOffice loses about 5,642 characters**
+converting this `.doc` at all. Passages present in the original appear in neither
+`document.xml` nor `footnotes.xml`, so they are gone before the parser is handed
+anything. Worth knowing before a legacy-`.doc` score is read as a parser score — on this
+document roughly 18% of the ceiling belongs to the conversion step, not the library.
 
 ### The mixed document, closed
 
