@@ -384,8 +384,29 @@ present in the original appear in neither `document.xml` nor `footnotes.xml`. Th
 second one is upstream of viparse entirely, and worth knowing before anyone reads a
 legacy-`.doc` score as a parser score.
 
-**The mixed document is now the corpus's sharpest open finding at 0.084.** It is also
-the one viparse's per-run detection was built for.
+### The mixed document, closed
+
+**0.084 → 0.949** ([viparse#87](https://github.com/TrizenX/viparse/pull/87)), char 0.786
+→ 0.970, with `encoding="auto"`.
+
+The first diagnosis was wrong and measuring it said so. 174,646 characters carry the
+font `VNSTCVN3`, which matches none of viparse's legacy font patterns — so the obvious
+fix was to recognise the name. That would have made things worse: **109,211 of those
+characters are VNI, not TCVN3.** The document was assembled from sections typed on
+different machines with one font applied across all of them, so the name is actively
+wrong for most of what it covers.
+
+The real defect was that an unrecognised font produced `encoding=None`, which the
+planner read as *leave this text alone* — an unknown font name treated as evidence the
+text is Unicode. It is not evidence of anything.
+
+Two things about the fix are worth recording here because the corpus is what showed
+them. Content detection had to run **per block, not per run**: at block level it agreed
+with `scripts/mixed.py` on 93.6% of this document's characters, but the median run is 51
+characters and a per-run pass read `MôC LôC` as VNI. And the fallback had to be gated on
+a document-level legacy font signal, not merely on `encoding="auto"` — without that, an
+unrecognised font stopped protecting non-Vietnamese text and `Señor` became `Seđor`,
+which a check against `main` caught before it shipped.
 
 ## Four errors found in this harness, not in viparse
 
