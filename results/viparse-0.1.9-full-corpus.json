@@ -4,12 +4,12 @@
   "subset": "public-domain",
   "metric_version": "1",
   "summary": {
-    "n_documents": 32,
+    "n_documents": 45,
     "n_failures": 0,
     "failures": [],
-    "char_accuracy": 0.979789,
-    "diacritic_accuracy": 0.989785,
-    "syllable_accuracy": 0.990033
+    "char_accuracy": 0.946995,
+    "diacritic_accuracy": 0.946086,
+    "syllable_accuracy": 0.94717
   },
   "documents": [
     {
@@ -91,6 +91,14 @@
       "syllable_accuracy": 0.997326,
       "truth_chars": 4987,
       "diacritic_positions": 1078
+    },
+    {
+      "document": "2004-1ED4D_Francois_Godement-Thoikyquado",
+      "char_accuracy": 0.198342,
+      "diacritic_accuracy": 0.150634,
+      "syllable_accuracy": 0.136724,
+      "truth_chars": 31849,
+      "diacritic_positions": 6705
     },
     {
       "document": "2004-1F7ZB_EtudeBinh_vn",
@@ -205,6 +213,14 @@
       "diacritic_positions": 4962
     },
     {
+      "document": "2004-mauduan",
+      "char_accuracy": 0.935252,
+      "diacritic_accuracy": 0.951953,
+      "syllable_accuracy": 0.942757,
+      "truth_chars": 139015,
+      "diacritic_positions": 27952
+    },
+    {
       "document": "2005-1DCA4_3b",
       "char_accuracy": 1.0,
       "diacritic_accuracy": 1.0,
@@ -219,6 +235,22 @@
       "syllable_accuracy": 0.997847,
       "truth_chars": 43016,
       "diacritic_positions": 9073
+    },
+    {
+      "document": "2005-QDINHUUDAI522",
+      "char_accuracy": 0.986961,
+      "diacritic_accuracy": 0.999914,
+      "syllable_accuracy": 0.999322,
+      "truth_chars": 51692,
+      "diacritic_positions": 11592
+    },
+    {
+      "document": "2005-QDSUA522",
+      "char_accuracy": 0.976276,
+      "diacritic_accuracy": 0.998144,
+      "syllable_accuracy": 0.995339,
+      "truth_chars": 10917,
+      "diacritic_positions": 2155
     },
     {
       "document": "2005-nghiencuu_2004_07_21_110129",
@@ -253,12 +285,84 @@
       "diacritic_positions": 293
     },
     {
+      "document": "2006-Mau-MD-1M-Dntn",
+      "char_accuracy": 0.985877,
+      "diacritic_accuracy": 0.992481,
+      "syllable_accuracy": 0.988506,
+      "truth_chars": 6868,
+      "diacritic_positions": 266
+    },
+    {
+      "document": "2006-Mau-MD-2M-TNHH1",
+      "char_accuracy": 0.972973,
+      "diacritic_accuracy": 0.99115,
+      "syllable_accuracy": 0.984962,
+      "truth_chars": 1850,
+      "diacritic_positions": 226
+    },
+    {
+      "document": "2006-Mau-MD-3M-CP",
+      "char_accuracy": 0.979679,
+      "diacritic_accuracy": 0.992248,
+      "syllable_accuracy": 0.986711,
+      "truth_chars": 3051,
+      "diacritic_positions": 258
+    },
+    {
+      "document": "2006-Mau-MD-5M-HD",
+      "char_accuracy": 0.880449,
+      "diacritic_accuracy": 0.9,
+      "syllable_accuracy": 0.898413,
+      "truth_chars": 1514,
+      "diacritic_positions": 260
+    },
+    {
+      "document": "2006-Mau-MDS-1M",
+      "char_accuracy": 0.979895,
+      "diacritic_accuracy": 0.995726,
+      "syllable_accuracy": 0.984496,
+      "truth_chars": 1144,
+      "diacritic_positions": 234
+    },
+    {
+      "document": "2006-Mau-MDS-3M-HD",
+      "char_accuracy": 0.978278,
+      "diacritic_accuracy": 0.995951,
+      "syllable_accuracy": 0.985612,
+      "truth_chars": 1243,
+      "diacritic_positions": 247
+    },
+    {
+      "document": "2006-Mau-MTB-10M-Von-CtyCP",
+      "char_accuracy": 0.964777,
+      "diacritic_accuracy": 0.995261,
+      "syllable_accuracy": 0.991266,
+      "truth_chars": 1164,
+      "diacritic_positions": 211
+    },
+    {
+      "document": "2006-Mau-MTB-10M-Von-CtyHD",
+      "char_accuracy": 0.96169,
+      "diacritic_accuracy": 0.994949,
+      "syllable_accuracy": 0.990741,
+      "truth_chars": 1018,
+      "diacritic_positions": 198
+    },
+    {
       "document": "2006-huong-dan-ghi-phieu",
       "char_accuracy": 0.981427,
       "diacritic_accuracy": 1.0,
       "syllable_accuracy": 0.997335,
       "truth_chars": 12976,
       "diacritic_positions": 2379
+    },
+    {
+      "document": "2006-quydinhkiemtra02",
+      "char_accuracy": 0.822899,
+      "diacritic_accuracy": 0.235561,
+      "syllable_accuracy": 0.335543,
+      "truth_chars": 15590,
+      "diacritic_positions": 3307
     },
     {
       "document": "2009-download",

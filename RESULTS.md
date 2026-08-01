@@ -118,6 +118,47 @@ One document is not enough to fix it from. Deriving a table from a single source
 the TCVN3 table got four entries wrong the first time. More VNI documents first —
 southern provincial portals are where the three collected so far came from.
 
+## Corpus expanded to 45 scored documents
+
+Sixteen more southern provincial domains screened, 194 candidates, 16 legacy-encoded.
+
+| Subset | documents | char | diacritic | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| TCVN3 | 43 | 0.949 | **0.960** | 0.958 |
+| VNI | 2 | 0.823 | **0.234** | 0.342 |
+
+The second VNI document confirms the first was not a fluke: **0.236** and
+**0.220**. viparse's VNI charmap holds 6 mappings against roughly fifty
+needed — the shape TCVN3 was in before VIP-85. Two documents is still thin for
+deriving a table; that is how the TCVN3 table got four entries wrong the first time.
+
+**VNI is scarce in government sources.** Sixteen southern provinces yielded 3 VNI
+candidates against 13 TCVN3, and one of those three turned out to be TCVN3. VNI was
+common in the south and in overseas publishing, but the bodies that published on the
+web ran TCVN3. VISCII and VPS: still none, across 28 domains.
+
+## Three more documents excluded, all for personal data
+
+The PII review that every provenance row had been deferring found identifiers in three
+of 49 documents:
+
+- a business-registration circular whose worked example was filled in with a name,
+  birth date, national ID, address and email;
+- a payments schedule listing named individuals against their ID numbers;
+- a district phone directory with names, positions, and a column headed **Riêng**
+  (private) beside one headed **Di động** — 137 numbers.
+
+All three excluded rather than redacted. Redacting a transcript is not redaction: the
+source `.doc` still carries the data, and editing an OLE2 binary destroys the artefacts
+the file was collected for.
+
+## One document is mixed-encoding
+
+`2004-duanLD9820` (Lâm Đồng) contains TCVN3 and VNI **in the same file** — `NGAỉNH`,
+`HUYEÄN` sitting inside otherwise TCVN3 text. It is held at `pending-transcript`: a
+single table cannot convert it, and it is exactly the case viparse's per-run detection
+exists for. It also defeated the classifier twice before the residue test caught it.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.

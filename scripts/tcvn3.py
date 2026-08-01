@@ -86,9 +86,17 @@ def convert(text: str) -> str:
     return unicodedata.normalize("NFC", _fix_uppercase_runs(mapped))
 
 
+# Vietnamese letters that legitimately live in the Latin-1 supplement. Checking the
+# input rather than the output, and without excluding these, reports À Á Â as gaps when
+# they are correct results — the same mistake this file's VNI sibling made once.
+_VALID_LATIN1_VN = set("ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝàáâãèéêìíòóôõùúý")
+
+
 def unmapped(text: str) -> set[str]:
-    """Latin-1 characters the table does not cover — these are the gaps."""
-    return {c for c in text if 0xA0 < ord(c) < 0x100 and c not in TABLE}
+    """Latin-1 characters still present *after* conversion — the real gaps."""
+    return {
+        c for c in convert(text) if 0xA0 < ord(c) < 0x100 and c not in _VALID_LATIN1_VN
+    }
 
 
 def main() -> int:

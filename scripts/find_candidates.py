@@ -197,8 +197,24 @@ def classify(fonts: set[str], data: bytes | None = None) -> str | None:
     from_text = text_family(text)
     if from_text is None:
         return None
-    # Trust the text over the font table; the declaration can be a leftover.
-    return from_text
+
+    # The positional heuristic is a fast filter, not a verdict — it filed a Lâm Đồng
+    # TCVN3 document as VNI. Confirm by converting with both tables and keeping the one
+    # that leaves fewer characters unconverted: a table applied to the wrong encoding
+    # cannot consume its bytes, so the residue counts separate them decisively (9
+    # against 42 on that document).
+    try:
+        import tcvn3 as tcvn3_table
+        import vni as vni_table
+    except ImportError:
+        return from_text
+
+    residue = {
+        "tcvn3": len(tcvn3_table.unmapped(text)),
+        "vni": len(vni_table.unmapped(text)),
+    }
+    best = min(residue, key=lambda k: residue[k])
+    return best if residue[best] != residue["tcvn3" if best == "vni" else "vni"] else from_text
 
 
 def main() -> int:

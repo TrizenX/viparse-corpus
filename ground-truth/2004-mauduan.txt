@@ -1,0 +1,3601 @@
+Ban chỉ đạo Chương trình Quốc gia
+       về Công nghệ thông tin
+           --------------------
+
+các dự án
+ứng dụng và phát triển cntt
+giai đoạn 1998-1999-2000
+
+của tỉnh......................................................................
+
+Đơn vị chủ dự án: Ban Chỉ đạo CNTT Tỉnh
+Đơn vị thực hiện :...............................................................................................
+Địa điểm đầu tư :.................................................................................................
+			    ..................................................................................................
+			    ..................................................................................................
+
+( Khung dự án mẫu: Tài liệu sử dụng cho các lớp tập huấn kỹ thuật ngày 2/10/1997 tại Hà nội và 6/10/1997 tại Thành phố Hồ Chí Minh )
+
+Hà nội, 10/1997
+Lời nói đầu
+
+	Chương trình quốc gia về Công nghệ thông tin thực sự đã được triển khai trên phạm vi cả nước  từ năm 1996 và trong hai năm đầu 1996, 1997  công tác tin học hoá quản lý nhà nước đã bước đầu được triển khai ở các bộ, ngành, và ở các  uỷ ban nhân dân tỉnh và thành phố trực thuộc Trung ương. Trong quá trình triển khai các dự án tin học hoá quản lý nhà nước thuộc Chương trình, Ban chỉ đạo Chương trình quốc gia về công nghệ thông tin đã tiến hành một số buổi tập huấn kỹ thuật và có một số hướng dẫn hỗ trợ cho việc xây dựng dự án CNTT tại các Văn phòng Uỷ ban nhân dân các tỉnh , thành phố trực thuộc Trung ương. Trong giai đoạn 1988-2000, công tác tin học hoá quản lý nhà nước ở các địa phương sẽ được mở rộng cho các sở, ban ngành thuộc uỷ ban nhân dân và một số nơi cho các quận, huyện, phường, xã. Vì vậy, việc hỗ trợ cho các địa phương xây dựng các dự án để đáp ứng nhu cầu nêu trên là một nhiệm vụ cấp bách đặt ra cho Ban chỉ đạo Chương trình quốc gia về công nghệ thông tin.
+
+	Trên cơ sở tham khảo ý kiến của các cán bộ quản lý và kỹ thuật hoạt động trong lĩnh vực công nghệ thông tin,Ban chỉ đạo Chương trình quốc gia về công nghệ thông tin đã dự thảo khung một số dự án tin học hoá cho một số sở, ban, ngành như Sở Kế hoạch và Đầu tư, Sở Khoa học Công nghệ và Môi trường, Sở Tài chính - Vật giá. Việc lựa chọn ưu tiên công tác tin học hoá quản lý nhà nước  cho ba sở nêu trên nhằm chuẩn bị tích cực cho việc xây dựng và triển khai một số cơ sở dữ liệu quốc gia của Nhà nước. Để vận dụng tốt khung các dự án này đề nghị cần lưu ý một số điểm sau:
+
+	1. Căn cứ để lựa chọn  các dự án cần xuất phát từ nhu cầu thực tiễn của địa phương, điều kiện về nhân lực và vốn. Về cơ bản các dự án, ngoài nguồn kinh phí của Chương trình quốc gia về CNTT cho  giai đoạn đầu, các năm tiếp theo,  chủ yếu cần được huy động  đầu tư từ nguồn vốn  của địa phương và các nguồn kinh phí khác.
+
+	2. Trong các bước triển khai cần chú trọng đến việc chuẩn hoá thông tin, xây dựng hệ thống thông tin, đào tạo cán bộ quản lý, sử dụng và kỹ thuật. Tránh hiện tượng chỉ đầu tư trang thiết bị mà chưa có thông tin.
+
+	3. Cần coi  khung các dự án  này là một số gợi ý chung. Tuỳ theo hoàn cảnh thực tiễn của địa phương để vận dụng chứ không nhất thiết phải tuân thủ có đầy đủ các trang thiết bị phần cứng cũng như phần mềm như đã nêu trong bản hướng dẫn này.
+
+	4. Một số bảng biểu kèm theo phương pháp tính các phương án khác nhau một cách tự động là công cụ giúp cho việc tính nhanh các phương án đầu tư . Một số hệ số đặt ra  trong các phương pháp tính là những hệ số gợi ý.  Các hệ số này có thể được thay đổi tuỳ theo hoàn cảnh thực tiễn của địa phương.
+
+	Khung các dự án này  do các chuyên gia thuộc Ban chỉ đạo Chương trình quốc gia về công nghệ thông tin soạn thảo trong một thời gian ngắn, chưa tham khảo và lấy ý kiến đầy đủ và rộng rãi  của các cán bộ quản lý cũng như công nghệ thuộc các hoạt động nghiệp vụ chuyên môn nên không tránh khỏi  một số thiếu sót, vì vậy trong quá trình thực hiện Ban chỉ đạo Chương trình quốc gia về công nghệ thông tin rất mong nhận được các nhận xét, góp ý và bổ xung để hoàn thiện tài liệu này.
+
+Thứ trưởng- Phó trưởng ban thường trực
+Ban chỉ đạo Chương trình quốc gia về CNTT
+Chu Hảo
+
+Các dự án
+ứng dụng và phát triển CNTT tại  tỉnh (thành phố)..........................................
+giai đoạn 1998-2000
+(Hướng dẫn mẫu chi tiết dự án)
+---------------------
+
+phần thứ  nhất
+
+Đánh giá tình hình thực hiện dự án  Tin học hoá quản lý Nhà nước
+giai đoạn 1996-1997.
+
+I. Những mục tiêu của dự án tin học hoá quản lý Nhà nước giai đoạn 1996-1997.
+(Nêu những mục tiêu đã được phê duyệt trong dự án tiền khả thi tin học hoá quản lý Nhà nước tại UBND tỉnh giai đoạn 1996-1997).
+
+II. Dự kiến kết quả triển khai dự án tại VP UBND tỉnh giai đoạn 1996-1997
+
+1-Kết quả thực hiện hạng mục đào tạo CNTT (Bảng B.2)
+Bảng 2:
+Đối tượng đào tạo
+Số lượng 1996
+Số lượng 1997
+ghi chú
+
+I-Cán bộ lãnh đạo
+
+I-Chuyên viên sử dụng
+
+I-Chuyên viên Tin học
+
+Tổng cộng
+
+2. Kết quả thực hiện hạng mục triển khai ứng dụng
+
+Loại ứng dụng
+Nội dung
+ Các thành viên ứng dụng
+Ghi chú
+
+Hoạt động quản lý công văn vào ra
+-...............................
+
+Hoạt độngquản lý nghiệp vụ , chuyên môn.
+-...............................
+
+Các ứng dụng khác
+-...............................
+
+Tổng cộng :
+
+3-Kết quả thực hiện hạng mục xây dựng Cơ sở hạ tầng kỹ thuật CNTT
+
+Tên đơn vị được trang bị:
+1).Trang thiết bị công nghệ thông tin.
+
+Loại thiết bị
+và cấu hình kỹ thuật
+Đơn vị tính
+Số lượng
+Giá trị
+Nguồn cấp
+kinh phí
+Ghi chú
+
+1.Máy vi tính.
+1.1.Máy chủ:
+-.......
+1.2.Máy trạm:
+-.........
+
+2. Máy in.
+2.1-In kim:
+     -.....
+2.2-In laser:
+     -Laser đơn;
+     -Laser Mạng:
+
+2.3.In phun:
+     -....
+3. Các thiết bị khác.
+    - Máy vẽ (Scaner)
+    - Modem
+    - Đầu đọc CD-ROM -
+     - .......................
+Tổng cộng :
+
+2). Phần mềm.
+
+Loại và tên phần mềm
+Đơn vị tính
+Số lượng
+Giá trị
+Nguồn cấp
+kinh phí
+Ghi chú
+
+1-Hệ điều hành
+-...
+...
+2-Hệ quản trị CSDL
+-....
+...
+3-Các phần mềm
+công cụ khác
+
+-...
+-...
+4-Các phần mềm ứng dụng:
+-........
+5-Các phần mềm
+truyền thông
+-.......
+6-Các loại phần mềm khác:
+-........
+
+------------------------
+
+Tổng cộng:
+
+3). Mạng
+
+Mô tả mạng và các thành phần
+Đơn vị tính
+Số lượng
+Giá trị
+Nguồn cấp
+Kinh phí
+Ghi chú
+
+Loại hình mạng:
+..........
+Số lượng máy tính trong mạng
+Trong đó :
+-Máy chủ:
+...........
+-Máy trạm:
+...............
+Hệ điều hành mạng
+     -.....
+     -.....
+Các phần mềm truyền thông:
+.......
+
+Các ứng dụng thực hiện trên mạng
+     -......
+
+Tổng cộng :
+
+mạng
+chiếc
+
+4). Các Loại Thiết bị  khác.
+
+Tên gọi, đặc điểm
+Đơn vị tính
+Số lượng
+Giá trị
+Nguồn cấp
+kinh phí
+Ghi chú
+
+Tổng cộng :
+
+4.Tổng hợp các nguồn kinh phí cho thực hiện các mục tiêu của dự án
+giai đoạn 96-97
+Bảng 1.
+Các hạng mục
+(Mục tiêu chính)
+Tổng kinh
+phí năm
+1996
+Tổng kinh
+phí năm
+1997
+
+Nguồn TƯ
+Nguồn khác
+Nguồn TƯ
+Nguồn khác
+
+Đào tạoCNTT
+cho các đối tượng:
+I.1-Cán bộ lãnh đạo
+I.2-Chuyên viên sử dụng
+I.3-Chuyên viên
+Tin học
+
+Cơ sở hạ tầng
+kỹ thuật CNTT.
+II.1-Phần cứng
+II.2-Phần mềm Hệ
+thống và công cụ
+II.3-Nối mạng
+
+ứng dụng
+III.1-Thiét kế chi
+tiết
+III.2-Xâydựng phần mềm ứng dụng
+III.3-Tổ chức thông tin dữ liệu
+
+Tổng Cộng
+
+III. Sơ bộ đánh giá hiệu quả triển khai giai đoạn 1996-1997.
+	I.3.1-Về mặt nội dung kỹ thuật của dự án
+	I.3.2-Về mặt tổ chức thực hiện và quản lý dự án
+	I.3.3- Kiến nghị cho giai đoạn 1998-2000
+
+ phần thứ Hai
+
+Các nội dung phát triển CNTT trên
+địa bàn tỉnh
+giai đoạn 1998-2000.
+
+chương I.
+Các mục tiêu phát triển CNTT trên địa bàn Tỉnh (Thành phố ) giai đoạn 1998-2000.
+
+I.1.Các mục tiêu nâng cao tiềm lực CNTT
+-Đào tạo khả năng ứng dụng và sử dụng CNTT (Các chỉ tiêu số lượng và trình độ đến năm 2000);
+-Đào tạo chuyên viên và kỹ thuật viên trong lĩnh vực CNTT (Các chỉ tiêu số lượng và trình độ đến năm 2000);
+
+I.2. Các mục tiêu xây dựng cơ sở hạ tầng kỹ thuật CNTT  giai đoạn 1998-2000.
+   Phát triển mạng VP UBND kết nối mạng diện rộng với một số Sở, ngành và một số huyện,thị trọng điểm, xây dựng mô hình theo 2 phương án kinh tế-kỹ thuật ( tối thiểu, tối đa hợp lý).
+   Nối mạng quốc gia theo thiết kế mạng quản lý hành chính Nhà nước.
+
+Truyền thông trao đổi thông tin trên dịa bàn tỉnh
+Truyền thông, trao đổi thông tin trên mạng Quốc gia;
+Khai thác các dịch vụ mạng quốc gia và mạng Quốc tế phục vụ phát triển kinh tế-xã hội của tỉnh;
+
+	I.3. Các mục tiêu xây dưng các hệ thông tin và Cơ sở dữ liệu
+		Tuỳ điều kiện và năng lực của địa phương, có thể lựa chọn một số trong các mục tiêu mở rộng cho giai đoạn 1998-2000 sau đây:
+Tiếp tục xây dựng và phát triển các phân hệ thông tin quản lý tại VP UBND tỉnh và mở rộng cho một số cơ quan quản lý nhà nước theo đơn vị hành chính cấp dưới: quận,huyện, thị(Phân hệ điều hành tác nghiệp, phân hệ trợ giúp quyết định, phân hệ quản lý nội bộ);
+Phân tích, thiết kế các phân hệ thông tin kế hoạch kinh tế-xã hội, tài chính-ngân sách, công chức và đối tượng chính sách, khoa học-CN và Môi trường. Tại một số cơ quan quản lý nhà nước theo ngành.( cần lưu ý đến mối quan hệ quản lý theo ngành dọc ).
+Phát triển CNTT trong sản xuất kinh doanh
+ứng dụng CNTT trong hoạt động văn hoá, giáo dục.
+v...v..
+
+   I.4. Xây dựng và phát triển công nghiệp CNTT (nếu có).
+...........
+
+chươngII.
+Nội dung kỹ thuật các dự án tin học hoá qlnn giai đoạn 1998-2000.
+
+Phần II.1. Mô hình tổ chức cơ sở hạ tầng CNTT cho mạng cục bộ và mạng diện rộng trên địa bàn tỉnh;(Theo tài liệu hướng dẫn dưới đây để chọn một trong những phương án thích hợp cho Tỉnh)
+
+I. MỤC ĐÍCH VÀ YÊU CẦU HỆ THỐNG
+I.1 MỤC ĐÍCH CỦA HỆ THỐNG
+	1. xây dựng hệ thống hạ tầng cơ sở phục vụ quản lý hành chính cấp địa phương
+
+Nhiệm vụ chủ yếu của hệ thống hạ tầng CNTT cấp địa phương là:
+Trang bị các thiết bị tin học cần thiết cho địa phương nhằm hỗ trợ công tác điều hành hành chính.
+Kết nối các hệ thống tin học của các địa phương, ngành thống nhất trên phạm vi cả nước
+Cho phép các hệ thống thông tin địa phương trao đổi thông tin phục vụ công tác điều hành hành chính
+Cung cấp các dịch vụ Tin học phục vụ công tác  quản lý (thư tín điện tử, truyền văn bản, tệp, khai thác CSDL vv)..
+Nối ghép, trao đổi thông tin với các hệ thống khác trong mạng thông qua hệ thống mạng Thông tin Quốc gia.
+
+	2. khả năng nâng cấp và kết nối  vào hệ thống mạng thông tin quốc gia
+Để hệ thống hạ tầng cơ sở CNTT của địa phương hoạt động hiệu quả trước mắt cũng như lâu dài, yêu cầu thiêt kế hệ thống mạng phải tuân thủ nguyên tắc các sau:
+1 - Thiết kế theo các tiêu chuẩn Quốc tế về giao thức truyền tin
+2 - Sử dụng được nhiều phương thức truyền dẫn khác nhau (Tel, X25, FDDI,..)
+3 - Có khả năng nâng cấp cho phù hợp với môi trường truyền tin
+4 - Các phần mềm ứng dụng có thể khai thác theo cơ chế trực tuyến (On-line) hoặc Offline
+
+Thiết kế chi tiết hệ thống hạ tầng cơ sở CNTT của địa phương , các  yêu cầu sau phải được đáp ứng cho phù hợp với hoạt động khai thác thông tin trên mạng diện rộng của hệ thống thông tin :
+Là mạng được tổ chức phân cấp theo ngành dọc từ trung ương đến địa phương có qui mô xử lý và trang bị khác nhau, hệ thống mạng phải có công suất phù hợp yêu cầu trao đổi thông tin và xử lý trong toàn bộ hệ thống (thí dụ các mạng con chỉ yêu cầu trao đổi thông tin với tốc độ xử lý thấp, các mạng trung ương là đầu mối thông tin của Chính phủ cần có công suất xử lý cao đáp ứng yêu cầu phục vụ thông tin trong toàn bộ hệ thống)
+Có khả năng liên kết được với các hệ thống mạng khác nhau trong và ngoài ngành (Virtual Inter-networking). Hệ thống mạng phải bao gồm nhiều hệ thống kết nối mạng thông minh cho phép giao tiếp với nhiều thủ tục mạng chuẩn khác nhau (Nối ghép với mạng truyền tin Quốc gia).
+Có khả năng bảo mật và độ an toàn dữ liệu bao gồm khả năng quản lý các gói số liệu và khả năng bảo mật thông  tin trên mạng. Vấn đề nén thông tin và quản lý các gói số liệu được thực hiện bởi các thiết bị đầu cuối nối ghép mạng, thí dụ như nhiều loại modem và router có khả năng nén dữ liệu trong quá trình trao đổi thông tin trên mạng. Vấn đề mã hóa thông tin là vấn đề thuộc lớp phần mềm hệ thống phụ thuộc vào yêu cầu cụ thể có thể chế tạo ra các modun mật mã phục vụ công tác bảo mật trên mạng.
+Hệ thống mạng phải có khả năng quản trị mạng cho phép theo dõi được toàn bộ hoạt động chức năng của toàn bộ mạng. Hiện nay các hệ thống nối ghép mạnh thường được cấy các modun quản trị trong nhân hệ thống và từ các trạm làm việc, thông qua thủ tục SNMP (Simple Network Management Protocols) có thể theo dõi toàn bộ hệ thống mạng.
+Hệ thống mạng hạ tầng cấp địa phương sử dụng nhiều đường thuê bao là các đường thoại sử dụng cơ chế DIALUP, muốn hệ thống có thể trao đổi thông tin với nhiều hệ thống khác nhau hiệu quả nhất, thời gian chiếm kênh truyền của các cuộc trao đổi thông tin phải tối ưu
+Hệ thống mạng hạ tầng cấp địa phương phải cho phép ghép nối và nâng cấp mạng khi có nhu cầu. trong tương lai khi hạ tầng cơ sở mạng truyền số liệu được nâng cấp, cải tiến, các thiết bị ghép nối mạng cũng phải thay đổi cho phù hợp với hạ tầng cơ sở mạng mới bằng cách nâng cấp, thay thế các modun phần cứng và phần mềm cần thiết để đảm bảo hiệu quả của đầu tư
+
+Hình 1 mô tả mạng CNTT cấp địa phương trong hệ thống thông tin Quốc gia
+
+EMBED PBrush
+
+EMBED PBrush
+EMBED PBrush
+
+EMBED PBrush
+
+Hình 1: Mô hình mạng CNTT địa phương trong sơ đồ Tổng thể
+
+I.2 CáC YÊU CầU hệ thống cơ sở hạ tầng công nghệ thông tin
+	1. tận dụng được Môi trường Vật lý hiện tại.
+Hiện tại, hệ thống hạ tầng cơ sở CNTT kết nối  các trung tâm thông tin thông qua môi trường vật lý hiện có là mạng điện thoại cấp địa phương và Quốc gia. Hệ thống hạ tầng cơ sở CNTT phải tận dụng được phương thức truyền thông hiện có và phải sẵn sàng nâng cấp được khi các mạng truyền số liệu được thiết lập. Với hệ thống mạng thoại, cần sử dụng các loại modem thích hợp có tốc độ từ 28.800 bps - 33.600bps với các thủ tục (protocol) sửa sai và nén phù hợp. Trong tương lai có thể dùng các Router và các thiết bị phục vụ cho mạng truyền số liệu .
+
+	2. các Phương pháp truy nhập phù hợp
+Để tận dụng tối đa khả năng truyền dẫn của mạng thoại trong điều kiện hạn chế về tốc độ, cần sử dụng các phương thức truy nhập khác nhau. Có hai phương pháp truy nhập căn bản cho các hệ thống mạng diện rộng (WAN)
+
+	- Truy nhập Online: Cho các yêu cầu truy vấn cơ sở dữ liệu, hỏi đáp
+	- Truy nhập  Offline: Thư tín điện tử, truyền công văn, tệp tài liệu
+
+	3. bảo đảm tính an toàn và Bảo mật thông tin
+-Tuân thủ các quy định và định hướng bảo mật của VPCP và ban Cơ yếu Chính phủ trong quá trình thiết kế và triển khai hệ thống.
+- Kết hợp với các cơ quan chức năng về bảo mật để xây dựng qui trình kỹ thuật bảo mật cho toàn bộ hệ thống
+- Tạo ra cơ chế cấy ghép các công cụ bảo mật riêng
+- Tận dụng các chức năng bảo mật và an toàn sẵn có của công nghệ.
+- Cung cấp các trang thiết bị có chất lượng và độ tin cậy phù hợp với điều kiện địa phương
+- Các hệ điều hành đa chương/nhiều người sử dụng UNIX và Windows NT đều có cơ chế bảo mật và an toàn thông tin đạt tiêu chuẩn quốc tế :
+Qui định quyền người sử dụng, quyền truy nhập thông tin,
+Qui định thời gian, địa điểm truy nhập hệ thống
+Lưu trữ thông tin nhật ký khai thác hệ thống
+Có các cơ chế nén, mã hóa chuẩn theo cơ chế khóa ngẫu nhiên
+Hệ thống mật khẩu kiểm soát quyền truy nhập được thực hiện thống nhất trên toàn mạng LAN/WAN.
+Các giao thức chuẩn sử dụng trên mạng LAN/WAN đảm bảo an toàn tuyệt đối cho số liệu truyền đi một cách chính xác.
+
+	4. cho phép kết nối các hệ Cơ sở dữ liệu
+Cho phép các hệ quản trị CSDL vận hành được trên các hệ thống Tin học cấp địa phương
+Có khả năng kết nối các dạng CSDL có môi trường làm việc khác nhau
+
+Hình 2 : Sơ đồ mạng LAN/WAN của hệ thống hạ tầng CNTT của mạng hành chính quốc gia
+
+Iii. Thiết kế hệ thống hạ tầng Cntt CHO CấP tỉnh
+1.Các chức năng chính của cơ sở hạ tầng CNTT bao gồm:
+Liên lạc, trao đổi thông tin nội bộ trong mạng cục bộ
+Thu thập thông tin từ các đơn vị trực thuộc (cấp Sở, Huyện)
+Báo cáo lên Văn phòng Chính phủ
+Trao đổi thông tin giưã các địa phương dạng văn bản điện tử và CSDL
+2.Để thực hiện các chức năng nhiệm vụ trên hệ thống cần được xây dựng theo các bước cơ bản sau
+Xây dựng mạng cục bộ cho các cơ quan quản lý địa phương (Thiết kế mạng LAN)
+Nối ghép vào mạng diện rộng qua Modem (Thiết kế mạng WAN)
+Lựa chọn hệ điều hành mạng cho mạng LAN.
+Lựa chọn phần mềm cho mạng WAN.
+Các yêu cầu trang thiết bị máy móc phù hợp.
+Lựa chọn các phần mềm phục vụ điều hành.
+
+	3. lựa chọn Thiết kế Hạ tầng cơ sở CNTT CấP tỉnh
+
+	31. Một số chi tiết kỹ thuật cho cấp tỉnh (các khuyến cáo)
+	a/Trang thiết bị với cấu hình tối thiểu :
+		- Máy chủ: Pentium/32MRAM/2GByte HDD
+		- Trạm làm việc : 486/586/8MRAM 512MByte HDD
+		- Modem: 28.800bps hay 33.600bps Hayes Modem
+		- UPS :
+		- Switching HUB : 12 port
+		- intelligent HUB : 12 port
+		- Máy in (Printer) : HP laser + In kim
+		- Điều hòa:
+	b/Các phần mềm:
+		- Hệ điều hành: WINDOWS NT, UNIX, NETWARE
+		- Phần mềm ứng dụng: theo mục các ứng dụng trên hệ thống
+		- Phần mềm truyền tin: LOTUS NOTES
+	c/ Topo nối ghép
+
+3.2. một số chi tiết kỹ thuật cho CấP sở(các khuyến cáo)
+	a/ Các trang thiết bị có cấu hình tối thiểu:
+		-- Máy chủ: 586/16MRAM/1GByte HDD
+		- Trạm làm việc : 486/586/8MRAM 512MByte HDD
+		- Modem: 28.800bps hay 33.600bps Hayes Modem
+		- UPS :
+		- intelligent HUB : 12 port /
+
+		- Máy in (Printer) : HP laser + In kim
+		- Điều hòa:
+	b/Các phần mềm:
+
+Hệ điều hành: WINDOWS NT, NETWARE
+
+		- Phần mềm ứng dụng: theo mục các ứng dụng trên hệ thống
+		- Phần mềm truyền tin: LOTUS NOTES
+
+	c/ Topo nối ghép:
+
+	3.3 một số chi tiết kỹ thuật cho Cấp huyện (các khuyến cáo)
+	a/ Các trang thiết bị cấu hình tối thiểu :
+		- Máy chủ: 586/ 16-32MRAM/1GByte HDD
+		- Trạm làm việc : 486/586/8MRAM 512MByte HDD
+		- Modem: 28.800bps hay 33.600bps Hayes Modem
+		- UPS :
+		- Non intelligent HUB : 12 port
+		- Máy in (Printer) : HP laser + In kim
+		- Điều hòa:
+	b/Các phần mềm:
+		- Hệ điều hành: Windows for Worgroup 3.11, NetWare
+		- Phần mềm ứng dụng: theo mục các ứng dụng trên hệ thống
+		- Phần mềm truyền tin: Lotus Notes
+	c/ Topo nối ghép
+
+iV. thiết kế mẫu cho một mạng hành chính địa phương
+IV.1 Xây dựng mạng LAN
+1) Mục tiêu của mạng
+	1. Phục vụ công tác điều hành cho Lãnh đạo UBND địa phương tại Văn phòng Uy ban
+	2. Xây dựng và kiếm soát công việc triển khai trong Tỉnh
+	3. Thu thập và tổng hợp thông tin phục vụ quản lý của Địa phưong
+
+2) Qui mô của mạng: phụ thuộc vào các yếu tố sau:
+	- Yêu cầu quản lý của Lãnh đạo
+	- Trình độ quản lý và khai thác thiết bị Tin học cơ quan
+	- Ngân sách
+
+3) Xây dựng mạng tại UBND và các đầu mối cơ sở
+3.1 ) Mạng tại Văn phòng UBND
+
+a) Phương án tối thiểu: 4 máy
+	- 1 máy chủ 586 Pentium, 133 MHz
+	- 1 máy trạm tại phòng Văn thư
+	- 1 máy trạm tại phòng Tổng hợp
+	- 1 HUB 8 port, 1 UPS, dây cáp xoắn
+	- 1 MODEM 28.800bps hay 33.600bps
+	- 1 máy in laser, 2 máy in kim
+Trong mô hình này chuyên viên nghiên cứu chưa tham gia vào qui trình xử Tin của UBND
+
+b) Phương án trung bình
+	- 1 máy chủ 586 Pentium, 166 MHz
+	- 1 máy trạm tại phòng Văn thư
+	- 1 máy trạm tại phòng Tổng hợp
+	- 1 HUB 12 - 24  port, 1 UPS, dây cáp xoắn
+	- 1 MODEM 28.800bps hay 33.600bps
+	- 1 máy in laser, 2 máy in kim
+	- Trang bị cho mỗi  khối nghiệp vụ 1 máy tính (Trung bình có từ 8 -10 khối)
+
+c) Phương án tối đa
+	- 1 máy chủ chuyên dụng, 200 Mhz, 64 MRAM
+	- 1 máy trạm tại phòng Văn thư
+	- 1 máy trạm tại phòng Tổng hợp
+	- 1 HUB 12 - 24  port, 1 UPS, dây cáp xoắn
+	- 1 MODEM 28.800bps hay 33.600bps
+	- 1 máy in laser, 2 máy in kim
+	- Trang bị cho mỗi  khối nghiệp vụ 1 máy tính (Trung bình có từ 8 -10 khối)
+	- Trang bị cho các chuyên viên 1 máy tính
+
+d) Các hệ điều hành mạng, phần mềm hệ thống:
+- Hệ điều hành : Tùy lựa chọn theo yêu cầu, môi trường địa phương đang sử dụng có thể lựa chọn các hệ điều hành như NetWare 3.x, 4.x, OS/2, Windows NT, UNIX, LAN MANAGER vv.
+- Hệ quản lý văn bản điện tử: Có thể lựa chọn LOTUS NOTES, MS MAIL, CCMAIL. Khuyến cáo: Nên sử dụng LOTUS NOTES cho thống nhất với VPCP.
+- Hệ quản trị CSDL:  FoxPro, MS access, Notes, Oracle
+- Công cụ phát triển: Visual Basic, Visual C++, ODBC
+
+Các mạng của cấp Sở, Huyện tương tự như thiết kế của VPUBND theo qui mô phù hợp
+
+IV.2 Xây dựng mạng WAN
+1. Xây dựng một máy chủ chuyên trách công việc truyền số liệu tại VPUBND tỉnh có một hoặc nhiều  kênh, có khả năng kết nối với mạng truyền  số liệu Quốc gia.
+2. Các mạng cấp Sở, Huyện nối với trung tâm truyền số liệu tại VPUBND Tỉnh thông qua kênh thoại. Có hai phương án khai thác thông tin:
+Phương án 1: Khai thác số liệu của các hệ thống cấp Sở, Huyện khi các máy cấp cơ sở chủ động thiết lập cuộc nối
+	ưu điểm: Tiết kiệm trang thiết bị
+		   Giảm số cán bộ điều hành
+	Hạn chế: Không tự động hai chiều
+Phương án 2: Cấp UBND tỉnh chủ động khai thác CSDL của các Sở, Huyện
+	ưu điểm: Khai thác tự động, cung cấp thông tin hai chiều
+
+	Hạn chế: Quản trị mạng khó khăn hơn
+		   Yêu cầu thêm trang thiết bị, phần mềm
+
+V.Kết nối mạng diện rộng cho UBND tỉnh và các sở
+
+Trong phần này sẽ nêu một số phương án kết nối mạng diện rộng giữa mạng cục bộ tại UBND tỉnh và mạng của các sở trực thuộc, cũng như kết nối các máy lẻ ở xa vào mạng cục bộ.
+
+1. Phân tích
+
+Giả sử tại UBND đã thiết lập xong mạng cục bộ (LAN), còn tại các sở có thể đã có hoặc đang chuẩn bị xây dựng mạng cục bộ.
+
+Vấn đề đặt ra là phải liên kết được các mạng cục bộ này với nhau (kết nối LAN-to-LAN) và nối các máy lẻ ở xa vào mạng cục bộ (kết nối point-to-LAN). Các kiểu kết nối mạng diện rộng này khác với việc truyền thông giữa 2 máy lẻ vẫn được dùng phổ biến (point-to-point).
+
+Mạng cục bộ của các sở (nếu đã có) sẽ phải được nối với mạng cục bộ tại UBND và qua đó nối với mạng quốc gia. Kết nối LAN-to-LAN là cần thiết để mọi máy trong mạng LAN có thể sử dụng được các dịch vụ mạng như thư điện tử và tra cứu CSDL từ các mạng khác.
+
+Hiện nay, trong phạm vi mỗi tỉnh chưa có điều kiện để kết nối các mạng LAN bằng đường truyền X.25 hoặc leased line, do đó nên giải quyết bằng các phương pháp kết nối qua đường thoại (dùng modem).
+
+Tại các sở chưa có mạng cục bộ thì có thể nối một số máy tính đơn lẻ vào mạng của UBND tỉnh theo kiểu point-to-LAN, bằng cách này các máy đó có thể hoạt động như máy trạm trên mạng cục bộ và sử dụng được tất cả các dịch vụ mạng.
+
+Ngoài ra một số bộ phận ở xa trụ sở chính, các cán bộ làm việc từ xa, các huyện v.v... cũng có nhu cầu kết nối với mạng cục bộ của UBND hoặc mạng cục bộ của sở. Các kết nối này cũng theo kiểu point-to-LAN và qua đường thoại.
+
+Sơ đồ kết nối giữa UBND và các sở có thể hình dung như sau:
+
+2. Thiết bị
+
+a. Tại UBND tỉnh:
+
+- Nên dùng Access Server chuyên dụng, với 8-16 cổng asynchronous để nối với các modem. Cần sử dụng các loại modem có tốc độ 28.8kbps trở lên, hiện nay tốt nhất là loại modem có tốc độ 33.6 kbps.
+
+- Có nhiều loại Access Server chuyên dụng khác nhau, ví dụ như loại có gắn sẵn modem bên trong và loại phải mua modem gắn ngoài, có loại Access Server đồng thời là router, có cổng synchronous...
+
+- Để sử dụng cho việc kết nối LAN-to-LAN, Access Server cần có những tính năng như:
++ Giao thức mạng TCP/IP, IPX
++ Cho phép kết nối PPP (nên có cả Multilink PPP), xác thực bằng CHAP/PAP
++ Tương thích với Microsoft Windows và UNIX
++ Có hỗ trợ cho kết nối LAN-to-LAN qua đường thoại, có Dial-on-demand
++ Cho phép routing TCP/IP và IPX qua PPP (RIP và static IP route)
+
+- Giá ước tính (cho các loại Access Server với 8 đến 16 cổng):
+	+ Access Server có kèm modem gắn trong:			4.000 - 7.000 USD
+	+ Access Server không kèm modem:				2.000 - 4.000 USD
+	+ Router đồng thời là Access Server, chưa có modem:	3.000 - 5.000 USD
+
+b. Tại các sở:
+
+Tuỳ thuộc vào kinh phí, có thể dùng một trong các phương án sau:
+
+- Nếu có đủ kinh phí và có nhu cầu kết nối từ các máy lẻ ở xa thì nên sử dụng Access Server chuyên dụng như phương án của UBND tỉnh
+
+- Nếu không cần phục vụ cho người dùng từ xa (chỉ cần cho kết nối LAN-to-LAN) thì có thể dùng loại Access Server với 1-2 cổng, giá khoảng 1000-1500 USD
+
+- Cũng có thể dùng một máy tính với 1-2 modem làm Communication Server (chạy hệ điều hành Windows NT hoặc Unix). Chi phí sẽ bao gồm giá máy tính, giá modem (200-300 USD) và giá phần mềm routing (500-1000 USD).
+
+c. Tại các điểm kết nối từ xa
+Tại các máy lẻ ở xa, để kết nối vào mạng cục bộ (theo kiểu point-to-LAN) chỉ cần có một modem và đường dây điện thoại. Trong Microsoft Windows đã có đủ các phần mềm cần thiết.
+d. Một số điểm cần chú ý:
+- Nên mua thiết bị của các hãng có uy tín về chất lượng. Một số hãng cung cấp Access Server là: Bay Networks, Cisco Systems, U.S. Robotics, Shiva, Lantronix, Ascend...
+Các hãng sản xuất modem có chất lượng cao là U.S. Robotics, Hayes, Motorola...
+
+- Nên dùng thiết bị đồng bộ ở hai đầu kết nối LAN-to-LAN (cùng loại hoặc cùng hãng sản xuất)
+
+- Tất cả các giá ghi ở đây chỉ để tham khảo vì giá thiết bị nói chung thay đổi rất nhanh. Cần tìm hiểu giá cả tại thời điểm đặt mua.
+phần II.2. Tiếp tục phát triển dự án tin học hoá quản lý nhà nước tại văn phòng ubnd tỉnh.
+
+II.2.1-Tiếp tục giai đoạn 2,  dự án tin học hoá quản lý hành chính nhà nước tại Văn phòng UBND tỉnh
+
+Mô tả các thiết kế chi tiết các phân hệ thông tin quản lý;
+Tích hợp hoạt động giữa các phân hệ, theo quan điểm hệ thống;
+ Mô hình tổ chức Cơ sở dữ liệu chung (cho các phân hệ).
+ Mô hình nối mạng diện rộng với VPCP (Thực hiện theo QĐ 280/TTg ngày 29/4/1997) và với các mạng khác .
+
+II.2.2. Mô hình triển khai tin học hoá QLNN tại các VP UBND Quận, Huyện, thị xã.
+
+Phần này do VPUBND Tỉnh xây dựng và  chỉ cần nêu Danh mục các huyện thị sẽ triển khai trong giai đoạn 1998-2000.
+	Nêu rất tóm tắt các phần :
+	-Chức năng, nhiệm vụ, sơ đồ tổ chức bộ máy, nhân sự, trao đổi thông tin;
+	-Các phân hệ thông tin quản lý(Tương tự như đối với VPUBND Tỉnh);
+	-Phương án lựa chọn hợp lý về Kết cấu hạ tầng kỹ thuật CNTT;
+	-Nhu cầu về đào tạo (chung với dự án VPUBND Tỉnh);
+	-Cân đối và dự toán tài chính (xem mẫu ở phần phụ lục);
+
+phần iI.3. phối hợp thực hiện các dự án CSDL quốc gia trên địa bàn tỉnh .(Nếu có)
+
+( Mục này cho các địa phương được các Bộ chủ trì CSDLQG  chọn là đơn vị thí điểm)
+
+Phần iI.4. phối hợp thực hiện các dự án cntt khác trên địa bàn tỉnh .(Nếu có)
+
+chương iii
+các dự án tin học hoá tại các sở ban chuyên ngành
+	Trong chương này trình bày nhu cầu và nội dung tin học hoá quản lý chuyên ngành. Nếu khả năng cân đối được các nguồn kinh phí của cả địa phương và nguồn khác, ngoài các Sở dự kiến triển khai trong giai đoạn 2 (1998-2000): Kế hoạch & Đầu tư, Khoa học Công nghệ và Môi trường, Tài chính Vật giá, có thể triển khai bổ sung nối mạng với  ở các cơ quan quan trọng như Văn phòng Tỉnh uỷ, và các cơ quan có mối liên hệ về quản lý trong lĩnh vực hoạt động thông tin, khai thác INTERNet như các Sở Văn hoá Thông tin, Công an...
+	Đối với các đơn vị nêu trên, cần xây dựng riêng thành tiểu dự án thuộc nội dung phất triển CNTT trên địa bàn Tỉnh.
+
+	Dưới đây trong phần phụ lục Dự án chuyên ngành, sẽ trình bày nội dung mẫu cho các dự án tin học hoá QL chuyên ngành tại các Sở KH&ĐT; KHCN&MT; Tài chính-VG. (xem phần cuối tài liệu)
+
+phần thứ ba
+
+Tổng hợp dự toán tổng kinh phí  từ các nguồn phân theo các nội dung dự án và theo các mục chi của mục lục NSNN
+
+chương I-
+Cân đối  các nguồn kinh phí  theo nội dung chi tiết các hạng mục dự án
+
+Các bảng dưới đây được sử dụng cho từng dự án dự kiến triển khai cho gia đoạn đến năm 2000
+
+1. Bảng tổng hợp các hạng mục dự án
+ công nghệ thông tin triển khai trong từng năm
+Tên dự án: “ Tin học hoá quản lý Nhà nước tại.....“
+Mã số dự án:
+Giai đoạn :  1998-2000; Năm :
+Tên cơ quan chủ trì dự án:
+Đơn vị tính: Triệu đồng
+Số
+thứ tự
+
+Tên gọi hạng mục
+dự án
+Mục tiêu chính của
+hạng mục  dự án
+Dự kiến kinh phí thực hiện trong  năm 1998
+
+1
+Quản lý dự án
+
+2
+Xây dựng dự án
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+
+4
+Mua sắm thiết bị
+
+5
+Mua sắm phần mềm hệ thống
+
+6
+Lắp đặt hệ thống mạng
+
+7
+Xây dựng các hệ cơ sở dữ liệu, kể cả công việc xây dựng chuẩn thông tin.
+
+8
+Xây dựng hoặc mua sắm các phần mềm (chương trình) ứng dụng
+
+9
+Đào tạo cán bộ
+
+10
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+...
+...
+
+11
+Hội thảo đánh giá kết quả thực hiện
+
+Tổng kết nghiệm thu
+
+Tổng cộng
+
+2 A. Bảng mô tả tiến độ và kinh phí chi tiết theo quí trong năm 1998
+Tên dự án: “ Tin học hoá quản lý Nhà nước ....”
+Mã số dự án:
+		         Đơn vị tính:Triệu đồng
+Mã
+hạng mục
+
+Mô tả nội dung
+công việc
+Tiến độ thực hiện kinh phí theo quí
+trong năm 1998
+
+Tổng cộng
+
+Ghi chú
+
+dự án
+
+I
+II
+III
+IV
+
+Quản lý dự án
+
+Tiếp tục Xây dựng dự án khả thi
+
+Tổ chức đấu thầu mua sắm thiết bị
+
+Mua sắm thiết bị
+
+Mua sắm phần mềm hệ thống
+
+Lắp đặt và cài đặt hệ thống mạng
+
+Xây dựng các cơ sở dữ liệu
+
+Xây dựng hoặc mua sắm các phần mềm ứng dụng
+
+Đào tạo cán bộ
+
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+...
+
+Hội thảo đánh giá
+
+Nghiệm thu
+
+Tổng cộng
+
+2B. Bảng dự kiến tiến độ và kinh phí chi tiết theo tháng trong quí , năm 1998 ( Biểu này sẽ là biểu báo cáo tiến độ thực hiện dự án trên mạng ITnet)
+	Tên dự án: “Tin học hoá quản lý Nhà nước ...”
+
+	Tên cơ quan chủ trì dự án :
+	Đơn vị tính: Triệu đồng
+Mã
+hạng mục dự án
+Mô tả nội dung
+ công việc
+Tiến độ thực hiện kinh phí theo
+tháng trong mỗi quí năm 1998
+Tổng cộng
+theo quí
+Ghi chú
+
+1
+2
+3
+
+Quản lý dự án
+
+Tiếp tục xây dựng dự án khả thi
+
+Tổ chức mở thầu mua sắm thiết bị
+
+Mua sắm thiết bị
+
+Mua sắm phần mềm hệ thống
+
+Lắp đặt và cài đặt hệ thống mạng
+
+Xây dựng các cơ sở dữ liệu
+
+Xây dựng hoặc mua sắm các chương trình khai thác và ứng dụng
+
+Thử nghiệm truyền thông dữ liệu liên mạng
+
+Đào tạo cán bộ
+
+...
+
+Hội thảo đánh giá
+
+Nghiệm thu
+
+Tổng cộng
+
+3. Bảng tổng hợp kinh phí và nội dung kỹ thuật công nghệ thông tin
+Tên dự án: “Tin học hoá Quản lý Nhà nước.....“
+Tên hạng mục dự án: Mua sắm thiết bị công nghệ thông tin cho cơ sở hạ tầng kỹ thuật
+Giai đoạn :  1998-2000 ;  năm :
+Tên cơ quan chủ trì dự án:                                                 	Đơn vị tính: Triệu đồng
+SỐ TT
+Tên, nhãn hiệu thiết bị và cấu hình kỹ thuật
+Đơn vị
+Hãng sản xuất
+Đơn giá
+Tổng hợp
+
+Số lượng
+Thành tiền
+
+I
+Máy vi tính và các thiết bị phụ trợ
+
+1
+Máy chủ
+Chiếc
+
+2
+Máy trạm
+Chiếc
+
+3
+Máy in
+Chiếc
+
+4
+Back up (kể cả phần mềm điều khiển)
+Bộ
+
+5
+Máy lưu điện (kể cả card nối mạng)
+Chiếc
+
+...
+
+Cộng I
+
+II
+Thiết bị mạng
+
+1
+Chuyển mạch (Switching)
+Chiếc
+
+HUB
+
+2
+Card nối mạng
+Chiếc
+
+3
+Card nối mạng máy in
+Chiếc
+
+4
+Dây cable
+Mét
+
+5
+Connector, racks....
+
+6
+Modem
+Chiếc
+
+7
+Router
+
+Chiếc
+
+...
+
+Cộng II
+
+III
+Phần mềm hệ thống và các loại phần mềm ngoại nhập
+Bộ
+
+...
+
+Cộng III
+
+IV
+Lắp đặt mạng và tích hợp hệ thống
+Lắp đặt thiết bị mạng+ kéo dây
+Kiểm tra thử nghiệm
+
+...
+
+Cộng IV
+
+Tổng cộng (I+II+III+IV)
+
+4A. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án theo năm
+Tên dự án: “ Tin học hoá hệ thống quản lý Nhà nước....”
+Mã số dự án:
+Tên hạng mục dự án:Đào tạo công nghệ thông tin cho cán bộ lãnh đạo và quản lý
+Mã số hạng mục dự án:
+Giai đoạn : năm 1998-2000;
+Tên cơ quan chủ trì dự án:
+	                          Đơn vị tính: đồng
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học
+
+Số học viên
+
+Thành tiền
+
+viên
+1998
+1999-2000
+1998
+1999  -   2000
+
+I
+Các môn học
+
+...
+
+...
+
+II
+Tham quan, khảo sát thực tế
+
+III
+Thuê thiết bị và nơi học
+
+Tổng cộng
+
+4B. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án năm
+Tên dự án: “ Tin học hoá hệ thống quản lý Nhà nước....”
+Mã số dự án:
+Tên hạng mục dự án: Đào tạo công nghệ thông tin cho chuyên viên quản lý hệ thống
+Mã số hạng mục dự án:
+Giai đoạn 2: năm 1998-2000
+Tên cơ quan chủ trì dự án:
+	              Đơn vị tính: Nghìn đồng
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học
+
+Số học viên
+
+Thành tiền
+
+viên
+1998
+1999 -2000
+1998
+1999 -2000
+
+I
+Các môn học
+
+...
+
+...
+
+II
+Tham quan, khảo sát thực tế
+
+III
+Thuê thiết bị và nơi học
+
+Tổng cộng
+
+4C. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án năm ....
+Tên dự án: “ Tin học hoá hệ thống quản lý Nhà nước ...”
+Mã số dự án:
+Tên hạng mục dự án:Đào tạo công nghệ thông tin cho người sử dụng tại các máy trạm
+Mã số hạng mục dự án:
+Giai đoạn 2: năm 1997-2000
+Tên cơ quan chủ trì dự án:
+	                   Đơn vị tính: Nghìn đồng
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học
+
+Số học viên
+
+Thành tiền
+
+viên
+1998
+1999-2000
+1998
+1999-  2000
+
+I
+Các môn học
+
+...
+
+...
+
+II
+Tham quan, khảo sát thực tế
+
+III
+Thuê thiết bị và nơi học
+
+Tổng cộng
+
+4D. Bảng tổng hợp kinh phí và nội dung đào tạo công nghệ thông tin của dự án năm ....
+Tên dự án: “ Tin học hoá hệ thống quản lý Nhà nước ...”
+Mã số dự án:
+Tên hạng mục dự án: Đào tạo công nghệ thông tin cho chuyên viên tin học phần mềm
+Số hạng mục dự án:
+Giai đoạn 2: năm 1998-2000;  Năm :
+Tên cơ quan chủ trì dự án:
+	                    Đơn vị tính: Nghìn đồng
+
+SỐ  TT
+
+Nội dung đào tạo
+Số tiết lý thuyết và thực hành
+Kinh phí cho 1 học
+
+Số học viên
+
+Thành tiền
+
+viên
+1998
+1999 -2000
+1998
+1999-2000
+
+I
+Các môn học
+
+...
+
+...
+
+II
+Tham quan, khảo sát thực tế
+
+III
+Thuê thiết bị và nơi học
+
+Tổng cộng
+
+5. Bảng tổng hợp kinh phí của các hạng mục dự án từ các nguồn
+Tên dự án: “ Tin học hoá hệ thống quản lý Nhà nước....”
+Mã số dự án:
+Giai đoạn :  1998-2000; năm  :
+Tên cơ quan chủ trì dự án:
+	                   Đơn vị tính:Triệu đồng
+Mã
+Tên
+Kinh phí năm 1998
+Kinh phí năm 1999-2000
+
+hạng mục
+hạng mục
+Trung ương
+Cơ sở
+Khác
+Trung ương
+Cơ sở
+Khác
+
+Quản lý và điều hành dự án
+
+Tiếp tục Xây dựng dự án khả thi và thiết kế hệ thống thông tin
+
+Tổ chức đấu thầu mua sắm thiết bị
+
+Mua sắm thiết bị
+
+Mua sắm các phần mềm hệ thống
+
+Lắp đặt và cài đặt hệ thống mạng
+
+Xây dựng các cơ sở dữ liệu
+
+Xây dựng và mua sắm các chương trình khai thác và ứng dụng
+
+Đào tạo cán bộ
+
+...
+
+Hội thảo đánh giá kết quả
+
+Nghiệm thu sản phẩm năm
+
+Chi phí khác
+
+Tổng cộng
+
+chương II
+
+Cân đối các nguồn kinh phí theo nội dung  các hạng mục dự án và theo mục chi của mục lục NSNN
+(xem file .xls kèm theo)- phần này gồm các bảng tổng hợp dự toán kinh phí cho các nhóm dự án và cho toàn tỉnh theo từng năm 1998-1999-2000.
+
+phần thứ tư
+
+tổ chức thực hiện và quản lý dự án
+
+(Trong phần này trình bày nhu cầu hình thành và kế hoạch hoạt động của Ban quản lý các dự án CNTT của tỉnh,các quyết định và các thành viên).Lưu ý các nội dung chính sau đây:
+
+1- Hoạt động Quản lý dự án gồm các công việc sau :
+1)-  Công tác Khảo sát, điều tra thu thập thông tin về hiện trạng hệ thống;
+2)- Phân tích đánh giá, tính toán, xử lý số liệu phục vụ kiểm tra và quản trị dự án;
+3)- Thuê thiết bị cho công tác quản lý kỹ thuật (Máy tính, phần mềm đặc dụng );
+4)-Thuê khoán chuyên môn trong một số công việc tư vấn;
+5)- Tổ chức đấu thầu thiết bị, hội thảo đánh giá, và thẩm định dự án tại cơ sở .
+6)- Một số hoạt động mang tính kỹ thuật khác (nếu có).
+7)		.......
+2-Tham quan khảo sát các mô hình khác;
+3-Thuê chuyên gia (nếu cần);
+4-các hỗ trợ khác có tính chất quản lý.
+
+phần phụ lục
+
+ dự án Tin học hoá  quản lý nhà nước
+tại sở kế hoạch  và đầu tư thuộc Tỉnh, (Thành phố)
+giai đoạn 1998-2000.
+(Khung chi tiết )
+
+Cơ quan chủ dự án:
+Cơ quan thực hiện:
+
+Dự án được viết theo cấu trúc sau đây:
+
+I. Sơ đồ tổ chức,Chức năng nhiệm vụ của Sở KH-ĐT
+Chức năng, nhiệm vụ của Sở KH-ĐT
+Quyền hạn của Sở KH-ĐT  và nhiệm vụ của phòng kế hoạch huyện thị xã
+Sơ đồ tổ chức, cơ cấu nhân sự của sở KH-ĐT
+Sơ đồ trao đổi thông tin của sở KH-ĐT
+II. 1. Sơ đồ trao đổi thông tin trong nội bộ sở KH-ĐT
+Môí qua hệ thông tin giữa các đơn vị  trong sở  KH-ĐT
+Sơ đồ trao đổi thông tin trong sở KH-ĐT
+II.2. Sơ đồ trao đổi thông tin giữa sở KH-ĐT với các cơ quan bên ngoài
+Mối quan hệ thông tin giữa Sở KH-ĐT với các cơ quan bên ngoài
+Sơ đồ trao đổi thông tin hiện tại  với các cơ quan bên ngoài
+
+III. Hệ thống thông tin quản lý sở Kế hoạch và Đầu tư
+Phân hệ thông tin kinh tế - xã hội trong sở kế hoạch đầu tư
+Phân hệ thông tin điều hành tác nghiệp
+Phân hệ thông tin quản lý nội bộ
+Mối quan hệ giũa các phân hệ thông tin trong sở KH-ĐT
+Kế hoạch và phương pháp xây dựng hệ các phân hệ  thông tin sở KH-ĐT
+
+IV.Mô tả và thiết kế hạ tầng kỹ thuật CNTT của sở KH-ĐT
+V.Tổng hợp nhu cầu, nội dung đào tạo cho các cán bộ của sở KH-ĐT
+VI.Tổng hợp và cân đối tài chính (điền vào  các mẫu biểu tính toán phân bổ theo hạng mục kỹ thuật và theo mục lục NSNN, thống nhất  ở phần phụ lục)
+VII.Phân tích hiệu quả của dự án
+VIII.Tổ chức thực hiện, và quản lý dự án
+
+ Dưới đây nội dung chi tiết :
+
+I. Chức năng nhiệm vụ  của Sở KH-ĐT
+I.1. Chức năng, nhiệm vụ  của Sở KH-ĐT
+Chức năng
+        Sở kế hoạch đầu tư là cơ quan chuyên môn của UBND tỉnh có chức năng tham mưu tổng hợp về quy hoạch, kế hoạch, kế hoạch phát triển kinh tế xã hội của tỉnh, giúp UBND tỉnh  phối hợp điều hành thực hiện mục tiêu kế hoạch của tỉnh đặt ra. Sở KH-ĐT có các chức năng chủ yếu sau đây:
+1. Tham mưu tổng hợp về qui hoạch, kế hoạch phát triển kinh tế xã hội của tỉnh.
+2. Đề xuất các chủ trương, biện pháp quản lý đầu tư  trực tiếp của nước ngoài tại địa phương.
+     3. Phối hợp giữa các ngành của tỉnh trong việc lập và thực hiện kế hoạch.
+Nhiệm vụ  của Sở KH-ĐT
+ 1. Tổ chức nghiên cứu tổng hợp trình UBND tỉnh các kế hoạch trung hạn, ngắn hạn, lựa chọn các chương trình dự án ưu tiên về phát triển kinh tế xã hội, các cân đối chủ yếu: tài chính ngân sách, vốn đầu tư xây dựng, các nguồn vốn viện trợ và hợp tác đầu tư với nước ngoài, kế hoạch xuất nhập khẩu của địa phương một cách thiết thực và hiệu quả
+2.  Phối hợp với Sở Tài chính xây dựng dự toán ngân sách tỉnh trình UBND tỉnh. Theo dõi nắm bắt tình hình hoạt động của các đơn vị kinh tế trên địa bàn lãnh thổ để gắn với kế hoạch phát triển kinh tế xã hội của tỉnh.
+3. Hướng dẫn cơ quan các cấp của tỉnh xây dựng quy hoạch, kế hoạch các chương trình, các  dự án có liên quan đến phát triển kinh tế xã hội của tỉnh. Phổ biến và hướng dẫn thực hiện pháp luật nhà nước về hoạt động đầu tư trực tiếp của nước ngoài trên địa bàn tỉnh, là đầu mối trực tiếp nhận hồ sơ dự án của các chủ đầu tư trong và ngoài nước.  Trực tiếp nhận những kiến nghị khiếu nại của các xí nghiệp có vốn đầu tư của  nước ngoài sau đầu tư.
+  4.  Theo dõi kiểm tra các cơ quan, đơn vị của tỉnh trong việc thực hiện quy hoạch, kế hoạch, các chương trình dự án phát triển, trình UBND tỉnh các chủ trương biện pháp nhằm đảm bảo thực hiện các mục tiêu kế hoạch của địa phuương. Trực tiếp điều hành thực hiện kế hoạch đối với một số lĩnh vực theo sự phân công của UBND tỉnh.
+5. Tham gia nghiên cứu xây dựng các cơ chế chính sách về quản lý kinh tế của toàn quốc, kiến nghị với UBND xây dựng và vận dụng các cơ chế chính sách đó cho phù hợp với đặc điểm địa phương và những nguyên tắc chung đã  quy định.
+6. Theo sự phân công của UBND tỉnh, làm nhiệm vụ thường trực hoặc chủ tịch hội đồng về : Xét duyệt các định mức kinh tế-kỹ thuật, thẩm định các dự án đầu tư trong và ngoài nước, thẩm định xét thầu, thành lập các doanh nghiệp nhà nước. Làm đầu mối quản lý việc sử dụng các nguồn ODA và các nguồn viện trợ khác.
+7. Cấp đăng ký kinh doanh và quản lý thực hiện luật pháp theo giấp đăng ký kinh doanh trên địa bàn tỉnh theo quy định hiện hành.
+ 8. Hàng quý, 6 tháng hàng năm làm báo cáo gửi UBND tỉnh và Bộ KH-ĐT về việc thực hiện kế hoạch của địa phương và hoạt động của các xí nghiệp có vốn đầu tư nước ngoài. Tổ chức việc bồi dưỡng nâng cao nghiệp vụ cho các cán bộ làm công tác kế hoạch và đầu tư của địa phương.
+9. Thực hiện các nhiệm vụ khác do UBND tỉnh giao.
+
+I.2. Quyền hạn của Sở KH-ĐT
+
+   Để thực hiện được các chức năng nhiệm vụ trên, sở KH-ĐT tỉnh có quền hạn sau đây:
+1. Được yêu cầu các cơ quan Trung ương đóng trên trên địa bàn yêu cầu thông báo các chỉ tiêu kế hoạch và tình hình thực hiện có liên quan đến các cân đối lớn của địa phương nhằm thực hiện kế hoạch hoá theo ngành và kế hoạch hoá theo lãnh thổ
+2.  Được yêu cầu các ngành, các huyện thị báo cáo dự án kế hoạch và cung cấp tài liệu cần thiết theo đúng chế độ thời gian và tiến độ lập, báo cáo kế hoạch nhằm đảm bảo xây dựng kế hoạch chung của tỉnh được tổng hợp từ dưới lên.
+3. Chủ trì nghe các thủ trưởng các ngành tỉnh và UBND các huyện thị xã báo cáo dự án kế hoạch ttổng hợp trình UBND tỉnh và Trung ương.
+Được tham gia các cuộc hội nghị của địa phương có liên quan đến công tác kế hoạch, được triệu tập cán bộ làm công tác kế hoạch của ngànhvà các huyện thị xã để bàn bạc, theo dõi hướng dẫn về nghiệp vụ chuyên môn, được sơ kết tổng kết công tác kế hoạch hoá hàng năm.
+
+1.3.Nhiệm vụ  của phòng Kế hoạch huyện, thị xã.
+1. Hướng dẫn các xã xây dựng và chịu trách nhiệm tổng hợp  các kế hoạch năm và 5  năm trên địa bàn huyện, thị xã theo nội dung và phương pháp của cơ quan kế hoạch cấp trên. Chủ trì cùng  các ban chuyên môn ở huyện nghiên cứu xây dựng các chỉ tiêu định hướng phát  triển kinh tế -xã hội phục vụ Hội đồng nhân dân, UBND các huyện thị xã.
+2. Chủ trì cùng phối hợp các ban trong việc xây dựng các dự án đầu tư thuộc mọi nguồn vốn, các chương trình phát triển kinh tế trên địa bàn huyện, thị xã theo hướng dẫn của  nhà nước và tỉnh.
+3. Có trách nhiệm theo dõi kiểm tra tình hình thực hiện kế hoạch trên các lĩnh vực kinh tế-xã hội, các dự án đầu tư, kiến nghị các biện pháp giải quyết khó khăn trong quá trình thực hiện kế hoạch.
+4. Có nhiệm vụ hướng dẫn, kiểm tra và thẩm định  hồ sơ đăng ký kinh doanh của nhóm và hộ kinh doanh theo nghị định 66 HĐBT ngày 2/3/1992 để trình UBND huyện, thị xã cấp giấy đăng ký kinh doanh.
+
+I.4.  Sơ đồ tổ chức, cơ cấu nhân sự của Sở KHĐT
+      Trong phần này trình bầy các phòng chức năng thuộc sở kế hoạch đầu tư theo đặc điểm cụ thể của từng tỉnh, thành phố và theo thông tư hướng dẫn số 05 UB-LB của Bộ kế hoạch đầu tư và Ban tổ chức cán bộ chính phủ, mô tả băng sơ đò cơ cấu tổ chức của sở KH-ĐT.  Nhìn chung tổ chức  bộ máy Sở  KH-ĐT được bố trí như sau:
+1. Lãnh đạo sở ( 1 giám đốc, 2 hoặc 3 phó giám đốc), nêu chức năng nhiệm vụ của mỗi lãnh đạo sở
+2. Các phòng chức năng
+    - Phòng Kế hoạch tổng hợp ( nêu chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+    - Phòng Kinh tế ngành ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+    - Phòng Văn hóa - Xã hội (  chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+    - Phòng Xây dựng cơ bản và thẩm định ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+    - Thư ký Hội đồng Luận chứng kinh tế kỹ thuật ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+   - Phòng Tài chính ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+   - Phòng đăng ký kinh doanh ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+   - Phòng tổ chức, hành chính ( chức năng nhiệm vụ , biên chế cán bộ trong phòng)
+   - Văn phòng các chương trình quóc gia (chức năng nhiệm vụ, biên chế cán bộ trong phòng)
+chú ý: +  thực tế có một số địa phương tổ chức các phòng chức năng trong sở KH-ĐT hơi khác so với cách tổ chức trên, trong trường hợp này dự án cần trình bầy theo thực trạng tổ chức của  địa phương mình.
+           + Vẽ sơ đồ tổ chức của sở KH-ĐT theo sự phân công, phân nhiệm phụ trách của mỗi thành viên trong ban giám đốc sở.
+
+Sơ đồ trao đổi thông tin của  sở KH-ĐT
+II.1.  Sơ đồ trao đổi thông tin nội bộ sở KH-ĐT
+   Mối quan hệ thông tin giũa các đơn vị  trong sở KH-ĐT .
+    Dựa vào sơ đồ tổ chức, chức năng nhiệm vụ của các phòng Ban trong sở KH-ĐT, mô tả sơ đồ quan hệ các thông tin cần xử lý trong công tác điều hành quản lý nhà nước, các thông tin cần lưu giữ  của các đơn vị chức năng trong sở, phân loại các thông tin đó..
+2.  Sơ đồ trao đổi thông tin hiện tại  trong nội bộ sở KH-ĐT
+     Trình bầy sơ đồ trao đổi thông tin  hiện tại giữa các đơn vị trong sở KH-ĐT, các phương pháp xử lý và  lưu trữ  thông tin hiện đang được sử dụng dựa theo sơ đồ trao đổi thông tin nói trên. Từ đó rút ra những ưu nhược điểm của các phương  pháp này.
+
+II.2. Sơ đồ trao đổi thông tin giữa sở KH-ĐT với các cơ quan bên ngoài
+Mối quan hệ thông tin giữa Sở KH-ĐT với các cơ quan bên ngoài
+  Trong phần này trình bầy sơ đồ (nếu có danh mục thì tốt) các nguồn thông tin từ các cơ quan bên ngoài gửi đến Sở KH-ĐT, cũng như  địa chỉ các đơn vị sẽ nhận thông tin từ sở KH-ĐT gửi đến. Phân loại theo tính chất, địa chỉ  của tất cả  các loại thông tin  đi,  đến,  đặc biệt các thông tin báo cáo tổng hợp gửi từ Sở KH-ĐT đến Văn phòng UBND tỉnh, Sở Tài chính vật giá, Bộ KH-ĐT.
+Sơ đồ trao đổi thông tin hiện tại  với các cơ quan bên ngoài (Hình dưới)
+      Trình bày sơ đồ trao đổi thông tin với các cơ quan bên ngoài hiện tại tại sở KH-ĐT của tỉnh, phân tích ưu nhược điểm của các phương pháp xử lý và lưu trữ thông tin  theo sơ đồ  trao đổi thông tin  này.
+
+III. Hệ thống thông tin quản lý sở Kế hoạch và Đầu tư
+Hệ thống thông tin (HTTT)  trong sở KH-ĐT có thể gồm các phân hệ sau:
+
+Phân hệ thông tin điều hành tác nghiệp
+ Mục đích của phân hệ thông tin này là quản lý các công văn, tài liệu được gửi đến cơ quan, quá trình xử lý các công văn đó và quản lý các công văn tài liệu từ cơ quan gửi đi.  Cụ thể  phân hệ này quản lý hai loại thông tin trong sở KH-ĐT là:                Thông tin văn bản pháp quy gồm các văn bản luật và các văn bản pháp quy dưới luật, và Thông tin giao dacha  hành chính.  Mục tiêu chính của phân hệ này:
+- Soạn thảo, in ấn, phát hành hồ sơ, văn bản.
+- Thu thập, lưu trữ  các công văn tài liệu, văn bản pháp quy.
+- Theo dõi quá trình luân chuyển, xử lý công văn, tài liệu trong cơ quan
+- Phân loại,thống kê, sao lục, trích yếu các nội dung văn bản
+- Tìm kiếm hồ sơ, văn bản lưu giũ  theo chủ đề,  tiêu thức, .. .
+      Phân hệ thông tin này được thiết kế và xây dựng chủ yếu dựa vào phân hệ thông tin điều hành tác nghiệp đã được triển khai tại Văn phòng UBND tỉnh, có sự sửa đổi một chút  cho phù hợp với  đặc điểm chức năng, nhiệm vụ của sở KH-ĐT, cụ thể  chủ yếu sửa  đổi các khuôn dạng mẫu biểu công văn, báo cáo trong nội bộ sở và từ sở gửi các cơ quan bên ngoài.
+      Môi trường để phát triển và xây dựng phân hệ này của sở KH-ĐT  cần đồng nhất ( hay ít nhất phải tương thích ) với môi trường xây dựng của phân hệ cùng loại đã được triển khai tại Văn phòng UBND tỉnh. Việc trao đổi thông tin văn bản giữa Sở và Văn phòng UBND, Bộ KH-ĐT  phải được thực hiện thuận tiện dễ dàng.
+
+2 .Phân hệ thông tin quản lý nội bộ
+Mục đích của phân hệ này là  trợ giúp các hoạt động mang tính chất hành chính, quản trị nội bộ tại một số phòng chức năng thuộc sở KH-ĐT. Các hoạt động chính gồm:
++  Quản lý nhân sự, lao động, tiền lương, chính sách đối với CBCNV thuộc quyền quản lý của sở KH-ĐT, . .
++  Quản lý công tác tài chính kế toán
++  Quản lý tài sản vật tư  của cơ quan
++ Lập lịch công tác, phục vụ các cấp lãnh đạo theo dõi và điều hành công việc
+Cũng giống như phân hệ thông tin điều hành tác nghiệp, về cơ bản các phần mềm ứng dụng để thực hiện các nhiệm vụ này tại sở KH-ĐT được xây dựng và phát triển từ các phần mềm cùng loại đã được triển khai tại Văn phòng UBND tỉnh  và chúng phải tương thích với các phần mềm cùng loại tại Bộ KH-ĐT.  Cụ thể cần phải chú ý đến cấu trúc dữ liệu, giao diện, phương thức trao đổi thông tin, môi trường phát triển, .. .
+Nếu phân hệ thông tin điều hành tác nghiệp tại  sở KH-ĐT được phát triển trên môi trương Lotus Notes 4.5 ( hoặc Ms Exchange) thì cần lưu ý rằng các môi trường này đã tạo sẵn môi trường để lập lịch công tác rất tốt.
+
+Phân hệ thông tin kinh tế- xã hội
+Đây là phân hệ thông tin đặc thù của riêng ngành  KH-ĐT. Phân hệ này quản lý các thông tin báo cáo, các thông tin dự báo, các thông tin thống kê dữ liệu, là nguồn để xây dựng CSDL về hệ thống thông tin kinh tế xã hội .
+Nhu cầu và xử lý thông tin kinh tế -xã hội sở KH-ĐT
+Thông tin về tình hình kinh tế -xã hội của các địa hươngtrong cả nước là một bộ phân  rất quan trọng cho việc xây dựng hệ thống thống tin kinh tế -xã hội trong Bộ KH-ĐT, giúp Bộ KH-ĐT, chính phủ có thêm cơ sở để  xây dựng kế hoạch phát triển kinh tế xã hội của toàn quốc.
+Để thực hiện tốt vai trò của mình, sở KH-ĐT phải xây dựng hệ thống thông tin có khả năng tiếp nhận, xử lý và cung cấp thông tin đầy đủ, nhanh chóng về mọi hoạt động kinh tế- Xã hội của toàn tỉnh.
+Hệ thống thông tin kinh tế -xã hội  được xây dựng  trên cơ sở chức năng, nhiệm vụ, quyền hạn của sở KH-Đt, của các đơn vị chức năng thuộc sở. Hệ thống  này  không chỉ  phù hợp với đặc thù của mỗi tỉnh, đặc thù tổ chức, hoạt động của UBND tỉnh mà còn phải phù hợp với việc xây dựng, phát triển của hệ thống thông tin kinh tế-xã hội quốc gia, ở đó Bộ KH-ĐT là thành viên quan trọng trong việc xây dựng hệ thống đó.
+
+Các nhóm chỉ tiêu thông tin kinh tế xã hội của sở KH-ĐT
+ Thông tin kinh tế -xã hội của địa phương mà sở KH-ĐT cần quản lý nói chung gồm  các nhóm thông tin  sau đây:
++  Thông tin về các doanh nghiệp trong và ngoài  quốc doanh trên địa bàn tỉnh.
++  Các công trình do nhà nước, tỉnh cấp vốn
++  Các dự án của tỉnh liên doanh với nước ngoài
++  Quản lý và điều phối viện trợ phát triển chính thức (ODA)
++  Tình hình vay, và trả nợ  các đơn vị cơ quan ngoài tỉnh, với nước ngoài.
+ + Tình hình phát triển kinh tế - xã hội của tỉnh  với các hệ thống chỉ tiêu về:
+  - Dân số-lao động
+       - Chỉ tiêu kinh tế tổng hợp theo hệ thống tài khoản quốc gia
+       - Tài chính -tiền tệ-tín dụng
+       - Công nghiệp
+       - Nông, lâm , ngư nghiệp
+       - Xây dựng cơ bản
+       - Giao thông vận tải, bưu điện
+       - Thương mại
+       - Giáo dục, văn hoá, y tế.
+    Mỗi hệ thống chỉ tiêu trên lại có những chỉ tiêu cụ thể phản ánh thực trạng
+kinh tế-xã hội của mỗi ngành.
+ ( Mô tả  trong phần  phụ lục chi tiết các chỉ tiêu cụ thể  theo mỗi hệ thống chỉ tiêu nói trên trong hệ thống thông tin kinh tế - xã hội mà tỉnh đang thực hiện ).
+
+c. Cơ sở dữ liệu của hoạt động QLNN trong lĩnh vực KH-ĐT
+ Thông tin kinh tế-xã hội được lưu giữ trong sở KH-ĐT là những thông tin rất quan trọng dối với công tác xây dựng phát triển kinh tế xã hội của tỉnh, nó được tra cứu tham khảo thường xuyên trong quá trình điều hành quản lý của sở KH-ĐT, của UBND tỉnh và thông tin dữ liệu quá khứ là tư liệu quý giá để dự báo tình hình phát triển và xây dựng kế hoạch kinh tế- xã hội của tỉnh những năm sắp đến . Vì vậy cần thiết phải xây dựng CSDL về thông tin kinh tế xã hội tại sở KH-ĐT.
+  CSDL về thông tin kinh tế xã hội của sở KH-ĐT  là  phần chủ yếu trong CSDL phục vụ công tác điều hành quản lý của toàn sở KH-ĐT, và là phần quan trọng trong CSDL tổng hợp ( chung) của tỉnh.
+ CSDL  phục vụ công tác điều hành quản lý của sở KH-ĐT thực chất gồm chủ yếu CSDL thông tin kinh tế -xã hội và CSDL được tổng hợp, đúc kết  từ  hai phân hệ  thông tin điều hành tác nghiệp và quản lý nội bộ  trong các hoạt động của sở KH-ĐT.
+ c1. Yêu cầu đối với CSDL thông tin kinh tế - xã hội sở KH-ĐT
+      CSDL  nêu trên cần phải đáp ứng được các yêu cầu cụ thể:
+ Quản lý các chỉ tiêu kế hoạch, tình hình thực hiện kế hoạch của sở KH-ĐT, của  các sở , ban,  ngành, quận huyện trong tỉnh theo kế hoạch kinh tế-xã hội hàng năm, 5 năm, .. .
+Quản lý các chỉ tiêu kế hoạch và tình hình thực hiện kế hoạch thuộc lĩnh vực văn hoá - xã hội.
+Quản lý kế hoạch hàng năm về tài chính, tín dụng, ngân hàng, ngân sách tiền tệ, quản lý việc cáp phát ngân sách và cấp phát theo các nguồn vốn.
+Quản lý  hồ sơ xin giấy phép và đăng ký thành lập, quản lý hoạt động của các doanh nghiệp trong địa bàn tỉnh.
+Quản lý các chỉ tiêu kế hoạch và tình hình thực hiện kế hoạch của các ngành kinh tế công nghiệp, thương mại, dacha vụ, du lịch,.. . trong tỉnh, theo dõi và hiệu chỉnh kế hoạch, quản lý một số chỉ tiêu, mặt hàng, sản phẩm chủ yếu của các ngành kính tế nêu trên.
+Quản lý chỉ tiêu kế hoạch và tình hình thực hiện kế hoạch phát triển nông, lâm, ngư nghiệp, chế biến nông sản, phát triển tiểu thủ công nghiệp trong nông thôn, sử dụng đất đai, xây dựng vùng kinh tế mới, ..
+Quản lý cơ cấu dân số lao động, phân bố lao động theo các lĩnh vực kinh tế, ngành nghề, theo lãnh thổ, .. .
+Quản lý  các hồ sơ dự án đầu tư, kết quả thẩm định dự án, cho phép thường xuyên cập nhật được thông tin và theo dõi được tình hình thực hiện, giám sát chi tiêu ngân sách, giám sát đào tạo, chuyển giao công nghệ, .. .  của  các dự án đầu tư.
+Quản lý được các nguồn vốn đầu tư, vốn vay của các đơn vị trong và ngoài nước, các nguồn tài trợ của  nước ngoài.
+c2.  Thu thập thông tin  kinh tế - xã hội của sở KH-ĐT
+ Để xây dựng được CSDL về các thông tin kinh tế -xã hội nêu trên,  công việc đầu tiên  phải thiết kế được các biểu mẫu chuẩn để thu thập số liệu. Biểu chuẩn này vừa phải bao quát được các chỉ tiêu cần thiết cho việc quản lý của sở theo đặc thù lãnh thổ, kinh tế xã hội của tỉnh, vừa phải thống nhất với hệ thống biểu chuẩn của Bộ Kế hoạch đầu tư và không quá phức tạp trong quá trình thu thập xử lý.
+     Tiến trình xây dựng hệ thống biểu chuẩn có thể là như sau: Dựa trên các chỉ tiêu thông tin kinh tế xã hội theo hệ SNA do Bộ KH-ĐT soạn thảo, hệ thống các biểu thu thập thông tin chuẩn  cho chính Bộ KH-ĐT, sở KH-ĐT sẽ xây dựng các danh mục chỉ tiêu và hệ thống biểu chuẩn cho phù hợp với địa phương và nhu cầu quản lý của địa phương  mình.
+c3. Việc lưu trữ và xử lý thông tin kinh tế -xã hội
+     Để tổ chức lưu trữ và xử lý thông tin kinh tế - xã hội của sở KH-ĐT nói riêng, các thông tin phục vụ quản lý của sở nói chung, cần phải xây dựng một cơ sở hạ tầng về máy tính ( được trình bầy chi tiết ở phần tiếp theo) và bộ chương trình   thiết lập CSDL hoàn chỉnh cho phép cập nhật, lưu trữ,  chiết xuất, xử lý .. . những thông tin thiết yếu từ CSDL này một cách thuận lợi, dễ dàng.
+
+Mối quan hệ của các phân hệ thông tin nói trên
+   Việc phân chia 3 phân hệ thông tin  như trên tại sở KH-ĐT  có lý do trước hết là tôn trọng cách phân loại hệ thống thông tin của Văn phòng UBND và đã được thực hiện triển khai ở các năm trước tại các địa phương trong cả nước, với mong muốn là tận dụng tối đa  thành quả của quá trình triển khai này. Trong 3 phân hệ thông tin này chỉ có phân hệ thông tin kinh tế-xã hội của sở KH-ĐT là được xây dựng mới, còn hai phân hệ kia sẽ được cải tiến cho phù hợp với đặc điểm quản lý của sở KH-ĐT, điều này không chỉ đơn thuần là tiết kiệm thời gian và kinh phí mà quan trọng hơn nhiều là tạo ra môi trường để trao đổi thông tin thuận lợi nhất có thể được giữa sở KH-ĐT với các cơ quan bên ngoài.
+     Ba phân hệ thông tin này cho phép tin học hoá phần lớn các hoạt động điều hành quản lý của sở KH-ĐT. Mỗi phân hệ đó  nhằm quản  lý, xử lý  một số loại thông tin chủ yếu của sở, nhưng chúng không độc lập với nhau , mà ngược lại chúng có quan hệ mật thiết với nhau. Trong quá trình điều hành quản lý thường có sự trao đổi qua lại giũa các phân hệ này đặc biệt là sự trao đổi giữa phân hệ thông tin kinh tế-xã hội và phân hệ điều hành tác nghiệp, phân hệ điều hành tác nghiệp và phân hệ quản lý nội bộ.
+
+Phân tích tính chất dữ liệu của ba phân hệ thông tin
+Phân hệ thông tin điều hành tác nghiệp nhằm quản lý, lưu trữ, xử lý, .. . các văn bản pháp quy, các công văn hồ sơ giấy tờ, .. . đó là  các dữ  liệu dạng văn bản, không có cấu trúc. Trong khi đó các thông tin  dữ liệu do hai phân hệ thông tin kinh tế-xã hội, quản lý nội bộ trong sở KH-ĐT về cơ bản là thông tin dữ liệu có cấu trúc.
+     Khuyến cáo của Ban chỉ đạo chương trình quốc gia về CNTT là ý kiến  quan trọng  để đơn vị quyết định  lựa chọn công cụ gì cho phù hợp với tình hình chung, đặc điểm đội ngũ cán bộ Tin học trong nước và xu thế  phát triển của công nghệ.
+      Đối với phân hệ quản lý nội bộ: là phân hệ đã được ứng dụng lẻ tẻ trong nhiều năm qua, và đã được các đơn vị ứng dụng phát triển trên rất nhiều công cụ khác nhau. Trong dự án Tin học hoá công tác hoạt động quản lý nhà nước tại Văn phòng UBND các tỉnh thành,giai đoan 1996-1997, phân hệ này đã được xây dựng và sở KH-ĐTcần được tiếp nhận phát triển, cải tiến cho phù hợp với đặc thù của đơn vị mình trên môi trường công cụ phát triển ứng dụn,g phù hợp với môi trường xây dựng phân hệ thông tin kinh tế -xã hội.
+     Xuất phát từ thực tế phát triển phần mềm ứng dụng trong những năm qua, việc xây dựng  triển khai các  phân hệ điều hành tác nghiệp, phân hệ thông tin quản lý nội bộ, .. . chúng ta  thấy rằng các môi trường công cụ phát triển các phân hệ này nói chung là không đồng nhất. Càng về những năm về sau vấn đề này càng  trở thành phổ biến. Đối với các hệ thống thông tin phục vụ điều hành quản lý nhà nước trong toàn quốc vấn đề này phải được khắc phục một cách tối đa có thể được. Trong khuôn khổ thực hiện dự án về CNTT trong sở KH-ĐT phải đặc biệt chú trọng vấn đề này, và sớm đề ra giải pháp tích hợp ba phân hệ thông tin nói trên, để người sử dụng ứng dụng CNTT  phục vụ nhiệm vụ công tác của mình một cách dễ dàng, thuận lợi trong một môi trường hoạt động thống nhất.
+
+5.  Kế hoạch và phương pháp xây dựng các phân hệ thông tin  của sở KH-ĐT
+      Việc thực hiện dự án CNTT  trong sở KH-ĐT cần được liên  kết với kinh nghiệm, kết quả thực hiện triển khai dự án CNTT tại văn phòng UBND,  việc triển khai dự án CNTT trong cùng giai đoạn của các sở, ban ngành khác của tỉnh, việc triển khai dự án CNTT trong Bộ KH-ĐT.
+Đối với hai phân hệ thông tin: Điều hành tác nghiệp và quản lý nội bộ
+      Năm 1998: tại sở KH-ĐT đã có thể triển khai sử dụng thử nghiệm các phân hệ thông tin điều hành tác nghiệp, phân hệ quản lý nội bộ  là các kết quả dự án CNTT của Văn phòng UBND  tỉnh chuyển sang.  Sau đó thu thập các ý kiến đánh giá nhận xét của  các cán bộ đã sử dụng, trên cơ sở đó chỉnh sửa cho phù hợp với đặc thù quản lý của Sở. Riêng với phân hệ quản lý nội bộ có thể có sự  tích hợp, chuyển đổi để các mô dul chương trình trong phân hệ này được hoạt động trong một môi trường đồng nhất và môi trường này phù hợp ( hay ít nhất là tương thích )  với môi trường sẽ được sử dụng để xây dựng phân hệ thông tin kinh tế-xã hội của sở KH-ĐT.
+    Năm 1999 sẽ triển khai huấn luyện sử dụng đại trà và ban hành quy chế  hoạt  động điều hành quản lý với sự tham gia của các phân hệ thông tin này trong sở KH-ĐT.
+Đối với phân hệ thông tin kinh tế - xã hội.
+   Năm 1998:
+     - Hoàn chỉnh các chỉ tiêu chi tiết về kinh tế-xã hội mà sở KH-ĐT có nhiệm vu thu thập, quản lý và xử lý chúng.  Hệ thống chỉ tiêu này phù hợp với Hệ thống do Bộ KH-ĐT, Tổng cục thống kê xây dựng và  đáp ứng  nhu cầu của UBND tỉnh.
+    - Hoàn chỉnh các mẫu biểu thu thập thông tin. Hệ thống biểu mẫu tuân theo hệ thống tài khoản  quốc gia  ( hệ SNA), và  phù hợp với đặc điểm của tỉnh.
+    - Hoàn chỉnh hệ thống bảng biểu báo cáo từ  Phòng KH huyện thị lên sở, từ Sở đến các cơ quan cấp trên, cácc cơ quan bên ngoài liên quan, hệ thống bảng biểu báo cáo trong nội bộ sở. .. .
+    - Lựa chọn công cụ phát triển và có phương án bồi dưỡng một số cán bộ có trình độ cơ bản  về phần mềm công cụ tin học được lựa chọn  để  giám sát  và tham gia dự án CNTT của sở.
+Chú ý về cách thức  tiến hành:
+     Việc xây dựng hệ thống chỉ tiêu, các biểu mẫu thu thập thông tin cần có sự chỉ đạo của Bộ KH-ĐT, sự tham gia của các sở Thống kê, Tài chính, Văn phòngUBND, .. .. Trước khi sở KH-ĐT triển khai hoạt động này nhất thiết tỉnh phải chuẩn bị đội ngũ cán bộ giàu năng lực và am hiểu sâu sắc chuyên môn nghiệp vụ của sở.
+    Chuẩn hoá toàn bộ hệ thống bảng biểu báo cáo là rất quan trọng, nó liên quan đến cách thức tổ chức dữ liệu, phân tích thiết kế  xây dựng bộ chương trình ứng dụng và việc lựa chọn công cụ để phát triển.  Việc triển khai  xây dựng mẫu biểu báo cáo liên quan đến nhiều ngành. Bộ KH-ĐT phối hợp với Văn phòng chính phủ có vai trò  chủ  đạo trong việc xây dựng hệ thống mẫu biểu của ngành KH-ĐT, Sở KH-ĐT sẽ dựa vào sự chỉ đạo này, phối hợp với UBND tỉnh, một số sở ngành liên quan để xây dựng hệ thống bảng biểu báo cáo của sở.
+       ( Với năm 1998 đề nghị các hạng mục dự án cần lập chi tiết hơn kế hoạch thực hiện cho phù hợp với đặc điểm cụ thể của tỉnh ).
+  Năm 1999:
+   - Bắt đầu triển khai xây dựng phân hệ thông tin kinh tế-xã hội đáp ứng các yêu cầu đã nêu ở trên.
+       - Tiến hành việc thu thập các thông tin theo các mẫu biểu thu thập thông tin chuẩn.
+      - Thử nghiệm cập nhật thông tin từ một số các biểu mẫu thu thập thông tin    vào CSDL của phân hệ,
+     -  Thử nghiệm chiết xuất các thông tin từ CSDL, đặc biệt là sử dụng phân hệ thông tin này để tạo ra các mẫu biểu báo cáo cho các đơn vị liên quan.
+  Chú ý về cách thức tiến hành :
+       Phân hệ thông tin kinh tế - xã  hội cho các  tỉnh thành phố  dược chỉnh sửa, phát triển từ phân hệ thông tin  cùng loại của Bộ KH-ĐT. Việc xây dựng phân hệ thông tin này tại Bộ KH-ĐT sẽ được tiến hành trước các địa phương một bước ( ít nhất là trước 1 năm).
+      Năm 2000
+     - Trên cơ sở các nhận xét góp ý  phát triển tiếp, chỉnh, sửa các nhược điểm, khiếm khuyết của  phân hệ thông tin  này.
+     - Tích hợp phân hệ này với các phân hệ đã xây dựng trước đó trong một thể thống nhất, và tạo ra CSDl chung từ CSDL thông tin-kinh tế xã hội và các dữ liệu đã được lưu trữ trong quá trình sử dụng hai phân hệ thông tin điều hành tác nghiệp và quản lý nội bộ của sở.
+   - Cập nhật tất cả các biểu mẫu thông tin thu thập, huấn luyện sử dụng đại trà và ban hành quy chế sử dụng. Cho mọi cán bộ trong ngành  KH-ĐT  của tỉnh.
+
+IV.Mô tả và thiết kế hạ tầng kỹ thuật CNTT của sở KH-ĐT (tham khảo và lựa chọn theo phần II.1 ở trên)
+a. Yêu cầu chung: việc xây dựng một cơ sở hạ tầng kỹ thuật CNTT ở Sở ( thực chất là một mạng LAN ) tại sở KH-ĐT  nằm trong khung cảnh xây dựng một mạng diện rộng (WAN) chung phục vụ công tác điều hành quản lý NN của toàn tinh.
+- Mạng LAN tại sở KH-ĐT được thiết kế theo mô hình Hình Sao, máy chủ của mạng kết nối vào mạng trung tâm của tỉnh, mạng trung tâm của tỉnh kết nối với mạng quốc gia , và từ đó có thể kết nối mạng của sở  với mạng của Bộ KH-ĐT.
+- Trong thời gian đầu khi mạng Trung tâm của tỉnh và việc kết nối mạng quốc gia chưa hoàn chỉnh thì việc kết nối mạng của sở KH-ĐT với các cơ quan bên ngoài có thể thực hiện qua đường FAX/MODEM.
+- Tuỳ theo số lượng biên chế cụ thể số lượng thiết bị và máy tính trong mạng LAN của sở KH-ĐT của mỗi tỉnh là khác nhau.
+      Sơ đồ dưới đây là minh hoạ  mạng LAN với cấu hình tối thiểu  cho khoảng 40 cán bộ làm việc.
+
+Máy tính gồm 16  chiếc bố trí như sau:
+- 02 máy Server, trong đó 01 chiếc làm máy chủ CSDL, 01 chiếc làm máy chủ truyền thông
+- 03 máy tính cho ban giám đốc
+- 02 máy cho phòng tổng hợp
+- 01 máy cho phòng Văn hoá- xã hội
+- 01 máy cho phòng Tài chính
+- 01 máy cho phòng kính tế - Đối ngoại
+- 01 máy cho phòng Kinh tế ngành
+- 01 máy cho phòng đăng ký kinh doanh
+- 02 máy cho phòng Xây dựng Cơ bản và thẩm định
+- 01 Máy cho Văn phòng các chương trình quốc gia
+- 01 máy cho phòng Tổ chức- hành chính.
+
+Tuỳ thuộc vào các nguồn kinh phí có thể huy động được, thiết bị Tin học mà sở KH-ĐT hiện có, tỉnh sẽ lên  kế hoạch theo từng năm để tiến hành xây dựng cơ ở hạ tầng máy tính nói trên. Nhưng cần đặc biệt chú ý là cơ sở hạ tầng về các trang thiết bị máy tính được xây dựng phải phù hợp nhất có thể được với kế hoạch chuẩn bị và xây dựng các hệ thống thông tin trong sở KH-ĐT.
+
+Sơ đồ: Mặt bằng bố trí  máy tính tại Sở KHĐT tỉnh
+
+										P.Tổng hợp
+
+	   Máy chủ
+P.KT `			ngành
+
+										P. Văn xã
+
+										P.Tài chính
+
+										P. KTĐN
+
+        Ban giám đốc
+										P.Q.hoạch
+
+										VP. CTQG
+
+									         P. ĐK KD
+
+										     P.ĐTvà
+									            XDCB
+
+Thống kê hiện trạng thiết bị  của sở  KH-ĐT
+  ( Điền theo mẫu sau )
+Loại thiết bị
+Đơn vị tính
+Số lượng
+Ghi chú
+
+1. Máy tính cá nhân
+Chiếc
+
+Đặt tại đâu ?
+
+ - PC 386 và trước đó
+
+-  PC 486
+- PC 586
+- các loại máy tính khác
+
+2. Máy chủ
+- PC Server
+
+- Máy mini hoặc Main frame
+
+ - Các loại máy khác
+
+3. Máy in
+  - In kim
+  - In laser
+  - In phun
+
+4. Các thiết bị khác.
+  - Máy vẽ
+  - Modem
+  - Đầu đọc, ghi  CD-ROM
+  - Khác
+
+ Điền vào bảng danh mục các hệ điều hành và  Phần mềm  đã sử dụng sau:
+Loại và tên phần mềm
+Đơn vị tính
+Số lượng
+Ghi chú
+
+1. Hệ điều hành MT cá nhân
+   - MS DOS
+   - MS.WINDOWS 3.1,
+   - Windows  95
+- Khác
+
+2. Hệ quản trị CSDL
+   - FoxPro
+   - Dbase
+   - Access
+   - .SQL Server
+   -  Oracle
+   -  Khác
+
+3. Các phần mềm ứng dụng  trong công tác văn phòng
+    - Ms Office
+   - Bked
+   - SDR
+   - Vni
+   - VietWare
+   - Khác . . .
+
+Các phần mềm khác
+ - C và C++
+ - Pascal
+ - Khác
+
+( theo số máy sử dụng )
+
+Sô người ứng dụng
+
+Sô người ứng dụng
+
+Sô người ứng dụng
+
+Điền vào bảng thống kê về các mạng đã triển khai tại Sở ( nếu có)
+
+Mô tả mạng và các thành phần
+Đơn vị tính
+Số lượng
+Ghi chú
+
+1. Cấu trúc  mạng
+
+2. Số lượng máy tính được đấu mạng
+Trong đó :
+   - Máy chủ
+   - Máy đầu cuối
+
+3. Hệ điều hành mạng
+   - UNIX
+   - Windows NT
+   -  Netware
+   - Khác
+
+4. Các ứng dụng thực hiện trên mạng
+  ( Nêu tên ứng dụng)
+   - . . . .
+
+5- Nêu các mạng ngoài sở đã kết nối với mạng này
+mạng
+
+chiếc
+
+mạng
+
+Đơn vị sử dụng
+
+Tên đơn vị ứng dụng
+
+Tên đoen vị có mạng kết nối.
+
+c. Các bảng cân đối  nhu cầu thết bị theo từng năm 1998, 1999, 2000.
+         ( Điền theo các mẫu biểu số 3 Phần thứ nhất )
+
+V. Tổng hợp nhu cầu, nội dung đào tạo cho các cán bộ của sở KH-ĐT
+Thống kê hiện trạng năng lực cán bộ CNTT của sở KH-ĐT.
+           ( Điền theo mẫu biểu sau: )
+
+Loại cán bộ
+Số.Lg
+KT V
+ĐH
+Trên ĐH
+Ghi chú
+( thuộc phòng nào)
+
+Lập trình phát triển
+
+Phân tích và thiết kế hệ thống
+
+Thiết kế CSDL
+
+Sửa chữa và bảo hành thiết bị
+
+Kỹ thuật mạng và truyền thông, quản trị mạng
+
+Quản lý dự án CNTT
+
+Cán bộ am hiểu về Hệ thống tài khoản và bảng cân đối kinh tế tổng hợp ( SNA)
+
+Các loại khác
+
+Tổng số
+
+Nhu cầu, nội dung đào tạo cho các cán bộ của sở KH-ĐT
+        ( Điền theo mẫu biểu 4A phần thứ Ba)
+
+VI.Tổng hợp và cân đối tài chính
+        ( Điền theo các mẫu biểu tương ứng nêu  trong phần thứ Ba, phân theo hạng mục kỹ thuật và Mục lục NSNN,  cho Sở KH-ĐT )
+
+II.2.3. Phát triển dự án tin học hoá quản lý Nhà nước tại Sở Khoa học CNMT
+
+Dự án
+Tin học hoá quản lý nhànước
+ tại Sở Khoa học Công nghệ Môi trường
+
+Phần 1 :  Phân tích hiện trạng
+
+I. Chức năng nhiệm vụ
+Sở Khoa học Công nghệ và Môi trường ( KHCN&MT) là cơ quan tham mưu và chuyên môn của UBND tỉnh, thực hiện các chức năng quản lý nhà nước về lĩnh vực khoa học công nghệ và môi trường trên địa bàn tỉnh   và hướng dấn chuyên môn nghiệp vụ của Bộ Khoa học Công nghệ và môi trường.
+           Nhiệm vụ chính ;
+Nghiên cứu , trình Chủ tịch UBND tỉnh việc cụ thể hoá các chế độ , chính sách về KHCN&Mt cho phù hợp với đặc điểm và điều kiện của địa phương. Việc cụ thể hoá không thể trái với các quy định của nhà nước, của Bộ quản lý ngành
+Xây dựng, trình Chủ tịch UBND tỉnh quyết định nhiệm vụ , chương trình phát triển khoa học , công nghệ và bảo vệ môi trường của địa phương phù hợp với  phương hướng phát triển kinh tế xã hôị của địa phương và báo cáo với Bộ trưởng Bộ KHCN&MT
+Hướng dẫn định hướng cho các tổ chức khoa học xây dựng kế hoạch nghiên cứu , áp dụng tiến bộ khoa học kỹ thuật vào sản xuất và đời sống của đơn vị, tổng hợp trình UBND tỉnh quyết định và theo dõi, kiểm tra thực hiện đối với các chương trình , dự án do ngân sách nhà nước cấp kinh phí.
+Quản lý các hoạt động chuyển giao công nghệ , tham gia giám định Nhà nước về công nghệ đối với các dự án đầu tư quan trọng trong tỉnh, theo dõi hướng dẫn việc đánh giá trình độ công nghệ trong các tổ chức kinh tế của tỉnh
+Có kế hoạch biện pháp kiểm tra bảo vệ môi trường tại địa phương theo luật pháp quy định. Theo dõi, phối hợp các biện pháp bảo vệ môi trường mang tính liên ngành  trong tỉnh. Chủ trì thẩm định hoặc nhận xét các báo cáo đánh giá tác động đến môi trường , các dự án đầu tư thuộc thẩm quyền của tỉnh. Kiểm tra , theo dõi diễn biến môi trường tại địa phương theo hướng dẫn của Bộ KHCN&MT
+Quản lý các vấn dề liên quan tới tiêu chuẩn - đo lường -chất lượng sản phẩm hàng hoá theo pháp luật quy định; hướng dẫn và kiểm tra việc thực hiện các tiêu chuản này tại các đơn vị sản xuất kinh doanh trên địa bàn tỉnh .
+ Quản lý các hoạt động sáng kiến , sở hữu công nghiệp theo pháp lệnh bảo hộ quyền sở hữu công nghiệp và các Văn bản pháp quy khác của Chính phủ và của Bộ.
+Thanh tra Nhà nước đối với các Tổ chức , cá nhân thuộc mọi thành phần kinh tế trong việc chấp hành chính sách , luật pháp về khoa học, công nghệ và bảo vệ môi trường
+Xét và cấp giấy phép đăng ký cho các tổ chức hoạt động nghiên cứu - triển khai khoa học và công nghệ thuộc mọi thành phần kinh tế trong tỉnh theo thông tư liên bộ Boọ KHCN&MT - Ban Tổ chức cán bộ Chính phủ số 195/LB ngày 13/11/1992 và kiểm tra việc thực hiện.
+Sở khoa học Công nghệ và Môi trường là cơ quan thường trực cho Hội đồng khoa học tỉnh.
+ Quản lý các tổ chức sự nghiệp nhà nước thuộc sở ( nếu có ) theo các nội dung quy định tại điều 12 nghị định 15/CP của Chính phủ ban hành ngày 2/3/1993 và sự phân cấp của Bộ trưởng Bộ Khoa học Công nghệ và môi trường cho Chủ tịch UBND tỉnh.
+Quản lý tổ chức , cán bộ tài chính , tài sản của Sở theo sự phân công phân cấp của UBND tỉnh và quy định của Nhà nước.
+
+II. Hệ thống tổ chức của Sở KHCN&MT
+            Sở KHCN&MT hoạt động theo chế độ thủ trưởng, để thực hiện chức năng nhiệm vụ nêu trên,Sở KHCN&MT có cơ cấu tổ chúc sau:
+            -Giám đốc là người chịu trách nhiệm trước UBND tỉnh toàn bộ hoạt động các mặt công tác của Sở. Đồng thời chịu trách nhiệm trước Bộ trưởng Bộ Khoa học Công nghệ và Môi trường về chuyên môn nghiệp vụ trong lĩnh vực khoa học công nghệ và môi trường trên địa bàn tỉnh .
+             -Phó giám đốc : Giúp việc cho Giám đốc Sở có 2 Phó Giám đốc, được Giám đốc uỷ quyền quản lý các mặt công tác , các phòng nghiệp vụ, các đơn vị trực thuộc Sở và chịu trách nhiệm trước Giám đốc,trước cấp trên toàn bộ hoạt động thuộc phạm vi phụ trách.
+              Dưới ban G iám đốc là các phòng ban chức năng.
+Văn phòng sở  ( bao gồm . . . . người)
+                         +Quản lý công tác hành chính tài vụ
+                         +Điều phối hoạt động toàn cơ quan
+                         +Quản lý công tác tổ chức cán bộ
+                         +Tổng hợp các hoạt động của Sở
+                         +Là đầu mối công tác hợp tác quốc tế
+Phòng Quản lý khoa học công nghệ ( bao gồm . . . . người)
+                         +Quản lý và xây dựng kế hoạch tổng hợp tiến bộ hàng năm và kế hoạch dài hạn của tỉnh.
+                         +Lập các dự án chuyển giao công nghệ
+                         +Đánh giá thẩm định các dự án, công nghệ
+                         +Xây dựng quý tập trung phát triển khoa học công nghệ
+                         +Công tác nguồn lực cán bộ khoa học và đào tạo cán bộ khoa học
+Phòng sở hữu công nghiệp ( bao gồm . . . . người)
+                         +Soạn thảo văn bản trình UBND tỉnh về sở hữu công nghiệp,sáng kiến...
+                         +Thẩm tra và quản lý kiến nghị về sáng kiến tỉnh
+                         +quản lý việc thực hiện chuyển nhượng kỹ thuật và quyền sở hữu công nghiệp
+                         +Tham gia xây dựng biện pháp phát triển hoạt động sáng kiến,sáng chế trong toàn tỉnh
+Phòng Thông tin tư liệu ( bao gồm . . . . người)
+                         +Quản lý lưu trữ tư liệu KH-CN-MT, hội chợ triển lãm khoa học kỹ thuật
+                         +Thông tin tuyên truyền KH-CN-MT
+Phòng quản lý môi trường ( bao gồm . . . . người)
+            + Tổng hợp các tư liệu nghiên cứu  về môi trường , lập các dự án  về môi trường
+                         +Xây dựng kế hoạch bảo vệ môi trường
+                         +Triển khai, kiểm tra việc chấp hành các quy định bảo vệ môi trường.
+                         +Tham gia thẩm định về môi trường đối với các dự án đầu tư quan trọng tại tỉnh.
+                         +Tổ chức thanh tra và kiểm soát ô nhiễm môi trường
+                         +Soạn thảo các văn bản về môi trường trình Giám dốc và UBND
+              6. Phòng quản lý tài nguyên khoáng sản ( bao gồm . . . . người)
+                         +Hướng dẫn về quản lý và bảo vệtài nguyênkhoáng sản trên dịa bàn
+                         +Thẩm định hồ sơ khai khác mỏ trình UBND
+                         +Tham gia xây dựng và xét duyệt các quy hoạch , kế hoạch , luận chứng kinh tế kỹ thuật, đề án khai khác mỏ trình UBND
+Thanh tra Sở ( bao gồm . . . . người)
+                         +Thực hiện thanh tra việc chấp hành chế độ chính sách pháp luât về KHCN và bảo vệ MT
+                         +Thanh tra tiêu chuẩn TC-DL-CL, môi trường
+                         +Xây dựng các văn bản pháp quy của Sở
+Các đơn vị trực thuộc Sở ( bao gồm . . . . người)
+                         +Chi cục tiêu chuẩn- đo lường - chất lượng
+       		    +Trung tâm diều tra cơ bản
+		    +Trung tâm thực nghiệm và chuyển giao công nghệ
+                Ngoài các chức năng nhiệm vụ cơ bản nêu trên , Sở KHCN&MT còn là trụ sở thường trực của Hội đồng khoa học tỉnh (HDKH) -là nơi xét duyệt ,đánh giá, nghiệm thu các đề tài nghiên cứu phát triển và ứng dụng khoa học kỹ thuật của tỉnh, các dư án cùng chiến lược khoa học kỹ thuật của tỉnh; đồng thời Sở KHCN&MT cũng là trụ sở  thường trực của BCĐ CNTT tỉnh.
+
+                 Dưới đây là sơ đồ tổ chức của Sở KHCN&MT :
+Giám đốc
+
+                                                        Ban Giám đốc
+
+Phó giám đôc
+Phó giám đôc
+Phó giám đôc
+
+Thanh tra Sở
+Trung tâm điều tra cơ bản
+Trung tâm chuyển giao công nghệ
+Tổ máy tính
+Phòng Sở hữu công nghệ
+Văn phòng
+Phòng TT tư liệu và tạp chí
+Phòng QL KHCN
+Phòng QL tài nguyên khoáng sản
+Chi cục tiêu chuẩn đo lường chất lượng
+Phòng QL môi trường
+
+                               Các phòng trực
+                                thuộc chi cục
+
+III . trao đổi thông tin giữa các đơn vị chức năng trong Sở KHCNMT
+1. Phân loại các thông tin mà Sở KHCNMT cần quản lý:
+Các thông tin mà Sở KHCNMT cần thu thập, quản lý và khai thác sử dụng rất  đa dạng trên nhiều khía cạnh.
+Theo mục tiêu sử dụng:
+Phục vụ điều hành, quản lý – là mục tiêu cần chú ý trong dụ án này;
+Tham khảo để hỗ trợ ra quyết định
+phục vụ nghiên cứu triển khai
+Theo lĩnh vực:
+Khoa học và công nghệ
+tài nguyên thiên nhiên
+môi trường
+Ngoài ra còn có mảng thông tin về:
+Tiêu chuẩn
+sở hữu công nghiệp
+Theo nguồn dữ liệu:
+Các văn bản trao đổi giữa Sở KHCNMT và các cấp quản lý tại địa phương và Trung ương;
+các kết quả thực hiện đề tài, công trình khoa học;
+các dữ liệu điều tra được;
+các dữ liệu trao đổi với các hệ thống thông tin bên ngoài.
+Theo kiểu loại dữ liệu:
+Số liệu
+tư liệu, văn bản
+bản đồ
+đồ thị
+hình ảnh
+
+2 Phân loại các hoạt động thông tin tại Sở KHCNMT:
+Các nhóm công việc chính trong Sở là:
+Điều hành tác nghiệp hàng ngày (quản lý hồ sơ văn bản, công việc hàng ngày; lịch làm việc; theo dõi biên bản các cuộc họp...)
+Quản lý các hoạt động KHCN, khai thác tài nguyên thiên nhiên, các vấn đề liên quan đến chất lượng sản phẩm, và tình trạng môi trường trên địa bàn (bao gồm: quản lý các đề tài NCKH, các dự án, đầu tư; quản lý tiềm lực, văn bản qui định; theo dõi kiểm soát trình độ công nghệ, hiện trạng môi truờng, đăng ký, cấp giấy phép hoạt động...)
+Quản lý chung trong nội bộ - như bất kỳ một cơ quan nào khác (nhân sự, tài chính kế toán, thiết bị vật tư ...)
+Cung cấp, phổ biến thông tin về KHCNMT, tiêu chuẩn, sáng chế phát minh, tài nguyên thiên nhiên và môi trường....
+Để thực hiên các công việc trên, các hoạt động thông tin cần thiết của Sở  là:
+Thu thập thông tin
+Tổ chức lưu trữ thông tin
+Tổng hợp, kết xuất thông tin
+Tra cứu, tìm kiếm thông tin để tham khảo
+Tích hợp các thông tin trên địa bàn, theo chuyên đề, chuyên ngành ... từ các loại và nguồn thông tin khác nhau
+Soạn thảo các báo cáo, tài liệu có tính chất phân tích, tổng quát từ các nguồn thông tin gốc;
+Cung cấp, phổ biến thông tin KHCNMT định kỳ và theo nhu cầu.
+
+3. Trao đổi thông tin giữa các đơn vị trong Sở:
+
+Mỗi bộ phận trong Sở, trong quá trình thực hiện nhiệm vụ của mình, có mối liên hệ trao đổi thông tin rất chặt chẽ với các bộ phân khác, nhất là ở trong cơ quan. Đó là:
+a) Văn phòng Sở hoặc có nơi chỉ là gọi là Phòng Hành chính quản trị:
+Đầu vào:
+Các công văn đến - từ bên ngoài vào;
+Các công văn đi đã được soạn thảo và xin ý kiến lãnh đạo – từ các bộ phận trong Sở;
+Các văn bản nội bộ – từ các bộ phận khác nhau trong Sở
+Thông tin về tài chính kế toán: cho các hoạt động quản lý và nghiệp vụ của Sở; cho các đề tài dự án, hợp đồng triển khai ứng dụng.... - từ hoạt động của kế toán (nằm trong VP).
+Thông tin về tổ chức cán bộ: lý lịch cá nhân, lý lịch khoa học – từ hoạt động của cán bộ tổ chức cơ quan (nằm trong VP)
+Dữ liệu tổng hợp kết xuất từ hoạt động của các bộ phận chức năng, nhất là từ khối quản lý KHCNMT;
+Đầu ra:
+Các văn bản phát hành (đến các cơ quan bên ngoài)
+Các văn bản nội bộ (đến các bộ phận trong Sở)
+Các báo cáo tổng hợp trình lãnh đạo phê duyệt – đến Lãnh đạo Sở;
+Các Sổ theo dõi điều hành, xử lý công việc trong cơ quan – lưu VP, báo cáo lãnh đạo
+b) Khối quản lý về KHCN và MT trên địa bàn:
+Đầu vào:
+Thông tin về các văn bản pháp qui, các qui định làm cơ sở pháp lý cho công tác của Sở; - chủ yếu từ Văn phòng Sở.
+Các loại thông tin sau là rút từ nội dung các công văn, báo cáo mà  Văn phòng Sở đã nhận và chuyển tới các bộ phận trong khối quản lý; một phần khác do chính các cán bộ của bộ phận thu thập, lưu giữ lại trong quá trình thực hiện nhiệm vụ được giao. Đó là :
+Thông tin về các hoạt động nghiên cứu ứng dụng (đề tài các cấp, dự án thử nghiệm...);
+Thông tin về nguồn lực (các cán bộ và tổ chức hoạt động trong lĩnh vực KHCN... trên địa bàn);
+Thông tin về sáng kiến và sở hữu công nghiệp (đăng ký, xét cấp chứng nhận, bảo hộ ...);
+Thông tin về tình hình khai thác tài nguyên thiên nhiên;
+Thông tin về hiện trạng môi trường, thẩm định tác động môi trường, cấp thảo thuận môi trường...;
+Các ý kiến chỉ đạo của Lãnh đạo Sở.
+Đầu ra:
+Các ý kiến , đề xuất trình Lãnh đạo Sở;
+Các dữ liệu tổng hợp về tình hình quản lý KHCNMT trên địa bàn định kỳ báo cáo cho Lãnh đạo Sở và chuyển về Văn phòng Sở, làm cơ sở để tổng hợp thành các báo cáo chung của Sở gửi các cấp liên quan;
+Các thông tin tra cứu phục vụ cho các bộ phận khác (Lãnh đạo Sở, thanh tra Sở,...)
+Các kết quả cuối cùng của các đề tài, dự án, các tư liệu được thu thập (tài liệu, hồ sơ gốc) và sản sinh (các báo cáo tổng kết, đánh giá...) trong quá trình quản lý KHCNMT... sẽ được chuyển sang khối Thông tin KHCNMT để phổ biến và phuc vụ thông tin rộng rãi.
+
+c) Khối thông tin KHCNMT (bao gồm Trung tâm thông tin tư liệu KHCN, Trung tâm điều tra cơ bản ...):
+Đầu vào:
+ý kiến chỉ đạo từ Lãnh đạo
+Các văn bản liên quan từ Văn phòng Sở chuyển đến
+Thông tin tư liệu về KHCNMT trong và ngoài nước- từ bên ngoài, và một phần thông tin từ khối quản lý;
+Các số liệu điều tra cơ bản liên quan: thu thập từ bên ngoài, trong quá trình thực hiện nhiệm vụ;
+Các yêu cầu cung cấp thông tin từ tất cả các bộ phận trong Sở;
+Đầu ra:
+Các văn bản trình lãnh đạo và Văn phòng
+Các ấn phẩm thông tin chuyên đề, tổng luận, tổng quan chuyên ngành KHCNMT phục vụ Lãnh đạo;
+Các thông tin phục vụ yêu cầu – cho các bộ phận khác nhau
+
+d) Khối kỹ thuật (bao gồm các đơn vị thử nghiệm, chuyển giao công nghê...)
+Đầu vào:
+ý kiến chỉ đạo từ Lãnh đạo Sở ;
+Các văn bản liên quan từ Văn phòng Sở chuyển đến
+Thông tin về các kết quả nghiên cứu, công nghệ sẽ chuyển giao – từ khối quản lý và khối thông tin;
+Đầu ra:
+Các văn bản trình lãnh đạo và Văn phòng
+Thông tin về kết quả thử nghiệm, xin ý kiến lãnh đạo
+
+e) Chi cục Tiêu chuẩn đo lường chất lượng – (trong đó cũng có mảng quản lý và kỹ thuật riêng).
+Đầu vào:
+Chỉ thị, yêu cầu trực tiếp của lãnh đạo Sở và TC TCĐLCL
+(công văn đi đến?)
+Thông tin  quản lý và đăng ký chất lượng, đo lường đối với các doanh nghiệp và cá nhân – thu thập từ bên ngoài, trong quá trình thực hiện nhiệm vụ.
+Thông tin về các tiêu chuẩn và các văn bản qui định về TCĐLCL của nhà nước; (bên ngoài)
+Đầu ra:
+Báo cáo, đề xuất trình Lãnh đạo Sở
+Tình hình đăng ký, và quản lý  chất lượng đo lường đối với các doanh nghiệp;
+
+f) Thanh tra Sở  -  trực tiếp chịu sự lãnh đạo của GĐ Sở, đồng thời nằm trong hệ thống TTNN.
+Đầu vào:
+Chỉ thị, yêu cầu trực tiếp của lãnh đạo Sở và TTNN
+Các văn bản liên quan từ Văn phòng Sở chuyển đến
+Các thông tin tham khảo từ khối quản lý và thông tin
+Thông tin, hồ sơ thu thập được trong quá trình thanh tra, giải quyết khiếu nại tố cáo trong lĩnh vực KHCNMT
+Đầu ra:
+Báo cáo, đề xuất trình Lãnh đạo Sở
+các kết quả thanh tra, giải quyết KNTC – các bên liên quan
+Báo cáo tổng hợp hoạt động thanh tra – TTNN tỉnh
+
+Qua mô tả trên ta thấy, Lãnh đạo Sở, Văn phòng Sở, khối quản lý KHCNMT, Chi cục TCĐLCL (và Thanh tra) là những đơn vị chính trong Sở tham gia trực tiếp vào việc điều hành và quản lý nhà nước trên địa bàn tỉnh về lĩnh vực KHCNMT, và do đó là các thành phần liên quan nhiều đến nhiệm vụ Tin học hóa QLNN của Sở nói riêng, và của tỉnh nói chung.
+
+III.2. Trao đổi thông tin giữa Sở KHCNMT với các cơ quan bên ngoài
+
+sơ đồ trao đổi thông tin giữa Sở KHCNMT và các cơ quan bên ngoài
+
+Đây là mảng thông tin rất cần được chú ý trong dự án này để thấy được vị trí của Sở KHCNMT trong toàn bộ hệ thống thông tin QLNN của tỉnh nói chung, và đặc biệt là mối quan hệ với HTTT QLNN tại Văn phòng UBND tỉnh nói riêng. Mọi giao dịch chính thức giữa Sở KHCNMT với bên ngoài, trước hết là các văn bản trao đổi qua lại đều được thực hiện qua Văn phòng của Sở KHCNMT. Các mối quan hệ trao đổi thông tin phục vụ QLNN của Sở KHCNMT như sau:
+
+1 Với UBND tỉnh:
+Sở KHCNMT chịu trách nhiệm trước UBND tỉnh trong việc thực hiện chức năng QLNN về KHCN và bảo vệ môi trường theo pháp luật của Nhà nước.
+Từ UBND tỉnh đến Sở KHCNMT: bao gồm các thông tư, chỉ thị của ubnd tỉnh liên quan đến những nội dung quản lý  KHCNMT trên địa bàn địa phương – qua hệ điều hành tác nghiệp của UBND tỉnh
+Từ Sở KHCNMT đến UBND tỉnh gồm các:
++ công văn xin ý kiến và gửi báo cáo – Từ hoạt động điều hành tác nghiệp của Sở;
++ dữ liệu báo cáo tổng kết về tình hình hoạt động chung của Sở (về tổ chức, tài chính, về việc thực hiện các kế hoạch được giao và đánh giá mức độ đạt được...) – từ hoạt động quản lý chung trong nội bộ Sở
++ dữ liệu báo cáo hàng tháng về tình hình quản lý KHCNMT trên địa bàn (việc triển khai các đề tài, dự án KHCNMT, các đơn vị hoạt động KHCNMT trên địa bàn, tình trạng khai thác tài nguyên thiên nhiên, tình hình thẩm định tác động môi trường của các dự án đầu tư....) – từ kết quả hoạt động của Khối quản lý KHCN và MT, Chi cục TCĐLCL là chủ yếu.
+Ví dụ, mẫu báo cáo hàng tháng:
+Nghiên cứu ứng dụng KHCN:
+(Số) đề tài nghiên cứu ứng dụng KHCN
+(Số) dự án sản xuất thử và thử nghiệm
+Vốn cấp và thu hồi vốn
+Thông tin tư liệu và sở hữu công nghiệp
+Các loại hình thông tin tư liệu được cập nhật
+Mức độ áp dụng Sở hữu công nghiêp
+Môi trường
+Hiện trạng môi trường và dự báo
+Tình hình vi phạm môi trường
+Tiêu chuẩn đo lường chất lượng
+Tình hình đăng ký chất lượng
+Tình hình thanh tra chất lượng
++ Báo cáo đột xuất về các vấn đề phát sinh trong lĩnh vực KHCN, và nhất là về môi trường trên địa bàn cần được xử lý- ( trong quá trình theo dõi, kiểm tra của Khối quản lý KHCN và MT)
+(+ ngoài ra còn có các loại báo cáo chuyên đề có tính chất cung cấp thông tin để hỗ trợ các cấp lãnh đạo – trong đó có vai trò của Khối thông tin trong Sở).
+
+2.  Với Bộ KHCNMT: có quan hệ về chuyên môn và nghiệp vụ trong ngành theo sự chỉ đạo của Bộ.
+Từ Bộ tới Sở:
+các hướng dẫn, chỉ thị thi hành nghiệp vụ – từ VP Bộ, các Cục Vụ Viện trong Bộ;
+(các thông tin chuyên ngành)
+Từ Sở tới Bộ:
+Các văn bản kiến nghị, đề xuất về mặt nghiệp vụ (chủ yếu do các khối QLKHCNMT và khối thông tin KHCNMT soạn thảo), các công văn gửi báo cáo (VP Sở);
+dữ liệu báo cáo về tình hình KHCN và điều tra, bảo vệ môi trường của tỉnh, (Khối quản lý KHCN, TN và MT)
+dữ liệu báo cáo về các kế hoạch KHCNMT và tài chính hành năm của tỉnh. (Khối quản lý chung của Sở KHCNMT)
+
+3 Với Tỉnh uỷ:
+Từ Tỉnh uỷ: thông báo các chỉ thị liên quan
+Từ Sở KHCNMT: các báo cáo về những vấn đề mà Tỉnh uỷ quan tâm
+
+4 với các Sở ban ngành quản lý tổng hợp và nghiệp vụ:
+với Sở KHvà ĐT: có quan hệ về xây dựng các kế hoạch KHCN và bảo vệ môi trường hàng năm. Các thông tin trao đổi chính là Kế hoạch tài chính KHCN hàng năm và tình hình thẩm định KHCN cho các dự án đầu tư.(VP Sở và khối quản lý KHCNMT)
+Sở Tài chính và Vật giá: có quan hệ tài chính cho kinh phí hoạt động của sở và của các đề tài. Các thông tin trao đổi chính là kế hoạch chi hoạt động KHCN hàng tháng, các quyết toán chi phí theo định kỳ, kế hoạch thanh tra, kiểm tra tài chính và thanh lý tài sản các đề tài (VP Sở)
+Ban Tổ chức Chính quyền Tỉnh: báo cáo về tình hình CBCNVC của Sở (VP Sở)
+Sở LĐTBXH: tình hình lao động trong lĩnh vực KHCN và MT trên địa bàn (VP Sở và khối quản lý KHCNMT);
+Thanh tra nhà nước tỉnh: báo cáo tình hình khiếu nại tố cáo và thanh tra trong lĩnh vực KHCNMT trên địa bàn – nằm trong mạng chung của Thanh tra Nhà nước.
+
+5 với các Sở ban ngành khác: các vấn đề KHCN và MT trong các SBN:
+Hướng dẫn đăng ký, đăng ký và quản lý các đề tài nghiên cứu phát triển, ứng dụng KHCN chuyên ngành, các dự án thử nghiệm;
+Báo cáo ổng kết nghiệm thu đánh giá kết quả đề tài; quyết toán kinh phí khi kết thúc;
+Báo cáo tiến độ thực hiện các đề tài, dự án
+Báo cáo sơ kết tổng kết về KHCN của các ngành trong tỉnh
+
+Với các Quận Huyện, Thị xã: quan hệ về mặt nhà nước trong các vấn đề KHCNMT tại các quận huyện, thị xã;
+Đăng ký và theo dõi quản lý các đề tài nghiên cứu phát triển, ứng dụng KHCN chuyên ngành, các dự án thử nghiệm;
+Báo cáo tiến độ thực hiện các đề tài, dự án, tình hình chi tiêu kinh phí
+Báo cáo tình trạng môi trường trong khu vực quận, huyện thị
+Báo cáo kết quả ứng dụng tiến bộ kỹ thuật vào sản xuất- đời sống
+
+với các doanh nghiệp trên địa bàn tỉnh: liên hệ các vấn đề KHCN, TCĐLCL, ảnh hưởng đến môi trường;
+Đăng ký và theo dõi quản lý các đề tài ứng dụng KHCN, các dự án thử nghiệm;
+Báo cáo tiến độ thực hiện các đề tài, dự án, tình hình chi tiêu kinh phí
+Báo cáo tình hình gây ô nhiễm môi trường
+Báo cáo tình hình thực hiện chất lượng hàng hoá đã đăng ký.
+
+8. với các tổ chức, cá nhân: liên quan đến các vấn đề khiếu nại tố cáo trong lĩnh vực KHCNMT, và các vấn đề trao đổi thông tin KHKT
+
+ Các thông tin chuyên ngành:
+	Với tư cách là một cơ quan tham mưu và chuyên môn của tỉnh, ngoài việc đảm bảo các thông tin phục vụ quản lý nhà nước trong lĩnh vực KHCNMT trên địa bàn của địa phương, Sở KHCNMT còn có trách nhiệm thu thập, lưu trữ, tổ chức và cung cấp các thông tin chuyên ngành khoa học, công nghệ, tài nguyên thiên nhiên và môi trường trong nước và trên thế giới, nhằm phục vụ yêu cầu tra cứu thông tin của đông đảo người dùng, đặc biệt là phục vụ nghiên cứu triển khai, đưa tiến bộ của KHCN vào thực tế sản xuất.
+	Như vậy, đối tượng của việc cung cấp thông tin chuyên ngành là tất cả các cơ quan, đơn vị và các nhân có nhu cầu về những thông tin này, trong đó có thể có cả các cơ quan quản lý nhà nước như đã mô tả ở trên.
+	Ngược lại, để thu thập được các thông tin như vậy, Sở KHCNMT phải có mối quan hệ trao đổi thông tin chuyên ngành với các cơ quan đơn vị, các tổ chức, thậm chí các cá nhân làm khoa học công nghệ và môi trường trong nước và trên thế giới. Nhưng chỗ dựa quan trọng nhất trong việc cung cấp các thông tin này thuộc về các Trung tâm thông tin, Viện nghiên cứu điều tra, Tổng cục TCĐLCL, Cục Sở hữu công nghiệp... của Bộ KHCNMT và của các cơ quan nghiên cứu của Trung ương – những đầu mối chính của các mạng thông tin chuyên ngành ở nước ta.
+Do phạm vi của dự án này tập trung nhiều vào chức năng quản lý nhà nước của Sở KHCNMT, nên mảng thông tin chuyên ngành này sẽ được đề cập sâu đến ở một dự án khác. Tuy nhiên, đây cũng sẽ là một nguồn thông tin quan trọng mà các cấp lãnh đạo, quản lý của địa phương cần được tham khảo trong quá trình ra các quyết định.
+
+ Các mạng thông tin có liên quan:
+Sở KHCNMT, trong hoạt động quản lý nghiệp vụ và thông tin chuyên ngành, đã và đang tham gia vào rất nhiều hệ thống thông thông tin trong và ngoài tỉnh. Đó là:
+HTTT phục vụ quản lý nhà nước của UBND tỉnh;
+HTTT của thanh tra nhà nước trên địa bàn;
+HTTT tư liệu khoa học công nghệ và môi trường của Trung tâm thông tin tư liệu, khoa học và công nghệ quốc gia, Bộ KHCNMT;
+HTTT địa lý phục vụ quản lý tài nguyên thiên nhiên và giám sát môi trường – Cục môi trường và dự án GIS do bộ KHCNMT chủ trì;
+HTTT tiêu chuẩn đo lường chất lượng – Tổng cục TCĐLCL, bộ KHCNMT;
+HTTT sáng chế phát minh – Cục Sở hữu công nghiệp, Bộ KHCNMT;
+Vì mỗi HTTT trên đều có những đòi hỏi riêng về nội dung, khối lượng và các cấu hình kỹ thuật đối với các thiết bị... Sở cần phải làm sao phối hợp được tốt các mảng thông tin đó để tạo nên một tiềm lực thông tin chung, đủ mạnh để không những phục vụ hiệu quả cho QLNN về lĩnh vực KHCNMT trên địa bàn, mà còn tiến tới đáp ứng cả các nhu cầu thông tin về KHCNMT của đông đảo các đối tượng dùng tin. Đồng thời, cần tận dụng hết công suất của các trang thiết bị , cũng như các cán bộ tin học – trong điều kiện kinh phí và lực lượng còn ít như hiện nay.
+
+Bảng thống kê năng lực công nghệ thông tin hiện có
+Nhân lực ( theo bảng, trong hướng dẫn xây dựng dự án của BCĐ)
+Thiết bị ( theo bảng, trong hướng dẫn xây dựng dự án của BCĐ)
+ứng dụng( theo bảng, trong hướng dẫn xây dựng dự án của BCĐ)
+
+Bảng thống kê lưu lượng thông tin  vào ra của sở
+Năm 199...
+tháng
+số CV
+đến
+Sở
+kHCNMT
+số CV
+đI từ
+Sở
+kHCNMT
+
+(theo lĩnh vực)
+KHCN
+TN
+MT
+khác
+KHCN
+TN
+MT
+khác
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Tổng cộng
+
+Đánh giá về hiện trạng
+
+Phần II
+thiết kế hệ thống thông tin quản lý tại sở Khcn&MT
+
+I. Mục tiêu thiết kế hệ thống thông tin tại sở KHCN&MT
+I.1. Mục tiêu :
+	Dự án đưa CNTT phục vụ quản lý Nhà nước của Sở KHCN&MT của tỉnh được xây dựng trên cơ sở chính sách Quốc gia về phát triển CNTT ở nước ta đến năm 2000 và dự án “ tin học hoá hệ thống quản lý nhà nước tại UBND tỉnh “ . Do vậy mục tiêu của dự án không nằm ngoài mục tiêu chung của Chương trình Quốc gia , phù hợp với mục tiêu của dự án tỉnh :
+Nâng cao chất lượng các hoạt động quản lý nhà nước của Sở KHCN&MT, cung cấp thông tin chính xác, đầy đủ, kịp thời cho các Nhà quản lý , lãnh đạo trên cơ sở một hệ thống phần mềm trợ giúp việc lưu trữ , sắp xếp, tìm kiếm , tổng hợp, phân tích tốt .
+Xây dựng CSDL cho một số lĩnh vực hoạt động của Sở.
+Thiết lập mạng máy tính tại Sở KHCN&MT nhằm đảm bảo sự liên kết trao đổi thông tin giữa các phòng nghiệp vụ của Sở, giữa sở với UBND tỉnh, Bộ KHCNMT và các cơ quan khác , tiến tới hoà nhập vào mạng Quốc gia
+I.2 Các chức năng cụ thể
+Hệ thống thông tin tại sở KHCN&MT phải thực hiện được các chức năng:
+Quản lý hiệu quả các công văn đến , các công văn đI và quá trình giải
+ quyết vụ việc.
+Trợ giúp cho quá trình ra quyết định  của lãnh đạo
+Trợ giúp cho công tác xử lý vụ việc của chuyên viên
+Xử lý và tổng hợp một cách khoa học, có hệ thống, nhanh chóng các báo cáo định kỳ.
+Lưu trữ và cung cấp các thông tin để tra cứu sau này
+Quản lý các hoạt động trong nội bộ của sở KHCN&MT
+I.3 Các lớp của hệ thống thông tin tại sở KHCN&MT
+    Lớp thứ nhất của hệ thống là mạng cục bộ tại văn phòng sở KHCN&MT. Mạng này được nối với các mạng cục bộ khác trong tỉnh thông qua mạng điện thoại hay mạng diện rộng.
+     Trên nền  của mạng cục bộ này là cơ sở dữ liệu các thông tin quản lý tại Sở. Mô hình dữ liệu thông dụng nhất hiện nay là cơ sở dữ liệu quan hệ.  Các hệ CSDL này có phần ngôn ngữ hỏi đáp cấu trúc SQL. Các hệ CSDL kiểu này thông dụng trên thị trường là ORACLE, SYBASE hay SQL for Windows NT.
+     Dữ liệu trong CSDL có thể chia thành các nhóm hay các phân hệ. Thông tin giữa các phân hệ có mối quan hệ  để phục vụ cho công tác tổng hợp chung.
+     Các phần mềm làm nhiệm vụ giao diện cần đáp ứng các thao tác nghiệp vụ quản lý của người sử dụng.
+     Việc xây dựng các lớp cần bám theo các yêu cầu của thực tế. Thông tin của lớp thứ hai được xác định bởi yêu cầu của người sử dụng. Trên các yêu cầu quản lý thông tin của lớp thứ hai sẽ xác định được yêu cầu của phần cứng thuộc lớp thứ nhất. Lớp thứ ba phải đáp ứng yêu cầu thông tin vào ra cho lớp thứ hai, cần dễ thao tác  và gần với thực tế nghiệp vụ của người sử dụng.
+I.4. Các yêu cầu nghiệp vụ và kỹ thuật đối với hệ thống thông tin
+Đảm bảo tính nghiệp vụ: Phù hợp với các nguyên tắc và nguyên lý vận hành của qui trình quản lý của Sở KHCN&MT .
+Đảm bảo tính hiện đại: Hệ thống phải được xây dựng dựa trên cơ sở  CNTT hiện đại, ứng dụng được các công nghệ tương đối tiên tiến trên thế giới tin học ngày nay để tránh bị lạc hậu trong tương lai.
+Đảm bảo tính mở, dễ phát triển của hệ thống: Các phần CSDL phục vụ cho quản lý phải được thiết kế sao cho có thể thích nghi và đáp ứng được nhu cầu quản lý hiện nay cũng như có thể mở rộng trong tương lai. Do đặc điểm chưa ổn định của hệ thống hành chính hiện nay tại nước ta,  trong cuộc cải cách hành chính sắp tới chắc chắn sẽ có các thay đổi đáng kể tới các thủ tục hành chính. Vì thế hệ thống cần có khả năng mở rộng các chức năng mới khi cần thiết.
+Đảm bảo tính hiệu quả: Có khả năng lưu trữ lớn, quản lý được cả các dữ liệu có cấu trúc và phi cấu trúc (ví dụ như nội dung văn bản, ý kiến của lãnh đạo), khả năng cung cấp thông tin nhanh chóng, chính xác đầy đủ.
+Đảm bảo tính an toàn, bảo mật: Hệ cần có cơ chế hạn chế hỏng hóc về kỹ thuật, chống mất mát, sai hỏng dữ liệu, chống mất cắp thông tin. Dữ liệu cần được BackUp thường xuyên. Tùy khả năng của phần cứng có thể chạy trên chế độ hai modul lưu dữ liệu song song về các thông tin quan trọng nhất. Quyền truy nhập thông tin được gán tới từng đối tượng sử dụng theo mức độ phân cấp hay chế độ nhóm làm việc.
+Đảm bảo tính dễ sử dụng: Giao diện thân thiện với người sử dụng, các giao diện nên được viết trên các mô đun giao diện thống nhất để người sử dụng dễ nhớ các thủ tục thao tác vận hành.
+II. Các thành phần của hệ thống thông tin tại Sở KHCN&MT
+     Hệ thống sẽ được xây dựng có thể chia ra thành các khối thông tin có các mối liên kết dữ liệu thông qua các quan hệ. Các khối thông tin lại có thể chia ra hai loại chính: Loại phục vụ công tác điều hành hoạt động quản lý nhà nước hàng ngày và loại cung cấp thông tin hỗ trợ ra quyết định .
+II.1. Các phân hệ thông tin chính của Sở KHCNMT:
+Hệ điều hành và tác nghiệp: - Văn phòng Sở chủ trì với tư cách là đầu mối trao đổi thông tin chính trong Sở và giữa Sở với các cơ quan bên ngoài, đặc biệt là với UBND tỉnh. Vì vậy, hệ thống điều hành tác nghiệp của Sở cũng nên nhất quán và phù hợp với HTTT phục vụ QLNN chung của UBND tỉnh. Nội dung chính của điều hành tác nghiệp là:
+Quản lý và xử lý hồ sơ văn bản (trong đó có cả các văn bản nội bộ, ví dụ biên bản các cuộc họp của Sở...). Cần đặc biệt chú ý là phân hệ này quản lý tất cả các văn bản pháp quy về Khoa học công nghệ và môi trường. Các văn bản pháp quy này sẽ được các chuyên viên của Sở và các cá nhân đơn vị có liên quan tra cưú phục vụ cho các hoạt động của mình
+Lập lịch làm việc của Sở (có quan hệ với các biên bản sau này)
+Hệ quản lý hành chính, nội bộ: các bộ phận liên quan nằm trong Văn phòng Sở chủ trì;
+Quản lý cán bộ của cơ quan
+Quản lý tài chính kế toán,
+Quản lý tài sản, thiết bị của cơ quan
+...
+Đây là những bài toán quản lý nội bộ mà hầu như cơ quan nhà nước nào cũng cần có. Do vậy, nên sử dụng những phần mềm quản lý về cơ bản thống nhất, và được thích nghi cụ thể vào các qui trình thực hiện và nội dung dữ liệu cụ thể của Sở KHCNMT;
+Các hệ quản lý nghiệp vụ: Đây là phần quan trọng nhất trong HTTT phục vụ QLNN của Sở KHCNMT, mang đặc thù riêng của Sở. Bao gồm các phân hệ sau đây :
+Quản lý khoa học công nghệ
+Quản lý Môi trường
+Hệ thống thông tin tư liệu tài liệu về KHCN MT, tiêu chuẩn và sáng chế phát minh  phục vụ các yêu cầu tra cứu, nghiên cứu của đông đảo các đối tượng khác nhau trong tỉnh: thông tin về khoa học kỹ thuật, tài nguyên môi trường, tiêu chuẩn , sở hữu công nghiệp trong nước và trên thế giới (trong đó có các thông tin trên địa bàn tỉnh mà một phần được chuyển từ các hệ quản lý nghiệp vụ của phần trên xuống)
+Quản lý công tác thanh tra
+Sơ đồ trao đổi thông tin giữa các phân hệ thông tin trong Sở và giữa Sở với các cơ quan quản lý và các đơn vị khác trong và ngoài tỉnh                 EMBED Word.Picture.8
+
+II.2 . Hệ thống điều hành tác nghiệp của Sở KHCNMT:
+Hệ điều hành tác nghiệp của Sở KHCNMT, mặc dù qui mô hẹp hơn và tổ chức thực hiện đơn giản hơn cho nên các chi tiết có thể khác nhau, nhưng về cơ bản sẽ tuân theo mô hình của hệ điều hành và tác nghiệp đã hướng dẫn cho VP UBND các tỉnh. Mặc dù một số Sở KHCNMT chỉ có Phòng Hành chính tổng hợp, chứ không có Văn phòng Sở, nhưng để nhất quán trong thuật ngữ, chúng ta sẽ qui định gọi chung là Văn phòng Sở.
+
+Mục tiêu quản lý:
+	Hệ điều hành tác nghiệp được xây dựng với mục đích phục vụ thông suốt và quản lý có hiệu quả quá trình điều hành công việc, xử lý, khai thác, trao đổi thông tin trong nội bộ Sở KHCNMT, giữa các cá nhân, đơn vị, phòng ban tại Văn phòng Sở KHCNMT và với bên ngoài.
+	Hệ này trợ giúp công tác  điều hành và quản lý nhà nước của VP UB thông qua việc quản lý và theo dõi các công văn các công văn, tài liệu, văn bản, hồ sơ đi và đến, các xử lý văn bản tại các bộ phận của Văn phòng Sở KHCNMT, các trao đổi thông tin và các khai thác các dịch vụ ứng dụng trên hệ thống mạng diện rộng (trong trường hợp LAN của Văn phòng Sở  KHCNMT được nối mạng với các nơi, nhất  trước hết là với VP UBND tỉnh).
+
+	Các khâu xử lý bao gồm:
+Tiếp nhận, vào sổ, thống kê tình hình  văn bản đi và đến.
+Phân loại và xác định bộ phận nào trong Sở nhận và (nhóm) chuyên viên xử lý.
+Xử lý văn bản đến
+Ban hành văn bản đi.
+Tạo lập các hồ sơ quản lý công việc và quản lý theo vụ việc.
+Quản lý và theo dõi tình hình hồ sơ văn bản (bao gồm cả quá trình xử lý và tình hình hồi báo văn bản).
+Đánh máy, in, sao chụp, phát hành và lưu trữ văn bản
+Tổ chức lưu trữ thông tin.
+Cung cấp thông tin
+Tìm kiếm hồ sơ và văn bản theo chủ đề, tiêu thức.
+Tổng hợp thông tin, lập thống kê, báo cáo.
+Trao đổi thông tin (trong nội bộ và với bên ngoài)
+Khai thác các dịch vụ trên hệ thống mạng.
+( Mô tả chi tiết của phân hệ này, xem tài liệu “ Hệ thống thông tin điều hành tác nghiệp tại Văn phòng UBND các tỉnh, thành phố “, có thích nghi vào điều kiện cụ thể của Sở )
+
+II.3.	Mô tả các phân hệ quản lý nội bộ của Sở KHCNMT
+1) Mô tả chung
+Chủ yếu là các hệ quản lý tổng hợp chung trong nội bộ mà bất kỳ một cơ quan nhà nước nào cũng phải có. Quản lý nội bộ bao gồm:
+Quản lý tài chính kế toán: theo nghiệp vụ kế toán. Riêng Sở KHCNMT, ngoài việc quản lý và báo cáo tình hình tài chính cho hoạt động chung của Sở, còn có trách nhiệm quản lý tài chính của các đề tài dự án nghiên cứu ứng dụng trong các lĩnh vực KHCN và MT liên quan.
+Các thông tin trao đổi chính là kế hoạch chi hoạt động KHCN hàng tháng, các quyết toán chi phí theo định kỳ, kế hoạch thanh tra , kiểm tra tài chính và thanh lý tài sản các đề tài (VP Sở)
+Quản lý cán bộ của cơ quan: theo nghiệp vụ hướng dẫn của Ban tổ chức cán bộ Chính phủ;
+Quản lý tài sản, thiết bị của cơ quan
+
+Mặc dù các hệ này tương đối độc lập, và phạm vi những người tương đối hẹp (chủ yếu là những cán bộ được giao nhiệm vụ cụ thể như nhân viên kế toán của Sở, cán bộ tổ chức của Sở... , Lãnh đạo (Văn) phòng và Sở) nhưng bản thân chúng cũng có những mối quan hệ trao đổi thông tin với nhau như được mô tả cụ thể trong các phần sau.
+
+Hệ quản lý tài chính kế toán
+a) Mục tiêu:
+Quản lý, theo dõi các hoạt động tài chính trong cơ quan theo nghiệp vụ kế toán do nhà nước ban hành.
+
+Mô hình trao đổi thông tin:
+
+Trong sơ đồ trên, việc trao đổi thông tin giữa hệ thống và Bộ KHCNMT cũng như với Sở tài chính bằng các văn bản, thông báo... đều thông qua hệ điều hành tác nghiệp của Sở.
+
+c) Mô hình chức năng
+
+1.	Kế toán tổng hợp:
+1.1.	Thu thập chứng từ: Thu thập chứng từ tổng hợp gồm số tiền, định khoản và mục chi ngân sách
+1.2.	Sổ sách: Lên nhật ký chứng từ ghi sổ; sổ cái các tài khoản
+1.3.	Làm Báo cáo: Lên báo cáo cân đối tài khoản và báo cáo quyết toán thu chi
+2.	Kế toán quĩ tiền mặt:
+2.1.	Thu thập Chứng từ: Thu thập chứng từ thu chi tiền mặt
+2.2.	Sổ sách: sổ đăng ký chứng từ ghi sổ – thu chi tiền mặt, Sổ quĩ tiền mặt,
+2.3.	Làm Báo cáo: Báo cáo quĩ
+3.	Kế toán tiền gửi ngân hàng:
+3.1.	Thu thập Chứng từ: Thu thập chứng từ quĩ
+3.2.	Lập Sổ sách: sổ đăng ký chứng từ ghi sổ – thu chi tiền gửi ngân hàng; Sổ quĩ tiền gửi ngân hàng
+3.3.	Làm Báo cáo: Báo cáo quĩ
+4.	Kế toán kho:
+4.1.	Thu thập Chứng từ: Thu thập chứng từ xuất nhập kho hàng
+4.2.	Lập Sổ sách: Thẻ kho; sổ đăng ký chứng từ ghi sổ – Nhập/Xuất  vật tư hàng hoá; danh sách phân loại vật tư hàng hoá
+4.3.	Làm Báo cáo: Báo cáo xuất nhập kho, báo cáo tồn kho (tháng); báo cáo số lượng tồn kho; danh sách kho vật tư
+5.	Kế toán Tài sản cố định:
+5.1.	Thu thập Chứng từ: Theo dõi chứng từ tài sản cố định (mua mới, khấu hao, tăng, giảm, thanh lý)
+5.2.	Lập Sổ sách: Hồ sơ tài sản cố định; bảng tính khấu hao tài sản; sổ chi tiết khấu hao tài sản; danh sách tài sản cố định
+5.3.	Làm Báo cáo: Báo cáo tình hình (chung và chi tiết) tài sản cố định
+6.	Kế toán công nợ:
+6.1.	Thu thập Chứng từ: Theo dõi chứng từ tạm thu tạm ứng
+6.2.	Lập Sổ sách: Sổ công nợ
+6.3.	Làm Báo cáo: Báo cáo phải thu, phải trả
+7.	Kế toán lương:
+7.1.	Thu thập Chứng từ: Theo dõi chứng từ thu chi lương
+7.2.	Lập Sổ sách: Bảng lương cán bộ
+7.3.	Làm Báo cáo: Báo cáo tình hình lương
+
+         d) Mô hình dữ liệu
+
+Hệ quản lý cán bộ
+a) Mục tiêu:
+Theo dõi cán bộ trong Sở KHCNMT, gồm lý lịch cá nhân, quan hệ quá trình công tác, hoạt động khoa học, quá trình đào tạo, quá trình lương, chức vụ đã qua...; Cung cấp nhanh các thông tin về quan hệ, quá trình đào tạo, trình độ và về việc sử dụng cán bộ trong cơ quan.
+b) Mô hình trao đổi dữ liệu
+
+c) Mô hình chức năng
+
+d) Mô hình dữ liệu
+
+	Sơ yếu lý lịch
+Mã số cán bộ, Họ và tên khai sinh, Tên gọi khác, Giới tính, Ngày tháng năm sinh, Dân tộc, Tôn  giáo, Quê quán, Nơi thường trú, Thành phần gia đình, Ngày tham gia CM, Bộ đội?, Thương binh?, Tình trạng thương tật, Mức độ trợ cấp thương tật, Trình độ Văn hoá, Trình độ chuyên môn, Chuyên ngành đào tạo, Trình độ chính trị, Ngày vào Đoàn, Ngày vào Đảng, Nơi vào Đảng, Ngày tuyển dụng, Hình thức tuyển dụng, Đơn vị công tác hiện nay, Chức vụ hiện tại.
+Quá trình lương:
+Mã cán bộ, mã ngạch, (ngạch) bậc lương, hệ số lương, ngày quyết định hệ số lương, Hệ số phụ cấp chức vụ, ngày quyết định hệ số chức vụ, Hệ số phụ cấp khác, Tổng số lương
+Hoạt động Đảng , Đoàn
+Mã cán bộ, Chức vụ,Từ khi, Đến khi, Nhiệm kỳ
+Khen thưởng, kỷ luật
+Mã cán bộ, hình thức, nội dung, thời gian, cấp
+Quá trình đào tạo chuyên môn:
+Mã cán bộ, loại bằng tót nghiệp, chuyên ngành, hình thức đào tạo, từ, đến, trường, nước
+Quá trình đào tạo chính trị:
+Mã cán bộ, loại bằng tót nghiệp, chuyên ngành, hình thức đào tạo, từ, đến, trường, nước
+Bồi dưỡng chuyên môn, chính trị nghiệp vụ
+Mã cán bộ, tên chuyên đề, hình thức đào tạo, từ, đến, trường, nước
+Trình độ ngoại ngữ:
+mã cán bộ, ngoại ngữ, trình độ, mức độ sử dụng
+Quá trình công tác
+Mã cán bộ, thời gian, chức vụ, đơn vị, mức lương, phụ cấp, quyết định số
+Quan hệ gia đình:
+Mã cán bộ, Họ tên, quan hệ , năm sinh, nghệ nghiệp, Đảng viên?, nơi công tác, nơi cư trú
+Hoạt động khoa học, nghiệp vụ
+Mã cán bộ, loại hình hoạt động, thời gian, địa điểm, kết quả
+Đặc điểm chính trị của bản thân và gia đình:
+Mã cán bộ, họ tên, nội dung, tội danh, hình phạt, thời gian
+
+4) Hệ quản lý tài sản
+Mục tiêu:  theo dõi việc sử dụng và khấu hao tài sản trong cơ quan. Hỗ trợ thêm cho phần Kế toán Tái sản cố định
+
+b) Mô hình trao đổi dữ liệu
+
+c) Mô hình chức năng
+
+d) Mô hình dữ liệu
+
+Loại tài sản
+Tên loại tài sản
+Mã loại
+Tài sản
+Mã tài sản
+Mã loại tài sản
+Tên tài sản	- chuyển từ hệ KTTC sang
+Số hiệu TS	- như trên
+Đang sử dụng?
+Khấu hao
+Mã số khấu hao
+Mã tài sản
+Ngày mua hay tính khấu hao
+Cách tính
+Giá trị còn lại
+Tổng hao mòn luỹ kế
+Mô tả tình trạng
+Cán bộ (từ hệ quản lý cán bộ chuyển sang)
+Mã cán bộ
+Tên cán bộ
+Sử dụng
+Mã sử dụng tài sản
+Mã tài sản
+Nguời giao tài sản
+Người nhận tài sản
+Ngày giao nhận
+Bộ phận sử dụng
+
+II.4.	Mô tả phân hệ thông tin quản lý KHCN
+
+Mục tiêu :
+
+Phân hệ này sẽ đề cập hệ thống thông tin bao gồm các vấn đề sau :
+	+ Quản lý các đề tài khoa học
+	+ Quản lý tiềm năng khoa học công nghệ
+	+ Quản lý và đánh giá trình độ công nghệ sản xuất
+	+ Thu thập lưu trữ các dự án sản xuất thử-thử nghiệm
+	+ Thẩm định và lập kế hoạch các dự án mới
+
+Mô hình chức năng :
+
+Mô tả các mô đun của phân hệ:
+Các đề tài khoa học, dự án :
+Quản lý các đề tài nghiên cứu, các dự án triển khai của các đơn vị trên địa bàn tỉnh . Các kết quả nghiên cứu, triển khai được đưa vào phân hệ thông tin tư liệu.
+
+	Sơ đồ chức năng
+
+Sơ đồ dữ liệu
+
+Tiềm lực khoa học công nghệ
+Tiềm lực khoa học công nghệ ở đây được xét theo nhiều góc độ :
+Tiềm năng về chất xám : các nhà khoa học, các nghệ nhân và tài năng trẻ trong các lĩnh vực khoa học nghệ thuật khác nhau
+Tiềm năng về thiết bị khoa học và công nghệ sản xuất : sự phân bổ các thiết bị khoa học , công nghệ trên địa bàn tỉnh, mức độ hiện đại hay lạc hậu của các thiết bị đó.
+Các tổ chức khoa học trên địa bàn tỉnh
+
+Sơ đồ chức năng ;
+
+							.
+							.
+							.
+
+							.
+							.
+							.
+
+Sơ đồ dữ liệu ;
+
+Kế hoạch các dự án mới
+
+	Xây dựng kế hoạch nghiên cứu, thử nghiệm và các dự án trên địa bàn tỉnh. Bao gồm kế hoạch tài chính, kỹ thuật, tiến độ, phân bổ đơn vị thực hiện, ....
+
+Sơ đồ chức năng :
+
+ Sơ đồ dữ liệu
+
+5 . Phân hệ Quản lý môi trường :
+
+Mục tiêu :
+Khai thác tài nguyên khoáng sản, bảo vệ môi trường là 2 vấn đề quan trọng . Hiện nay hầu hết các sở KHCN&MT đã thành lập phòng chức năng : phòng quản lý môi trường. Phân hệ thông tin quản lý môi trường được xây dựng nhằm đạt được các mục tiêu sau đây :
+Thu thập, lưu trữ các tư liệu về môi trường sinh thái trên địa bàn tỉnh
+Theo dõi thực hiện chính sách , luật bảo vệ môi trường
+Quản lý việc cấp thoả thuận môi trường cho các đơn vị doanh nghiệp
+Quản lý việc thẩm định tác động môi trường, tình hình ô nhiễm môi trường
+
+Các chức năng chính của phân hệ :
+
+Mô tả các mô đun trong phân hệ
+Quản lý việc cấp thoả thuận môi trường, thẩm định tác động môi trường:
+Xây dựng hệ thống thông tin quản lý theo dõi việc cấp thoả thuận môi trường
+Gia hạn hoặc thu hồi cấp thoả thuận môi trường
+Đánh giá thẩm định tác động đến môi trường
+Tất cả các doanh nghiệp thuộc mọi thành phần kinh tế , kể cả liên doanh đầu tư với nước ngoài hoặc đầu tư trực tiếp từ nước ngoài đều phải làm thủ tục xin cấp thoả thuận về môi trường
+
+Sơ đồ chức năng :
+
+Nhập, thay đổi TT :  các thông tin về doanh nghiệp, lĩnh vực hoạt động, nôi dung thoả thuận, các sản phẩm gây ô nhiễm môi trường, kết quả thẩm định các tác động đến môi trường
+Tra cứu tìm kiếm ;  Tìm theo các tiêu thức thông tin khác nhau: theo mã đơn vị, theo địa chỉ, theo thời gian cấp thoả thuận, ...
+báo cáo : Thống kê các doanh nghiệp đã xin cấp thoả thuận môi trường, thống kê danh sách các doanh nghiệp xin gia hạn thoả thuận môi trường , số lượng các doanh nghiệp có chất thải độc hại,. . .
+
+ Sơ đồ dữ liệu :
+
+Xây dựng CSDL môi trường sinh thái
+Xây dựng CSDL bản đồ tích hợp với các số liệu điều tra cơ bản , các số liệu phân tích, số liệu kiểm tra kiểm soát định kỳ nhằm cung cấp kịp thời, đầy đủ thông tin về điều kiện tự nhiên, khí hậu, thuỷ văn, thảm thực vật, các vùng bảo vệ thực vật, điều kiện môi trường sinh thái cho quá trình hoạch định chiến lược phát triển kinh tế xã hội , cho các dự án đầu tư
+Mô đun này sẽ được triển khai cùng với hệ thống thông tin địa lý ( GIS ) do Bộ KHCN&MT chủ trì. Vì vậy trong tài liệu này sẽ không phân tích kỹ.
+
+II.6. Phân hệ thông tin tư liệu, tài liệu ;
+
+Mục tiêu :
+Phân hệ này nhằm quản lý các thông tin được phân loại theo các lĩnh vực khác nhau , cung cấp thông tin cho các phân hệ trên và cung cấp các thông tin tra cứu cho đông đảo cán bộ khoa học, kỹ thuật, . . . Các thông tin trong phân hệ này bao gồm :
+Thông tin KHCN và sáng kiến, sở hữu công nghiệp
++ Các tài liệu KHKT, các thông tin KHCN mới
++ Sở hữu công nghiệp
++ Quảng cáo, hội chợ triển lãm
++ Sáng kiến và giải pháp hữu ích
+Các văn bản pháp quy về KHCN&MT
+Các tiêu chuẩn đo lường chất lượng
++ Các tiêu chuẩn chất lượng hàng hoá
+	+ Tiêu chuẩn Việt nam
+	+ Tiêu chuẩn Quốc tế
++ Hồ sơ đăng ký chất lượng hàng hoá
++ Các thông số kiểm định thiết bị đo lường
++ Các thông số kiểm định thiết bị cơ điện, điện tử
+Cấu trúc của phân hệ thông tin tư liệu, tài liệu
+
+Thông tin về khoa học công nghệ
+Bao gồm các tài liệu khoa học công nghệ : sách , tạp chí, quảng cáo, hội chợ,...
+Phân hệ này phải xây dựng được một hệ thống thông tin KHCN nhằm : nâng cao chất lượng các hoạt động quản lý nhà nước của Sở KHCN&MT, cung cấp thông tin chính xác, đầy đủ, kịp thời cho các nhà quản lý, lãnh đạo trên cơ sở một hệ thống phần mềm trợ giúp việc lưu trữ, sắp xếp, tìm kiếm, tổng hợp, phân tích tốt.
+
+Sơ đồ chức năng :
+
+							. . . .
+
+Sơ đồ dữ liệu
+
+Thông tin về sáng kiến và sở hữu công nghiệp :
+Các tư liệu, hồ sơ về sáng kiến, sở hữu công nghiệp của cá nhân, tổ chức
+Kiểm tra tính hợp pháp của sở hữu công nghiệp
+
+Mô hình chức năng ;
+
+Sơ đồ dữ liệu
+
+Thông tin về tiêu chuẩn đo lường chất lượng :
+Chi cục Tiêu chuẩn - Đo lường - Chất lượng trực thuộc cơ quan cấp trên theo ngành dọc, đó là Tổng cục Tiêu chuẩn - Đo lường - Chất lượng giúp tỉnh quản lý về mặt nhà nước : quản lý Tiêu chuẩn đo lường chất lượng trên địa bàn tỉnh. Về tổ chức hành chính, Chi cục có 2 khối : quản lý và kỹ thuật. Khối quản lý gồm các phòng : hành chính quản trị , quản lý nghiệp vụ. Khối kỹ thuật gồm các phòng : thí nghiệm hoá sinh, phòng khối lượng và dung tích, phòng cơ điện.
+Trong Sở KHCN&MT , Chi cục Tiêu chuẩn - Đo lường - Chất lượng là đơn vị hạch toán độc lập, do đó công tác quản lý văn bản, quản lý kế toán tài vụ, nhân sự, ... gần như tách khỏi Sở.
+	Tuy vậy cần phải thiết kế một hệ thống thông tin chi Chi cục Tiêu chuẩn - Đo lường - Chất lượng một cách hợp lý, đảm bảo được các yêu cầu sau :
+Có khả năng trao đổi thông tin một cách thống nhất với các hệ thống thông tin ngành dọc của Tổng cục Tiêu chuẩn - Đo lường - Chất lượng
+Thu thập lưu trữ các tiêu chuẩn chất lượng hàng hoá bao gồm ; tiêu chuẩn Việt nam, tiêu chuẩn nước ngoài
+Có khả năng tra cứu các văn bản pháp quy về tiêu chuẩn chất lượng hàng hoá
+Hồ sơ đăng ký chất lượng hàng hoá
+Kiểm soát , giám định chất lượng hàng hoá lưu hành trên địa bàn tỉnh
+Thu thập, lưu trữ các thông số kiểm định thiết bị đo lường
+
+II.7. Hệ thông tin quản lý thanh tra :
+Mục tiêu :
+Theo dõi quá trình giải quyết khiếu tố, khiếu nại, tố cáo, thanh tra .
+Quản lý các hồ sơ, cung  cấp các thông tin về khiếu tố khiếu nại, thanh tra
+Trợ giúp công tác thanh tra , kiểm tra việc chấp hành luật đã ban hành trong lĩnh vực KHCN, môi trường, giải quyết dứt điểm các vụ việc
+
+Mô hình chức năng
+
+III. Phương thức xử lý chung với  thông tin của cả hệ:
+   Trên cơ sở của mạng cục bộ, dữ liệu đặt trên một hay vài máy SERVER. Các trạm làm việc dùng chung dữ liệu trên máy chủ.
+    Hiện nay các văn bản được đưa đến văn phòng Sở bằng đường bưu điện-phương thức truyền thống. Thông tin được đưa vào hệ thống qua bàn phím hay từ tệp trên đĩa mềm trong giai đoạn chưa thiết lập được đường truyền diện rộng. Trạm nhận và truyền tin được đặt tại bộ phận Văn  thư.
+    Văn bản gốc được lưu trữ, sử dụng chung trên sever. Mọi xử lý cập nhật được thực hiện trên các tài liệu có quan hệ đến văn bản gốc.
+     Định kỳ các thông tin của hệ được backup sang hệ thống lưu dữ liệu. Các  thông tin lưu trữ có thể  được truy nhập theo các tiêu chí chính. Các thông tin này được chuyển tự động từ hệ thông tin hiện thời sang hệ lưu trữ, không cần nhập liệu bổ sung. Đây là điểm khác biệt so với hệ thống lưu trữ bằng tay hiện tại.
+     Tại mỗi trạm làm việc có thể là một đơn vị độc lập có số liệu và xử lý riêng của mình. Người sử dụng có khả năng chuyển từ môi trường làm việc riêng của mình sang môi trường của hệ thống. Do đó có thể dễ dàng chuyển thông tin, đề xuất riêng cho nhiều người sau khi đã nghiên cứu, soạn thảo kỹ lưỡng.
+IV. Các  giai đoạn phát triển
+Các giai đoạn phát triển chung của hệ thống thông tin là:
+Thiết lập các mã cho các dữ liệu (xây dựng từ điển dữ liệu)
+Thiết lập danh sách chỉ tiêu phân loại và thống kê văn bản,
+Xây dựng phần thông tin của phân hệ nằm trong CSDL chung
+Thiết lập mức độ ưu tiên và danh sách người sử dụng thông tin trong phân hệ
+Xây dựng các phần mềm phục vụ từng modul nghiệp vụ
+Triển khai và thử nghiệm hệ thống
+Xác định mục tiêu mới và tiếp tục mở rộng
+
+Phần III
+Thiết kế cơ sở hạ tầng kỹ thuật CNTT
+cho hệ thống tin tại sở khcn&mt
+(Lựa chọn theo khuyến cáo ở phần II.1 Chương I- của dự án chính - Thiết kế cơ sở hạ tầng mạng...)
+
+	Các phần tiếp theo tương tự như mẫu chung cho Sở KH&ĐT
+
+dự án
+Tin học hoá quản lý nhà nước của  sở Tài chính Vật giá giai  đoạn 98-2000
+
+Mục đích
+	Đưa ra thiết kế các thành phần chính của hệ thống thông tin nhằm tin học hóa các hoạt động nghiệp vụ của bộ máy quản lý tài chính của sở Tài chính Vật giá
+	Tin học hoá các kết nối thông tin của sở Tài chính Vật giá với Bộ Tài chính và UBND địa phương.
+	Nhằm góp phần xây dựng một cơ sở dữ liệu tài chính thống nhất đảm bảo tốt được các đòi hỏi về thông tin trong cơ chế thị trường.
+
+I. Phân tích hiện trạng
+I.i Chức năng nghiệm vụ của sở Tài chính Vật giá
+Chức năng nhiệm vụ của sở Tài chính Vật giá được xác định trong hai mối quan hệ về tổ chức: quan hệ với UBND tỉnh/thành và quan hệ với Vật giá giúp Bộ tài chính, Ban vật giá chính phủ.
+Sở Tài chính - Vật giá là cơ quan chuyên môn thuộc Uỷ ban Nhân dân tỉnh, có chức năng giúp Uỷ ban Nhân Dân Tỉnh quản lý Nhà nước về lĩnh vực tài chính, vật giá trên địa bàn tỉnh theo chức năng thẩm quyền và theo quy định của nhà nước.
+Ngoài ra, Sở Tài chính Vật giá giúp Bộ tài chính, Ban vật giá chính phủ tổ chức quản lý ngân sách nhà nước và giá cả trên địa bàn theo đúng pháp luật.
+Cụ thể, Sở Tài chính - Vật giá có các nhiệm vụ sau đây:
+	Giúp UBND Tỉnh triển khai, hướng dẫn thực hiện pháp luật, chính sách chế độ của Nhà nước về Tài chính, giá cả trên địa bàn.
+	Hướng dẫn các cơ quan trong tỉnh, các cấp chính quyền lập dự toán Ngân sách  tỉnh trình cấp có thẩm quyền duyệt.
+	Dự kiến phân bổ vốn và kinh phí thuộc Ngân sách  tỉnh; thực hiện phân bổ vốn và kinh phí theo kế hoạch được duyệt.
+	Quản lý vốn và tài sản thuộc sở hữu Nhà nước  tại các cơ quan, các đơn vị hành chính và đơn vị sự nghiệp thuộc tỉnh
+	Quản lý quỹ dự trữ tài chính của tỉnh
+	Quản lý các nguồn kinh phí uỷ quyền của các cơ quan Trung ương tại địa phương.
+	Quản lý về giá cả theo quy định của Nhà nước: nghiên cứu đề xuất các biện pháp để ổn định giá cả trên địa bàn.
+	Xét duyệt quyết toán năm đối với các cơ quan, đơn vị hành chính, sự nghiệp thuộc tỉnh được sử dụng Ngân sách  tỉnh.
+	Lập Tổng quyết toán Ngân sách  tỉnh hàng năm để trình cấp có thẩm quyền phê duyệt.
+	Quản lý Nhà nước đối với hoạt động xổ số tại địa phương theo quy định của Nhà nước .
+	Hướng dẫn xây dựng và quản lý Ngân sách  Xã.
+
+I.2 Sơ đồ tổ chức
+Tổ chức của sở Tài chính Vật giá bao gồm Ban giám đốc và các phòng ban chức năng nghiệp vụ.
+Về mặt tổ chức hành chính, các phòng ban nghiệp vụ đều nằm trực tiếp dưới quyền của lãnh đạo Sở.
+
+Sơ đồ tổ chức của Sở Tài chính-Vật giá được thể hiện như sau:
+
+Sau đây là mô tả chức năng của các bộ phận hợp thành đó:
+(Đánh sách có thể thay đổi không lớn phụ thuộc vào từng đơn vị sở Tài chính Vật giá cụ thể)
+Số tt
+Tên bộ phận
+Chức năng
+
+1.
+Văn phòng
+Quản lý nội bộ
+
+2.
+Phòng quản lý ngân sách
+Tổng hợp chung thông tin của toàn sở, .. để báo cáo lên UBND, HĐND, Bộ Tài chính, Bộ Kế hoạch đầu tư
+
+3.
+Phòng quản lý ngân sách xã phường
+
+Quản lý ngân sách của các quận huyện, xã phường bao gồm thu chi ngân sách trên địa bàn các quận huyện
+
+4.
+Phòng nông lâm đô thị
+Quản lý cấp phát tài chính cho các đơn vị HCSN thuộc khối Nông lâm đô thị. Ví dụ cho văn phòng công ty môi trường đô thị, công ty chiếu sáng đô thị
+
+5.
+Phòng Văn xã
+Quản tài chính ngân sách về Khoa học, Công nghệ, Thể dục-Thể thao và văn hoá, thông tin, giáo dục, y tế, ...
+
+6.
+Phòng giá
+Theo dõi các thông tin giá cả trên địa bàn thành phố. Trao đổi thông tin giá với các địa phương khác
+
+7.
+Phòng công sản
+Quản lý các tài sản của các đơn vị hành chính sự nghiệp thuộc địa bàn thành phố
+
+8.
+Phòng tổ chức
+Quản lý cán bộ
+
+9.
+Ban thanh tra
+Phối hợp với thanh tra thành phố trong việc thanh tra tài chính
+
+10.
+Phòng Tài chính Hành chính - sự nghiệp
+
+Cơ cấu nhân sự
+Cơ cấu nhân sự của sở Tài chính Vật giá thay đổi theo các sở cụ thể. Tuy nhiên số lượng người tính ước lượng sau khi khảo sát các sở của một số tỉnh là như sau:
+
+Số tt
+Tên bộ phận
+Ghi chú
+
+11.
+Văn phòng
+Số nhân sự: 9 người
+
+12.
+Phòng quản lý ngân sách
+Số nhân sự: 9 người
+
+13.
+Phòng quản lý ngân sách xã phường
+
+Số nhân sự: 8 người
+
+14.
+Phòng nông lâm đô thị
+Số nhân sự: 8 người
+
+15.
+Phòng Văn xã
+Số nhân sự: 10-12 người
+
+16.
+Phòng giá
+Số nhân sự: 14 người
+
+17.
+Phòng công sản
+Số nhân sự: 6 người
+
+18.
+Phòng tổ chức
+Số nhân sự: 2 người
+
+19.
+Ban thanh tra
+Số nhân sự: 7 người
+
+I.3 Sơ đồ trao đổi thông tin của sở Tài chính Vật giá
+Tổ chức thông tin của Sở Tài chính-Vật giá:
+Do chức năng quản lý, để tiện cho việc tổng hợp thông tin, các luồng thông tin trong sở Tài chính Vật giá không đi theo khuôn của tổ chức hành chính. Nói cách khác, tổ chức thông tin có sự khác biệt so với tổ chức hành chính.
+
+Sau đây là các luồng thông tin chính:
+	Phòng quản lý ngân sách có trách nhiệm báo cáo trực tiếp lên lãnh đạo
+	Phòng quản lý ngân sách là đầu mối tâm thông tin của sở. Các phòng quản lý ngân sách xã phường, Nông lâm đô thị, Văn xã tổng hợp thông tin tại phòng mình quản lý. Các báo cáo lên lãnh đạo Sở Tài chính-Vật giá của ba phòng trên đều thông qua Phòng Ngân sách. Phòng ngân sách còn có trách nhiệm làm việc với Kho bạc và Thuế.
+	Phòng Vật giá có thể trực tiếp làm việc với lãnh đạo Sở Tài chính-Vật giá và Ban Vật giá Chính phủ
+	Phòng Công sản có thể trực tiếp làm việc với lãnh đạo Sở Tài chính-Vật giá và Vụ Công sản-Bộ tài chính
+	Phòng Tổ chức có thể trực tiếp làm việc với lãnh đạo Sở Tài chính-Vật giá và Ban Tổ chức chính quyền Tỉnh/Thành phố
+	Phòng Thanh tra có thể trực tiếp làm việc với lãnh đạo Sở Tài chính-Vật giá và Thanh tra Tỉnh/Thành phố
+
+Chế độ báo cáo nội bộ
+Chế độ: Theo Tháng, 3 tháng, 6 tháng, 9 tháng cả năm
+Thu thập thông tin:
+Phòng quản lý ngân sách xã phường thu thập thông tin chi ngân sách tại quận huyện và xã phường
+Phòng Nông lâm đô thị và phòng Văn xã thu thập thông tin chi ngân sach tại thành phố
+Phòng Quản lý ngân sách tổng hợp và có thông tin chi Ngân sách nhà nước trên địa bàn. Báo cáo do Phòng quản lý ngân sách lập ra được thông qua lãnh đạo Sở Tài chính-Vật giá, đóng dấu và gửi đi
+Ước lượng thông tin lưu chuyển giữa các đơn vị chức năng
+(Các sở có thể tự đánh giá)
+
+I.4 Sơ đồ quan hệ thông tin giữa Sở và UBND, Bộ tài chính và các đơn vị cơ quan bên ngoài
+Các đơn vị có liên quan thông tin với sở Tài chính Vật giá
+Như đã trình bày ỏ phần chức năng nhiệm vụ, sở Tài chính Vật giá thực hiện các nhiệm vụ do UBND các tỉnh thành và Bộ tài chính giao cho.
+Thông tin trao đổi giữa sở Tài chính Vật giá và các cơ quan cấp trên nói trên sẽ bao gồm hai loại:
+1.	Loại đến:
+	Chiều từ cấp trên đi xuống bao gồm các chỉ thị, kế hoạch,... Thông tin xuất phát từ các cơ quan trung ương như Bộ Tài chính hay từ các cơ quan lãnh đạo của địa phương như UBND (có thể một phần từ Hội đồng nhân dân)
+	Chiều từ cấp dưới đưa lên bao gồm các báo cáo từ các phòng Tài chính vật giá của các huyện, quận
+2.	Loại đi:
+	Chiều lên cấp trên bao gồm các báo cáo lên UBND & HĐND và Bộ Tài chính
+	Chiều xuống cấp dưới bao gồm các chỉ thị, thông báo, hướng dẫn cho các phòng Tài chính Vật giá của các Quận huyện.
+Chế độ báo cáo lên cấp trên và từ cấp dưới
+Từ địa phương lên Bộ Tài chính: Cần thực hiện các báo cáo Quý và báo cáo Năm và đột xuất.
+Từ sở Tài chính Vật giá lên UBND và HDND : Theo Tháng, 3 tháng, 6 tháng, 9 tháng cả năm và đột xuất
+Từ cấp dưới lên sở Tài chính Vật giá: Theo Tháng, 3 tháng, 6 tháng, 9 tháng cả năm và đột xuất
+Phương thức báo cáo
+Đối với báo cáo đến
+Các báo cáo đến từ cấp dưới sẽ được thụ lý bởi các phòng có chức năng tương ứng.
+Đối với báo cáo đi
+Báo cáo về quản lý ngân sách nhà nước
+Phòng quản lý ngân sách xã phường, phòng Văn xã và Phòng Nông lâm đô thị thu thập thông tin theo chức năng nhiệm vụ. Phòng Quản lý ngân sách tổng hợp thông tin chi Ngân sách nhà nước trên địa bàn và báo cáo đó được thông qua lãnh đạo Sở Tài chính-Vật giá, đóng dấu và gửi đi.
+Sở Tài chính-Vật giá có trách nhiệm báo cáo lên UBND thành phố. UBND thành phố thông qua HĐND sau đó chuyển lên Vụ ngân sách của Bộ tài chính. Sở có thể báo cáo thẳng lên cấp Bộ tài chính nhưng chủ yếu chỉ ở mức Báo cáo tiến độ hay các báo cáo đột xuất.
+Báo cáo về Vật giá và Công sản
+Phòng Vật giá và Công sản theo kỳ lập
+Ước lượng thông tin đến và đi
+(Các sở có thể tự đánh giá)
+
+Mô hình trao đổi thông tin của sở Tài chính Vật giá
+Đây là mô hình trao đổi thông tin của sở Tài chính Vật giá. Các đối tượng bên ngoài của hệ thống thông tin của sở Tài chính Vật giá bao gồm Vụ ngân sách, Vụ Công sản (Bộ Tài chính) và Ban Vật giá chính phủ. UBND và HĐND cũng là nhân tố ngoài của hệ thống này nhưng trong một khuôn khổ rộng hơn, khi xét cả hệ thống thông tin của địa phương thì mối quan hệ thông tin giữa UBND & HĐND với sở Tài chính Vật giá là mối quan hệ giữa hai nhân tố trong của hệ thống.
+
+II. Phân tích thiết kế các phân hệ thông tin kê hoạch kinh tế-xã hội
+II.1 Phân loại thông tin  theo tính chất
+Thông tin trong sở Tài chính Vật giá có thể được chia các loại chính sau:
+	Các thông tin về quyết định, thông tư, chính sách: từ cấp trên ví dụ như các văn bản do bộ Tài chính, UBND phát hành; từ sở Tài chính Vật giá của tỉnh thành cho các phòng tài chính của các quận huyện. Thông tin này mang tính căn cứ pháp lý cho việc giải quyết các chính sách, các hoạt động tác nghiệp.
+	Các thông tin tác nghiệp: Các thông tin này dùng để thực hiện các giao tác hàng ngày. Thông tin về ngân sách cấp phát, tình hình giá cả và quản lý công sản thuộc diện này.
+	Các thông tin tài chính vật giá tổng hợp: Theo từng giai đoạn (tháng, quý, năm, ...) các dữ liệu tại sở Tài chính Vật giá được tổng hợp lại thành các thông tin tại mức cao hơn, tổng quát hơn. Các thông tin này được lưu lại như một phần trong cơ sở dữ liệu tài chính của địa phương.
+	Các thông tin nội bộ: cũng như mọi tổ chức nhà nước khác, sở Tài chính Vật giá cũng cần quản lý nhân sự, lương nhân viên,... Các thông tin này được gộp lại gọi là  các thông tin nội bộ của sở Tài chính Vật giá.
+
+II.2 Các hoạt động liên quan đến thông tin dự kiến được tin học hoá
+Để có thể tin học hoá các hoạt động nghiệp vụ của sở Tài chính Vật giá, cần xác định các hoạt động nghiệp vụ đó. Sau đây là liệt kê các nghiệp vụ chính theo thứ tự ưu tiên.
+1.	Các nghiệp vụ tác nghiệp hàng ngày
+Là các hoạt động liên quan đến các nhiệm vụ chính mà sở Tài chính Vật giá được giao như Quản lý ngân sách, Quản lý tài sản công cộng tại các cơ quan Hành chính nhà nước, theo dõi và tham gia tư vấn điều chỉnh giá cả. Đây là công việc chính, quan trọng nhất và đồi hỏi nhiều tài nguyên của sở Tài chính Vật giá tham gia nhất. Khối lượng thông tin được nảy sinh và có liên quan đến nghiệp vụ này là lớn nhất.
+
+2.	Nghiệp vụ quản lý công văn và theo dõi xử lý
+Chức năng này không giữ vai trò lớn trong hệ thống thông tin của  sở Tài chính Vật giá. Tuy nhiên nên khuyến cáo hệ thống quản lý công văn và theo dõi xử lý của sở Tài chính Vật giá nên có chung một cấu trúc như hệ thống tác nghiệp tại văn phòng UBND tỉnh để dễ kiểm soát.
+
+3.	Nghiệp vụ quản lý nội bộ
+Chung cho tất cả các cơ quan hành chính nhà nước khác.
+
+II.3 Các phân hệ thông tin
+Hệ thống thông tin tại sở Tài chính Vật giá sẽ bao gồm các phân hệ  chính sau đây:
+
+Phân hệ Quản lý Công văn giấy tờ:
+Chức năng: Quản lý các công văn giấy tờ vào và ra sở Tài chính Vật giá.
+Các điểm cần chú ý là:
+	Thống nhất khuôn dạng dữ liệu với UBND – tận dụng hệ thống tác nghiệp đã được xây dựng tại văn phòng UBND để giảm kinh phí phát triển.
+	Thống nhất khuôn dạng dữ liệu với BTC
+Giải pháp cơ bản đang được thịnh hành hiện nay là: Chương trình được xây dựng trên cơ sở mạng cục bộ và viết bằng Lotus Note.
+
+Phân hệ Tác nghiệp: Chức năng: Bao gồm một hệ thống các CSDL thống nhất để phục vụ cho các phân mềm giải quyết các bài toán sau đây:
+Bài toán về quản lý ngân sách
+	Trợ giúp xây dựng dự toán ngân sách
+	Tổng hợp dự toán ngân sách
+	Xây dựng và điều chỉnh kế hoạch
+	Quản lý cấp phát ngân sách nhà nước
+	Tổng hợp thu chi ngân sách nhà nước
+	Quản lý ngân sách tỉnh thành
+	Quản lý ngân sách huyện xã
+Đây là bài toán có thể được xây dựng trên một CSDL dạng quan hệ.
+
+Bài toán quản lý giá
+	Chương trình quản lý vật giá
+Đây là bài toán có thể được xây dựng trên một CSDL dạng quan hệ quản lý theo chuỗi thời gian.
+
+Bài toán quản lý công sản
+	Chương trình quản lý công sản
+Đây là bài toán có thể được xây dựng trên một CSDL dạng quan hệ.
+
+Bài toán về kế toán
+	Kế toán chi tiết.
+	Kế toán tổng hợp
+	Tổng quyết toán
+Đặc trưng của các bài toán kế toán này là các bảng tính toán theo ma trận. Cần thiết kế áo cho các luật kế toán có thể thay đổi mềm dẻo trong chừng mực cho phép để đối phó với tình hình quy định kế toán thường xuyên có sửa đổi.
+
+Phân hệ Quản lý nội bộ
+	Chương trình quản lý  lương
+	quản lý nhân sự trong cơ quan
+Chú ý:
+Các bài toán này có thể kế thừa các kết quả của các phần mềm đã được xây dựng tại văn phòng UBND tỉnh hay tại Bộ Tài chính. Cụ thể các bài toán liên quan đến số liệu chuyên môn về tại chính cần tham khảo các khuôn mẫu của BTC. Còn lại có thể theo khuyến cáo của văn phòng UBND.
+
+III. Phân tích các CSDL  chuyên ngành
+III.1 Vị trí của CSDL chuyên ngành trong hệ thống thông tin của sở Tài chính Vật giá
+CSDL chuyên ngành trong hệ thống thông tin của sở Tài chính Vật giá có vai trò quan trọng nhất do nó trợ giúp trực tiếp cho các hoạt động nghiệp vụ thường xuyên của sở Tài chính Vật giá.
+III.2 Nội dung thông tin của CSDL chuyên nghành
+Trong phần này sẽ xác định các thông tin cần quản lý trong CSDL chuyên ngành của sở Tài chính vật giá. Phân tích chi tiết các mô hình dữ liệu sẽ được thể hiện tại bước thiết kế chi tiết. Thông tin được phân theo các khối, sẽ được thể hiện bởi các mô hình khái niệm dữ liệu khác nhau. Trong một khối thông tin sẽ chia ra thành hai loại thông tin:
+	Thông tin mang tính tác nghiệp, phục vụ công tác thường xuyên của sở Tài chính Vật giá. Thông tin này thường được lưu tại sở Tài chính Vật giá, không báo cáo lên các đơn vị cấp trên.
+	Thông tin báo cáo tổng hợp. Các thông tin này được tính theo các chu kỳ, thường là nội dung của các bản báo cáo tài chính gửi đi cho UBND, Bộ Tài chính,...
+ Nội dung thông tin:
+Thu ngân sách
+	A. Thu ngân sách tại địa phương
+		1. Thu từ doanh nghiệp nhà nước(trung ương/ địa phương)
+		2. Thu thuế Công Thương Nghiệp
+		3. Thu thuế tiểu ngạch
+		4. Thu thuế thu nhập
+		5. Thu thuế sử dụng đất
+		6. Thu thuế nông nghiệp
+		7. Thu khác ngân sách (thu SXKT, phí giao thông, thủy lợi phí)
+	B. Thu kết dư
+	C. Thu trợ cấp
+	D. Thu thuế Xuất Nhập Khẩu
+	E. Thu tín phiếu kho bạc
+Chi ngân sách
+	A. Chi đầu tư XDCB
+	B. Chi vốn lưu động
+	C. Chi trợ giá nông nghiệp
+	D. Chi hành chính sự nghiệp
+1. Sự nghiệp kinh tế: nông - lâm - ngư - thủy lợi - giao thông - đô thị
+2. Sự nghiệp văn xã: giáo dục-y tế-thể dục thể thao-xã hội-khoa học
+3. Hành chính: quản lý nhà nước - kinh phí Đảng - kinh phí đoàn thể
+	E. Chi khác ngân sách
+	1. An ninh quốc phòng
+2. Điều tiết, trợ cấp xã
+3. Chi khác
+Vật giá
+	A. Giá thị trường
+		- Các mặt hàng chủ yếu
+		(Đơn vị tính, Trị giá tuyệt đối, Tỉ lệ tăng/giảm % so với tháng trước)
+	B. Tỉ lệ trượt giá
+		- Các nhóm hàng
+(Lương thực,Thực phẩm tươi sống, Thực phẩm công nghệ ,Nông thuỷ sản,  Công nghệ phẩm, Tân dược, Chất đốt, Điện máy, Tư liệu sản xuất, Vật liệu xây dựng, Phụ tùng xe - cước, Dịch vụ, Hàng đặc biệt)
+
+		Các phép tính / tổng hợp:
+(Tỉ lệ tăng giảm % so với Tháng trước,  Ba tháng đầu năm, Sáu tháng đầu năm, Cùng kỳ năm ngoái)
+
+Ngân hàng
+A. Thu chi tiền mặt
+	1. Thu tiền mặt
+		- Nguồn thu
+		- Thu bán hàng: lương thực khác
+		- Tiền gửi kho bạc
+		- Tiết kiệm
+		- Khác
+
+	2. Chi tiền mặt
+		Nguồn chi:
+		- Lương
+		- Thu mua : 	lương thực
+				hàng hoá xuất khẩu
+		- Tiền gửi kho bạc
+		- Tiết kiệm
+		- Khác
+
+	Các phép tính / tổng hợp::
+		- Phân theo Huyện/ Thị
+
+B. Cấp phát và cho vay đầu tư XDCB
+	I. Nguồn vốn
+		a. Vốn được cấp để cho vay đầu tư XDCB
+		b. Nhận vốn ngân sách để cấp phát (ngân sách TW và ĐP)
+		c. Thu nợ cho vay trung hạn (quốc doanh, ngoài quốc doanh)
+		d. Thu nợ cho vay dài hạn (quốc doanh, ngoài quốc doanh)
+		e. Vốn tự bổ sung của các tổ chức kinh tế để cấp phát XDCB
+
+	II. Sử dụng vốn
+		a. Cho vay trung hạn (quốc doanh, ngoài quốc doanh)
+		b. Cho vay dài hạn (quốc doanh, ngoài quốc doanh)
+		c. Cấp phát vốn ngân sách (trung ương/ địa phương)
+		d. Cấp phát tự bổ sung
+
+C. Cho vay
+	I. Tổng số cho vay theo:
+		- Thời hạn: ngắn hạn, trung hạn, dài hạn.
+		- Thành phần kinh tế: quốc doanh (trung ương/ địa phương), tập 			   thể, công tư hợp doanh, cá thể, liên doanh
+		- Theo đơn vị tiền tệ: VND/USD
+		- Theo ngành kinh tế: nông công lâm ngư, thuỷ hải sản, giao thông
+		- Theo doanh số cho vay
+		- Theo doanh số dư nợ
+
+	II. Dư nợ:
+		- theo loại vay:
+			- Bổ sung vốn lưu động
+			- Chiết khấu chứng từ có giá
+			- Quá hạn/ không quá hạn:  nguyên nhân quá hạn (SXKD 			     thua lỗ, giải thể, thiên tai địch hoạ, không có  người nhận, khác)
+
+Chi cục kho bạc nhà nước
+A. Thu trên địa bàn
+	1. Thu từ kinh tế quốc doanh
+		- Thuế doanh thu
+		- Thuế lợi tức
+		- Thuế khấu hao cơ bản
+		- Khác
+	II. Thu sự nghiệp
+	III. Thu thuế xuất khẩu phi mậu dịch
+	IV. Thu thuế xuất khẩu tiểu ngạch
+	V. Thu khác về xuất nhập khẩu
+	VI. Thu thuế công thương nghiệp
+	VII. Thu thuế nông nghiệp
+	VIII. Thu khác
+B. Thu kết dư ngân sách
+C. Thu trợ cấp của ngân sách cấp trên
+D. Thu ngoài ngân sách
+	- Về công tác trái phiếu
+	- Tiền vay đảm bảo cân đối
+	- Khác
+
+E. Chi đầu tư XDCB
+F. Chi thường xuyên
+	1. Cấp vốn cho Quốc doanh
+	2. Hành chính sự nghiệp - bộ máy - trợ cấp - công vụ - khác
+	3. Khác
+
+G. Chi điều chỉnh
+H. Chi ngoài ngân sách
+	1. Tạm ứng về XDCB
+	2. Tạm ứng khác
+
+		Các điểm chung:
+			- Tổng số thu / chi
+			- Luỹ kế tháng / năm
+			- Luỹ kế trong kỳ
+
+Chi cục thuế
+A. Tổng thu
+	_ Tỉnh / Huyện / Thị
+	- Nguồn thu:
+		- Quốc doanh (trung ương/ địa phương)
+		- Ngoài quốc doanh: công thương nghiệp
+		- Thuế thu nhập
+		- Thuế đất
+		- Thuế nông nghiệp
+		- Thuế XSKT
+		- Phí và lệ phí (học phí, viện phí, thuỷ lợi phí, bến phà, khác...)
+		- Khác (phí giao thông, viện trợ, KT Đảng, phạt TS)
+	- Các dạng:
+		- Thuế doanh thu
+		- Lợi tức
+		- Môn bài
+		- Trên vốn
+		- Tài nguyên
+		- Tiêu thụ đặc biệt
+		- Khấu hao cơ bản
+		- Trước bạ
+		- Sát sinh
+		- Tiểu ngạch
+		- Xuất/ nhập khẩu
+	- Mậu dịch
+	- Phi mậu dịch: Tín phiếu kho bạc
+			    Thu kết dư
+			    Thu trợ cấp
+B. Tổng ngân sách địa phương được hưởng (huyện/ thị)
+C. Cơ cấu thuế theo vùng lãnh thổ, nguồn, dạng
+D. Chỉ số tăng giảm so với kế hoạch cùng kỳ năm trước
+ Cục hải quan
+	1. Xuất khẩu mậu dịch
+		- Tổng trị giá
+		- Các mặt hàng
+	2. Xuất khẩu phi mậu dịch
+		- Tổng trị giá
+		- Các mặt hàng theo (hàng thuyền viên, hàng 157, tiểu ngạch & 			biên giới)
+	3. Nhập khẩu mậu dịch
+		- Tổng trị giá
+		- Các mặt hàng
+	4. Nhập khẩu phi mậu dịch
+		- Tổng trị giá
+		- Các mặt hàng
+	5. Nguồn và phương tiện xuất nhập cảnh
+		- Loại phương tiện (ô tô, thuyền, tài viễn dương)
+		- Tổng số lượt
+		- Việt nam/ nước ngoài
+		- Xuất/ nhập
+	6. Nợ thuế
+		- Tên đơn vị
+		- Số dư đầu tháng / số nợ phát sinh / số nợ đã nộp / số nợ tồn cuối 			tháng: theo (thuế/ phạt)
+		- Số thuế nợ quá 90 ngày
+	7. Vi phạm pháp luật Hải quan
+		- Xuất / nhập
+		- Hàng hoá/ ngoại tệ/ vàng/ đồ cổ/đá quí/ ma tuý
+		- Tổng số vụ vi phạm
+		- Trị giá
+		- Đường hàng không/ đường biển/ đường bộ & sông/ bưu điện 			khác
+		- Tính chất vi phạm (cơ hội/ tái phạm/ chuyên nghiệp)
+		- Cơ quan tổ chức(Việt nam/ nước ngoài)
+	8. Vàng - Đá quí - Ngoại tệ xuất nhập
+		- Vàng / đá quí / ngoại tệ
+		- Xuất / nhập
+		- Dạng: (mậu dịch/ phi mậu dịch/ kiều hối/ nhập xuất lậu.)
+	9. Tố tụng
+		- Tổng số vụ (theo nhập / xuất, trị giá, mặt hàng, số lượng)
+		- Mức độ xử lý: (Trị giá xử, hành chính, hình sự, Chưa xử)
+
+III.3 Các bài toán khai thác CSDL
+Dữ liệu trên được phục vụ cho các bài toán sau đây:
+1.	Phục vụ trực tiếp cho các thao tác hoạt động thường xuyên của sở Tài chính Vật giá
+2.	Báo cáo lên lãnh đạo sở Tài chính Vật giá
+3.	Báo cáo lên cơ quan cấp trên
+4.	Thông tin cho các cơ quan trong tỉnh tra cứu để trợ giúp ra quyết định
+5.	Tra cứu thông tin công cộng.
+III.4 Phân tích các công cụ phát triển
+Với một quy mô tương đối nhỏ của một sở như Sở Tài Chính Vật giá, hệ quản trị CSDL thích hợp là SQL SERVER. Kết nối client/server có thể thực hiện qua ODBC.
+Các thông tin được tra cứu đối với từng bài toán được nêu ở mục trước sẽ có thể là:
+	Công cụ để phát triển giao diện nhập liệu, khai thác thường xuyên nên chọn là VISUAL FOX hay VISUAL BASIC (Dành cho bài toán 1,2)
+	Công cụ để tra cứu từ xa, mang tính tổng quan nên dùng các công nghệ CSDL trên INTRANET  (Dành cho bài toán 1,2)
+	Để tra cứu công cộng có thể đăng các thống kê tài chính trên các báo địa phương theo kỳ
+
+IV. Thiết kế cơ sở hạ tầng kỹ thuật CNTT của mạng trong quan hệ với ngành dọc và với UBND tỉnh
+(Lựa chọn theo khuyến cáo ở phần II.1 - của dự án chính trong tệp DATINH98.DOC - Thiết kế cơ sở hạ tầng mạng...)
+
+V. Nhu cầu đào tạo CNTT
+Tại sở Tài chính Vật giá cần thiết hình thành một nhóm chịu trách nhiệm theo dõi việc phát triển và ứng dụng tin học của sở  bao gồm:
+	- 01-02 người thực hiện chức năng quản trị hệ thống,
+	- 02 Người phụ trách phần kỹ thuật
+Việc đào tạo tin học có thể bao gồm các loại hình sau:
+	- Đào tạo tin học căn bản cho tất cả các cán bộ có liên quan đến các công việc được tin học hoá
+	- Đào tạo hướng dẫn sử dụng các chương trình ứng dụng
+	- Đào tạo tin học nâng cao cho các cán bộ chuyên tin học.
+
+Theo đánh giá thì nhu cầu đào tạo của một sở thường khoảng 10 triệu. Có thể đào tạo khoảng 15 lãnh đạo + người sử dụng và 5 khoá chuyên viên.
+
+(Các biểu bảng điền giống như trong phần III II.1 - của dự án chính trong tệp DATINH98.DOC)
+
+VI. Cân đối tài chính cho thực hiện các hạng mục dự án
+	(Thực hiện theo nội dung hệ thống các biểu ở phần thứ ba)
+Các yếu tố được tính đến ở đây là khả năng cung cấp tài chính của dự án THH quản lý nhà nước và khả năng tài chính của sở Tài chính Vật giá cộng với sự trợ giúp của BTC cho sở trong việc xây dựng hệ thống thông tin của sở.
+Kinh phí dự trù cho trang thiết bị để mua một máy chủ đủ mạnh cùng một số máy trạm (số lượng 4-5 chiếc) làm thành một có sở hạ tầng cho việc phân tích hệ thống thông tin tại sở Tài chính Vật giá.
+Các phần mềm hệ thống được cung cấp đủ như hệ OS của mạng, phần mềm hệ thống để phát triển CSDL và phát triển phần mềm ứng dụng.
+Kinh phí còn lại chủ yếu được dùng để xây dựng phần mềm ứng dụng, CSDL và đào tạo. Ngoài ra còn dành cho thử nghiệm nối mạng với văn phòng UBND tỉnh.
+
+Sau đây có thể là một dự kiến minh hoạ kinh phí tin học hoá tại sở Tài chính Vật giá:
+(có thể có xê dịch trong khi triển khai thực tế)
+
+Số liệu minh hoạ về dự kiến kinh phí tin học hoá tại sở Tài chính Vật giá
+
+ SỐ TT
+Tên gọi hạng mục Dự án
+Mục tiêu chính của hạng mục dự án
+Dự kiến kinh phí thực hiện trong năm 1998
+Dự kiến kinh phí thực hiện trong năm 1999
+Tổng
+
+1
+Quản lý Dự án
+
+8.00
+6.00
+14.0
+
+2
+Xây dựng Dự án
+Xây dựng dự án khả thi bao gồm khảo sát lượng dữ liệu lớn và rất phức tạp
+12.00
+
+12.0
+
+3
+Tổ chức đấu thầu và mua sắm thiết bị
+1.00
+
+1.0
+
+4
+Mua sắm thiết bị
+Xây dựng một mạng LAN - hoặc nâng cấp. Chú ý đến khả năng lưu trữ thông tin.
+120.00
+60.00
+180.0
+
+5
+Mua sắm phần mềm Hệ thống
+Mua Net OS, CSDL và Lotus Note
+30.00
+40.00
+70.0
+
+6
+Lắp đặt hệ thống mạng
+10.00
+
+10.0
+
+7
+Xây dựng các hệ Cơ sở dữ liệu, kể cả công việc xây dựng chuẩn thông tin
+50.00
+30.00
+80.0
+
+8
+Xây dựng và mua sắm các phần mềm (Chương trình) ứng dụng
+40.00
+20.00
+60.0
+
+9
+Đào tạo cán bộ
+
+10.00
+10.00
+20.0
+
+10
+Thử nghiệm truyền thông Dữ liệu liên mạng
+1.00
+
+1.0
+
+11
+Hội thảo đánh giá kết quả thực hiện
+2.00
+
+2.0
+
+12
+Tổng kết nghiệm thu
+
+2.00
+2.0
+
+13
+Dự phòng
+
+8.00
+8.0
+
+Tổng cộng
+
+284.00
+176.00
+460.0
+
+VII. Tổ chức thực hiện và quản lý dự án
+Theo trình tự của một dự án xây dựng hệ thống thông tin chuẩn. Các bước tiến hành có thể là:
+	Xây dựng đội ngũ dự án: người lãnh đạo, đội dự án, các chế độ liên quan đến dự án.
+	Khảo sát chi tiêt thông tin. Phân tích các quy trình nghiệp vụ, thu thập và thông qua các biểu mẫu báo cáo trong sở Tài chính Vật giá và báo cáo lên cơ quan cấp trên.
+	Thiết kế hệ thống, thông qua thiết kế tại lãnh đạo sở Tài chính Vật giá, tham khảo ý kiến của BTC và UBND
+	Xây dựng CSHT
+	Xây dựng pilot phần mềm và Đánh giá
+	Xây dựng chính thức các phân hệ thông tin. Thử nghiệp chế độ báo cáo đến các cơ quan cấp trên
+	Nhập liệu
+	Tổng kết – thanh lý dự án
+
+mục lục
+
+Tiêu đề
+trang
+
+Phần thứ nhất
+Đánh giá tình hình thực hiện dự án giai đoạn 1996-1997
+
+Phần thứ Hai
+Các nội dung phát triển CNTT trên địa bàn Tỉnh giai đoạn 1998-2000
+
+Chương I-Các mục tiêu phát triển CNTT trên địa bàn Tỉnh giai đoạn 1998-2000.
+
+Chương II-Nội dung kỹ thuật của các dự án Tin học hoá quản lý NN trên địa bàn Tỉnh giai đoạn 1998-2000
+
+Phần II.1.Mô hình tổ chức cơ sở hạ tầng kỹ thuật CNTT cho mạng cục bộ và diện rộng trên địa bàn Tỉnh
+
+Phần II.2.Tiếp tục phát triển các dự án Tin học hoá QLNN tại  UBND Tỉnh.
+
+Chương III.Các dự án tin học hoá tại các Sở Ban chuyên ngành (Nội dung chi tiết trình bày ở phần phụ lục.).
+
+Phần thứ ba
+Dự toán Tổng kinh phí từ các nguồn
+
+Chương I-Cân đối các nguồn kinh phí theo nội dung chi tiết các hạng mục dự án.
+
+Chương II-Cân đối các nguồn kinh phí theo hạng mục dự án và theo Mục chi của Mục lục Ngân sách Nhà nước. (Nội dung các biểu trình bày ở Phụ lục ) .
+
+Phần thứ tư
+Tổ chức thực hiện và quản lý dự án
+
+Phần phụ lục
+
+Dự án tin học hoá QLNN tại Sở Kế hoạch và Đầu tư
+
+Dự án tin học hoá QLNN tại Sở Khoa học CN&MT
+
+Dự án tin học hoá QLNN tại Sở Tài chính -Vật giá
+
+Phụ lục các biểu tổng hợp cân đối  Tài chính theo hạng mục dự án và theo các Mục chi của Mục lục NSNN.
+(Trong tệp .XLS)
+
+4
+
+11
+
+12
+
+13
+
+13
+
+27
+
+28
+
+29
+
+30
+
+39
+
+40
+
+42
+
+43
+
+67
+
+121
+
+PAGE  15
+
+PAGE  149
+
+Mạng Quốc gia
+
+TP. Đà nẵng
+
+TP. HCM
+
+Hà nội
+
+-Router
+-File Transfer
+-E-Mail
+-Browser
+-Gateway
+
+Mạng địa phương
+
+Mạng địa phương
+
+- Novel Netware
+- Windows
+- Unix
+
+DB
+Server
+
+(
+
+(
+
+(
+
+LAN
+Server
+
+TEL
+X25
+
+Đơn vị Sở, Huyện
+
+ tỉnh ủy
+
+ Mạng Trung tâm địa phương
+
+(
+
+(
+
+LAN của các Sở, Huyện
+
+Hệ thống hạ tầng cơ sở CNTT cấp  địa phương
+
+DB
+
+Mạng địa phương
+
+UBND Địa phương
+
+Mạng địa phương
+
+Trạm làm việc
+
+VPCP Hà nội/BCĐ IT.2000
+
+Trạm làm việc
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+VPCP T.P. Hồ Chí Minh
+
+Comm. Server
+
+Máy chủ
+
+Gateway/Mail Server
+
+hoặc Private line
+
+PSTN /X25
+
+Máy chủ
+
+Gateway/Mail Server
+
+Comm. Server
+
+GATEWAY vào mạng Quốc gia
+
+Mạng điện thoại địa phương
+
+Cần thơ
+
+TP Hồ Chí Minh
+
+Đà nẵng
+
+Hải phòng
+
+Hà nội
+
+Mạng Điện Thoại/X25
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+Cơ sở
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Mạng điện thoại địa phương
+
+Mạng điện thoại địa phương
+
+Mạng điện thoại địa phương
+
+Mạng điện thoại địa phương
+
+Intelligent HUB
+
+hình 3: Mô hình cấp tỉnh
+
+. . .
+
+Modem
+
+Printer
+
+Máy chủ
+Truyền thông
+
+May chủ CSDL
+
+Intelligent HUB
+
+Intelligent HUB
+
+. . .
+
+. . .
+
+Modem
+
+Printer
+
+Máy chủ
+Truyền thông
+
+Máy chủ CSDL
+
+Switching HUB
+
+Intelligent HUB
+
+Intelligent HUB
+
+Intelligent HUB
+
+. . .
+
+hình 4: Mô hình cấp sở
+
+hình h5: Mô hình cấp huyện I
+
+Modem
+
+Printer
+
+Máy chủ
+Truyền thông
+
+Máy chủ CSDL
+
+Non Intelligent HUB
+
+hình 6: Mô hình cấp huyện II
+
+Modem
+
+Printer
+
+Máy chủ
+Truyền thông
+
+Máy chủ CSDL
+
+Tổng hợp
+
+Văn thư đi
+
+Văn thư đến
+
+Modem
+
+Printer
+
+Máy chủ  CSDL &
+Truyền thông
+
+Non Intelligent HUB
+
+hình 7: Phương án tối thiểu
+
+Máy chủ CSDL & Truyền thông
+
+hình 8 : Phương án Trung bình
+
+Công nghiệp, nông nghiệp
+
+Văn thư + Đánh máy
+
+Tổng hợp + Chánh VP
+
+Modem
+
+Printer
+
+. .  .  .
+
+Thư ký
+
+Non Intelligent HUB
+
+Máy chủ
+Truyền thong
+
+Intelligent HUB
+
+hình 9: Phương án tối đa
+
+Intelligent HUB
+
+Các khối chuyên viên
+
+Chuyên viên
+
+Chuyên viên
+
+Chuyên viên
+
+Văn thư + Đánh máy
+
+. .  .  .
+
+Tổng hợp + Chánh VP
+
+Modem
+
+Printer
+
+Thư ký
+
+Máy chủ CSDL
+
+Bộ
+Kế hoạch và Đầu tư
+
+UBND Tỉnh
+
+Các tổ chức
+kinh tế - xã hội
+
+Sở KH&ĐT Tỉnh
+
+Các Ngành
+
+Phòng Kế hoạch
+huyện
+
+Các phòng trực
+thuộc Sở KH&ĐT Tỉnh
+
+Phòng Kế hoạch
+sở ngành
+
+xin ý kiến
+
+báo cáo
+
+thông tin tham khảo
+
+Chi cục TCĐLCL
+
+thông tin
+
+thông tin
+
+chỉ đạo
+
+Ban giám đốc
+
+Thử nghiệm CGCN
+
+khối  kỹ thuật
+
+khối thông tin KHCNMT
+
+kết quả
+
+Thông tin tư liệu KHCN
+
+Thông tin SHCN
+
+Điều tra cơ bản
+
+Quản lý tài nguyên
+
+Quản lý môi trường
+
+Quản lý KHCN, SHCN
+
+báo cáo
+
+chỉ đạo
+
+Thanh tra Sở
+
+khối quản lý KHCNMT
+
+Văn phòng Sở
+
+thủ tục hành chính
+
+tình hình KHCNMT
+
+điều hành
+
+trình duyệt
+
+chỉ đạo
+
+thông tin về  công nghệ
+
+Tỉnh uỷ
+
+UBND tỉnh
+
+BỘ KHCNMT
+
+yêu cầu điều tra
+
+dữ liệu được điều tra
+
+báo cáo
+
+hướng dẫn, yêu cầu
+
+Đơn thư
+
+kết quả
+
+các tổ chức, cá nhân khác
+
+các doanh nghiệp trên địa bàn
+
+báo cáo
+
+hướng dẫn
+
+hướng dẫn
+
+Sở ban ngành khác
+
+Sở ban ngành tổng hợp
+
+báo cáo
+
+yêu cầu
+
+báo cáo
+
+chỉ thị,  yêu cầu, thông báo
+
+báo cáo, tư vấn
+
+UBND quận huyện, thị xã
+
+báo cáo, đề xuất
+
+chỉ thị
+
+Văn phòng Sở
+
+thông tin phục vụ quản lý
+
+thông tin chuyên ngành KHCNMT
+
+SỞ KHCN&MT
+
+BỘ KHCNMT
+
+các đơn vị liên quan
+
+thông báo chỉ tiêu
+
+báo cáo tài chính cho việc nghiên cứu ứng dụng KHCN
+
+chứng từ
+
+HỆ KTTC
+
+QL các đê tài, dự án
+
+thu thập  chứng từ thu chi
+
+thông tin về đề tài dự án
+
+thông báo kinh phí
+
+SỞ TCVG
+
+báo cáo tài chính tổng hợp của Sở
+
+tập hợp các chứng từ
+
+danh sách cán bộ
+
+QL cán bộ
+
+tra cứu, tổng hợp số liệu
+
+tên TSCĐ
+
+khấu hao tài sản
+
+QL tài sản
+
+Kê toán tài vụ
+
+KT lương
+
+KT TSCĐ
+
+KT kho hàng
+
+KT tiền gửi ngân hàng
+
+KT quỹ tiền mặt
+
+KT tổng hợp
+
+KT tạm ứng
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+thu thập chứng từ
+
+ghi sổ sách
+
+ghi sổ sách
+
+ghi sổ sách
+
+ghi sổ sách
+
+ghi sổ sách
+
+ghi sổ sách
+
+ghi sổ sách
+
+lập báo cáo
+
+lập báo cáo
+
+lập báo cáo
+
+lập báo cáo
+
+lập báo cáo
+
+lập báo cáo
+
+lập báo cáo
+
+tài khoản
+
+chứng từ tiền mặt
+
+chứng từ tổng hợp
+
+chứng từ tiền séc
+
+chứng từ kho
+
+TSCĐ
+
+chứng từ TSCĐ
+
+lương cán bộ (trích từ bảng Sơ yếu lý lịch )
+
+Mlns mới
+
+chứng từ lương
+
+chứng từ phải thu phải trả
+
+Đề tài, dự án
+
+cán bộ trong Sở
+
+QL cán bộ
+
+kế toán taì chính
+
+thông tin về nhân sự
+
+kiểm tra và cập nhật dữ liệu
+
+bảng lưong cán bộ
+
+tra cứu và kết xuất
+
+các cấp lãnh đạo
+
+tình hình nhân sự
+
+Quản lý cán bộ
+
+Cập nhật thông tin
+
+Báo cáo
+
+Tra cứu
+
+Bảng lương
+
+Sơ yếu lý lịch ban đầu
+
+B/c tăng giảm cán bộ
+
+cập nhật thay đổi
+
+tình hình cán bộ
+
+Sơ yếu lý lịch
+
+Quá trình lương
+
+Hoạt động Đảng, Đoàn thể
+
+Quá trình công tác
+
+Đào tạo chính trị
+
+Đào tạo chuyên môn
+
+Khen thưởng, kỷ luật
+
+Bồi dưỡng nghiệp vụ
+
+Quan hệ gia đình
+
+Trình độ ngoại ngữ
+
+Hoạt động khoa học
+
+Đặc điểm chính trị của gia đình và bản thân
+
+biên nhận
+
+cán bộ phận trong Sở
+
+QL taì sản
+
+các cấp lãnh đạo
+
+kiểm tra, bàn giao  và cập nhật dữ liệu
+
+danh sách tài sản
+
+kế toán taì chính
+
+tính khấu hao
+
+tình hình tài sản
+
+thông tin khấu hao
+
+tra cứu, kiểm kê và kết xuất
+
+QL tài sản
+
+tra cứu
+
+tính khấu hao
+
+báo cáo và in
+
+cập nhật dữ liệu
+
+Thẻ TSCĐ
+
+giao nhận TS
+
+b/c khấu hao
+
+khấu hao TS
+
+t/h TSCĐ
+
+thanh lý TS
+
+Khấu hao
+
+Tài sản
+
+Loại tài sản
+
+cán bộ
+
+Sử dụng
+
+Quản lý Khoa học công nghệ
+
+QL
+đề tài KH,
+dự án
+
+QL tiềm lực KH
+
+Lập kế hoạch các dự án mới
+
+Quản lý đề tài, dự án
+
+Nhập, xoá , thay đổi số liệu đề tài dự án
+
+Tra cứu theo các tiêu thức khác nhau
+
+Báo cáo kết quả các
+đề tài và dự án
+
+Tiềm năng KHCN
+
+Con người KHCN
+
+Nhập, thay đổi hồ sơ
+
+Báo cáo
+
+Tìm kiếm
+
+Các Tổ chức KHCN
+
+Các thiết bị KHCN
+
+Kế hoạch các dự án mới
+
+Các dự án mới
+
+Các công trình nghiên cứu
+
+Quản lý môi trường
+
+Xây dựng CSDL môi trường sinh thái
+
+Quản lý
+cấp thoả thuận môi trường
+Thẩm định tác động môi trường
+
+Quản lý cấp thoả thuận môi trường
+
+Nhập , thay đổi TT
+
+Tra cứu, tìm kiếm
+
+Báo cáo
+
+Thông tin tư liệu
+
+Thông tin về sáng kiến và sở hữu công nghiệp
+
+Thông tin về tiêu chuẩn đo lường chất lượng
+
+Thông tin về khoa học công nghệ
+
+Thông tin về KHCN
+
+Nhập, sửa, bổ sung thông tin
+( về tài liệu,tạp chí, sách,...)
+
+Tra cứu, tìm kiếm
+
+Theo tên sách
+
+Theo tên tác giả
+
+Theo lĩnh vực
+
+Thông tin về sáng kiến và sở hữu công nghiệp
+
+Nhập, sửa, thay đổi các thông tin về sở hữu CN
+
+Tìm kiếm, tra cứu
+
+Theo tên người, cá nhân sở hữu
+
+Theo tên sở hữu công nghiệp
+
+Các báo cáo thống kê
+
+Thanh tra Sở KHCNMT
+
+QL Thanh tra việc chấp hành quy chế trong lĩnh vực TC-ĐL-CL
+
+QL Thanh tra việc chấp hành quy chế trong hoạt động sở hữu công nghiệp
+
+QL Thanh tra việc chấp hành quy chế trong hoạt động chuyển giao công nghệ
+
+QL Thanh tra việc chấp hành quy chế thực hiện các dự án, chương trình nghiên cứu khoa học
+
+Xem xét giải quyết các khiếu tố , khiếu nại, tố cáo các hành vi vi phạm
+
+QL Thanh tra việc thực hiện các quy định về thăm dò, khai thác , sử dụng tài nguyên khoáng sản
+
+QL Thanh tra việc thực hiện các quy định về bảo vệ môi trường
+
+Văn phòng
+
+Quản lý NS xã phường
+
+Thanh tra
+
+Nông lâm đô thị
+
+Văn xã
+
+Giá cả
+
+Công sản
+
+Quản lý ngân sách
+
+Tổ chức
+
+Lãnh đạo
+
+Thanh tra TP
+
+VỤ CS
+
+Ban VGCP
+
+Ban TCCQ
