@@ -124,8 +124,16 @@ Sixteen more southern provincial domains screened, 194 candidates, 16 legacy-enc
 
 | Subset | documents | char | diacritic | syllable |
 | --- | ---: | ---: | ---: | ---: |
-| TCVN3 | 43 | 0.949 | **0.960** | 0.958 |
+| TCVN3 | 42 | 0.974 | **0.987** | 0.985 |
 | VNI | 2 | 0.823 | **0.234** | 0.342 |
+
+An earlier printing of this table read 0.949/0.960/0.958 over 43 TCVN3 documents. It
+included `2004-1ED4D_Francois_Godement`, whose transcript this file already described as
+corrupt and demoted — the demotion had been written up here but never applied to the
+`status` column in `PROVENANCE.md`, so a directory glob kept scoring it. Roughly a
+quarter of the apparent TCVN3 error was a bad transcript being charged to viparse.
+Non-`ready` transcripts now live in `ground-truth/pending/`, and both the scorer and the
+synthetic generator read status from `PROVENANCE.md` rather than from the listing.
 
 The second VNI document confirms the first was not a fluke: **0.236** and
 **0.220**. viparse's VNI charmap holds 6 mappings against roughly fifty
@@ -158,6 +166,65 @@ the file was collected for.
 `HUYEÄN` sitting inside otherwise TCVN3 text. It is held at `pending-transcript`: a
 single table cannot convert it, and it is exactly the case viparse's per-run detection
 exists for. It also defeated the classifier twice before the residue test caught it.
+
+## A synthetic VNI subset, because real VNI ran out
+
+28 government domains produced two VNI documents. The diaspora publishers that have
+more — Buddhist and literary archives that typeset in VNI-Times through the 2000s — are
+copyrighted, and Article 15 does not reach them. Two documents cannot support a fifty-
+entry table.
+
+So the VNI subset was built instead: the corpus's own public-domain TCVN3 transcripts,
+re-encoded to VNI by `scripts/vni.py` and written as `.docx` with the run font set to
+`VNI-Times`. 12 documents, [`corpus/synthetic/`](corpus/synthetic/). Sources are drawn
+only from transcripts `PROVENANCE.md` marks `ready`.
+
+| Subset | documents | char | diacritic | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| Synthetic VNI — viparse 0.1.9, end-to-end | 12 | 0.826 | **0.246** | 0.326 |
+
+**This is a coverage measurement, not an accuracy one, and it is not a headline number.**
+The text is encoded with the same table that scores it, so a mapping wrong in both
+directions scores as correct. What it *can* show is what another implementation is
+missing, and that is what it was built for.
+
+It reproduces the real-document number almost exactly — 0.246 synthetic against 0.234
+on the two real VNI files — which is the one useful cross-check available: the generator
+and the real documents are independent sources, and they agree on where viparse stands.
+
+Detection is not the problem. viparse reports `encoding_detected='vni'` at confidence
+0.95 on all 12. It identifies the encoding and then has nothing to convert it with:
+
+```
+Boä Taøi chiùnh          → expected: Bộ Tài chính
+Ñoäc laäp -Töï do        → expected: Độc lập - Tự do
+```
+
+Left unconverted across the subset, most frequent first: `á`×5996 `ø`×4151 `ö`×3973
+`ô`×3443 `ù`×3304 `đ`×3166 `ä`×3162 `ï`×2202 — the tone modifiers and the ơ/ư letters,
+i.e. nearly the whole encoding.
+
+### One entry in viparse's VNI table is wrong
+
+```python
+VNI.pairs = (('a½', 'à'), ('aù', 'á'), ('aû', 'ả'), ('aõ', 'ã'), ('aï', 'ạ'), ('ñ', 'đ'))
+```
+
+`a½` is not VNI. `0xBD` is a **TCVN3** byte (ẵ); VNI writes à as `aø`, which occurs 211
+times in the two real VNI documents (`thaønh`, `haønh`, `ngaønh`, `baøn`, `Caø Mau`)
+against **zero** occurrences of `a½`. A TCVN3 byte leaked into the VNI table. It is
+inert rather than harmful — the sequence never appears, so it converts nothing — but it
+means one of the six entries does no work, and the real count is five.
+
+### What the generator would not do
+
+`ẳ` and `ẵ` have no VNI sequence in any document collected, so `scripts/vni.py` refuses
+to encode them and the generator drops the lines that contain them — 18 lines across the
+12 documents, reported on stderr rather than silently passed through. Filling those two
+rows by symmetry with the ắ/ằ/ặ row would have been easy and is exactly how the TCVN3
+table got four entries wrong the first time. `ë` was itself corrected this way: an early
+draft had it as breve+ngã by symmetry; `hoaëc` (hoặc) and `ñaëc` (đặc) in the real
+documents make it breve+nặng.
 
 ## Four errors found in this harness, not in viparse
 

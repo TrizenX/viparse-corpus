@@ -53,12 +53,17 @@ files does not get to score only the easy ones.
 ```
 corpus/
   public-domain/{tcvn3,vni,viscii,vps}/   real documents, redistributable
-  synthetic/                              generated from clean Unicode
+  synthetic/                              real Vietnamese re-encoded into VNI
 ground-truth/                             expected transcript per document
+  pending/                                transcripts not yet `ready`, never scored
+ground-truth-synthetic/                   expected transcript per generated document
 results/                                  versioned results.json
 scripts/
   score.py                  the metric (self-tested)
   find_candidates.py        locate legacy-encoded documents in the Wayback Machine
+  make_synthetic.py         generate the synthetic subset from `ready` transcripts
+  doc_text.py               Word 97 text extraction, independent of viparse
+  tcvn3.py / vni.py         conversion tables, derived from the corpus itself
   validate_provenance.py    CI guard: no file without a source
 PROVENANCE.md               per-file origin and redistribution basis
 SOURCES.md                  where documents come from, and why they are redistributable
@@ -76,9 +81,13 @@ yield.
 python3 scripts/find_candidates.py --domain mof.gov.vn --from 2001 --to 2008
 ```
 
-Screening is by **font table**: a Word 97 file declaring `.VnTime` or `VNI-Times` is
-legacy-encoded by construction, which is a fact the file states rather than a
-heuristic that a Spanish document could trip. First domain tried returned 8 of 14.
+Screening is **two-stage**. The font table narrows — a Word 97 file that never declares
+`.VnTime` or `VNI-Times` is not a candidate — and the text decides. The font alone is
+not enough: the declaration survives conversion to Unicode, so a re-published document
+keeps naming `.VnTime` while containing no legacy bytes at all. Screening on the font
+alone put 27 already-Unicode files into a 62-file collection before the text stage was
+added. The text stage measures high bytes following an ASCII vowel, which separates the
+families as well as detecting them: TCVN3 lands at 0.14–0.18, VNI at about 0.56.
 
 ## Two subsets, never mixed
 
@@ -86,14 +95,24 @@ heuristic that a Spanish document could trip. First domain tried returned 8 of 1
 The credible core. Every file needs a row in [`PROVENANCE.md`](PROVENANCE.md); CI
 fails without one.
 
-**`synthetic`** — clean Unicode converted *backwards* into legacy encodings. Unlimited
-volume, perfect ground truth, and **circular**: generated with the same conversion
-tables viparse decodes with, so it demonstrates self-consistency rather than
-real-world correctness.
+**`synthetic`** — real Vietnamese converted *backwards* into a legacy encoding. It
+exists because VNI ran out: 28 government domains yielded two VNI documents, and the
+diaspora publishers that have more are copyrighted. The source text is the corpus's own
+`ready` public-domain transcripts, re-encoded by `scripts/make_synthetic.py` and written
+as `.docx` with the run font set to `VNI-Times`, so the detection and extraction layers
+are exercised and not just the table.
 
-Reported separately, always. No headline number is drawn from the synthetic set. The
-circularity is reducible — generate with published third-party tables where they
-exist — but not removable, so it is disclosed instead.
+It is **circular**: generated with the same table it scores against, so a mapping wrong
+in both directions scores as correct. What it can honestly show is what an
+implementation is *missing* — and that is what it found, viparse at 0.246 on diacritics
+with detection working perfectly.
+
+Two things keep it honest. The generator verifies the round trip line by line and drops
+what fails, and `scripts/vni.py` refuses to encode a letter it has no observed VNI
+sequence for — `ẳ` and `ẵ` appear in no collected document, so lines containing them are
+dropped and counted on stderr rather than guessed at.
+
+Reported separately, always. No headline number is drawn from the synthetic set.
 
 ## What this does not measure
 

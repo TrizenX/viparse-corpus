@@ -4,12 +4,12 @@
   "subset": "public-domain",
   "metric_version": "1",
   "summary": {
-    "n_documents": 45,
+    "n_documents": 44,
     "n_failures": 0,
     "failures": [],
-    "char_accuracy": 0.946995,
-    "diacritic_accuracy": 0.946086,
-    "syllable_accuracy": 0.94717
+    "char_accuracy": 0.971197,
+    "diacritic_accuracy": 0.972673,
+    "syllable_accuracy": 0.97337
   },
   "documents": [
     {
@@ -91,14 +91,6 @@
       "syllable_accuracy": 0.997326,
       "truth_chars": 4987,
       "diacritic_positions": 1078
-    },
-    {
-      "document": "2004-1ED4D_Francois_Godement-Thoikyquado",
-      "char_accuracy": 0.198342,
-      "diacritic_accuracy": 0.150634,
-      "syllable_accuracy": 0.136724,
-      "truth_chars": 31849,
-      "diacritic_positions": 6705
     },
     {
       "document": "2004-1F7ZB_EtudeBinh_vn",

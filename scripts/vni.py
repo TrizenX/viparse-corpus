@@ -39,9 +39,13 @@ _MODIFIERS: dict[str, tuple[str, str]] = {
     "å": ("\u0302", "\u0309"), "ã": ("\u0302", "\u0303"), "ä": ("\u0302", "\u0323"),
     "Á": ("\u0302", "\u0301"), "À": ("\u0302", "\u0300"),
     "Å": ("\u0302", "\u0309"), "Ã": ("\u0302", "\u0303"), "Ä": ("\u0302", "\u0323"),
-    "é": ("\u0306", "\u0301"), "è": ("\u0306", "\u0300"),
-    "eû": ("\u0306", "\u0309"), "ë": ("\u0306", "\u0303"), "eï": ("\u0306", "\u0323"),
-    "É": ("\u0306", "\u0301"), "È": ("\u0306", "\u0300"), "Ë": ("\u0306", "\u0303"),
+    # Breve family. `ë` is breve+*nặng*, read off `hoaëc` (hoặc) and `ñaëc` (đặc) in the
+    # collected VNI documents — an earlier draft had it as breve+ngã, which is what a
+    # first pass writes when it fills the row by symmetry instead of by observation.
+    # ẳ and ẵ are deliberately absent: no VNI document collected so far contains either,
+    # and guessing them is how the TCVN3 table got four entries wrong.
+    "é": ("\u0306", "\u0301"), "è": ("\u0306", "\u0300"), "ë": ("\u0306", "\u0323"),
+    "É": ("\u0306", "\u0301"), "È": ("\u0306", "\u0300"), "Ë": ("\u0306", "\u0323"),
 }
 
 # Base characters, mapped to the Unicode letter they stand for before a modifier is
@@ -114,6 +118,66 @@ def convert(text: str) -> str:
 # Vietnamese letters that legitimately live in the Latin-1 supplement; they are output,
 # not residue. Flagging them was the same mistake this file's TCVN3 sibling made once.
 _VALID_LATIN1_VN = set("ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝàáâãèéêìíòóôõùúý")
+
+
+def _build_encoder() -> dict[str, str]:
+    """Unicode → VNI surface, inverted from the decoding table.
+
+    Built by inversion rather than typed out, so the two directions cannot drift apart:
+    a synthetic document that decodes back to something other than its source would
+    measure the generator, not the parser.
+    """
+    table: dict[str, str] = {}
+
+    # Standalone forms first. Real VNI documents write ị as `ò`, ỉ as `æ` and ĩ as `ó`,
+    # not as i plus a tone; generating the composed form would produce text that decodes
+    # correctly but does not look like anything a VNI document contains, and so would
+    # not exercise the same paths in a parser.
+    for surface, letter in _SOLO.items():
+        table.setdefault(letter, surface)
+
+    for base_ch, base_letter in _BASES.items():
+        for modifier, (diacritic, tone) in _MODIFIERS.items():
+            if base_letter in "\u01a1\u01a0\u01b0\u01af" and diacritic:
+                continue
+            # Uppercase text uses uppercase modifiers — `ÑAÊNG`, not `ÑAêNG`.
+            if base_ch.isupper() != modifier.isupper() and modifier.isalpha():
+                continue
+            composed = _compose(base_letter, diacritic, tone)
+            if composed and composed not in table:
+                table[composed] = base_ch + modifier
+    # A base that VNI writes with a bare letter needs no sequence at all.
+    for base_ch, base_letter in _BASES.items():
+        if base_letter != base_ch:
+            table.setdefault(base_letter, base_ch)
+    return table
+
+
+_ENCODER = _build_encoder()
+
+
+class Unencodable(ValueError):
+    """A Vietnamese letter with no verified VNI sequence."""
+
+
+def encode(text: str) -> str:
+    """Unicode Vietnamese → VNI surface bytes. The inverse of :func:`convert`.
+
+    Raises :class:`Unencodable` rather than passing a letter through untouched. A
+    synthetic document containing a Unicode ``ẳ`` in the middle of VNI text is not a VNI
+    document, and scoring a parser against one would report a table gap that is really
+    a generator gap.
+    """
+    normalised = unicodedata.normalize("NFC", text)
+    out = []
+    for ch in normalised:
+        if ch in _ENCODER:
+            out.append(_ENCODER[ch])
+        elif ch.isalpha() and ord(ch) > 127:
+            raise Unencodable(ch)
+        else:
+            out.append(ch)
+    return "".join(out)
 
 
 def unmapped(text: str) -> set[str]:

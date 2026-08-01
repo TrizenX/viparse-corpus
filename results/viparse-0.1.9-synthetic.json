@@ -1,0 +1,112 @@
+{
+  "tool": "viparse",
+  "tool_version": "0.1.9",
+  "subset": "synthetic",
+  "metric_version": "1",
+  "summary": {
+    "n_documents": 12,
+    "n_failures": 0,
+    "failures": [],
+    "char_accuracy": 0.826075,
+    "diacritic_accuracy": 0.246054,
+    "syllable_accuracy": 0.325932
+  },
+  "documents": [
+    {
+      "document": "synthetic-vni-2002-0112qd",
+      "char_accuracy": 0.827406,
+      "diacritic_accuracy": 0.257168,
+      "syllable_accuracy": 0.298429,
+      "truth_chars": 15493,
+      "diacritic_positions": 3418
+    },
+    {
+      "document": "synthetic-vni-2003-02120",
+      "char_accuracy": 0.835633,
+      "diacritic_accuracy": 0.293726,
+      "syllable_accuracy": 0.33993,
+      "truth_chars": 17540,
+      "diacritic_positions": 3905
+    },
+    {
+      "document": "synthetic-vni-2003-02144qd",
+      "char_accuracy": 0.833626,
+      "diacritic_accuracy": 0.166058,
+      "syllable_accuracy": 0.255068,
+      "truth_chars": 2849,
+      "diacritic_positions": 548
+    },
+    {
+      "document": "synthetic-vni-2003-TT132001",
+      "char_accuracy": 0.836833,
+      "diacritic_accuracy": 0.232584,
+      "syllable_accuracy": 0.33481,
+      "truth_chars": 22051,
+      "diacritic_positions": 4450
+    },
+    {
+      "document": "synthetic-vni-2004-0328NDCP",
+      "char_accuracy": 0.832553,
+      "diacritic_accuracy": 0.255885,
+      "syllable_accuracy": 0.347936,
+      "truth_chars": 10899,
+      "diacritic_positions": 2294
+    },
+    {
+      "document": "synthetic-vni-2004-1113C_Michele_Debonneuil-_Phattrien_congnghe",
+      "char_accuracy": 0.823718,
+      "diacritic_accuracy": 0.234035,
+      "syllable_accuracy": 0.274146,
+      "truth_chars": 24580,
+      "diacritic_positions": 5465
+    },
+    {
+      "document": "synthetic-vni-2004-13-t-Phuluc3",
+      "char_accuracy": 0.817257,
+      "diacritic_accuracy": 0.254177,
+      "syllable_accuracy": 0.292892,
+      "truth_chars": 3442,
+      "diacritic_positions": 838
+    },
+    {
+      "document": "synthetic-vni-2004-13D56_Le_Quang_Thung-phatbieu",
+      "char_accuracy": 0.837417,
+      "diacritic_accuracy": 0.219512,
+      "syllable_accuracy": 0.318587,
+      "truth_chars": 15592,
+      "diacritic_positions": 3157
+    },
+    {
+      "document": "synthetic-vni-2004-19Z9A_Luat_hop_tac_xasuadoi",
+      "char_accuracy": 0.832507,
+      "diacritic_accuracy": 0.300147,
+      "syllable_accuracy": 0.362216,
+      "truth_chars": 12305,
+      "diacritic_positions": 2712
+    },
+    {
+      "document": "synthetic-vni-2004-1E849_Tran_Du_Lich",
+      "char_accuracy": 0.828354,
+      "diacritic_accuracy": 0.231911,
+      "syllable_accuracy": 0.292335,
+      "truth_chars": 4987,
+      "diacritic_positions": 1078
+    },
+    {
+      "document": "synthetic-vni-2004-1F7ZB_EtudeBinh_vn",
+      "char_accuracy": 0.819049,
+      "diacritic_accuracy": 0.197307,
+      "syllable_accuracy": 0.267483,
+      "truth_chars": 9964,
+      "diacritic_positions": 2154
+    },
+    {
+      "document": "synthetic-vni-2004-B1-1-DONTC",
+      "char_accuracy": 0.655604,
+      "diacritic_accuracy": 0.165663,
+      "syllable_accuracy": 0.802404,
+      "truth_chars": 3676,
+      "diacritic_positions": 332
+    }
+  ]
+}

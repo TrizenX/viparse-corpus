@@ -18,6 +18,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS, TRUTH, PROVENANCE = ROOT / "corpus", ROOT / "ground-truth", ROOT / "PROVENANCE.md"
+SYNTHETIC_TRUTH = ROOT / "ground-truth-synthetic"
+
+
+def truth_dir(path: Path) -> Path:
+    """The transcript directory for a corpus file.
+
+    The two subsets keep separate transcripts so that neither scoring run can pick up
+    the other's by globbing. Checking only `ground-truth/` would report every synthetic
+    document as `ready but no ground truth`.
+    """
+    return SYNTHETIC_TRUTH if "synthetic" in path.parts else TRUTH
 
 REQUIRED_COLUMNS = ["file", "source", "retrieved", "publisher", "basis"]
 
@@ -74,14 +85,14 @@ def main() -> int:
             continue
 
         status = (row.get("status") or "").strip()
-        has_truth = (TRUTH / f"{path.stem}.txt").exists()
+        has_truth = (truth_dir(path) / f"{path.stem}.txt").exists()
 
         if status == "ready":
             ready += 1
             if not has_truth:
                 problems.append(
                     f"marked ready but no ground truth: {rel} "
-                    f"(expected ground-truth/{path.stem}.txt)"
+                    f"(expected {truth_dir(path).name}/{path.stem}.txt)"
                 )
         else:
             pending += 1
