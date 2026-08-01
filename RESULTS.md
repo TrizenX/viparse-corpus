@@ -143,7 +143,16 @@ deriving a table; that is how the TCVN3 table got four entries wrong the first t
 **VNI is scarce in government sources.** Sixteen southern provinces yielded 3 VNI
 candidates against 13 TCVN3, and one of those three turned out to be TCVN3. VNI was
 common in the south and in overseas publishing, but the bodies that published on the
-web ran TCVN3. VISCII and VPS: still none, across 28 domains.
+web ran TCVN3.
+
+**VISCII and VPS: none, but nothing was searched.** This line previously read "still
+none, across 28 domains", which states a measurement that was never taken. The screen
+narrows candidates by Word font declaration, and VISCII is a *charset* (RFC 1456)
+declared as `charset=VISCII` in email and HTML — there is no font name to find. The
+regex has no VISCII pattern at all, and its VPS pattern misses `VPS Times` because it
+requires a letter immediately after `VPS`. A Word 97 `.doc` could not carry them intact
+anyway: VISCII puts 6 letters and VPS 14 in the C0 range that Word reserves for footnote
+references, non-breaking hyphens and field delimiters. See `SOURCES.md`.
 
 ## Three more documents excluded, all for personal data
 
@@ -333,7 +342,8 @@ found no second instance.
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.
-  The corpus holds 3 VNI files and no VISCII or VPS at all.
+  The corpus holds 3 VNI files and no VISCII or VPS — the latter never having been
+  searched for, since the screen cannot detect a charset that declares no font.
 - **The normalize layer was measured, not the library.** viparse's legacy `.doc`
   engine needs LibreOffice, which was not installed, so `viparse.load()` failed on
   10/10. Text was extracted with `scripts/doc_text.py` and fed to

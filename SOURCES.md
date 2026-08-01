@@ -176,8 +176,12 @@ already at 42 documents and 0.987, so it does not.
 — TCVN3 dominated in government and in the north — but it means a benchmark built on
 this set measures TCVN3 recovery and little else. The three VNI hits came from
 `hochiminhcity.gov.vn`, `binhduong.gov.vn` and `moit.gov.vn`, so southern portals are
-the right place to look for more. **No VISCII or VPS found at all.** Those may need
-diaspora publishing sites rather than government ones.
+the right place to look for more.
+
+**VISCII and VPS: nothing — but that is not a measurement.** An earlier version of this
+file reported "No VISCII or VPS found at all" as though 28 domains had been searched and
+come back empty. They had not been searched. See
+[the screen cannot find them](#the-screen-cannot-find-viscii-or-vps) below.
 
 ## Sources, by usefulness
 
@@ -188,7 +192,41 @@ diaspora publishing sites rather than government ones.
 | `vbpl.vn` scanned originals | Medium, **OCR path only** | "Văn bản gốc" pages hold scans of pre-2000 documents. No encoding to recover — a different axis |
 | `congbao.chinhphu.vn` | **None** | Serves modern `.docx`/`.pdf`, Unicode |
 | `vanban.chinhphu.vn`, live `vbpl.vn` | **None** | Rebuilt as SPAs, Unicode throughout |
-| Diaspora / overseas publishing | Untested | The likeliest home of VISCII and VPS |
+| Diaspora / overseas publishing | Untested, and copyrighted | The likeliest home of VISCII and VPS. Article 15 does not reach it |
+| Overseas missions (`vietnamembassy-*.org`) | **None** | State bodies, so Article 15 applies, and built by contractors abroad — but three of four have no archived `.doc` at all |
+
+### The screen cannot find VISCII or VPS
+
+Recorded because "we looked and found none" and "we never looked" read identically in a
+results table, and this file printed the first when the second was true.
+
+**The regex is blind.** `find_candidates.py` narrows on font names:
+
+```
+LEGACY_FONT = r"\.Vn[A-Za-z]+|VNI-[A-Za-z]+|VPS[A-Za-z]+|ABC[A-Za-z]*"
+```
+
+There is no VISCII pattern at all, and `ENCODING_OF` has no `viscii` key. `VPS[A-Za-z]+`
+requires a letter immediately after `VPS`, so `VPSTimes` matches and **`VPS Times` — with
+the space real font names carry — does not.**
+
+**The format is wrong, which matters more.** TCVN3 and VNI are *font hacks*: ordinary
+bytes rendered as Vietnamese by a special font, so the font name is a signal sitting in
+the Word file. VISCII is not — it is a character set (RFC 1456) declared as
+`charset=VISCII` in email, Usenet and HTML. There is no font name to find, because there
+is no font trick. Screening archived `.doc` files for font declarations therefore cannot
+locate VISCII however many domains it covers.
+
+**A Word 97 `.doc` cannot even hold them.** VISCII puts 6 letters and VPS 14 in the C0
+control range, which Word reserves for structural markers — `0x02` is a footnote
+reference, `0x1E` a non-breaking hyphen, `0x13`–`0x15` field delimiters. Patching those
+bytes into a real corpus document and re-extracting confirms it: `0x02` and `0x1E` do not
+survive, because Word never meant them as text.
+
+So the honest statement is: **no VISCII or VPS document has been looked for.** Finding
+them means searching Wayback for HTML declaring `charset=viscii`, not `.doc` files — and
+the licensing problem is then the real obstacle, since VISCII was overwhelmingly a
+diaspora encoding and Article 15 does not cover that material.
 
 ### One caution about the numbers above
 
@@ -262,9 +300,11 @@ permission. Three ways forward, in order of preference:
 
 ## What is still missing
 
-- **VISCII and VPS samples — none found.** Twelve government domains produced 58
-  TCVN3 and 3 VNI and nothing else. These two probably do not live on government
-  sites at all; diaspora publishing is the place to look.
+- **VISCII and VPS samples — never searched for.** 34 government domains produced only
+  TCVN3 and VNI, but the screen cannot detect either encoding: it narrows on Word font
+  declarations, and VISCII is a charset with no font to declare. The right search is
+  Wayback HTML with `charset=viscii`, and the obstacle there is licensing, not
+  discovery.
 - **More VNI.** Three is not enough to say anything about VNI recovery. Southern
   provincial portals are the source that worked.
 - **Ground truth for anything.** No transcripts exist yet.
