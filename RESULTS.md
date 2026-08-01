@@ -212,9 +212,25 @@ VNI.pairs = (('a½', 'à'), ('aù', 'á'), ('aû', 'ả'), ('aõ', 'ã'), ('aï'
 
 `a½` is not VNI. `0xBD` is a **TCVN3** byte (ẵ); VNI writes à as `aø`, which occurs 211
 times in the two real VNI documents (`thaønh`, `haønh`, `ngaønh`, `baøn`, `Caø Mau`)
-against **zero** occurrences of `a½`. A TCVN3 byte leaked into the VNI table. It is
-inert rather than harmful — the sequence never appears, so it converts nothing — but it
-means one of the six entries does no work, and the real count is five.
+against **zero** occurrences of `a½`. A TCVN3 byte leaked into the VNI table.
+
+This was first written up here as inert — the sequence never appears, so it converts
+nothing. That reasoning was wrong, and measuring it showed so. The wrong entry
+*occupied the grave slot*, so `aø` was absent and à was never converted at all. Fixed in
+[viparse#80](https://github.com/TrizenX/viparse/pull/80):
+
+| Two real VNI documents | before | after |
+| --- | ---: | ---: |
+| char | 0.823 | 0.836 |
+| **diacritic** | **0.234** | **0.291** |
+| syllable | 0.342 | 0.395 |
+
+One entry, worth 5.7 points of diacritic accuracy. TCVN3 unchanged at 0.987.
+
+Neither of viparse's VNI tests could catch it. One parametrises over the table and
+asserts it equals itself, which holds however wrong the table is; the other hardcoded
+`a½`, having been written from the table rather than from a document, so it confirmed
+the error. The replacement tests quote four words from real VNI documents.
 
 ### What the generator would not do
 
