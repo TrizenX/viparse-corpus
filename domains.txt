@@ -11,3 +11,32 @@ cantho.gov.vn
 danang.gov.vn
 binhduong.gov.vn
 dongnai.gov.vn
+# Screened 2026-08-01, second sweep — hunting VNI specifically.
+angiang.gov.vn
+kiengiang.gov.vn
+tiengiang.gov.vn
+bentre.gov.vn
+vinhlong.gov.vn
+dongthap.gov.vn
+soctrang.gov.vn
+camau.gov.vn
+baclieu.gov.vn
+travinh.gov.vn
+longan.gov.vn
+tayninh.gov.vn
+binhphuoc.gov.vn
+baria-vungtau.gov.vn
+banqlkcn.baria-vungtau.gov.vn
+binhthuan.gov.vn
+khanhhoa.gov.vn
+lamdong.gov.vn
+hepza.gov.vn
+itpc.hochiminhcity.gov.vn
+# Overseas missions — state bodies, so Article 15 still applies, and their sites were
+# built by contractors abroad, the population that used VNI. Yielded nothing: three of
+# four have no archived .doc at all.
+vietnamembassy-usa.org
+vietnamembassy-japan.org
+vietnamconsulate-sf.org
+vietnamembassy-france.org
+

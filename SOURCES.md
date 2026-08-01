@@ -131,6 +131,47 @@ Twelve domains screened, 139 candidates fetched, **61 confirmed legacy-encoded (
 That already exceeds the ≥50-document target in the plan, and only ~12 candidates
 per domain were screened — raising `--limit` will find more.
 
+## Second sweep, 2026-08-01 — hunting VNI specifically
+
+22 more domains: every Mekong Delta and southeast province not already screened, two
+Ho Chi Minh City agencies, and four overseas missions.
+
+| Domain | Checked | Hits | Encodings |
+| --- | ---: | ---: | --- |
+| `soctrang.gov.vn` | 24 | 20 | tcvn3 |
+| `binhthuan.gov.vn` | 24 | 5 | tcvn3 |
+| `camau.gov.vn` | 14 | 2 | **vni** |
+| `angiang.gov.vn` | 24 | 2 | tcvn3 |
+| `binhphuoc.gov.vn` | 24 | 1 | **vni** |
+| `banqlkcn.baria-vungtau.gov.vn` | 25 | 1 | **vni** |
+| `longan.gov.vn` | 24 | 1 | tcvn3 |
+| `hepza.gov.vn` | 7 | 1 | tcvn3 |
+| `vietnamembassy-usa.org` | 13 | 1 | tcvn3 |
+| `tiengiang`, `bentre`, `vinhlong`, `dongthap`, `baclieu`, `travinh`, `tayninh`, `khanhhoa`, `itpc.hochiminhcity`, `vietnamconsulate-sf` | 11–25 each | 0 | — |
+| `kiengiang.gov.vn`, `vietnamembassy-japan.org`, `vietnamembassy-france.org` | — | — | no archived `.doc` at all |
+
+**Four VNI candidates, two usable.** One was already in the corpus
+(`camau/quydinhkiemtra02`). One was a district phone directory carrying home and mobile
+numbers against named individuals — excluded under the PII rule in `PROVENANCE.md`,
+which is worth stating plainly: it was one of only four VNI candidates from a 22-domain
+sweep, and the rule still applied. A benchmark that relaxes its own rule when material
+is scarce has no rule.
+
+The VNI subset therefore goes **2 → 4** documents.
+
+### Overseas missions did not work
+
+The reasoning was that embassy and consulate sites are state bodies, so Article 15
+still covers their documents, but were built by contractors abroad — the population
+that used VNI. Three of the four have no archived `.doc` files at all, and the fourth
+yielded one TCVN3 file. The hypothesis was reasonable and it was wrong.
+
+### 30 TCVN3 documents found and left on the table
+
+This sweep was for VNI, so the TCVN3 hits — 20 from Sóc Trăng alone — were screened but
+not fetched. They are available whenever the TCVN3 subset needs deepening; it is
+already at 42 documents and 0.987, so it does not.
+
 **Encoding distribution is badly skewed: tcvn3 = 58, vni = 3.** That matches history
 — TCVN3 dominated in government and in the north — but it means a benchmark built on
 this set measures TCVN3 recovery and little else. The three VNI hits came from

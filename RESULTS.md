@@ -242,6 +242,37 @@ table got four entries wrong the first time. `ë` was itself corrected this way:
 draft had it as breve+ngã by symmetry; `hoaëc` (hoặc) and `ñaëc` (đặc) in the real
 documents make it breve+nặng.
 
+## VNI subset doubled, and viparse 0.1.10
+
+22 more domains screened for VNI specifically — every Mekong Delta and southeast
+province not already covered, plus four overseas missions. Four VNI candidates, two
+usable: one was already in the corpus, one was a phone directory excluded for PII.
+
+| Subset | documents | char | diacritic | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| TCVN3 | 42 | 0.974 | **0.987** | 0.985 |
+| VNI | 4 | 0.842 | **0.307** | 0.413 |
+
+VNI moves 0.234 → 0.291 (the `a½` fix in 0.1.10) → **0.307** (two more documents). The
+gap to TCVN3 is still the whole story: five sequences plus `đ` against roughly fifty.
+
+**`ẳ` and `ẵ` still appear in no VNI document.** Every one of the 25 distinct modifier
+characters following a base vowel across all four documents is already mapped, so the
+two gaps are genuinely unobserved rather than overlooked — and still not worth guessing.
+
+### One document needed four hand corrections
+
+`2007-Quy-che-chi-tieu-noi-bo-2007` had four places where a mark landed beside the
+wrong character: `vieâïc` for việc, `giô)ø` for giờ), `cô sô ûbaèng` for cơ sở bằng, and
+a stray `ï` after `ñaïo )`. All four are typing slips in the original, unambiguous once
+read in context, and corrected in the transcript with the correction recorded in
+`PROVENANCE.md`.
+
+A first pass counted these as a systematic VNI feature — marks stacked separately
+rather than combined — because the pattern-match treated `ô` and `ö` as diacritics.
+They are the letters ơ and ư, so `giôùi` (giới) matched and inflated the count to 24
+across the corpus. The real count is **one**.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.

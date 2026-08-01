@@ -58,7 +58,19 @@ Redacting the transcript alone is not redaction: the source `.doc` still carries
 data, and editing an OLE2 binary in place would corrupt the very artefacts the file was
 collected for. So a document with personal identifiers is **excluded**, not cleaned.
 
-Applied once, before the corpus was made public: `2006-1A79E_Phuluc_TT03-DKKD`, a
+Applied again on 2026-08-01 while looking for more VNI material.
+`camau.gov.vn/upload/infodoc/danhbadienthoaicachuyenthanhpho.doc` is a directory of
+district and city offices carrying columns **Họ và tên**, **Chức vụ**, **Nhà riêng**
+(home) and **Di động** (mobile) — 139 phone-like strings against named individuals.
+Home and mobile numbers of named people are not made public by appearing in an
+official document, and twenty years does not make them less personal. Excluded, not
+redacted, for the reason above.
+
+It was one of only four VNI candidates the whole 22-domain sweep produced, and VNI is
+the encoding this corpus most needs. Taking it anyway was still not an option: a
+benchmark that relaxes its own rule when the material is scarce has no rule.
+
+Applied first, before the corpus was made public: `2006-1A79E_Phuluc_TT03-DKKD`, a
 worked example inside a business-registration circular, carried a name, a birth date,
 a national ID number, an address and an email. It was probably an invented company —
 the registration number reads `0102000001` — but that could not be confirmed, and
@@ -126,3 +138,5 @@ publishing is not reversible.
 | `synthetic-vni-2004-1E849_Tran_Du_Lich.docx` | generated from `2004-1E849_Tran_Du_Lich.doc` (http://www.mpi.gov.vn:80/bangbieu/1E849_Tran_Du_Lich.doc) | 2004-04-19 | mpi | public-domain-law | vni | ready | synthetic: text of the source transcript re-encoded to VNI by scripts/make_synthetic.py, font VNI-Times; round trip verified per line |
 | `synthetic-vni-2004-1F7ZB_EtudeBinh_vn.docx` | generated from `2004-1F7ZB_EtudeBinh_vn.doc` (http://www.mpi.gov.vn:80/Bangbieu/1F7ZB_EtudeBinh_vn.doc) | 2004-11-28 | mpi | public-domain-law | vni | ready | synthetic: text of the source transcript re-encoded to VNI by scripts/make_synthetic.py, font VNI-Times; round trip verified per line |
 | `synthetic-vni-2004-B1-1-DONTC.docx` | generated from `2004-B1-1-DONTC.doc` (http://www.most.gov.vn:80/b_vbpq/a_van_ban_phap_qui/b_vbpq_bkhcn/a_nam_2003/B1-1-DONTC) | 2004-07-10 | most | public-domain-law | vni | ready | synthetic: text of the source transcript re-encoded to VNI by scripts/make_synthetic.py, font VNI-Times; round trip verified per line |
+| `2008-23.QD-991-UBND.doc` | http://congbao.binhphuoc.gov.vn:80/vbpq_binhphuoc.nsf/4b438b320dbf1cda4725719a0012432c/882108CCF21296304725744A002ACE4B/$file/23.QD%20991%20UBND.doc | 2008-10-10 | binhphuoc | public-domain-law | vni | ready | transcript from scripts/vni.py, read through; PII scanned — signing official (Chủ tịch UBND tỉnh) in official capacity, permitted |
+| `2007-Quy-che-chi-tieu-noi-bo-2007.doc` | http://banqlkcn.baria-vungtau.gov.vn/uploads/files/Quy%20che%20chi%20tieu%20noi%20bo%202007.doc | 2007-10-28 | banqlkcn | public-domain-law | vni | ready | transcript from scripts/vni.py, read through; PII scanned — phone-allowance policy only, no names or numbers. Four typing slips corrected against context, all marks landing beside the wrong character: vieâïc→vieäc (việc), ñaïo )ï.→ñaïo )., giô)ø→giôø), cô sô ûbaèng→cô sôû baèng |
