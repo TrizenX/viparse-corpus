@@ -65,19 +65,55 @@ This is deliberately the same signal `viparse`'s own detector treats as primary,
 a document that lands in the corpus is one the library should get right — and if it
 does not, that is a real failure rather than an argument about the corpus.
 
+## Measured yield, 2026-08-01
+
+Twelve domains screened, 139 candidates fetched, **61 confirmed legacy-encoded (44%)**.
+
+| Domain | Checked | Hits | Encodings |
+| --- | ---: | ---: | --- |
+| `mof.gov.vn` | 14 | 8 | tcvn3 |
+| `sbv.gov.vn` | 11 | 7 | tcvn3 |
+| `moit.gov.vn` | 12 | 6 | tcvn3, vni |
+| `mpi.gov.vn` | 11 | 6 | tcvn3 |
+| `mard.gov.vn` | 12 | 5 | tcvn3 |
+| `molisa.gov.vn` | 12 | 5 | tcvn3 |
+| `most.gov.vn` | 10 | 5 | tcvn3 |
+| `hochiminhcity.gov.vn` | 12 | **8** | tcvn3, vni |
+| `cantho.gov.vn` | 10 | 4 | tcvn3 |
+| `danang.gov.vn` | 12 | 3 | tcvn3 |
+| `binhduong.gov.vn` | 12 | 3 | tcvn3, vni |
+| `dongnai.gov.vn` | 11 | 1 | tcvn3 |
+
+That already exceeds the ≥50-document target in the plan, and only ~12 candidates
+per domain were screened — raising `--limit` will find more.
+
+**Encoding distribution is badly skewed: tcvn3 = 58, vni = 3.** That matches history
+— TCVN3 dominated in government and in the north — but it means a benchmark built on
+this set measures TCVN3 recovery and little else. The three VNI hits came from
+`hochiminhcity.gov.vn`, `binhduong.gov.vn` and `moit.gov.vn`, so southern portals are
+the right place to look for more. **No VISCII or VPS found at all.** Those may need
+diaspora publishing sites rather than government ones.
+
 ## Sources, by usefulness
 
 | Source | Yield | Notes |
 | --- | --- | --- |
-| **Wayback: `.gov.vn` `.doc`, 2000–2008** | **High** — 8/14 on the first domain tried | The primary source. Ministry sites hosted flat directories of legal documents; `mof.gov.vn/vb_phapquy/` is one |
-| Wayback: provincial portals | Untested | `*.gov.vn` covers them; provincial sites migrated later, so the legacy window may run further |
-| `vbpl.vn` scanned originals | Medium, **OCR path only** | "Văn bản gốc" pages hold scans of pre-2000 documents. No encoding to recover — these test OCR, a different axis |
+| **Wayback: `.gov.vn` `.doc`, 2000–2009** | **44% across 12 domains** | The primary source. Ministry sites hosted flat directories of legal documents |
+| Southern provincial portals | Best VNI odds | `hochiminhcity.gov.vn` gave the highest single yield, 8/12 |
+| `vbpl.vn` scanned originals | Medium, **OCR path only** | "Văn bản gốc" pages hold scans of pre-2000 documents. No encoding to recover — a different axis |
 | `congbao.chinhphu.vn` | **None** | Serves modern `.docx`/`.pdf`, Unicode |
 | `vanban.chinhphu.vn`, live `vbpl.vn` | **None** | Rebuilt as SPAs, Unicode throughout |
-| Provincial công báo (e.g. Quảng Ngãi) | Untested | Some older portals may not have migrated |
+| Diaspora / overseas publishing | Untested | The likeliest home of VISCII and VPS |
 
-Domains worth screening next: `mard.gov.vn`, `most.gov.vn`, `moit.gov.vn`,
-`molisa.gov.vn`, `mpi.gov.vn`, `sbv.gov.vn`, plus provincial `*.gov.vn`.
+### One caution about the numbers above
+
+The first run of this screen used six parallel workers and reported **0 hits from
+`mard.gov.vn`** — the archive was rate-limiting, and a wall of download failures is
+indistinguishable from an empty archive. Re-run sequentially, the same domain gave
+5/12.
+
+`fetch()` now retries with backoff and paces itself. If a domain reports zero, check
+the failure count before believing it.
 
 ## Workflow
 
@@ -101,9 +137,10 @@ and shallow.
 
 ## What is still missing
 
-- **VNI, VISCII and VPS samples.** Everything confirmed so far is TCVN3, which
-  matches its historical dominance in the north and in government use. VNI was more
-  common in the south and in overseas publishing — screen southern provincial
-  portals and diaspora sites for it.
+- **VISCII and VPS samples — none found.** Twelve government domains produced 58
+  TCVN3 and 3 VNI and nothing else. These two probably do not live on government
+  sites at all; diaspora publishing is the place to look.
+- **More VNI.** Three is not enough to say anything about VNI recovery. Southern
+  provincial portals are the source that worked.
 - **Ground truth for anything.** No transcripts exist yet.
 - **Scanned originals** for the OCR axis.

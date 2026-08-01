@@ -22,6 +22,7 @@ import argparse
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -36,10 +37,22 @@ LEGACY_FONT = re.compile(r"\.Vn[A-Za-z]+|VNI-[A-Za-z]+|VPS[A-Za-z]+|ABC[A-Za-z]*
 ENCODING_OF = {".vn": "tcvn3", "vni": "vni", "vps": "vps", "abc": "tcvn3"}
 
 
-def fetch(url: str, timeout: int = 60) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": "viparse-corpus/1.0"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+def fetch(url: str, timeout: int = 60, attempts: int = 3) -> bytes:
+    """Fetch with backoff. The Wayback Machine rate-limits, and a burst of
+    parallel requests comes back as a wall of failures that looks like the
+    archive holding nothing — it measured 0 hits from a domain whose documents
+    were there all along."""
+    last: Exception | None = None
+    for attempt in range(attempts):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "viparse-corpus/1.0"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except Exception as e:  # noqa: BLE001 — any transport failure is retryable here
+            last = e
+            if attempt < attempts - 1:
+                time.sleep(2 * (attempt + 1))
+    raise last if last else RuntimeError("fetch failed")
 
 
 def list_archived(domain: str, year_from: int, year_to: int, limit: int) -> list[tuple[str, str]]:
@@ -131,6 +144,7 @@ def main() -> int:
             failed += 1
             continue
         checked += 1
+        time.sleep(0.5)  # stay under the archive's rate limit
 
         fonts = legacy_fonts(data)
         encoding = classify(fonts)
