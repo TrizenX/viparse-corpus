@@ -57,10 +57,27 @@ ground-truth/                             expected transcript per document
 results/                                  versioned results.json
 scripts/
   score.py                  the metric (self-tested)
+  find_candidates.py        locate legacy-encoded documents in the Wayback Machine
   validate_provenance.py    CI guard: no file without a source
 PROVENANCE.md               per-file origin and redistribution basis
+SOURCES.md                  where documents come from, and why they are redistributable
 METRIC.md                   the metric, written before measuring
 ```
+
+## Finding documents
+
+Live government portals serve documents **re-published in Unicode** and are useless
+here. The legacy encodings survive in archived copies of those sites from before the
+migration — see [`SOURCES.md`](SOURCES.md) for the legal basis and the measured
+yield.
+
+```bash
+python3 scripts/find_candidates.py --domain mof.gov.vn --from 2001 --to 2008
+```
+
+Screening is by **font table**: a Word 97 file declaring `.VnTime` or `VNI-Times` is
+legacy-encoded by construction, which is a fact the file states rather than a
+heuristic that a Spanish document could trip. First domain tried returned 8 of 14.
 
 ## Two subsets, never mixed
 
