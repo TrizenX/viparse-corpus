@@ -423,7 +423,13 @@ LibreOffice — so one path was thoroughly covered and the others were guesses.
 | `.doc` TCVN3 | 44 | 0.969 | 0.975 |
 | `.doc` VNI | 4 | 0.984 | 0.998 |
 | **`.rtf`** | 11 | **0.991** | **0.996** |
-| **`.pdf`** | 5 | **0.986** | **0.973** |
+| **`.pdf`**, `encoding="auto"` | 5 | **0.991** | **0.999** |
+| **`.pdf`**, default mode | 5 | 0.986 | 0.975 |
+
+The two PDF rows differ for a reason worth stating: **two of the five embed subsetted
+fonts that expose no legacy name**, so default-mode detection misses them entirely. That
+is not the glyph-substitution defect below — it is the same shape as the RTF situation,
+a document whose font signal says nothing.
 
 RTF needs `encoding="auto"`: its engine deliberately emits no font signal, because an
 RTF font table lists the fonts a document *declares* rather than the fonts applied to
@@ -442,6 +448,12 @@ nhà nước, `Thñ t−íng` is Thủ tướng, `Th«ng t−` is Thông tư.
 
 This is VIP-87's shape a third time. `.doc` lost `ư` through `<w:softHyphen/>`; PDF
 loses it through a codepoint substitution. Same letter, three mechanisms.
+
+Fixed in [viparse#96](https://github.com/TrizenX/viparse/pull/96) — PDF diacritic
+**0.973 → 0.999** with `encoding="auto"`. Adjacency decides which occurrences are
+restored, because a minus sign between digits in a statistics table is a minus sign;
+across these five files no substituted codepoint sits between digits and none of the 129
+genuine ones lacks a letter neighbour.
 
 A second substitution appears twice: U+2219 BULLET OPERATOR for `0xB7` (`ã`), from
 `céng hoµ x∙ héi` and `Quü b¶o l∙nh`. U+2030 PER MILLE is *not* one — `0,4 ‰` in a
