@@ -1,7 +1,7 @@
 											
 Đơn vị báo cáo…										Biểu A01	
-								 (Thay thế biểu A01 tại Phụ lục 3a			
-								               tại Quyết định số 477/2004/QĐ-NHNN ngày 28/4/2004)			
+								(Thay thế biểu A01 tại Phụ lục 3a			
+								tại Quyết định số 477/2004/QĐ-NHNN ngày 28/4/2004)			
 											
 (Ban hành kèm theo Quyết định 1747/2005/QĐ-NHNN ngày 01/12/2005)											
 											
@@ -10,7 +10,7 @@ Tháng...… năm... …
 											
 											
 Ngày	Tỷ giá mua bán ngoại tệ							Giá vàng			
-	Tỷ giá giao dịch bình	Ngân hàng		Thị trường tự do 		Thị trường tự do		Thị trường tự do 		Thị trường tự do	
+	Tỷ giá giao dịch bình	Ngân hàng		Thị trường tự do		Thị trường tự do		Thị trường tự do		Thị trường tự do	
 	quân liên ngân hàng	ngoại thương		Hà nội		TP HCM		Hà nội		TP HCM	
 		Mua	Bán	Mua	Bán	Mua	Bán	Mua	Bán	Mua	Bán
 1											
@@ -21,8 +21,8 @@ Ngày	Tỷ giá mua bán ngoại tệ							Giá vàng
 Bình											
 quân											
 											
-								Hà nội, ngày…  tháng…  năm…			
-	Lập biểu				Kiểm soát			          Thủ trưởng đơn vị			
+								Hà nội, ngày… tháng… năm…			
+	Lập biểu				Kiểm soát			Thủ trưởng đơn vị			
 											
 											
 	1.Đối tượng áp dụng: Vụ Quản lý ngoại hối										
@@ -30,16 +30,16 @@ quân
 	3.Hình thức báo cáo: Bằng văn bản hoặc báo cáo điện tử										
 	4.Đơn vị nhận báo cáo: Vụ Chính sách tiền tệ										
 Đơn vị báo cáo …………												Biểu B01		
-										 (Thay thế biểu B01 tại Phụ lục 3a, 3b				
-											               tại Quyết định số 477/2004/QĐ-NHNN ngày 28/4/2004)			
+										(Thay thế biểu B01 tại Phụ lục 3a, 3b				
+											tại Quyết định số 477/2004/QĐ-NHNN ngày 28/4/2004)			
 (Ban hành kèm theo Quyết định 1747/2005/QĐ-NHNN ngày 01/12/2005)														
 														
 Báo cáo tổng hợp cho vay phát triển nông nghiệp nông thôn														
 Qúy .... năm .....														
 														Đơn vị: Triệu VNĐ (các ngoại tệ quy đổi VND theo tỷ giá tại thời điểm báo cáo)
-STT	Loại cho vay	Dsố phát sinh trong kỳ b/c		Dư nợ cuối kỳ									Số khách hàng còn          dư nợ	
+STT	Loại cho vay	Dsố phát sinh trong kỳ b/c		Dư nợ cuối kỳ									Số khách hàng còn dư nợ	
 				Tổng số	Phân theo thời hạn		Nợ quá hạn	Nợ cơ cấu lại thời hạn trả nợ	Nợ xấu					
-		Cho vay	Thu nợ		 Ngắn hạn	Trung, dài hạn			Nhóm 3 	Nhóm 4	Nhóm 5		Hộ dân	Doanh nghiệp
+		Cho vay	Thu nợ		Ngắn hạn	Trung, dài hạn			Nhóm 3	Nhóm 4	Nhóm 5		Hộ dân	Doanh nghiệp
 											Tổng số	Nợ khoanh chờ Chính phủ xử lý		
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
 I	Cho vay thông thường.													
@@ -50,7 +50,7 @@ c	Cho vay chi phí trồng trọt, chăn nuôi khác
 2	Chi phí nuôi trồng thuỷ sản													
 3	Chi phí đánh bắt hải sản													
 4	Chi phí sản xuất muối													
-5	Chi phí xây dựng thuỷ lợi nội đồng.								 					
+5	Chi phí xây dựng thuỷ lợi nội đồng.													
 6	Cho vay thu mua lương thực													
 7	Cho vay nhập khẩu phân bón													
 8	Cho vay thu mua cà phê													
@@ -58,9 +58,9 @@ c	Cho vay chi phí trồng trọt, chăn nuôi khác
 a	Chế biến nông sản													
 b	Chế biến lâm sản													
 c	Chế biến thuỷ sản													
-10	Cho vay phát triển ngành nghề nông thôn: 													
+10	Cho vay phát triển ngành nghề nông thôn:													
 a	Cho vay chế biến, bảo quản nông, lâm thuỷ, hải sản trong các làng nghề													
-b	Cho vay sản xuất vật liệu xây dựng gốm sứ thủy tinh 													
+b	Cho vay sản xuất vật liệu xây dựng gốm sứ thủy tinh													
 c	Cơ khí nhỏ và hàng thủ công mĩ nghệ.													
 d	Cho vay xây dựng, vận tải nông thôn.													
 e	Cho vay các ngành nghề khác.													
@@ -78,71 +78,71 @@ III	Cho vay theo chính sách của Nhà nước.
 	....................													
 6	Cho vay đánh bắt xa bờ													
 7	Cho vay tôn nền hoặc làm sàn nhà trên cọc.													
-8	Cho vay mua nhà trả chậm 													
+8	Cho vay mua nhà trả chậm													
 9	Cho vay đầu tư các nhà máy đường													
 	........													
 	Tổng cộng mục (I+II+III)													
-	Trong đó: a/ Cho vay kinh tế trang trại (1+2+3+4). 													
+	Trong đó: a/ Cho vay kinh tế trang trại (1+2+3+4).													
 1	Trang trại trồng trọt													
 2	Trang trại chăn nuôi													
 3	Trang trại nuôi trồng thuỷ sản													
 4	Các loại hình trang trại khác													
-	                 b/ Cho vay kinh tế hợp tác xã (5+6+7+8). 													
+	b/ Cho vay kinh tế hợp tác xã (5+6+7+8).													
 5	Hợp tác xã nông nghiệp													
 6	Hợp tác xã thuỷ sản													
 7	Hợp tác xã công nghiệp dịch vụ													
 8	Các loại hình hợp tác xã khác													
 														
-	Hướng dẫn lập biểu B01 													
+	Hướng dẫn lập biểu B01													
 														
-	1. Đối tượng áp dụng: 													
-	   - TCTD Nhà nước; TCTD cổ phần, TCTD liên doanh, TCTD phi ngân hàng, chi nhánh NH nước ngoài, QTDNDTW (trừ QTDND cơ sở).													
-	   - Ngân hàng Nhà nước chi nhánh tỉnh, thành phố.													
+	1. Đối tượng áp dụng:													
+	- TCTD Nhà nước; TCTD cổ phần, TCTD liên doanh, TCTD phi ngân hàng, chi nhánh NH nước ngoài, QTDNDTW (trừ QTDND cơ sở).													
+	- Ngân hàng Nhà nước chi nhánh tỉnh, thành phố.													
 	2. Thời hạn gửi:													
-	  - Tại tỉnh, thành phố: 													
-	   + Chậm nhất ngày 10 tháng sau, TCTD không có chi nhánh trực thuộc, chi nhánh TCTD, Hội sở, Sở giao dịch TCTD gửi số liệu báo cáo hoạt động tháng trước của đơn vị 													
-	    về NHNN chi nhánh tỉnh, thành phố trên địa bàn.													
-	   + Chậm nhất vào ngày 15 tháng sau, NHNN chi nhánh tỉnh, thành phố truyền file EXCEL của từng đơn vị báo cáo về Cục công nghệ tin học ngân hàng.													
-	  - Tại trung ương:													
-	  + Chậm nhất ngày 20 tháng sau, Cục Công nghệ tin học ngân hàng tổng hợp số liệu của theo từng tỉnh, thành phố; theo vùng kinh tế và toàn quốc và truyền về Vụ Tín dụng.													
-	  + Chậm nhất  ngày 15 tháng sau, Trụ sở chính của TCTD Nhà nước, Quỹ TDND TW tổng hợp số liệu toàn hệ thống và gửi báo  cáo bằng văn bản cho Vụ Tín dụng hoặc													
-	     truyền file EXCEL về Vụ Tín dụng thông qua Cục công nghệ tin học ngân hàng.													
-	3. Hướng dẫn lập biểu: 													
-	  3.1. Quy đổi VND													
- 	 - Cho vay bằng USD được quy đổi theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do NHNN công bố vào ngày làm việc cuối cùng của kỳ báo cáo.													
-	 - Cho vay bằng ngoại tệ khác quy đổi theo tỷ giá mua thực tế vào ngày làm việc cuối cùng của kỳ báo cáo													
-	 - Cho vay bằng vàng quy đổi theo giá hạch toán thực tế ngày làm việc cuối cùng của kỳ báo cáo.													
-	 3.2. Cách ghi:													
-	 - Cột 3,4 báo cáo doanh số phát sinh thực tế trong kỳ báo cáo (đã loại trừ hư số) 													
-	 - Cột 5 ghi tổng dư nợ (= cột 6 + cột 7) 													
-	 - Cột 6 ghi số dư nợ ngắn hạn (gồm tất cả các khoản nợ từ nhóm 1 đến nhóm 5). 													
-	 - Cột 7 ghi số dư nợ trung, dài hạn (gồm tất cả các khoản nợ từ nhóm 1 đến nhóm 5). 													
-	 - Cột 8 ghi số dư nợ quá hạn.													
-	 - Cột 9 ghi số dư nợ của các khoản nợ đã được cơ cấu lại thời hạn trả nợ.													
-	 - Cột 10, 11, 12 ghi số dư nợ tương ứng được TCTD phân vào các nhóm 3,4,5.													
-	 - Cột 13 ghi số dư của các khoản nợ khoanh chờ Chính phủ xử lý (thuộc nợ nhóm 5).													
-	 3.2. Phân loại trang trại và hợp tác xã													
-	 - Kinh tế trang trại: Nếu trang trại SXKD tổng hợp thì căn cứ vào giá trị sản lượng, hàng hoá dịch vụ của loại SXKD có tỷ trọng lớn nhất để phân loại.													
-	 - Hợp tác xã :          Nếu hợp tác xã sản xuất kinh doanh tổng hợp thì căn cứ vào giá trị sản lượng, hàng hoá dịch vụ của loại SXKD có tỷ trọng lớn nhất để phân loại.													
+	- Tại tỉnh, thành phố:													
+	+ Chậm nhất ngày 10 tháng sau, TCTD không có chi nhánh trực thuộc, chi nhánh TCTD, Hội sở, Sở giao dịch TCTD gửi số liệu báo cáo hoạt động tháng trước của đơn vị													
+	về NHNN chi nhánh tỉnh, thành phố trên địa bàn.													
+	+ Chậm nhất vào ngày 15 tháng sau, NHNN chi nhánh tỉnh, thành phố truyền file EXCEL của từng đơn vị báo cáo về Cục công nghệ tin học ngân hàng.													
+	- Tại trung ương:													
+	+ Chậm nhất ngày 20 tháng sau, Cục Công nghệ tin học ngân hàng tổng hợp số liệu của theo từng tỉnh, thành phố; theo vùng kinh tế và toàn quốc và truyền về Vụ Tín dụng.													
+	+ Chậm nhất ngày 15 tháng sau, Trụ sở chính của TCTD Nhà nước, Quỹ TDND TW tổng hợp số liệu toàn hệ thống và gửi báo cáo bằng văn bản cho Vụ Tín dụng hoặc													
+	truyền file EXCEL về Vụ Tín dụng thông qua Cục công nghệ tin học ngân hàng.													
+	3. Hướng dẫn lập biểu:													
+	3.1. Quy đổi VND													
+	- Cho vay bằng USD được quy đổi theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do NHNN công bố vào ngày làm việc cuối cùng của kỳ báo cáo.													
+	- Cho vay bằng ngoại tệ khác quy đổi theo tỷ giá mua thực tế vào ngày làm việc cuối cùng của kỳ báo cáo													
+	- Cho vay bằng vàng quy đổi theo giá hạch toán thực tế ngày làm việc cuối cùng của kỳ báo cáo.													
+	3.2. Cách ghi:													
+	- Cột 3,4 báo cáo doanh số phát sinh thực tế trong kỳ báo cáo (đã loại trừ hư số)													
+	- Cột 5 ghi tổng dư nợ (= cột 6 + cột 7)													
+	- Cột 6 ghi số dư nợ ngắn hạn (gồm tất cả các khoản nợ từ nhóm 1 đến nhóm 5).													
+	- Cột 7 ghi số dư nợ trung, dài hạn (gồm tất cả các khoản nợ từ nhóm 1 đến nhóm 5).													
+	- Cột 8 ghi số dư nợ quá hạn.													
+	- Cột 9 ghi số dư nợ của các khoản nợ đã được cơ cấu lại thời hạn trả nợ.													
+	- Cột 10, 11, 12 ghi số dư nợ tương ứng được TCTD phân vào các nhóm 3,4,5.													
+	- Cột 13 ghi số dư của các khoản nợ khoanh chờ Chính phủ xử lý (thuộc nợ nhóm 5).													
+	3.2. Phân loại trang trại và hợp tác xã													
+	- Kinh tế trang trại: Nếu trang trại SXKD tổng hợp thì căn cứ vào giá trị sản lượng, hàng hoá dịch vụ của loại SXKD có tỷ trọng lớn nhất để phân loại.													
+	- Hợp tác xã : Nếu hợp tác xã sản xuất kinh doanh tổng hợp thì căn cứ vào giá trị sản lượng, hàng hoá dịch vụ của loại SXKD có tỷ trọng lớn nhất để phân loại.													
 														
 														
 														
 														
-	Báo cáo này thay thế các biểu báo cáo: Tại công văn số 320/ CV-NHNN14 ngày 16/4/1999 về việc thực hiện QĐ số 67/1999/QĐ-TTg ngày 30/03/1999 của Thủ tướng Chính phủ,  													
-	công văn số 08/NHNN-TD ngày 4/1/2001 về hướng dẫn thực hiện Quyết định số 132/2000/QĐ-TTg ngày 24/11/2000 của Thủ tướng Chính phủ về một số chính sách  													
-	 phát triển ngành nghề nông thôn, công văn số 1467/NHNN-TD ngày 23/12/2003 về việc phát triển công nghiệp chế biến nông, lâm, thuỷ sản).													
+	Báo cáo này thay thế các biểu báo cáo: Tại công văn số 320/ CV-NHNN14 ngày 16/4/1999 về việc thực hiện QĐ số 67/1999/QĐ-TTg ngày 30/03/1999 của Thủ tướng Chính phủ,													
+	công văn số 08/NHNN-TD ngày 4/1/2001 về hướng dẫn thực hiện Quyết định số 132/2000/QĐ-TTg ngày 24/11/2000 của Thủ tướng Chính phủ về một số chính sách													
+	phát triển ngành nghề nông thôn, công văn số 1467/NHNN-TD ngày 23/12/2003 về việc phát triển công nghiệp chế biến nông, lâm, thuỷ sản).													
 Tên TCTD …...											Biểu D01
 											
-(Ban hành kèm theo Quyết định  1747/2005/QĐ-NHNN ngày  01/12/2005)											
+(Ban hành kèm theo Quyết định 1747/2005/QĐ-NHNN ngày 01/12/2005)											
 											
 Báo cáo về giới hạn cho vay, bảo lãnh											
 đối với nhóm khách hàng liên quan											
 Quí …... Năm …....											
 										Đơn vị: tỷ đồng	
 											
-STT	Tên khách hàng	Dư nợ 	Dư nợ 	Quan hệ sở hữu		Quan hệ về quản trị, điều hành, thành viên					
+STT	Tên khách hàng	Dư nợ	Dư nợ	Quan hệ sở hữu		Quan hệ về quản trị, điều hành, thành viên					
 		cho vay	bảo lãnh	Cá nhân	Pháp nhân	Một khách hàng cá nhân					Khách hàng
-						Thành viên	Thành viên	Thành viên	Chủ 	Quản trị, điều hành	pháp nhân
+						Thành viên	Thành viên	Thành viên	Chủ	Quản trị, điều hành	pháp nhân
 						hộ gia đình	tổ hợp tác	hợp danh	Doanh nghiệp	1 khách hàng	
 										pháp nhân	
 (1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)
@@ -160,8 +160,8 @@ STT	Tên khách hàng	Dư nợ 	Dư nợ 	Quan hệ sở hữu		Quan hệ về q
 	……………										
 											
 											
-	Đối tượng gửi báo cáo: Trụ sở chính của TCTD tổng hợp số liệu toàn hệ thống gửi Thanh tra NHNN Trung ương. 										
-		            Chi nhánh, SGD TCTD gửi số liệu phản ánh hoạt động của bản thân cho NHNN chi nhánh tỉnh, TP nơi đóng trụ sở.									
+	Đối tượng gửi báo cáo: Trụ sở chính của TCTD tổng hợp số liệu toàn hệ thống gửi Thanh tra NHNN Trung ương.										
+		Chi nhánh, SGD TCTD gửi số liệu phản ánh hoạt động của bản thân cho NHNN chi nhánh tỉnh, TP nơi đóng trụ sở.									
 	Thời hạn gửi báo cáo: Chậm nhất ngày 12 của tháng đầu quí sau gửi báo cáo số liệu quí trước.										
 	Đơn vị nhận báo cáo: Thanh tra NHNN Trung ương; Ngân hàng Nhà nước chi nhánh Tỉnh, TP										
 											
@@ -174,5 +174,5 @@ STT	Tên khách hàng	Dư nợ 	Dư nợ 	Quan hệ sở hữu		Quan hệ về q
 	3. Cột số (5), (6): Ghi tỷ lệ số sở hữu vốn điều lệ.										
 	4. Từ cột (7) đến cột (12): Nếu có quan hệ thì đánh dấu x.										
 											
-      Ghi chú: từ cột (5) đến cột (12) được xác định theo điều 2 Qui định về các tỷ lệ bảo đảm an toàn trong hoạt động đối với các TCTD  											
-                      ban hành theo QĐ số 457/2005/QĐ-NHNN ngày 19/4/2005 của Thống đốc NHNN.
+Ghi chú: từ cột (5) đến cột (12) được xác định theo điều 2 Qui định về các tỷ lệ bảo đảm an toàn trong hoạt động đối với các TCTD											
+ban hành theo QĐ số 457/2005/QĐ-NHNN ngày 19/4/2005 của Thống đốc NHNN.

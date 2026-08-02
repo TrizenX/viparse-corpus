@@ -223,10 +223,30 @@ reference, `0x1E` a non-breaking hyphen, `0x13`–`0x15` field delimiters. Patch
 bytes into a real corpus document and re-extracting confirms it: `0x02` and `0x1E` do not
 survive, because Word never meant them as text.
 
-So the honest statement is: **no VISCII or VPS document has been looked for.** Finding
-them means searching Wayback for HTML declaring `charset=viscii`, not `.doc` files — and
-the licensing problem is then the real obstacle, since VISCII was overwhelmingly a
-diaspora encoding and Article 15 does not cover that material.
+So the honest statement was: **no VISCII or VPS document had been looked for.**
+
+### Now they have been, 2026-08-02
+
+Searched the way the encoding actually travels — archived HTML declaring
+`charset=viscii`, `charset=vps` or `charset=vscii`, 1998–2008:
+
+| domains | archived HTML pages sampled | declaring VISCII or VPS |
+| --- | ---: | ---: |
+| 4 Vietnamese news sites | 100 | 0 |
+| 5 diaspora and encoding-project sites | 125 | 0 |
+
+`vnexpress.net`, `nhandan.com.vn`, `vietbao.com`, `tuoitre.com.vn`,
+`nguoi-viet.com`, `vietunicode.sourceforge.net`, `thuvienhoasen.org`, `vps.org`,
+`quehuong.org.vn`. **Zero.**
+
+That is a measurement rather than an absence of one, and it is worth more than the
+previous "none found" because the method matches the thing being looked for. It does not
+prove VISCII content is gone — 225 pages is a sample, and a page can carry VISCII bytes
+without declaring them — but it does mean the encoding was already rare on the archived
+web by the period this corpus covers.
+
+The licensing problem stands behind it regardless: VISCII was overwhelmingly a diaspora
+encoding, and Article 15 does not reach that material.
 
 ### One caution about the numbers above
 

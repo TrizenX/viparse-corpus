@@ -1,7 +1,7 @@
 	Phụ lục: Tổng hợp tình hình giám sát, đánh giá dự án đầu tư 9 tháng/2003 (số lượng các dự án theo báo cáo)												
 													
 STT	Cơ quan	Tổng số		Trong đó		Số D.A.	Kết thúc	Số D.A.	Số D.A.	Số D.A.	Số D.A.	Số D.A.	Số D.A.
-			Dự án 			phê duyệt	trong kỳ	thực hiện	có vi phạm	chậm tiến	phải điều	ngừng	đưa vào HĐ
+			Dự án			phê duyệt	trong kỳ	thực hiện	có vi phạm	chậm tiến	phải điều	ngừng	đưa vào HĐ
 			nhóm A	nhóm B	nhóm C	trong kỳ		GS, ĐG		độ	chỉnh	thực hiện	nhưng không
 													hiệu quả
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
@@ -16,7 +16,7 @@ A	Các Tỉnh, thành phố
 6	Bình Định	350		7	343	75	40	75	0	3	8		
 7	Bến Tre (chưa có số liệu)												
 8	Long An	104		58	56	50	6	8	4	3	16	1	0
-9	Bình Phước (chưa có số liệu) 												
+9	Bình Phước (chưa có số liệu)												
 10	Hưng Yên	113		7	106	27	48	113	0	0	24	0	0
 11	Đà Nẵng	404	2	58	334	158	143	301	0	1	8	0	0
 12	Cần Thơ	558		54	504	57	312			4	3	1	
@@ -81,7 +81,7 @@ C	các dự án nhóm A đã nhận được báo cáo GSĐT theo yêu cầu
 	Cộng	68	68	0	0	2	2	45	0	11	17	0	0
 	danh mục các dự án nhóm a đang đầu tư năm 2003 (nguồn vốn NS tập trung)						
 							
-TT	Ngành	Tổng số	Khởi công	Chuyển 	hoàn 	Tổng 	Tỷ lệ %
+TT	Ngành	Tổng số	Khởi công	Chuyển	hoàn	Tổng	Tỷ lệ %
 			mới	tiếp	thành	vốn	vốn đầu tư
 						(tỷ đồng)	
 							

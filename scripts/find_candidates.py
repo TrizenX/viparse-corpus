@@ -286,7 +286,10 @@ def _cell_text(cell: Any) -> str:
         if value.is_integer():
             return str(int(value))
         return f"{value:.10g}"
-    return str(value)
+    # Cells are routinely padded with spaces for on-screen alignment. A reader sees the
+    # content, not the padding, and every parser strips it — leaving it in made the
+    # transcript disagree on whitespace and charged that to Vietnamese recovery.
+    return " ".join(str(value).split())
 
 
 def legacy_dominates(text: str) -> bool:

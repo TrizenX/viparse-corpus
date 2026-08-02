@@ -1,17 +1,12 @@
-Danh mục máy móc, thiết bị, phương tiện vận tải chuyên dùng 
-trong nước đã sản xuất được
-(ban hành kèm theo Quyết định số  704/2003/QĐ-BKH ngày 18 tháng 9 năm 2003 
-của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
-Số TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu			Ký hiệu quy cách, mô tả đặc tính
- kỹ thuật	Ghi chú
-		Nhóm	Phân nhóm		 	
+Danh mục máy móc, thiết bị, phương tiện vận tải chuyên dùng trong nước đã sản xuất được (ban hành kèm theo Quyết định số 704/2003/QĐ-BKH ngày 18 tháng 9 năm 2003 của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
+Số TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu			Ký hiệu quy cách, mô tả đặc tính kỹ thuật	Ghi chú
+		Nhóm	Phân nhóm			
 1	Cột điện cao thế bằng thép mạ nhúng kẽm nóng	7308	20	11	Cho đường dây đến 500 kV	214 + SĐ
 2	Các loại dàn giáo, cột chống, cốp pha kim loại	7308	40		Loại thông dụng	214
 3	Bồn chứa	7309	00	00	Đến 4.000 m3	214
 4	Bồn chịu áp lực và bồn chứa khí nén	7310			Đến 1.000 m3 áp suất làm việc đến 100 at; với tích số PV <4000	214+SĐ
 		7311				
-5	Nồi hơi các loại (nguyên liệu đốt: than, gas, dầu, bã mía)	8402	12	91	Công suất tới 25 tấn/h
-áp suất làm việc tới 30 at	214+SĐ
+5	Nồi hơi các loại (nguyên liệu đốt: than, gas, dầu, bã mía)	8402	12	91	Công suất tới 25 tấn/h áp suất làm việc tới 30 at	214+SĐ
 		8402	12	99		
 6	Động cơ đốt trong	8408	10	10	Công suất đến 30 CV, loại diesel	214+SĐ
 7	Máy bơm nước thuỷ lợi	8413	81		Đến Q=32.000 m3/h, H=30 - 40 m	214
@@ -32,13 +27,9 @@ Số TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu			Ký hiệu 
 21	Tời chạy bằng động cơ điện	8425	31	00	Sức nâng đến 50 tấn	BS
 22	Tời các loại	8425	39	00	Sức nâng đến 10 tấn	BS
 23	Cần cẩu trên tầu sông, tàu ven biển các loại	8426	11	00	Sức nâng đến 15 tấn, tầm với 18 m	214+SĐ
-24	Cổng trục	8426			Sức nâng đến 125 tấn
-Khẩu độ đến 64 m	BS
-25	Cầu trục	8426			Loại 1 dầm (sức nâng đến 10 tấn, khẩu độ đến 25 m)
-Loại 2 dầm (sức nâng đến 90 tấn, khẩu độ đến 34 m)
-Loại tháp (sức nâng đến 20 tấn, tầm với đến 25 m)	BS
-26	Thang máy	8428	10	10	Chở người (tải trọng đến 2 tấn, vận tốc đến 1,5m/s)
-Chở hàng (tải trọng đến 5 tấn, vận tốc đến 1,5m/s)	BS
+24	Cổng trục	8426			Sức nâng đến 125 tấn Khẩu độ đến 64 m	BS
+25	Cầu trục	8426			Loại 1 dầm (sức nâng đến 10 tấn, khẩu độ đến 25 m) Loại 2 dầm (sức nâng đến 90 tấn, khẩu độ đến 34 m) Loại tháp (sức nâng đến 20 tấn, tầm với đến 25 m)	BS
+26	Thang máy	8428	10	10	Chở người (tải trọng đến 2 tấn, vận tốc đến 1,5m/s) Chở hàng (tải trọng đến 5 tấn, vận tốc đến 1,5m/s)	BS
 27	Xe lu tĩnh bánh lốp	8429	40	10	10 - 12 tấn	214+SĐ
 28	Xe lu tĩnh bánh thép	8429	40	10	6 - 12 tấn	214
 29	Xe lu rung bánh thép	8429	40	10	Trọng tải khi rung đến 10 tấn	214+SĐ
@@ -47,8 +38,7 @@ Chở hàng (tải trọng đến 5 tấn, vận tốc đến 1,5m/s)	BS
 	Gàu vét đất, đá	8431	41	00	F: 600-2200 mm	BS
 	Bộ ống đổ bê tông				F: 219-273 mm, dài 80m	BS
 	ống thổi rửa				F: 89 mm, dài 80 m	BS
-31	Máy gặt lúa rải hàng	8433	51	00	Bề rộng cắt 1,2-1,5 m
-Công suất đến 0,5 ha/h	BS
+31	Máy gặt lúa rải hàng	8433	51	00	Bề rộng cắt 1,2-1,5 m Công suất đến 0,5 ha/h	BS
 32	Máy tuốt lúa có động cơ và không có động cơ	8433	52	00	Công suất đến 2,5 tấn/h	BS
 33	Máy xay sát gạo	8437	80	10	Công suất đến 6 tấn/h	214
 		8437	80	20		
@@ -76,26 +66,18 @@ Công suất đến 0,5 ha/h	BS
 55	Cụm hộp số thuỷ	8483	40	21	Gắn động cơ diesen đến 15 CV	BS
 56	Máy phát điện (trên bờ)	8501	61		Công suất không quá 75 kVA	BS
 		8502	11	00	Điện áp ra 220/240 V	
-57	Động cơ điện một pha 
-(không kín nước)	8501			Công suất đến 2,2 kW, động cơ tụ điện không đồng bộ, rô to ngắn mạch	214+SĐ
-58	Động cơ điện ba pha
-(không kín nước)	8501			Công suất từ 0,55 kW đến 90 kW, động cơ không đồng bộ, rôto ngắn mạch từ 750 vg/ph đến 3000 vg/ph	214+SĐ
-59	Động cơ điện ba pha
-(không kín nước)	8501			Công suất từ 90 kW đến 1000 kW, động cơ không đồng bộ, rôto ngắn mạch 600 vg/ph	214+SĐ
-60	Hệ thống nguồn DC-48V	8504	40	30	 VITECO-ARGUS (10A-600A)	BS
-61	Hệ thống nguồn	8504	40	90	HRS 4500
-SDPS 250	BS
-62	Thiết bị nguồn độc lập	8504	40	90	DPS 4825
-DPS 4850	BS
+57	Động cơ điện một pha (không kín nước)	8501			Công suất đến 2,2 kW, động cơ tụ điện không đồng bộ, rô to ngắn mạch	214+SĐ
+58	Động cơ điện ba pha (không kín nước)	8501			Công suất từ 0,55 kW đến 90 kW, động cơ không đồng bộ, rôto ngắn mạch từ 750 vg/ph đến 3000 vg/ph	214+SĐ
+59	Động cơ điện ba pha (không kín nước)	8501			Công suất từ 90 kW đến 1000 kW, động cơ không đồng bộ, rôto ngắn mạch 600 vg/ph	214+SĐ
+60	Hệ thống nguồn DC-48V	8504	40	30	VITECO-ARGUS (10A-600A)	BS
+61	Hệ thống nguồn	8504	40	90	HRS 4500 SDPS 250	BS
+62	Thiết bị nguồn độc lập	8504	40	90	DPS 4825 DPS 4850	BS
 63	Thiết bị nguồn 1 chiều	8504	40	90	HFCR-1600	BS
-64	Balass đèn huỳnh quang dạng ống	8504	10	00	220V-50Hz
-Công suất từ 20 W đến 40 W	BS
-65	Máy biến thế	8504	21		Điện áp đến 110 kV 
-Công suất đến 63 MVA	214
+64	Balass đèn huỳnh quang dạng ống	8504	10	00	220V-50Hz Công suất từ 20 W đến 40 W	BS
+65	Máy biến thế	8504	21		Điện áp đến 110 kV Công suất đến 63 MVA	214
 		8504	22			BS
 		8504	23			
-66	Máy biến dòng điện	8504	31	10	Điện áp từ 6 đến 35kV
-Tỷ số biến dòng 5-1000/5A	BS
+66	Máy biến dòng điện	8504	31	10	Điện áp từ 6 đến 35kV Tỷ số biến dòng 5-1000/5A	BS
 67	Máy biến điện áp 1 pha (trên bờ)	8504	31	10	Điện áp từ 6 đến 35kV, loại cảm ứng	BS
 68	Máy biến điện áp 3 pha (trên bờ)	8504	31	10	Điện áp từ 6 đến 15kV, loại cảm ứng	BS
 69	Máy biến dòng đo lường hạ thế 380V và trung thế 35kV	8504	31		Sơ cấp đến 2000A; thứ cấp 1A và 5A	BS
@@ -107,13 +89,11 @@ Tỷ số biến dòng 5-1000/5A	BS
 73	Máy điện thoại tự động	8517	19	10		214+SĐ
 74	Hộp đấu dây	8517	30		HC, HD, HDTM-50, HPDR, lô giắc	214+SĐ
 75	Hộp đấu nối	8517	30		HCN 30, HCN 50	214+SĐ
-76	Hộp bảo an thuê bao 	8517	30		DS391, GDT	214+SĐ
+76	Hộp bảo an thuê bao	8517	30		DS391, GDT	214+SĐ
 77	Hộp nối dây thuê bao	8517	30		UD	214+SĐ
 78	Tủ đấu cáp điện thoại	8517	30		Bằng sắt và composite (KP 300, TS, KP 300 PCS, KP-600-PCS, KP-1600, KP 600, KP-1200)	214+SĐ
-79	Hộp bảo an thuê bao	8517	30		DS301
-GDT	BS
-80	Măng sông cáp	8517	30		PMS 1-3
-PMS 4-6	BS
+79	Hộp bảo an thuê bao	8517	30		DS301 GDT	BS
+80	Măng sông cáp	8517	30		PMS 1-3 PMS 4-6	BS
 81	Măng sông cáp quang	8517	30		PMO-12/72 FO	BS
 82	Thùng thư bưu chính	8517	30			BS
 83	Modem dùng cho mạng Payphone	8517	50	10		BS
@@ -124,26 +104,20 @@ PMS 4-6	BS
 88	Bảo an 5 điểm MDF	8517	90	90	MDF S2000-PTC	BS
 89	Giá đấu dây MDF loại P6000	8517	90	90	MDF P6000	BS
 90	Nắp hố cáp thông tin GANIVO	8517	90	90	Nhp003023023	BS
-91	Phiến đấu dây	8517	90	90	1 đôi có mỡ (BI-1), 10 đôi có mỡ  (BI-10), dây SL10, dây PO-10 (IDC102), dây thuê bao (PO-IDF và PO-ID)	BS
-92	REF nối cáp	8517	90	90	UY2
-UY-POSTEF	BS
+91	Phiến đấu dây	8517	90	90	1 đôi có mỡ (BI-1), 10 đôi có mỡ (BI-10), dây SL10, dây PO-10 (IDC102), dây thuê bao (PO-IDF và PO-ID)	BS
+92	REF nối cáp	8517	90	90	UY2 UY-POSTEF	BS
 93	Truyền dẫn quang PDH Optimux (4E1 )	8517	90	90		BS
 94	Thiết bị chống sét mạng LAN	8517	80	99	POSTEF PP-RJ45/16	BS
-95	Thiết bị chống sét trên đường dây	8517	80	99	POSTEF HSP 10-72V, POSTEF PCX -T43, POSTEF-B180, POSTEF-B480
-Sử dụng cho ngành bưu điện	BS
+95	Thiết bị chống sét trên đường dây	8517	80	99	POSTEF HSP 10-72V, POSTEF PCX -T43, POSTEF-B180, POSTEF-B480 Sử dụng cho ngành bưu điện	BS
 96	Dụng cụ kiểm tra đường dây thuê bao	8517	90	90	POSTEF DK-2000	BS
 97	Loa các loại	8518	29			BS
 98	Cầu dao cao thế (trên bờ)	8535	21		Điện áp 6 - 35kV. Dòng định mức từ 200A đến 1.000A	BS
-99	Aptômát các loại (trên bờ)	8536	20	00	U đến 500V
-I đến 600A	BS
-100	Cầu dao và cầu dao đảo chiều 
-(trên bờ)	8536	50		I đến 3.000A	BS
-101	Khởi động từ (trên bờ)	8536	90	90	Ucd 220V, 380V
-I từ 4A đến 450A	BS
+99	Aptômát các loại (trên bờ)	8536	20	00	U đến 500V I đến 600A	BS
+100	Cầu dao và cầu dao đảo chiều (trên bờ)	8536	50		I đến 3.000A	BS
+101	Khởi động từ (trên bờ)	8536	90	90	Ucd 220V, 380V I từ 4A đến 450A	BS
 102	Tủ điện các loại (trên bờ)	8537			Vỏ tủ bằng sắt sơn tĩnh điện và lắp đặt thiết bị điện thoại hoặc thiết bị thông tin viễn thông bên trong	BS
 103	Tủ điều kiển, bảo vệ đường dây và máy biến áp	8537			Tại các trạm biến áp đến 220 kV	BS
-104	Dây thuê bao điện thoại có dây gia cường	8544	49	12	POSTEF DROPWIRE
-11x0,2	BS
+104	Dây thuê bao điện thoại có dây gia cường	8544	49	12	POSTEF DROPWIRE 11x0,2	BS
 105	Sứ cách điện	8546	20		Bằng gốm điện áp đến 35kV	214
 106	Toa xe lửa chở khách	8605	00	00	Các loại	214+SĐ
 107	Toa xe lửa thùng (xi téc) composite chở chất lỏng	8606	10	00	Đến 30 m3	BS
@@ -153,66 +127,58 @@ I từ 4A đến 450A	BS
 111	Ô tô con	8703			Đến 9 chỗ ngồi	214+SĐ
 112	Ô tô tải nhẹ	8704	21		Đến 5 tấn	214
 		8704	31			
-113	Tầu khách 	8901	10		Loại thông dụng đến 300 chỗ ngồi	214
+113	Tầu khách	8901	10		Loại thông dụng đến 300 chỗ ngồi	214
 114	Phà tự hành	8901	10		Các loại	214+SĐ
 115	Tầu chở dầu	8901	20		Trọng tải đến 13.500 tấn	214+SĐ
 116	Tầu thuỷ chở hàng	8901	90		Trọng tải đến 5.000 DWT	214+SĐ
-117	Xà lan chuyên dùng trên có lắp cần cẩu các loại 	8901	90		Sức nâng đến 3.800 tấn	214
+117	Xà lan chuyên dùng trên có lắp cần cẩu các loại	8901	90		Sức nâng đến 3.800 tấn	214
 118	Xà lan biển	8901	90		Các loại	214+SĐ
 119	Xà lan vận tải sông	8901	90		Các loại	214+SĐ
 120	Tàu chuyên dụng chở container	8901	90		Trọng tải tới 1.000 TEU	214+SĐ
 121	Tầu cá vỏ gỗ các loại	8902			Công suất đến 600 CV	214+SĐ
-122	Tầu cá vỏ sắt các loại 	8902			Công suất đến 1980 CV	214+SĐ
+122	Tầu cá vỏ sắt các loại	8902			Công suất đến 1980 CV	214+SĐ
 123	Tầu cá vỏ composite	8902			Công suất đến 1000 CV	214
 124	Tầu dịch vụ nghề cá	8902			Công suất đến 2000 CV	214+SĐ
 125	Tầu kiểm ngư	8902			Công suất đến 600 CV	214
-126	Tầu kéo biển 	8904			Công suất đến 7.000 CV	214+SĐ
+126	Tầu kéo biển	8904			Công suất đến 7.000 CV	214+SĐ
 127	Tầu thả phao	8904			Công suất đến 3.000 CV	214
 128	Tầu kéo - đẩy sông	8904			Công suất đến 300 CV	214
 129	Tầu hút bùn tự hành	8905	10	00	Đến 500 m3/h	214
-130	Tầu hút bùn không tự hành	8905	10	00	Đến 3.000 m3/h
-Công suất đến 4.170 CV	
-131	Tàu cuốc sông và biển	8905	10	00	Chiều sâu cuốc 10-20m 
-Công suất đến 3.000 CV	214+SĐ
+130	Tầu hút bùn không tự hành	8905	10	00	Đến 3.000 m3/h Công suất đến 4.170 CV	
+131	Tàu cuốc sông và biển	8905	10	00	Chiều sâu cuốc 10-20m Công suất đến 3.000 CV	214+SĐ
 132	ụ nổi	8905	90	10	Sức nâng đến 20.000 tấn	
-133	Tầu chuyên dụng tốc độ cao 	8906	90	90	Đến 32 hải lý/h
-Công suất đến 3.200 CV	214
+133	Tầu chuyên dụng tốc độ cao	8906	90	90	Đến 32 hải lý/h Công suất đến 3.200 CV	214
 134	Tầu nghiên cứu biển	8906	90	90	Công suất đến 5.000 CV	214+SĐ
-135	Cân điện tử	9016	00	10	C-3000, C30K, C-6000, C-150KP, C-60KP
-Sử dụng cho ngành bưu điện	214
+135	Cân điện tử	9016	00	10	C-3000, C30K, C-6000, C-150KP, C-60KP Sử dụng cho ngành bưu điện	214
 136	Cân tự động điện tử	9016	00	10	Đến 120 tấn	BS
 137	Máy điện châm	9018	90	90	DC 6v - 2f-c	214 + SĐ
-138	Công tơ điện một pha; ba pha	9028	30	10	U đến 380V
-I đến 100A	214
+138	Công tơ điện một pha; ba pha	9028	30	10	U đến 380V I đến 100A	214
 139	Băng tải các loại				Rộng đến 2.150 mm, dài đến 100 m	BS
 140	Các loại máy xấy thùng quay				Công suất đến 1 tấn/h	BS
 141	Các loại Xyclon, lò nung				Đến 3,5 m3/h	214
-142	Card thuê bao của tổng đài điện tử 				Sử dụng cho ngành bưu điện	214
+142	Card thuê bao của tổng đài điện tử				Sử dụng cho ngành bưu điện	214
 143	Cột ăng ten vi ba				Cao đến 150 m	BS
-144	Dây chuyền chế biến mủ sao su 				Công suất đến 6 tấn/h	BS
+144	Dây chuyền chế biến mủ sao su				Công suất đến 6 tấn/h	BS
 145	Dây chuyền sản xuất phân NPK				Công suất 30.000 tấn/năm	BS
 146	Dây chuyền sản xuất phân vi sinh				Công suất đến 20 tấn/h	214
 147	Đèn báo hiệu đường thuỷ BH-998P					214
 148	Gầu tải các loại				Đến 60 m3/h, cao 25 m	214
 149	Ghi quay xi măng lò đứng					
 150	Hệ trục và chân vịt tàu thuỷ (đúc đồng)				Chân vịt đường kính đến 2 m	214
-151	Kích thuỷ lực cho lò Tuynen				Sức đẩy đến 60 tấn, hành trình 1,6 m 	214
+151	Kích thuỷ lực cho lò Tuynen				Sức đẩy đến 60 tấn, hành trình 1,6 m	214
 152	Lọc bụi tay áo				Các loại	214
 153	Máy cán thô có răng				Đến d=800 mm, l=400, 15 m3/h	214
 154	Máy cán trơn				Đến d=1000 mm, l=800, 20 m3/h	214
 155	Máy cấp liệu thùng				Đến 60 m3/h	214
-156	Máy nghiền bi				Đến 6 tấn/h, số vòng quay n= 29,2 vg/ph
-Đến 8 tấn/h, n= 23,9 vg/ph
-Đến 14 tấn/h, n= 21,4 vg/ph
-(nguyên liệu vào: 0-0,25 mm, sản phẩm ra: 0-0,074 mm)	214
+156	Máy nghiền bi				Đến 6 tấn/h, số vòng quay n= 29,2 vg/ph Đến 8 tấn/h, n= 23,9 vg/ph Đến 14 tấn/h, n= 21,4 vg/ph (nguyên liệu vào: 0-0,25 mm, sản phẩm ra: 0-0,074 mm)	214
 157	Máy nghiền hàm 400x600				Đến 10 m3/h	214
 158	Máy nghiền xa luân				Đến d=2800 mm, 40 kW	214
-159	Máy nhào đùn liên hợp có hút chân không				Đến 12  m3/h, 130 kW	214
+159	Máy nhào đùn liên hợp có hút chân không				Đến 12 m3/h, 130 kW	214
 160	Máy nhào hai trục có lưới lọc				Đến 20 m3/h, 40 kW	BS
 161	Máy thả phao các loại				Sức nâng đến 5 tấn	214
 162	Máy xoá tem và in cước thay tem					214
 163	Thiết bị đầu cuối cáp quang				STM-1, STM-4, STM-16	214
-164	Thiết bị đấu nối MDF 				Từ 500 đến 5.000 đôi	214
+164	Thiết bị đấu nối MDF				Từ 500 đến 5.000 đôi	214
 165	Thiết bị sản xuất gạch nung các loại				Đến 20 triệu viên/năm	214
 166	Thiết bị mạch vòng thuê bao (DLC)					214
 167	Thiết bị sản xuất ống nước li tâm và cột điện bằng bê tông cốt thép				Đến 300 - 1500 mm; 75 kW; 110 - 220 kV	214
@@ -221,10 +187,8 @@ I đến 100A	214
 170	Vận thăng				Sức nâng đến 500 kg - 3kW	214
 171	Vít tải các loại				Đường kính đến 600 mm, dài 30 m	214
 172	Xe goòng lò nung Tuynen					
-Danh mục vật tư xây dựng trong nước đã sản xuất được
-(ban hành kèm theo Quyết định số  704/2003/QĐ-BKH ngày 18  tháng  9  năm 2003 
-của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
-Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệu quy cách, mô tả đặc tính kỹ thuật	Ghi chú
+Danh mục vật tư xây dựng trong nước đã sản xuất được (ban hành kèm theo Quyết định số 704/2003/QĐ-BKH ngày 18 tháng 9 năm 2003 của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
+Số TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu			Ký hiệu quy cách, mô tả đặc tính kỹ thuật	Ghi chú
 		Nhóm	Phân nhóm			
 1	Cát	2505			Cát đen, cát vàng	227
 2	Thạch anh	2506	10	00	Dạng bột màu trắng	227
@@ -238,16 +202,16 @@ Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệ
 		6801	00	00		
 10	Đá khối, đá tấm và đá lát granit, đục, bazan, base, sabbase	2516				227+SĐ
 		6801	00	00		
-11	Đá, sỏi xây dựng 	2517				227
+11	Đá, sỏi xây dựng	2517				227
 12	Dolomite	2518			Dạng bột màu xám hoặc trắng	227
 13	Đá vôi và bột đá vôi	2521	00	00		227+SĐ
-14	Vôi	2522			 	227
+14	Vôi	2522				227
 15	Clinker	2523	10		Để sản xuất xi măng Poóclăng	
 16	Xi măng bền suynphát	2523	30	00	PCs, PChs	BS
 17	Xi măng Puzolan	2523	90	00	PCpuz	BS
 18	Xi măng ít toả nhiệt	2523	90	00	PCit	BS
-19	Ximăng  Poóclăng	2523	29		PCB30, PCB40, PC30, PC40, PC50	227
-20	Ximăng  Poóclăng trắng	2523	21	00	PCw	227
+19	Ximăng Poóclăng	2523	29		PCB30, PCB40, PC30, PC40, PC50	227
+20	Ximăng Poóclăng trắng	2523	21	00	PCw	227
 21	Mica	2525	20	00	Dạng vảy màu trắng trong, kích cỡ từ 16 mesh đến 100 mesh	227
 22	Felspat	2529	10	00	Dạng bột, hạt màu trắng hoặc vàng sáng	227
 23	Fluorit	2529	21	00	Dạng bột	BS
@@ -267,13 +231,13 @@ Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệ
 		3209	90	90		
 36	Sơn hoá học các loại	3208			Các loại sơn trang trí công nghiệp đặc chủng	227
 		3209				
-37	Dung môi kèm theo sơn 	3209	90	90	Dạng bột màu vàng sáng	227
-38	Keo dán công nghiệp 	3506				227
+37	Dung môi kèm theo sơn	3209	90	90	Dạng bột màu vàng sáng	227
+38	Keo dán công nghiệp	3506				227
 39	Vữa chịu lửa	3816	00	10	Cao nhôm và sa mốt	BS
 40	ống nhựa bảo vệ cáp thông tin HĐPE	3917			F32 mm - F40 mm	BS
 41	ống nhựa nhôm nhiều lớp	3917			Đường kính trong đến F35 mm	BS
 42	ống PVC và phụ tùng	3917			F20 - F200 mm	227
-43	Tấm lợp ván nhựa 	3920			0,9 mm x 0.8 m x 2 m	227
+43	Tấm lợp ván nhựa	3920			0,9 mm x 0.8 m x 2 m	227
 		3921				
 44	Panel Polyuretan	3921	13	10	Dày 50 - 200 mm	227
 45	Cửa nhựa	3925	20	00		227
@@ -285,26 +249,22 @@ Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệ
 50	Gỗ dùng kê lót trên giàn khoan	4407	99			227
 51	Gỗ cốp-pha, quy cách	4409	20			227
 52	Các loại đá lát	6801	00	00		227
-53	Đá nghiền, đá mài hình bánh xe hoặc tương tự	6804	10	00	Được chế tạo từ hạt mài corindon nhân tạo, chất liên kết gốm.  
-Đường kính ngoài từ 5 mm đến 900 mm, độ dày từ 5 mm đến 300 mm	BS
-54	Đá mài chất kết dính gốm hình khối loại có cấu tạo hạt mài chứa trên 99% là Al2O3	6804	22		Được chế tạo từ hạt mài corindon nhân tạo.  
-Có các hình khối vuông, chữ nhật, dị hình khác 	BS
-55	Đá mài bavia, đá cắt kim loại, có cấu tạo hạt mài chứa trên 99% là Al2O3	6804	30		Được chế tạo từ hạt mài corindon nhân tạo, chất liên kết nhựa.  
-Đá hình bánh xe, có đường kính ngoài 100 mm đến 350 mm, dày 1,5  mm đến 5 mm	BS
-56	Bột mài (hạt mài) nhân tạo	6805			Hạt thô và hạt mịn được chế tạo  từ quặng bôxít nhôm	BS
+53	Đá nghiền, đá mài hình bánh xe hoặc tương tự	6804	10	00	Được chế tạo từ hạt mài corindon nhân tạo, chất liên kết gốm. Đường kính ngoài từ 5 mm đến 900 mm, độ dày từ 5 mm đến 300 mm	BS
+54	Đá mài chất kết dính gốm hình khối loại có cấu tạo hạt mài chứa trên 99% là Al2O3	6804	22		Được chế tạo từ hạt mài corindon nhân tạo. Có các hình khối vuông, chữ nhật, dị hình khác	BS
+55	Đá mài bavia, đá cắt kim loại, có cấu tạo hạt mài chứa trên 99% là Al2O3	6804	30		Được chế tạo từ hạt mài corindon nhân tạo, chất liên kết nhựa. Đá hình bánh xe, có đường kính ngoài 100 mm đến 350 mm, dày 1,5 mm đến 5 mm	BS
+56	Bột mài (hạt mài) nhân tạo	6805			Hạt thô và hạt mịn được chế tạo từ quặng bôxít nhôm	BS
 57	Các sản phẩm sản xuất từ xi măng, bê tông	6810				227
 58	Cột điện bêtông ly tâm	6810	91	90	Cho đường dây đến 35 kV	BS
 59	Gạch Block	6810	11	00	Chế tạo bằng cách nén ép xi măng + cát	BS
 60	Các sản phẩm bằng xi măng amiăng, bằng xi măng sợi xen lu lô hoặc tương tự	6811				BS
 61	Tấm lợp fibrô ximăng và amiăng ximăng	6811	10	00	920 x1500 mm	227+SĐ
 		6811	20	00		
-62	Gạch chịu lửa 	6902	10	00	Mg-Chrome
-Mg-Spinel (MS80, MS86)	BS
+62	Gạch chịu lửa	6902	10	00	Mg-Chrome Mg-Spinel (MS80, MS86)	BS
 63	Gạch ốp, lát (Ceramic, Granit, Cotto, Terrazo, Brestonstone, Terastone)	6904			Đến 500 mm x 500 mm	227
 		6907				
 		6908				
-64	Gạch xây, gạch lát nền, ngói lợp 	6904				227
-65	Sứ vệ sinh 	6910			Các loại	227
+64	Gạch xây, gạch lát nền, ngói lợp	6904				227
+65	Sứ vệ sinh	6910			Các loại	227
 66	Kính phẳng, kính mờ, kính phản quang	7003	12	20	Dày 1,5 - 18 mm	227+SĐ
 		7003	12	90		
 		7003	19	20		
@@ -319,14 +279,13 @@ Mg-Spinel (MS80, MS86)	BS
 		7005	21	90		
 67	Kính dán	7008	00	00	Dày 1,5 - 18 mm	BS
 68	Kính gương	7009			Dày 1,5 - 18 mm	
-69	Thép lá mạ kẽm và phủ màu 	7210	30	11	Dày từ 1,2 mm trở xuống	227+SĐ
+69	Thép lá mạ kẽm và phủ màu	7210	30	11	Dày từ 1,2 mm trở xuống	227+SĐ
 		7210	61	10		
 		7210	70			
 70	Thép thanh, thép cuộn các loại (tròn trơn và vằn)	7213	10		F5,5 - F40 mm	227+SĐ
 		7214	10			
 		7214	20	00		
-		7214	91		
-	
+		7214	91			
 71	Thép hình các loại	7216	10	00	Các loại thép hình U, I, L, T có chiều cao đến 140 mm	227
 		7216	21	00		
 		7216	22	00		
@@ -346,14 +305,12 @@ Mg-Spinel (MS80, MS86)	BS
 75	Các loại ống thép hàn đen, mạ kẽm	7306			F14 - F115 mm	227
 76	Các loại ống thép hàn xoắn cỡ lớn	7306			F400 - F2.600 mm	227
 77	Các loại cửa, khung cửa bằng sắt hoặc thép	7308	30	00	Loại thông dụng	BS
-78	Dầm cầu thép đường bộ  và dầm thép đường sắt	7308	10		Dầm cầu thép đường bộ, khẩu độ đến 100 m, tải trọng  H30
-Dầm thép đường sắt khẩu độ đến 100 m tải trọng T26	227
+78	Dầm cầu thép đường bộ và dầm thép đường sắt	7308	10		Dầm cầu thép đường bộ, khẩu độ đến 100 m, tải trọng H30 Dầm thép đường sắt khẩu độ đến 100 m tải trọng T26	227
 79	Khung nhà, khung kho và cấu kiện nhà lắp sẵn bằng thép	7308	90	10		227+SĐ
 		9406	00	94		
-80	Tấm lợp - thép lá mạ kẽm, mạ màu dạng múi	7308	90	30	Dày 0,25 - 0,55 mm
-Dài 3500 mm	227
+80	Tấm lợp - thép lá mạ kẽm, mạ màu dạng múi	7308	90	30	Dày 0,25 - 0,55 mm Dài 3500 mm	227
 81	Các loại bể chứa	7309	00	00	Loại thông dụng	227
-82	Các loại thùng phi 	7310			Loại thông dụng	227
+82	Các loại thùng phi	7310			Loại thông dụng	227
 83	Cáp thép chống sét và dây néo LK-O9	7312			Có kết cấu đến 37 sợi. Tiết diện đến 170 mm2	BS
 84	Dây mạ kẽm, dây kẽm gai	7313	00	00		227
 85	Các loại phên, lưới, rào sắt hoặc thép	7314	20	00	Loại thông dụng	227
@@ -380,8 +337,7 @@ Dài 3500 mm	227
 96	ống cầu chì	8485	90	90	F24 x F32 bằng composite	BS
 97	Hộp bảo vệ công tơ bằng sắt và bằng composite	8485	90	90	Hộp 1,2,4,6 công tơ 1 pha. Hộp công tơ 3 pha	BS
 98	Cáp điện thoại	8544	49		Đường kính từ 0,4 - 0,9 mm, từ 6 - 1.200 đôi	BS
-99	Cáp ruột đồng, nhôm, AC bọc cách điện XLPE, PVC cho đường dây trên không trung thế và hạ thế	8544	11	20	Loại 1 hoặc 2 lõi có tiết diện lõi đơn đến 630 mm2
-Loại 3 hoặc 4 lõi có tiết diện lõi đơn đến 400 mm2	227
+99	Cáp ruột đồng, nhôm, AC bọc cách điện XLPE, PVC cho đường dây trên không trung thế và hạ thế	8544	11	20	Loại 1 hoặc 2 lõi có tiết diện lõi đơn đến 630 mm2 Loại 3 hoặc 4 lõi có tiết diện lõi đơn đến 400 mm2	227
 		8544	11	30		
 		8544	20	10		
 		8544	20	20		
@@ -393,11 +349,8 @@ Loại 3 hoặc 4 lõi có tiết diện lõi đơn đến 400 mm2	227
 103	Bóng đèn điện các loại	9405	10	20		227
 104	Giá phối dây				Dây quang ODF, dây trung gian IDF	BS
 105	Hộp chia dây				Hộp sắt 6 lộ. Hộp composite 6 lộ, 9 lộ	BS
-Danh mục vật tư phục vụ hoạt động tìm kiếm, thăm dò, phát triển 
-mỏ dầu khí trong nước đã sản xuất được
-(ban hành kèm theo Quyết định số  704 /2003/QĐ-BKH ngày 18 tháng 9  năm 2003 
-của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
-Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệu quy cách, mô tả đặc tính kỹ thuật	Ghi chú
+Danh mục vật tư phục vụ hoạt động tìm kiếm, thăm dò, phát triển mỏ dầu khí trong nước đã sản xuất được (ban hành kèm theo Quyết định số 704 /2003/QĐ-BKH ngày 18 tháng 9 năm 2003 của Bộ trưởng Bộ Kế hoạch và Đầu tư)						
+Số TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu			Ký hiệu quy cách, mô tả đặc tính kỹ thuật	Ghi chú
 		Nhóm	Phân nhóm			
 1	Biosafe	1515	19	00	Dạng lỏng	229
 2	Thạch anh	2506	10	00	Dạng bột màu trắng	229
@@ -426,7 +379,6 @@ Số  TT	Tên mặt hàng	Mã số theo biểu thuế nhập khẩu 			Ký hiệ
 23	Chất hoá dẻo DOP	3812	20	10		229+SĐ
 24	Bột nhựa PVC	3904	10			
 25	Gỗ dùng kê lót giàn khoan	4407	99			
-26	Biển báo hiệu trên giàn khoan 	8310	00	90		229
+26	Biển báo hiệu trên giàn khoan	8310	00	90		229
 27	Bảo hộ lao động				Quần, áo, giầy, ủng, mũ, yếm, găng tay	229
-28	Hóa phẩm khoan khác				Chất tạo bọt, Polime silic hữu cơ, phèn nhôm kép kali, than chì bột, vỏ trấu, 
-Bột đá cẩm thạch, Stearat nhôm, NaCL, chất hoạt tính bề mặt, HCI	229
+28	Hóa phẩm khoan khác				Chất tạo bọt, Polime silic hữu cơ, phèn nhôm kép kali, than chì bột, vỏ trấu, Bột đá cẩm thạch, Stearat nhôm, NaCL, chất hoạt tính bề mặt, HCI	229

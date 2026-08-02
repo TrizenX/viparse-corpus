@@ -441,15 +441,23 @@ extraction independently and conversion circularly, which is one axis better tha
 | of which TCVN3 | 22 | 0.909 | 0.938 | — |
 | of which VNI | 6 | 0.948 | 0.994 | — |
 
-**Read 0.939 with more caution than the other formats.** Two of the three worst
-documents disagree with viparse mainly on *spreadsheet rendering*, not on Vietnamese:
-for `2005-KH2003-bieu` viparse emits 69,739 characters where the transcript has 15,206,
-with every sheet present in both. The difference is empty cells padded out as tabs. A
-grid rendered two reasonable ways shifts the segment alignment, and the diacritics of a
-shifted line count as wrong.
+**The gap is now attributed, after three wrong guesses.**
 
-The corpus asks how much Vietnamese survives. On a spreadsheet that question is harder
-to isolate than on prose, and this number does not isolate it cleanly.
+Empty-cell padding looked like the cause — viparse emitted 177,515 characters for one
+workbook where the transcript has 29,530, and 88% of them were tabs. Fixing it
+([viparse#102](https://github.com/TrizenX/viparse/pull/102)) brought the output to 29,332
+and **did not move the score at all**. Sheet names and cell whitespace were the other two
+guesses; between them they moved 0.939 to 0.942.
+
+The real cause is a spreadsheet cell being too short for per-block content detection. In
+the mixed-encoding workbook `2007-bkqd1412006.dot`, a VNI cell inside an otherwise TCVN3
+sheet stays unconverted: `TOÅNG SOÁ` comes back as `TONG SO`. The 24-character floor that
+[viparse#87](https://github.com/TrizenX/viparse/pull/87) needed in order not to read
+`MôC LôC` as VNI is the same floor a spreadsheet cell cannot clear.
+
+That is a genuine limitation and it is the honest reading of 0.939 — not "spreadsheets
+are hard to measure", which is what the first draft of this section said before the
+cause was found.
 
 ### The `.xls` reader is genuinely independent, unlike the PDF and RTF ones
 

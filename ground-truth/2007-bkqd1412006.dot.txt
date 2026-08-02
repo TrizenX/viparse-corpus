@@ -1,17 +1,13 @@
-Bảng tổng hợp danh mục đầu tư Năm 2006 													
+Bảng tổng hợp danh mục đầu tư Năm 2006													
 Vốn ngân sách tập trung													
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)													
-													 Đơn vị tính: Triệu đồng
-Stt	Tên công trình, dự án 	Chủ đầu tư 		Địa điểm 
-thực hiện		Thời gian KC-HT 	Năng lực thiết kế 			Tổng vốn đầu tư 	Kế hoạch năm 2006
-đã giao	Kế hoạch điều chỉnh	Ghi chú 
-	Tổng cộng 									4128817.5	652574	-361945	
+													Đơn vị tính: Triệu đồng
+Stt	Tên công trình, dự án	Chủ đầu tư		Địa điểm thực hiện		Thời gian KC-HT	Năng lực thiết kế			Tổng vốn đầu tư	Kế hoạch năm 2006 đã giao	Kế hoạch điều chỉnh	Ghi chú
+	Tổng cộng									4128817.5	652574	-361945	
 Công trình chuyển tiếp										2977609.5	405674	-193045	
 	Vốn đối ứng ODA									1104042	57000	-14000	
-1	Dự án Vệ sinh môi trường thành phố Hồ Chí Minh (lưu vực Nhiêu Lộc - Thị Nghè) (WB)	Ban Quản lý Dự án Vệ sinh môi trường thành phố		Thành phố 
-Hồ Chí Minh		2002 - 2007	Xử lý nước thải và thoát nước lưu vực Nhiêu Lộc - Thị Nghè, chỉnh trang dòng kênh			471000	40000	-5000	
-2	Xây dựng khu tái định cư Vĩnh Lộc I (khu 20 ha), huyện Bình Chánh TPHCM (JBIC)	Ban Quản lý Dự án đại lộ Đông Tây và Môi trường nước thành phố		Huyện 
-Bình Chánh		2003 - 2006	586 căn			33862	7000	-4000	
+1	Dự án Vệ sinh môi trường thành phố Hồ Chí Minh (lưu vực Nhiêu Lộc - Thị Nghè) (WB)	Ban Quản lý Dự án Vệ sinh môi trường thành phố		Thành phố Hồ Chí Minh		2002 - 2007	Xử lý nước thải và thoát nước lưu vực Nhiêu Lộc - Thị Nghè, chỉnh trang dòng kênh			471000	40000	-5000	
+2	Xây dựng khu tái định cư Vĩnh Lộc I (khu 20 ha), huyện Bình Chánh TPHCM (JBIC)	Ban Quản lý Dự án đại lộ Đông Tây và Môi trường nước thành phố		Huyện Bình Chánh		2003 - 2006	586 căn			33862	7000	-4000	
 3	Dự án Cải tạo kênh và đường dọc kênh Tân Hóa - Lò Gốm (giai đoạn 1) - dự án thành phần số 4	Ban Quản lý các dự án Nâng cấp đô thị thành phố		Quận 6, quận Tân Bình, quận 8, quận 11, quận Bình Tân		2005 - 2008	Cải tạo 10.197m kênh; cải tạo 2.283m đường; xây dựng 10 cầu nhỏ và 2 cầu lớn			599180	10000	-5000	
 	Chương trình đầu tư cho giáo dục - đào tạo									180420	44662	-28270	
 1	Xây dựng Trường Tiểu học Lê Đình Chinh quận 5	Ban Quản lý Dự án đầu tư xây dựng công trình quận 5		Quận 5		2003 - 2006	29 phòng học			10552	4588	-3238	
@@ -34,20 +30,16 @@ Bình Chánh		2003 - 2006	586 căn			33862	7000	-4000
 5	Xây dựng Ngân hàng máu của Bệnh viện Truyền máu Huyết học	Bệnh viện Truyền máu Huyết học		Quận 5		2005 - 2007	3.000m2			89649	10000	-5000	
 6	Mua sắm thiết bị y tế chuyên dùng phòng mổ Bệnh viện Phụ sản Hùng Vương	Bệnh viện Phụ sản Hùng Vương		Quận 5		2005 - 2006	Thiết bị y tế chuyên dùng			6150	2199	-2199	
 7	Mua sắm trang thiết bị phục vụ cho việc tiếp nhận điều trị bỏng của Bệnh viện cấp cứu Trưng Vương	Bệnh viện cấp cứu Trưng Vương		Quận 10		2004 - 2006	Thiết bị y tế chuyên dùng			7500	4602	-3800	
-8	Mua sắm trang thiết bị phục vụ cho việc tiếp nhận điều trị bỏng của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định		Quận 
-Bình Thạnh		2004 - 2006	Thiết bị chuyên dùng			7500	2433	-1500	
-9	Mua sắm thay thế nâng cấp trang thiết bị y tế chuyên môn của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định		Quận 
-Bình Thạnh		2004 - 2006	Thiết bị chuyên dùng			12511	3258	-1500	
+8	Mua sắm trang thiết bị phục vụ cho việc tiếp nhận điều trị bỏng của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định		Quận Bình Thạnh		2004 - 2006	Thiết bị chuyên dùng			7500	2433	-1500	
+9	Mua sắm thay thế nâng cấp trang thiết bị y tế chuyên môn của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định		Quận Bình Thạnh		2004 - 2006	Thiết bị chuyên dùng			12511	3258	-1500	
 10	Mua sắm 05 máy giúp thở và 05 monitor cho Bệnh viện Nhân dân 115	Bệnh viện Nhân dân 115		Quận 10		2005 - 2006	Thiết bị y tế chuyên dùng			3000	1743	-1743	
 11	Đầu tư thay thế bổ sung và nâng cấp trang thiết bị y tế chuyên dùng của Bệnh viện Bình Dân	Bệnh viện Bình Dân		Quận 3		2005 - 2006	Thiết bị y tế chuyên dùng			10695	6442	-5700	
 12	Mua sắm trang thiết bị y tế chuyên môn của Bệnh viện Đa khoa Thủ Đức	Bệnh viện Đa khoa khu vực Thủ Đức		Quận Thủ Đức		2005 - 2006	Thiết bị chuyên dùng			1914	1156	-600	
 13	Mua sắm trang thiết bị y tế chuyên môn của Bệnh viện Trưng Vương	Bệnh viện cấp cứu Trưng Vương		Quận 10		2005 - 2006	Thiết bị y tế chuyên dùng			14115	5000	-4500	
 	Chương trình ba giảm									41370	4000	-3000	
-1	Sửa chữa, cải tạo và xây dựng mở rộng Trung tâm chữa bệnh Phú Văn	Ban Quản lý Dự án ĐTXD công trình Sở Lao động TBXH		Tỉnh 
-Bình Phước		2003 - 2006	2.000 học viên			41370	4000	-3000	
+1	Sửa chữa, cải tạo và xây dựng mở rộng Trung tâm chữa bệnh Phú Văn	Ban Quản lý Dự án ĐTXD công trình Sở Lao động TBXH		Tỉnh Bình Phước		2003 - 2006	2.000 học viên			41370	4000	-3000	
 	Chương trình xây nhà tái định cư									106605	21874	-11000	
-1	Xây dựng chung cư Phạm Viết Chánh, quận Bình Thạnh	Công ty Thanh niên xung phong		Quận 
-Bình Thạnh		2002 - 2004	744 căn			106605	21874	-11000	
+1	Xây dựng chung cư Phạm Viết Chánh, quận Bình Thạnh	Công ty Thanh niên xung phong		Quận Bình Thạnh		2002 - 2004	744 căn			106605	21874	-11000	
 	Chương trình xây dựng CVPM Quang Trung và KCNC									482847	116980	-52280	
 1	Xây dựng đường trục chính D1 Khu công nghệ cao thành phố Hồ Chí Minh	Ban Quản lý các dự án Đầu tư - Xây dựng Khu công nghệ cao thành phố		Quận 9		2004 - 2007	3.450m x 50m, bê tông nhựa			199035	35000	-5000	
 2	Xây dựng cơ sở hạ tầng kỹ thuật lô I-5 Khu công nghệ cao thành phố	Ban Quản lý các dự án Đầu tư - Xây dựng Khu công nghệ cao thành phố		Quận 9		2004 - 2006	5,3ha			8729	5355	-4355	
@@ -79,10 +71,8 @@ Bình Thạnh		2002 - 2004	744 căn			106605	21874	-11000
 11	Nâng cấp bến phà Thủ Thiêm bờ quận 1 và quận 2	Công ty Quản lý công trình Cầu Phà		Quận 1, quận 2		2003 - 2005	Phà 100T, mở rộng bến			15387	1500	-1000	
 12	Xây dựng đường 15B quận 7 (đoạn vào khu tái định cư Phú Mỹ)	Ban Quản lý Dự án khu vực quận 7		Quận 7		2005 - 2006	350m x 40m tráng nhựa			19844	5692	-3500	
 13	Xây dựng cầu Rạch Đôn	Công ty Quản lý công trình Cầu Phà		Huyện Cần Giờ		2004 - 2006	171,78m x 13,25m			29620	5000	-1000	
-14	Sửa chữa nâng cấp Tỉnh lộ 10 (từ đường An Dương Vương đến ranh Long An), huyện Bình Chánh	Công ty Quản lý công trình giao thông Sài Gòn		Huyện 
-Bình Chánh		2004 - 2005	14.158m x 13,5m			45721	8000	-6000	
-15	Mở rộng nâng cấp đường Đất Mới	Công ty Quản lý công trình giao thông Sài Gòn		Huyện 
-Bình Chánh		2003 - 2006	14m x 2.043m			19507	5000	-1900	
+14	Sửa chữa nâng cấp Tỉnh lộ 10 (từ đường An Dương Vương đến ranh Long An), huyện Bình Chánh	Công ty Quản lý công trình giao thông Sài Gòn		Huyện Bình Chánh		2004 - 2005	14.158m x 13,5m			45721	8000	-6000	
+15	Mở rộng nâng cấp đường Đất Mới	Công ty Quản lý công trình giao thông Sài Gòn		Huyện Bình Chánh		2003 - 2006	14m x 2.043m			19507	5000	-1900	
 	Các công trình và dự án khác									193874.5	36365	-15794	
 1	Xây dựng Trung tâm hành chính quận Tân Bình (nay là quận Tân Phú)	Ủy ban nhân dân quận Tân Bình		Quận Tân Phú		2003 - 2005	Tổng DT sàn XD: 13.606m2			33038	9700	-2200	
 2	Đầu tư đổi mới trang TB kỹ thuật cho Đài Tiếng nói Nhân dân thành phố Hồ Chí Minh	Đài Tiếng nói Nhân dân thành phố		Quận 1		2003 - 2006	Sửa chữa trụ sở hiện hữu			21544.5	1249	-1249	
@@ -91,15 +81,13 @@ Bình Chánh		2003 - 2006	14m x 2.043m			19507	5000	-1900
 5	Xây dựng Trung tâm Văn hóa huyện Củ Chi	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Củ Chi		Huyện Củ Chi		2003 - 2006	500 chỗ			14460	3105	-2500	
 6	Khai thông tuyến đường thủy nối sông Sài Gòn - sông Đồng Nai qua ngã Rạch Chiếc	Khu Đường sông		Quận 9, quận 2		2005 - 2007	13.613m3 nạo vét			61413	4000	-2000	
 7	Xây dựng Nghĩa trang Nhân dân huyện Nhà Bè	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Nhà Bè		Huyện Nhà Bè		2002 - 2006	5.52			29350	3000	-2000	
-8	Đầu tư phương tiện và thiết bị cho Khu Đường sông	Khu Đường sông		Thành phố 
-Hồ Chí Minh		2005 - 2006	Thiết bị đồng bộ			7075	5000	-1200	
+8	Đầu tư phương tiện và thiết bị cho Khu Đường sông	Khu Đường sông		Thành phố Hồ Chí Minh		2005 - 2006	Thiết bị đồng bộ			7075	5000	-1200	
 9	Chỉnh trang Bảo tàng thành phố	Ban Quản lý Dự án ĐTXD công trình VHTT		Quận 1		2005 - 2006	Chỉnh trang 4.000m2			2490	2000	-1500	
 10	Duy tu bảo dưỡng và nâng cấp Bảo tàng Hồ Chí Minh	Ban Quản lý Dự án ĐTXD công trình VHTT		Quận 4		2005 - 2006	Sửa chữa chỉnh trang 3.996m2			3800	1801	-951	
 11	Xây dựng Tượng đài Liệt sỹ Trần Văn Ơn	Ban Quản lý Dự án ĐTXD công trình VHTT		Quận 1		2005 - 2006	01 tượng đài			1810	1300	-650	
 Công trình khởi công mới										317053	89900	-79900	
 	Chương trình đầu tư cho giáo dục - đào tạo									13016	2000	-1500	
-1	Xây dựng Trường Tiểu học Bình Lợi Trung	Ban Quản lý Dự án đầu tư xây dựng công trình quận Bình Thạnh		Quận 
-Bình Thạnh		2006 - 2007	30 phòng+ khối phụ			13016	2000	-1500	
+1	Xây dựng Trường Tiểu học Bình Lợi Trung	Ban Quản lý Dự án đầu tư xây dựng công trình quận Bình Thạnh		Quận Bình Thạnh		2006 - 2007	30 phòng+ khối phụ			13016	2000	-1500	
 	Chương trình đầu tư cho y tế									10086	2000	-2000	
 1	Mua sắm trang thiết bị y tế chuyên môn Bệnh viện Cấp cứu Trưng Vương	Bệnh viện Cấp cứu Trưng Vương		Quận 10		2006	Thiết bị chuyên dùng			10086	2000	-2000	
 	Chương trình xây dựng CVPM Quang Trung và KCNC									229900	70000	-67500	
@@ -111,10 +99,8 @@ Bình Thạnh		2006 - 2007	30 phòng+ khối phụ			13016	2000	-1500
 1	Giải quyết thoát nuớc cho khu tái định cư (38 ha) phường Tân Thới Nhất, quận 12	Công ty Công trình Giao thông công chính		Quận 12		2005 - 2007	1.372m cống các loại			9592	3000	-3000	
 	Các công trình và dự án khác									54459	12900	-5900	
 1	Xây dựng Trung tâm Văn hóa huyện Cần Giờ	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Cần Giờ		Huyện Cần Giờ		2006 - 2007	Diện tích sàn xây dựng 4.643m2			23176	6000	-2000	
-2	Xây dựng hệ thống thủy lợi khu B xã Bình Lợi	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Bình Chánh		Huyện 
-Bình Chánh		2004 - 2007	Chống ngập úng cho 893ha			29363	5000	-3000	
-3	Trùng tu Lăng Võ Tánh	Ban Quản lý Dự án ĐTXD công trình VHTT		Quận 
-Phú Nhuận		2006	Trùng tu tôn tạo kiến trúc di tích thành phố			1920	1900	-900	
+2	Xây dựng hệ thống thủy lợi khu B xã Bình Lợi	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Bình Chánh		Huyện Bình Chánh		2004 - 2007	Chống ngập úng cho 893ha			29363	5000	-3000	
+3	Trùng tu Lăng Võ Tánh	Ban Quản lý Dự án ĐTXD công trình VHTT		Quận Phú Nhuận		2006	Trùng tu tôn tạo kiến trúc di tích thành phố			1920	1900	-900	
 Chuẩn bị thực hiện dự án										834155	157000	-89000	
 	Chương trình xây nhà tái định cư									199097	15000	-15000	
 1	Bồi thường giải phóng mặt bằng để xây dựng khu tái định cư phường Tân Thới Nhất, quận 12 (khu 38 ha)	Công ty Công trình Giao thông công chính		Quận 12		2002 - 2007	Đền bù 36,2ha			199097	15000	-15000	
@@ -123,15 +109,14 @@ Chuẩn bị thực hiện dự án										834155	157000	-89000
 	Chương trình đầu tư cho giao thông									288736	42000	-38000	
 1	Xây dựng hầm vượt xa lộ Trường Sơn (Khu chế xuất Linh Trung 1), quận Thủ Đức	Khu Quản lý Giao thông Đô thị số 2		Quận Thủ Đức		2006 - 2007	38m x 25,6m			45564	8000	-6000	
 2	Sửa chữa, nâng cấp đường Phạm Văn Bạch	Khu Quản lý Giao thông Đô thị		Quận Tân Bình, quận Gò Vấp		2006 - 2007	5.765m đường			225602	30000	-29000	
-3	Sửa chữa lớn Tỉnh lộ 2 (đoạn qua căn cứ Đồng Dù)	Khu Quản lý Giao thông Đô thị số 3		Huyện Củ Chi		2006 - 2007	5.190m x 12,5m			17570	4000	-3000	Chuyển Chủ đầu tư từ CTQLCTGTSG sang Khu QLGTĐT số 3 
-Bảng tổng hợp danh mục đầu tư Năm 2006 									
+3	Sửa chữa lớn Tỉnh lộ 2 (đoạn qua căn cứ Đồng Dù)	Khu Quản lý Giao thông Đô thị số 3		Huyện Củ Chi		2006 - 2007	5.190m x 12,5m			17570	4000	-3000	Chuyển Chủ đầu tư từ CTQLCTGTSG sang Khu QLGTĐT số 3
+Bảng tổng hợp danh mục đầu tư Năm 2006									
 Vốn ngân sách tập trung									
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND									
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)									
-									 Đơn vị tính: Triệu đồng
-Stt	Tên công trình, dự án 	Chủ đầu tư 	Địa điểm thực hiện	Thời gian KC-HT 	Năng lực thiết kế 	Tổng vốn đầu tư 	Kế hoạch năm 2006 
-đã giao	Kế hoạch bổ sung	Ghi chú 
-	Tổng cộng 					10120213	1016877	1042436	
+									Đơn vị tính: Triệu đồng
+Stt	Tên công trình, dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian KC-HT	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch năm 2006 đã giao	Kế hoạch bổ sung	Ghi chú
+	Tổng cộng					10120213	1016877	1042436	
 Công trình chuyển tiếp						9017078	769834	758612	
 	Vốn đối ứng ODA					5145431.5	241795	213511	
 1	Dự án Cải thiện môi trường (ADB)	Ban Quản lý dự án cải thiện môi trường TP	Thành phố Hồ Chí Minh	2000 - 2007	Thu gom xử lý rác, cải tạo rạch Hàng Bàng. Đầu tư phương tiện vận chuyển rác. Xây dựng công trường xử lý rác 130ha	98952	15000	2000	
@@ -142,18 +127,14 @@ Công trình chuyển tiếp						9017078	769834	758612
 6	Dự án Nâng cấp cơ sở hạ tầng kỹ thuật cấp 3 các khu dân cư thu nhập thấp thuộc lưu vực Tân Hóa - Lò Gốm, dự án thành phần số 1, Tiểu dự án Nâng cấp đô thị TP Hồ Chí Minh	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận Bình Tân, quận 6, quận Tân Bình, quận Tân Phú	2004 - 2006	Nâng cấp 33 khu lụp xụp	210715	4000	9200	
 7	Dự án Hỗ trợ kỹ thuật và tăng cường năng lực quản lý dự án trên địa bàn TP - Dự án hạng mục 6	Ban Quản lý các dự án nâng cấp đô thị thành phố	Thành phố Hồ Chí Minh	2004 - 2008	Hỗ trợ kỹ thuật và đào tạo cho BQLDA, chính quyền và cộng đồng thực hiện dự án NCĐT	24719.5	3000	2000	
 	Chương trình đầu tư cho giáo dục - đào tạo					233196	73232	58610	
-1	Xây dựng Trường Kỹ thuật công nghiệp Thủ Đức	Ban Quản lý dự án khu vực đầu tư xây dựng quận Thủ Đức	Quận 
-Thủ Đức	2005 - 2007	20 phòng học, khối hành chính, khối phụ	32405	8000	3000	
+1	Xây dựng Trường Kỹ thuật công nghiệp Thủ Đức	Ban Quản lý dự án khu vực đầu tư xây dựng quận Thủ Đức	Quận Thủ Đức	2005 - 2007	20 phòng học, khối hành chính, khối phụ	32405	8000	3000	
 2	Xây dựng Trường Tiểu học Tân Sơn Nhì	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2005 - 2006	31 phòng học	25268	7000	3000	
 3	Xây dựng mở rộng Trường THPT Lê Thánh Tôn	Ban Quản lý dự án khu vực quận 7	Quận 7	2005 - 2006	36 phòng và khối phụ	21500	7000	2500	
 4	Xây dựng Trường Trung học cơ sở Tân Nhựt	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2005 - 2006	25 phòng hành chính khối phụ	18973	7232	6195	
 5	Xây dựng mới Trường Trung học phổ thông quận Gò Vấp (xây dựng trường đạt chuẩn Quốc gia)	Ban Quản lý dự án khu vực đầu tư xây dựng quận Gò Vấp	Quận Gò Vấp	2005 - 2006	42 phòng học, 26 khối phụ, 4 xưởng thực hành	30391	9000	8000	
-6	Xây dựng mới Trường Trung học cơ sở Đống Đa	Ban Quản lý dự án đầu tư xây dựng công trình quận Bình Thạnh	Quận 
-Bình Thạnh	2005 - 2006	30 phòng học	13141	5000	5000	
-7	Xây dựng mới Trường Tiểu học Bình Chánh	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2005 - 2006	15 phòng + khối phụ	11024	3500	4262	
-8	Xây dựng Trường Tiểu học bán trú Bình Hưng - Bình Chánh	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2006 - 2007	22 phòng học, khối phụ	20147	3000	10000	
+6	Xây dựng mới Trường Trung học cơ sở Đống Đa	Ban Quản lý dự án đầu tư xây dựng công trình quận Bình Thạnh	Quận Bình Thạnh	2005 - 2006	30 phòng học	13141	5000	5000	
+7	Xây dựng mới Trường Tiểu học Bình Chánh	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2005 - 2006	15 phòng + khối phụ	11024	3500	4262	
+8	Xây dựng Trường Tiểu học bán trú Bình Hưng - Bình Chánh	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2006 - 2007	22 phòng học, khối phụ	20147	3000	10000	
 9	Xây dựng Trường Trung học cơ sở Nguyễn Văn Nghi quận Gò Vấp	Ban Quản lý dự án khu vực đầu tư xây dựng quận Gò Vấp	Quận Gò Vấp	2005 - 2006	Xây dựng 17 phòng học và khối công trình phục vụ giảng dạy	19707	7500	6500	
 10	Sửa chữa nâng cấp Trường Trung học cơ sở Trung Lập	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2005 - 2007	36 phòng, khối phụ	25487	10000	5000	
 11	Xây dựng mới Trường THCS Tân Thới Hòa	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2005 - 2006	24 phòng học, khối phụ	15153	6000	5153	
@@ -162,16 +143,11 @@ Bình Chánh	2006 - 2007	22 phòng học, khối phụ	20147	3000	10000
 2	Xây dựng Trung tâm Y tế quận 2	Ban Quản lý dự án khu vực quận 2	Quận 2	2003 - 2006	50 giường nội trú	31967	3500	3442	
 3	Sửa chữa nâng cấp Bệnh viện An Bình	Bệnh viện An Bình	Quận 5	2005 - 2007	Sửa chữa 18.600m2	20053	5000	5000	
 	Chương trình ba giảm					437138	67000	57000	
-1	Xây dựng mới Trung tâm Điều dưỡng tâm thần Tân Định	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2004 - 2007	1.500 người	83530	20000	20000	
-2	Xây dựng mới Trung tâm Giáo dục Lao động xã hội Phú Nghĩa	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2004 - 2007	2.000 học viên	119173	15000	15000	
-3	Xây dựng bổ sung một số hạng mục công trình Trung tâm Cai nghiện ma túy Bình Đức	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2003 - 2006	1.500 học viên	37270	7000	2000	
-4	Xây dựng Khu dân cư Nhị Xuân, xã Xuân Thới Sơn, huyện Hóc Môn (giai đoạn 1, phục vụ Chương trình 3 giảm)	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện 
-Hóc Môn	2004 - 2007	5.000 học viên	105686	10000	10000	
-5	Xây dựng mới Trung tâm Giáo dục Lao động xã hội Phú Đức	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2004 - 2007	1.600 học viên	91479	15000	10000	
+1	Xây dựng mới Trung tâm Điều dưỡng tâm thần Tân Định	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2004 - 2007	1.500 người	83530	20000	20000	
+2	Xây dựng mới Trung tâm Giáo dục Lao động xã hội Phú Nghĩa	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2004 - 2007	2.000 học viên	119173	15000	15000	
+3	Xây dựng bổ sung một số hạng mục công trình Trung tâm Cai nghiện ma túy Bình Đức	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2003 - 2006	1.500 học viên	37270	7000	2000	
+4	Xây dựng Khu dân cư Nhị Xuân, xã Xuân Thới Sơn, huyện Hóc Môn (giai đoạn 1, phục vụ Chương trình 3 giảm)	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện Hóc Môn	2004 - 2007	5.000 học viên	105686	10000	10000	
+5	Xây dựng mới Trung tâm Giáo dục Lao động xã hội Phú Đức	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2004 - 2007	1.600 học viên	91479	15000	10000	
 	Chương trình xây nhà tái định cư					776208	57000	142900	
 1	Xây dựng hạ tầng khu tái định cư Long Sơn, phường Long Bình, quận 9 (phục vụ tái định cư dự án xây dựng Công viên Lịch sử Văn hóa Dân tộc)	Công ty Công viên Lịch sử - Văn hóa Dân tộc	Quận 9	2003 - 2007	584 căn gồm 346 nền nhà liên kế và 238 căn chung cư	130258	5000	7000	
 2	Xây dựng khu nhà ở Phú Thọ (khu B), phường 15 Quận 11 (tái định cư các hộ giải tỏa khu Trường đua Phú Thọ)	Ban Quản lý dự án đầu tư xây dựng công trình quận 11	Quận 11	2004 - 2007	427 căn hộ	206784	15000	50000	
@@ -194,60 +170,41 @@ Bình Phước	2004 - 2007	1.600 học viên	91479	15000	10000
 1	Xây dựng đường Chánh Hưng nối dài (từ đường Bình Thuận đến khu đất của Công an)	Khu Quản lý Giao thông Đô thị số 1	Huyện Nhà Bè, huyện Bình Chánh	2003 - 2007	3.000m đường - 123,6m cầu H30	145184	15000	5000	
 2	Xây dựng cầu Kênh Ngang số 3	Khu Quản lý Giao thông đô thị số 1	Quận 8	2004 - 2007	386m x 10,6m	92563	10000	9000	
 3	Xây dựng đường Liên cảng A5	Khu Quản lý Giao thông đô thị số 1	Quận 7	2000 - 2007	2.650m x 30m	43000	4500	5000	Hoàn trả 4 tỷ tạm ứng theo Văn bản số 680/UBND-TH ngày 08/02/2006 của UBNDTP và xin bổ sung thêm 1 tỷ đồng
-4	Nâng cấp Hương lộ 80, huyện Hóc Môn	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện 
-Hóc Môn	2002 - 2007	3529,15m, 
-3.529m x 20m bê tông nhựa nóng	100239	5000	4000	
-5	Xây dựng cầu Tắc Tây Đen, huyện Cần Giờ	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Cần Giờ	Huyện 
-Cần Giờ	2004 - 2007	93m cầu	20946	5000	5000	
-6	Nâng cấp, mở rộng Hương lộ 13 (Quốc lộ 1 - Bà Quẹo)	Khu Quản lý Giao thông đô thị số 1	Quận 
-Tân Phú	2004 - 2007	3.774m x 30m	361960	35000	10000	
-7	Sửa chữa, nâng cấp Hương lộ 2, quận Tân Phú	Khu Quản lý Giao thông đô thị số 1	Quận 
-Tân Phú	2003 - 2006	đường, 2.578m x 14m	33725	5000	8100	Hoàn trả tạm ứng theo Văn bản số 943/UBND-TH ngày 20/02/2006 của UBNDTP.  Chuyển chủ đầu tư từ Cty QLCTGTSG sang Khu QLGTĐT số 1
+4	Nâng cấp Hương lộ 80, huyện Hóc Môn	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2002 - 2007	3529,15m, 3.529m x 20m bê tông nhựa nóng	100239	5000	4000	
+5	Xây dựng cầu Tắc Tây Đen, huyện Cần Giờ	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Cần Giờ	Huyện Cần Giờ	2004 - 2007	93m cầu	20946	5000	5000	
+6	Nâng cấp, mở rộng Hương lộ 13 (Quốc lộ 1 - Bà Quẹo)	Khu Quản lý Giao thông đô thị số 1	Quận Tân Phú	2004 - 2007	3.774m x 30m	361960	35000	10000	
+7	Sửa chữa, nâng cấp Hương lộ 2, quận Tân Phú	Khu Quản lý Giao thông đô thị số 1	Quận Tân Phú	2003 - 2006	đường, 2.578m x 14m	33725	5000	8100	Hoàn trả tạm ứng theo Văn bản số 943/UBND-TH ngày 20/02/2006 của UBNDTP. Chuyển chủ đầu tư từ Cty QLCTGTSG sang Khu QLGTĐT số 1
 8	Xây dựng đường Tam Đa	Ban Quản lý Dự án Khu vực quận 9	Quận 9	2003 - 2007	4.139m x 15m	50500	10000	10000	
 9	Xây dựng đườngThành Thái (Nguyễn Tri Phương nối dài)	Ban Quản lý Dự án đầu tư xây dựng công trình quận 10	Quận 10	2004 - 2006	1.357m	23435	7000	1500	
 10	Nâng cấp sửa chữa đường cư xá Ngân Hàng	Ban Quản lý Dự án Khu vực quận 7	Quận 7	2005 - 2006	3.086,88m x 12m	23210	1000	4000	
-11	Mở rộng nâng cấp đường Nguyễn Thái Sơn, quận Gò Vấp	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận Gò Vấp	Quận 
-Gò Vấp	2004 - 2007	1.376m x 25m BTNN, đường	91425	8000	10000	
+11	Mở rộng nâng cấp đường Nguyễn Thái Sơn, quận Gò Vấp	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận Gò Vấp	Quận Gò Vấp	2004 - 2007	1.376m x 25m BTNN, đường	91425	8000	10000	
 12	Sửa chữa, nâng cấp đường trước Trung tâm Y tế quận 12	Ban Quản lý Dự án Khu vực quận 12	Quận 12	2005 - 2006	2.513m đường, MCN 20m	36378	10000	3800	
 13	Mở rộng nâng cấp đường Lý Chiêu Hoàng, quận 6	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận 6	Quận 6	2004 - 2006	805m x 25m + 370m x 30m	58050	4000	14000	
-14	Xây dựng cầu Tân Thuận 2	Khu Quản lý Giao thông đô thị số 1	Quận 4, 
-quận 7	2003 - 2007	420m cầu - 1.470m đường	347827	15000	5000	
-15	Sửa chữa, nâng cấp đường Tân Phú Trung, Tân Thạnh Tây huyện Củ Chi	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Củ Chi	Huyện 
-Củ Chi	2005 - 2007	7.070m x 12m BTNN	19996	4000	5000	
-16	Sửa chữa nâng cấp đường Đào Sư Tích (Phước Lộc - Phước Kiểng cũ)	Ban Quản lý dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện 
-Nhà Bè	2005 - 2007	4.451,4m	25695	5000	4000	
+14	Xây dựng cầu Tân Thuận 2	Khu Quản lý Giao thông đô thị số 1	Quận 4, quận 7	2003 - 2007	420m cầu - 1.470m đường	347827	15000	5000	
+15	Sửa chữa, nâng cấp đường Tân Phú Trung, Tân Thạnh Tây huyện Củ Chi	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2005 - 2007	7.070m x 12m BTNN	19996	4000	5000	
+16	Sửa chữa nâng cấp đường Đào Sư Tích (Phước Lộc - Phước Kiểng cũ)	Ban Quản lý dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện Nhà Bè	2005 - 2007	4.451,4m	25695	5000	4000	
 	Các công trình và dự án khác					476170.4	95807	100743	
 1	Xây dựng trụ sở hành chính quận 12	Ban Quản lý Dự án Khu vực quận 12	Quận 12	2005 - 2006	Xây dựng 6.684m2	48193	7500	12500	
-2	Đầu tư xây dựng rừng phòng hộ môi trường Bình Chánh	Chi cục Phát triển Lâm nghiệp	Huyện 
-Bình Chánh	2003 - 2008	263ha	13204	1500	1000	
+2	Đầu tư xây dựng rừng phòng hộ môi trường Bình Chánh	Chi cục Phát triển Lâm nghiệp	Huyện Bình Chánh	2003 - 2008	263ha	13204	1500	1000	
 3	Xây dựng mới doanh trại Ban Chỉ huy Quân sự quận 2	Bộ Chỉ huy Quân sự thành phố	Quận 2	2005 - 2006	Xây mới 3.591m2	17769	8000	8000	
-4	Xây dựng Nhà Thiếu nhi quận Tân Bình	Ban Quản lý Dự án đầu tư xây dựng công trình quận Tân Bình	Quận 
-Tân Bình	2005 - 2006	120.000 lượt cháu/năm	14709	4600	2100	
-5	Xây dựng vườn ươm cây xanh hoa kiểng Đông Thạnh	Công ty Công viên Cây xanh	Huyện 
-Hóc Môn	1999 - 2006	27,397ha	62170	1600	1300	
-6	Xây dựng  hồ bơi  và sân quần vợt cho Trường Thiếu Sinh Quân cấp 2 - 3 TPHCM	Bộ Chỉ huy Quân sự thành phố	Huyện 
-Củ Chi	2004 - 2005	Đường hầm 78md; hồ bơi 841m2	10245	5000	5000	
+4	Xây dựng Nhà Thiếu nhi quận Tân Bình	Ban Quản lý Dự án đầu tư xây dựng công trình quận Tân Bình	Quận Tân Bình	2005 - 2006	120.000 lượt cháu/năm	14709	4600	2100	
+5	Xây dựng vườn ươm cây xanh hoa kiểng Đông Thạnh	Công ty Công viên Cây xanh	Huyện Hóc Môn	1999 - 2006	27,397ha	62170	1600	1300	
+6	Xây dựng hồ bơi và sân quần vợt cho Trường Thiếu Sinh Quân cấp 2 - 3 TPHCM	Bộ Chỉ huy Quân sự thành phố	Huyện Củ Chi	2004 - 2005	Đường hầm 78md; hồ bơi 841m2	10245	5000	5000	
 7	Di dời tháo dỡ và thu hồi đất để xây dựng công viên Hồ Khánh Hội - Giai đoạn 2	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận 4	Phường 2 quận 4	2005 - 2006	17,6ha	199643	50000	49643	Hoàn trả tạm ứng theo văn bản số 996/UBND-TH ngày 22/02/2006 của UBNDTP
 8	Xây dựng Nhà Thiếu nhi quận 8	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận 8	Quận 8	2006 - 2007	100.000 lượt cháu/năm	24342	2000	3000	
 9	Công tác đền bù, hỗ trợ thiệt hại và tái định cư các hộ đang cư ngụ trong khuôn viên trường học, bệnh viện, cơ sở thể dục thể thao thuộc sở hữu Nhà nước (do thành phố quản lý) trên địa bàn quận 3	Ban Quản lý Dự án đầu tư xây dựng công trình quận 3	Quận 3	2004 - 2006	116 hộ	35222	3607	3200	
-10	Xây dựng Trung tâm hành chính quận Tân Bình	Ủy ban nhõn dõn quận Tõn Bỡnh	Quận 
-Tân Bình	2005 - 2006	Tổng DT sàn XD: 8.552,42m2; quy mô XD: hầm, trệt, 2 lầu	35577.4	5000	8000	
-11	Thanh toán chi phí đầu tư hạng mục Lắp đặt tuyến cống thoát nước trên đường Kha Vạn Cân thuộc dự án Xây dựng tuyến ống cấp 1 từ ngã ba Bình Thái đến cầu Bình Lợi	Tổng Công ty Cấp nước	Quận 
-Thủ Đức	2005 - 2006	7.510m ống cấp nước	15096	7000	7000	
+10	Xây dựng Trung tâm hành chính quận Tân Bình	Ủy ban nhõn dõn quận Tõn Bỡnh	Quận Tân Bình	2005 - 2006	Tổng DT sàn XD: 8.552,42m2; quy mô XD: hầm, trệt, 2 lầu	35577.4	5000	8000	
+11	Thanh toán chi phí đầu tư hạng mục Lắp đặt tuyến cống thoát nước trên đường Kha Vạn Cân thuộc dự án Xây dựng tuyến ống cấp 1 từ ngã ba Bình Thái đến cầu Bình Lợi	Tổng Công ty Cấp nước	Quận Thủ Đức	2005 - 2006	7.510m ống cấp nước	15096	7000	7000	
 Công trình khởi công mới						876295	169443	273777	
 	Chương trình đầu tư cho giáo dục - đào tạo					79035	12043	19000	
-1	Xây dựng Trường Trung học phổ thông Phú Nhuận	Ban Quản lý Dự án đầu tư xây dựng công trình quận Phú Nhuận	Quận 
-Phú Nhuận	2004 - 2006	39 phòng + các phòng phụ trợ	29825	4000	6000	
-2	Xây dựng mới Trường Trung học phổ thông Đông Thạnh	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện 
-Hóc Môn	2006 - 2007	36 phòng học và khối phụ	33643	5000	6000	
-3	Xây dựng mở rộng Trường THPT Trung Lập	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Củ Chi	Huyện 
-Củ Chi	2006	36 phòng, khối phụ	15567	3043	7000	
+1	Xây dựng Trường Trung học phổ thông Phú Nhuận	Ban Quản lý Dự án đầu tư xây dựng công trình quận Phú Nhuận	Quận Phú Nhuận	2004 - 2006	39 phòng + các phòng phụ trợ	29825	4000	6000	
+2	Xây dựng mới Trường Trung học phổ thông Đông Thạnh	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2006 - 2007	36 phòng học và khối phụ	33643	5000	6000	
+3	Xây dựng mở rộng Trường THPT Trung Lập	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006	36 phòng, khối phụ	15567	3043	7000	
 	Chương trình đầu tư cho y tế					38144	11500	22000	
 1	Mua sắm trang thiết bị cho chương trình ghép gan và máy CT scanner của Bệnh viện Nhi Đồng 2	Bệnh viện Nhi Đồng 2	Quận 1	2006	Thiết bị y tế chuyên dùng	13859	6500	4000	
 2	Mua sắm trang thiết bị y tế năm 2006 của Bệnh viện Nhân dân 115	Bệnh viện Nhân dân 115	Quận 10	2006	Thiết bị y tế chuyên dùng	24285	5000	18000	
 	Chương trình ba giảm					13406	2700	8300	
-1	Cải tạo nâng cấp đường DT760 đoạn từ Trung tâm chữa bệnh Phú Văn đến cầu Đăc Ơ2	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2006 - 2007	8km	13406	2700	8300	
+1	Cải tạo nâng cấp đường DT760 đoạn từ Trung tâm chữa bệnh Phú Văn đến cầu Đăc Ơ2	Ban Quản lý dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2006 - 2007	8km	13406	2700	8300	
 	Chương trình xây nhà tái định cư					346467	5000	30000	
 1	Xây dựng khu nhà ở Phú Thọ (Khu A) phường 15, quận 11 (tái định cư các hộ giải tỏa khu Trường đua Phú Thọ)	Ban Quản lý Dự án đầu tư xây dựng công trình quận 11	Quận 11	2006 - 2007	496 căn hộ	346467	5000	30000	
 	Chương trình chống ngập nước nội thị					37411	7300	15500	
@@ -265,8 +222,7 @@ Bình Phước	2006 - 2007	8km	13406	2700	8300
 4	Lắp đặt hệ thống chiếu sáng công cộng năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Lắp đặt 3.718 bộ đèn HPS	25000	10000	15000	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
 5	Đảm bảo giao thông của Sở Giao thông Công chính năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Đảm bảo giao thông	104800	50000	54800	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
 6	Đảm bảo giao thông thủy năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Đảm bảo giao thông thủy	10000	5000	5000	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
-7	Kinh phí để thực hiện các dự án nhỏ, cấp bách thuộc ngành giao thông công chính năm 2006	Sở Giao thông Công chính	Quận 
-Thủ Đức	2006	Công trình nhỏ, cấp bách	36700	15000	21700	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
+7	Kinh phí để thực hiện các dự án nhỏ, cấp bách thuộc ngành giao thông công chính năm 2006	Sở Giao thông Công chính	Quận Thủ Đức	2006	Công trình nhỏ, cấp bách	36700	15000	21700	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
 8	Kinh phí kiểm định cầu năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Kiểm định cầu	2000	1000	1000	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
 9	Sửa chữa vừa hệ thống cầu đường năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Hệ thống cầu đường	50000	25000	25000	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
 10	Trùng tu hệ thống thoát nước năm 2006	Sở Giao thông Công chính	Thành phố Hồ Chí Minh	2006	Trùng tu hệ thống thoát nước	20000	5000	15000	Thực hiện theo QĐ số 2297/QĐ-UBND ngày 19/5/2006 của UBNDTP
@@ -280,20 +236,18 @@ Chuẩn bị thực hiện dự án						216193	75600	1400.3
 3	Kinh phí đền bù giải tỏa để xây dựng Trường Trung học cơ sở Lê Anh Xuân	Ban Quản lý Dự án đầu tư xây dựng công trình Quận 11	Quận 11	2006	8.000m2	25000	25000	0.1	Trước đây bố trí vốn theo TB số 346/TB-VP ngày 07/6/2005 của UBND TP. Nguồn vốn BCĐ 80. Nay chuyển sang sử dụng nguồn thu đấu giá quyền sử dụng đất khu Trường đua Phú Thọ, quận 11
 	Chương trình đầu tư cho giao thông					149193	8600	1400	
 1	Nâng cấp và mở rộng đường Nguyễn Hữu Trí (tên cũ Nâng cấp đường và cống Hương lộ 8)	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Bình Chánh	Xã Tân Túc huyện Bình Chánh	2006 - 2008	5.257,17m x 19m (nền đường 23m)	149193	0	1400	
-Bảng tổng hợp danh mục đầu tư Năm 2006 								
+Bảng tổng hợp danh mục đầu tư Năm 2006								
 Vốn ngân sách tập trung								
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND								
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)								
-								 Đơn vị tính: Triệu đồng
-Stt	Tên công trình, dự án 	Chủ đầu tư	Địa điểm thực hiện	Thời gian KC-HT 	Năng lực thiết kế 	Tổng vốn đầu tư 	Kế hoạch bổ sung	Ghi chú 
-	Tổng cộng 					944612	200750	
+								Đơn vị tính: Triệu đồng
+Stt	Tên công trình, dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian KC-HT	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch bổ sung	Ghi chú
+	Tổng cộng					944612	200750	
 Công trình chuyển tiếp						591659	88424	
-	Chương trình đầu tư cho  giáo dục - đào tạo					57693	7352	
-1	Xây dựng Trung tâm Dạy nghề huyện Hóc Môn	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện 
-Hóc Môn	2003 - 2006	3000 luợt hv/năm	16021	4500	
+	Chương trình đầu tư cho giáo dục - đào tạo					57693	7352	
+1	Xây dựng Trung tâm Dạy nghề huyện Hóc Môn	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2003 - 2006	3000 luợt hv/năm	16021	4500	
 2	Xây dựng cải tạo, mở rộng Trường Trung học cơ sở Giồng Ông Tố	Ban Quản lý Dự án khu vực quận 2	Quận 2	2003 - 2006	Xây mới 3 phòng, chuyển đổi 12 phòng	8600	1109	
-3	Xây dựng Trường Trung học phổ thông Đa Phước huyện Bình Chánh	Ban Quản lý Dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2003 - 2005	36 phòng	33072	1743	
+3	Xây dựng Trường Trung học phổ thông Đa Phước huyện Bình Chánh	Ban Quản lý Dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2003 - 2005	36 phòng	33072	1743	
 	Chương trình đầu tư cho y tế					8720	6720	
 1	Mua sắm trang thiết bị phẫu thuật và hồi sức cấp cứu của Bệnh viện Nhân dân 115	Bệnh viện Nhân dân 115	Quận 10	2005 - 2006	Thiết bị y tế chuyên dùng	8720	6720	
 	Chương trình xây nhà tái định cư					28788	1300	
@@ -301,23 +255,18 @@ Bình Chánh	2003 - 2005	36 phòng	33072	1743
 	Chương trình chống ngập nước nội thị					126259	5000	
 1	Nạo vét, cải tạo rạch Tân Hóa (từ cầu Ông Buông đến rạch Bà Lài)	Khu Quản lý giao thông đô thị số 1	Quận 6	2004 - 2007	Nạo vét 20.972m3	126259	5000	
 	Chương trình đầu tư cho giao thông					263252	30676	
-1	Nâng cấp đường Long Thới - Nhơn Đức	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện 
-Nhà Bè	2002 - 2005	3.960m x 12m + cầu 73,6m	22099	1800	
+1	Nâng cấp đường Long Thới - Nhơn Đức	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện Nhà Bè	2002 - 2005	3.960m x 12m + cầu 73,6m	22099	1800	
 2	Sửa chữa nâng cấp đường Khu dân cư Phú Lợi	Ban Quản lý Dự án Khu vực đầu tư xây dựng quận 8	Quận 8	2002 - 2005	2.254m x 14m	27313	4000	
-3	Sửa chữa nâng cấp đường Chế Lan Viên	Ban Quản lý Dự án đầu tư xây dựng công trình quận Tân Phú	Quận 
-Tân Phú	2004 - 2006	851m x 30m	15900	5200	
-4	Nâng cấp mở rộng tỉnh lộ 8	Công ty Quản lý Công trình giao thông Sài Gòn	Huyện 
-Củ Chi	2002 - 2005	15.500m x 13,5m	88490	3000	
-5	Nâng cấp sửa chữa đường Tân Thạnh Đông - Tân Thạnh Tây	Ban Quản lý Dự án Khu vực Đầu tư Xây dựng huyện Củ Chi	Huyện 
-Củ Chi	2004 - 2006	7.166m x 9m	8729	4600	Hoàn trả tạm ứng theo Công văn số 3118/UBND-TH ngày 17/5/2006 của UBND thành phố
+3	Sửa chữa nâng cấp đường Chế Lan Viên	Ban Quản lý Dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2004 - 2006	851m x 30m	15900	5200	
+4	Nâng cấp mở rộng tỉnh lộ 8	Công ty Quản lý Công trình giao thông Sài Gòn	Huyện Củ Chi	2002 - 2005	15.500m x 13,5m	88490	3000	
+5	Nâng cấp sửa chữa đường Tân Thạnh Đông - Tân Thạnh Tây	Ban Quản lý Dự án Khu vực Đầu tư Xây dựng huyện Củ Chi	Huyện Củ Chi	2004 - 2006	7.166m x 9m	8729	4600	Hoàn trả tạm ứng theo Công văn số 3118/UBND-TH ngày 17/5/2006 của UBND thành phố
 6	Xây dựng đường Hoàng Quốc Việt nối dài (tên cũ: Xây dựng đường Bình Thung cũ nối dài)	Ban Quản lý Dự án khu vực quận 7	Quận 7	2005 - 2007	594,4m x 23m	16673	3000	
 7	Sửa chữa nâng cấp đường An Hạ, huyện Hóc Môn - Bình Chánh.	Công ty Quản lý Công trình giao thông Sài Gòn	Huyện Hóc Môn, huyện Bình Chánh	2003 - 2005	15.070m x 9m	32160	1876	
 8	Sửa chữa đường vào UBND phường 14 quận Tân Bình (tên mới: Sửa chữa đường vào UBND phường Tân Sơn Nhì quận Tân Phú)	Ban Quản lý Dự án Đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2004 - 2006	665m x 30m BTNN	12248	3000	
 9	Xây dựng đường vào Trung tâm Thương mại Bình Điền	Ban Quản lý Dự án khu vực đầu tư xây dựng quận 8	Quận 8	2004 - 2006	1.247m x 36m	26115	3000	
-10	Sửa chữa nâng cấp đường Cống Lở, quận Tân Bình	Ban Quản lý Dự án Đầu tư xây dựng công trình quận Tân Bình	Quận 
-Tân Bình	2004 - 2006	1.146,95m x 14m BTNN	13525	1200	
+10	Sửa chữa nâng cấp đường Cống Lở, quận Tân Bình	Ban Quản lý Dự án Đầu tư xây dựng công trình quận Tân Bình	Quận Tân Bình	2004 - 2006	1.146,95m x 14m BTNN	13525	1200	
 	Các công trình và dự án khác					106947	37376	
-1	Xây dựng trụ sở  làm việc Ban Quản lý khu Nam thành phố	Ban Quản lý Dự án Đầu tư xây dựng khu Đô thị mới Nam Sài Gòn	Quận 7	2003 - 2005	Diện tích đất xây dựng: 1.304,25m2	6315	2227	
+1	Xây dựng trụ sở làm việc Ban Quản lý khu Nam thành phố	Ban Quản lý Dự án Đầu tư xây dựng khu Đô thị mới Nam Sài Gòn	Quận 7	2003 - 2005	Diện tích đất xây dựng: 1.304,25m2	6315	2227	
 2	Xây dựng ký túc xá sinh viên Trường Cao đẳng Sư phạm TP. Hồ Chí Minh	Công ty Cổ phần Địa ốc Sài Gòn	Quận 5	2004 - 2007	760 chỗ ở cho SV	41000	10000	
 3	Kinh phí mua sắm trang thiết bị phòng chống khủng bố năm 2004 cho Bộ Chỉ huy Quân sự thành phố	Bộ Chỉ huy Quân sự thành phố	Thành phố Hồ Chí Minh	2004	Thiết bị chuyên ngành	15257	1300	
 4	Công tác đền bù, hỗ trợ thiệt hại và tái định cư các hộ trong khuôn viên do Trường Cao đẳng Sư phạm quản lý trên địa bàn quận 5	Ủy ban nhân dân quận 5	Quận 5	2004 - 2005	23 hộ	12312	10756	
@@ -329,60 +278,51 @@ Công trình khởi công mới						330884	95639
 	Vốn đối ứng ODA					54906	16000	
 1	Xây dựng Trung tâm Điều khiển Hệ thống Chiếu sáng công cộng (Pháp)	Công ty Chiếu sáng Công cộng	Thành phố Hồ Chí Minh	2005 - 2006	Trung tâm điều khiển gồm 4 tầng, với diện tích xây dựng 810m2	54906	16000	
 	Chương trình giống - cây - con					14972	2000	
-1	Xây dựng vườn thực vật Củ Chi	Chi cục Phát triển Lâm nghiệp	Huyện 
-Củ Chi	2006 - 2009	39.5ha vườn	14972	2000	
-	Chương trình đầu tư cho  giáo dục - đào tạo					34270	3000	
+1	Xây dựng vườn thực vật Củ Chi	Chi cục Phát triển Lâm nghiệp	Huyện Củ Chi	2006 - 2009	39.5ha vườn	14972	2000	
+	Chương trình đầu tư cho giáo dục - đào tạo					34270	3000	
 1	Xây dựng mới Trường THPT An Phú quận 2	Cty Phát triển và kinh doanh Nhà	Quận 2	2006 - 2007	36 phòng và khối phụ	34270	3000	
 	Chương trình đầu tư cho y tế					26663	11102	
-1	Sửa chữa cải tạo Khoa Phỏng - Khu điều trị của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định	Quận 
-Bình Thạnh	2006	7.000m2, sửa chữa cải tạo	1483	1483	
+1	Sửa chữa cải tạo Khoa Phỏng - Khu điều trị của Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định	Quận Bình Thạnh	2006	7.000m2, sửa chữa cải tạo	1483	1483	
 2	Xây dựng cải tạo mở rộng Trung tâm Y tế quận 11	Ban Quản lý Dự án đầu tư xây dựng công trình quận 11	Quận 11	2006 - 2007	2.800m2, 60 giường	12195	4000	
 3	Sửa chữa cải tạo hố thang và lắp đặt mới 01 thang máy của Bệnh viện Chấn thương chỉnh hình	Bệnh viện Chấn thương chỉnh hình	Quận 5	2006	01 thang máy	619	619	
 4	Mua sắm trang thiết bị y tế phòng mổ cấp cứu của Bệnh viện Chấn thương chỉnh hình	Bệnh viện Chấn thương chỉnh hình	Quận 5	2006	Thiết bị y tế chuyên dùng	12366	5000	
 	Chương trình ba giảm					36439	3000	
-1	Xây dựng Trung tâm chữa bệnh Đức Hạnh (giai đoạn 2)	Ban Quản lý Dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh 
-Bình Phước	2006 - 2007	2.200 hv	36439	3000	
+1	Xây dựng Trung tâm chữa bệnh Đức Hạnh (giai đoạn 2)	Ban Quản lý Dự án ĐTXD công trình Sở Lao động - TBXH	Tỉnh Bình Phước	2006 - 2007	2.200 hv	36439	3000	
 	Chương trình chống ngập nước nội thị					25716	12987	
 1	Sửa chữa cống vòm đường Nam Kỳ Khởi Nghĩa	Khu Quản lý Giao thông đô thị số 1	Quận 3, quận 1	2006 - 2007	1.245m cống	9918	4000	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGTĐT số 1
 2	Sửa chữa cống vòm đường Pasteur	Khu Quản lý Giao thông đô thị số 1	Quận 1, quận 3	2006 - 2007	1.132,3m cống	11811	5000	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGTĐT số 1
 3	Sửa chữa cống vòm đường Đinh Tiên Hoàng	Khu Quản lý Giao thông đô thị số 1	Quận 1	2006 - 2007	533m cống	3987	3987	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGTĐT số 1
 	Các công trình và dự án khác					137918	47550	
-1	Nâng cấp, cải tạo trụ sở Ủy ban nhân dân huyện Củ Chi	Ban Quản lý Dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện 
-Củ Chi	2005 - 2006	Cải tạo 5.241m2	16403	5000	
-2	Xây dựng Sở Chỉ huy Trung đoàn 10	Bộ Chỉ huy Quân sự thành phố	Huyện 
-Nhà Bè	2005 - 2006	Tổng diện tích	12054	8000	
-3	Sửa chữa cải tạo nhà tạm giữ Công an quận Gò Vấp	Công an thành phố	Quận 
-Gò Vấp	2005 - 2006	Sửa chữa cải tạo khu tạm giữ	1352	1352	
-4	Sửa chữa nâng cấp Văn phòng Hạt Kiểm lâm  Cần Giờ	Ban Quản lý Dự án đầu tư - xây dựng công trình Sở NNPTNT	Huyện 
-Cần Giờ	2006 - 2007	Quy mô 1.181m2	2939	1500	
+1	Nâng cấp, cải tạo trụ sở Ủy ban nhân dân huyện Củ Chi	Ban Quản lý Dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2005 - 2006	Cải tạo 5.241m2	16403	5000	
+2	Xây dựng Sở Chỉ huy Trung đoàn 10	Bộ Chỉ huy Quân sự thành phố	Huyện Nhà Bè	2005 - 2006	Tổng diện tích	12054	8000	
+3	Sửa chữa cải tạo nhà tạm giữ Công an quận Gò Vấp	Công an thành phố	Quận Gò Vấp	2005 - 2006	Sửa chữa cải tạo khu tạm giữ	1352	1352	
+4	Sửa chữa nâng cấp Văn phòng Hạt Kiểm lâm Cần Giờ	Ban Quản lý Dự án đầu tư - xây dựng công trình Sở NNPTNT	Huyện Cần Giờ	2006 - 2007	Quy mô 1.181m2	2939	1500	
 5	Xây dựng nhà tạm giữ của Công an quận 12	Công an thành phố	Quận 12	2005 - 2006	Tổng diện tích sàn xây dựng 2.307m2	8790	5000	
 6	Đầu tư trang bị hệ thống vô tuyến TrunKing của Công an thành phố	Công an thành phố	Quận 1	2005 - 2006	1 tổng đài; 3.000 thiết bị đầu cuối	79682	10000	
 7	Đầu tư lắp đặt hệ thống camera quan sát an ninh trật tự giai đoạn 2 của Công an thành phố	Công an thành phố	Thành phố Hồ Chí Minh	2005	22 bộ	10000	10000	
-8	Xây dựng Trạm Khuyến nông Củ Chi	Ban Quản lý Dự án đầu tư - xây dựng công trình Sở NNPTNT	Huyện 
-Củ Chi	2006	1ha, DT xây dựng 187m2	633	633	
+8	Xây dựng Trạm Khuyến nông Củ Chi	Ban Quản lý Dự án đầu tư - xây dựng công trình Sở NNPTNT	Huyện Củ Chi	2006	1ha, DT xây dựng 187m2	633	633	
 9	Sửa chữa nhà tạm giữ Công an quận 11	Công an thành phố	Quận 11	2005 - 2006	1.525m2	6065	6065	
 Chi trả thi công ứng vốn						22069	16687	
-	Chương trình đầu tư cho  giáo dục - đào tạo					22069	16687	
+	Chương trình đầu tư cho giáo dục - đào tạo					22069	16687	
 1	Xây dựng mới Trường Trung học cơ sở Nguyễn An Khương	Ban Quản lý Dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2005 - 2006	34 phòng học và khối phụ	22069	16687	
-Bảng tổng hợp danh mục đầu tư Năm 2006 								
+Bảng tổng hợp danh mục đầu tư Năm 2006								
 Vốn ngân sách tập trung								
 Chuẩn bị thực hiện dự án								
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND								
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)								
-								 Đơn vị tính: Triệu đồng
-Stt	Tên công trình, dự án 	Chủ đầu tư	Địa điểm       thực hiện	Thời gian KC-HT 	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch bổ sung	Ghi chú 
-	Tổng cộng 					3260952	387455	
+								Đơn vị tính: Triệu đồng
+Stt	Tên công trình, dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian KC-HT	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch bổ sung	Ghi chú
+	Tổng cộng					3260952	387455	
 Chuẩn bị thực hiện dự án						3260952	387455	
 	Vốn đối ứng ODA					253561	35650	
-1	Dự án Xây dựng trạm xử lý chất thải rắn nguy hại thành phố Hồ Chí Minh (Bỉ)	Công ty Môi trường Đô thị	Đông Thạnh,   huyện Hóc Môn	2005 - 2006	Đầu tư 1 lò đốt công suất 21tấn/ngày, xây dựng trạm xử lý nước thải, nhà xưởng sản xuất	30198	1700	
-2	Dự án Cải thiện hệ thống thoát nước cấp 2, 3 lưu vực Tân Hóa - Lò Gốm (giai đoạn 1) - Dự án thành phần số 3, Tiểu dự án Nâng cấp đô thị thành phố Hồ Chí Minh	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận Tân Bình, quận 11, quận 6	2005 - 2008	Xây mới và cải tạo 33,266km cống cấp 2; xây mới và cải tạo  24,26km cống cấp 3; nâng nền 671.000m2	217877	31000	
+1	Dự án Xây dựng trạm xử lý chất thải rắn nguy hại thành phố Hồ Chí Minh (Bỉ)	Công ty Môi trường Đô thị	Đông Thạnh, huyện Hóc Môn	2005 - 2006	Đầu tư 1 lò đốt công suất 21tấn/ngày, xây dựng trạm xử lý nước thải, nhà xưởng sản xuất	30198	1700	
+2	Dự án Cải thiện hệ thống thoát nước cấp 2, 3 lưu vực Tân Hóa - Lò Gốm (giai đoạn 1) - Dự án thành phần số 3, Tiểu dự án Nâng cấp đô thị thành phố Hồ Chí Minh	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận Tân Bình, quận 11, quận 6	2005 - 2008	Xây mới và cải tạo 33,266km cống cấp 2; xây mới và cải tạo 24,26km cống cấp 3; nâng nền 671.000m2	217877	31000	
 3	Xây dựng Trung tâm Đào tạo từ xa thành phố Hồ Chí Minh	Trung tâm Thông tin Triển lãm	Quận 1	2006 - 2008	Xây dựng trên diện tích 629m2	5486	2950	
 	Chương trình đầu tư cho giáo dục - đào tạo					509613	53102	
 1	Xây dựng nâng cấp Trường Tiểu học Thạnh Mỹ Lợi	Ban Quản lý dự án khu vực quận 2	Quận 2	2006 - 2007	16 phòng học, hành chánh, khối phụ	18594	560	
 2	Xây dựng Trường Tiểu học Bình Trưng Đông	Ban Quản lý dự án khu vực quận 2	Quận 2	2006 - 2007	30 phòng học + khối phụ 10.000m2	28149	560	
 3	Xây dựng Trung tâm Giáo dục thường xuyên huyện Nhà Bè	Ban Quản lý dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện Nhà Bè	2006 - 2007	20 phòng	19655	7270	
-4	Xây dựng mới Trường Trung học Xây dựng	Trường Trung học Xây dựng	Huyện 
-Bình Chánh	2006 - 2008	800 học viên	12837	1700	
+4	Xây dựng mới Trường Trung học Xây dựng	Trường Trung học Xây dựng	Huyện Bình Chánh	2006 - 2008	800 học viên	12837	1700	
 5	Xây dựng Trung tâm Giáo dục thường xuyên quận 7	Ban Quản lý dự án khu vực quận 7	Quận 7	2006 - 2007	16 phòng và khối phụ	21118	2131	
 6	Xây dựng Trường Trung học phổ thông Bình Lợi Trung	Ban Quản lý dự án đầu tư xây dựng công trình quận Bình Thạnh	Quận Bình Thạnh	2006 - 2007	36 phòng học	25040	500	
 7	Xây dựng mở rộng Trường THCS thị trấn 2 Củ Chi	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2007	Khối hành chính, khối phụ, khối phục vụ, nhà tập thể thao	23677	12060	
@@ -423,7 +363,7 @@ Bình Chánh	2006 - 2008	800 học viên	12837	1700
 	Chương trình xây dựng khu tưởng niệm các Vua Hùng					51650	30000	
 1	Tạm ứng kinh phí đền bù giải phóng mặt bằng dự án Cù lao Bà Sang (40ha đợt 2)	Công ty Công viên Lịch sử - Văn hóa Dân tộc	Quận 9	2006	40ha	51650	30000	
 	Chương trình chống ngập nước nội thị					158287	12900	
-1	Cải tạo hệ thống thoát nước khu vực Quốc lộ 13 - đường Đinh Bộ Lĩnh - Nguyễn Xí  - Ung Văn Khiêm quận Bình Thạnh	Khu Quản lý Giao thông đô thị số 1	Quận Bình Thạnh	2006 - 2008	4.514 cống các loại	40460	500	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGT số 1
+1	Cải tạo hệ thống thoát nước khu vực Quốc lộ 13 - đường Đinh Bộ Lĩnh - Nguyễn Xí - Ung Văn Khiêm quận Bình Thạnh	Khu Quản lý Giao thông đô thị số 1	Quận Bình Thạnh	2006 - 2008	4.514 cống các loại	40460	500	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGT số 1
 2	Xây dựng hệ thống thoát nước khu vực đường Nơ Trang Long - Nguyễn Xí - Vũ Ngọc Phan, phường 13 quận Bình Thạnh	Khu Quản lý Giao thông đô thị số 1	Quận Bình Thạnh	2006 - 2008	4.346m cống các loại	25378	300	Chuyển chủ đầu tư từ Công ty Thoát nước đô thị sang Khu QLGTĐT số 1
 3	Xây dựng tuyến cống thoát nước hẻm 125 và hẻm 67 đường Đinh Tiên Hoàng phường 3 quận Bình Thạnh	Ban Quản lý dự án đầu tư xây dựng công trình quận Bình Thạnh	Quận Bình Thạnh	2006 - 2007	1.806m	12509	1400	
 4	Cải tạo hệ thống thoát nước rạch Phan Văn Hân, quận Bình Thạnh	Ban Quản lý dự án đầu tư xây dựng công trình quận Bình Thạnh	Quận Bình Thạnh	2006 - 2007	1.770m cống các loại	24685	10000	
@@ -431,31 +371,28 @@ Bình Chánh	2006 - 2008	800 học viên	12837	1700
 	Chương trình đầu tư cho giao thông					1148070	59600	
 1	Sửa chữa, nâng cấp đường Nguyễn Thị Sóc (từ Quốc lộ 22 đến Hương lộ 80, Nguyễn Ảnh Thủ)	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2006 - 2007	1.600m x 20m	34307	500	
 2	Xây dựng nút giao thông đầu cầu Kênh Tẻ, phía quận 7	Ban Quản lý dự án khu vực quận 7	Quận 7	2006 - 2008	403m x 20m BTNN	28371	500	
-3	Sửa chữa, nâng cấp đường liên phường Tân Chánh Hiệp - Tân Thới Hiệp quận 12	Ban Quản lý dự án khu vực quận 12	Quận 12	2006 - 2008	3.250m x 30m, 
-2.992m x 25m	52710	500	
+3	Sửa chữa, nâng cấp đường liên phường Tân Chánh Hiệp - Tân Thới Hiệp quận 12	Ban Quản lý dự án khu vực quận 12	Quận 12	2006 - 2008	3.250m x 30m, 2.992m x 25m	52710	500	
 4	Sửa chữa đường Tam Tân	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2008	11.825m x 20m	188580	1300	
 5	Xây dựng đường nối kho C vào trung tâm huyện Nhà Bè	Ban Quản lý dự án đầu tư xây dựng công trình huyện Nhà Bè	Huyện Nhà Bè	2006 - 2007	1.588m x 25m tráng nhựa	46149	500	
 6	Nâng cấp đường Dương Công Khi	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2006 - 2007	6.905,25m	67132	500	
 7	Sửa chữa nâng cấp mở rộng đường Nguyễn Hữu Dật	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	770m x 16m	17235	6600	
-8	Sửa chữa nâng cấp đường Nguyễn Phúc Chu	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Bình	Quận Tân Bình	2006 - 2007	1.087m x 18.5m, 
-1.100m x 20m	55230	600	
-9	Xây dựng công trình cầu Xây Dựng	Khu Quản lý Giao thông đô thị số 2	Quận 9	2006 - 2007	43,6m x 11m H30	28575	1900	Chuyển chủ đầu tư từ Công ty QLCT Cầu Phà  sang Khu QLGTĐT số 2
+8	Sửa chữa nâng cấp đường Nguyễn Phúc Chu	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Bình	Quận Tân Bình	2006 - 2007	1.087m x 18.5m, 1.100m x 20m	55230	600	
+9	Xây dựng công trình cầu Xây Dựng	Khu Quản lý Giao thông đô thị số 2	Quận 9	2006 - 2007	43,6m x 11m H30	28575	1900	Chuyển chủ đầu tư từ Công ty QLCT Cầu Phà sang Khu QLGTĐT số 2
 10	Sửa chữa nâng cấp cầu Bà Bộ	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2006 - 2007	Cầu 33m x 11m; đường 122m	17435	300	Chuyển chủ đầu tư từ Công ty QLCT cầu phà sang Ban QLDA khu vực ĐTXD huyện Bình Chánh
 11	Cải tạo nâng cấp cầu Đinh Bộ Lĩnh, quận Bình Thạnh	Khu Quản lý Giao thông đô thị số 1	Quận Bình Thạnh	2005 - 2006	18,4m x 36m	9448	100	Chuyển chủ đầu tư từ Công ty QLCT Cầu Phà sang Khu QLGTĐT số 1
 12	Sửa chữa nâng cấp đường Tỉnh lộ 9 Củ Chi	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2008	6,070m x 12,5m, 10 cầu H30	65991	800	
 13	Mở rộng nâng cấp đường Nguyễn Sỹ Sách	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Bình	Quận Tân Bình	2006 - 2008	850m x (16m + 18,5m)	35721	500	
-14	Xây dựng cầu Tân Quý	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2006 - 2007	18,6m x 22m	9072	300	Chuyển chủ đầu tư cũ từ Công ty QLCT Cầu Phà sang Ban QLDA khu vực ĐTXD huyện Bình chánh
+14	Xây dựng cầu Tân Quý	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2006 - 2007	18,6m x 22m	9072	300	Chuyển chủ đầu tư cũ từ Công ty QLCT Cầu Phà sang Ban QLDA khu vực ĐTXD huyện Bình chánh
 15	Xây dựng đường Liêu Bình Hương	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2007	3.830m x 12m + 1 cầu H30	16695	200	
 16	Nâng cấp cải tạo đường Hiệp Bình (liên phường Hiệp Bình Chánh - Hiệp Bình Phước)	Ban Quản lý dự án khu vực đầu tư xây dựng quận Thủ Đức	Quận Thủ Đức	2006 - 2008	2190m x 15,5m	41930	500	
 17	Sửa chữa nâng cấp đường Nguyễn Văn Khạ (đoạn từ Quốc Lộ 22 - Đồng Dù)	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2007	5098m x 12,5m	28030	300	
 18	Xây dựng đường nối từ nút giao thông cầu Bà Chiêm đến Khu công nghiệp Hiệp Phước, huyện Nhà Bè	Công ty Phát triển công nghiệp Tân Thuận	Huyện Nhà Bè	2006 - 2007	2.250m đường rộng 60m, 2.171m đường x 20m (giải tỏa theo lộ giới 60m)	137050	1000	
-19	Xây dựng đường ven kênh Nhiêu Lộc -Thị Nghè (đoạn từ cầu Thị Nghè đến cửa sông Sài Gòn)	Công ty Phát triển nhà  Bình Thạnh	Quận Bình Thạnh	2004 - 2005	1.087m BTNN	94968	200	
+19	Xây dựng đường ven kênh Nhiêu Lộc -Thị Nghè (đoạn từ cầu Thị Nghè đến cửa sông Sài Gòn)	Công ty Phát triển nhà Bình Thạnh	Quận Bình Thạnh	2004 - 2005	1.087m BTNN	94968	200	
 20	Nâng cấp đường Lê Phụng Hiểu	Ban Quản lý dự án khu vực quận 2	Quận 2	2006 - 2007	1.022m x 25m (4 làn xe)	28111	500	
 21	Xây dựng đường nối từ đường Chế Lan Viên đến đường nối đường Trường Chinh-Nguyễn Hữu Dật	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	320m x 12m	7219	1200	
 22	Sửa chữa nâng cấp đường Nguyễn Ngọc Nhựt	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	798m x 16m	18799	3800	
 23	Sửa chữa nâng cấp cụm đường khu phố 4 phường Phú Thọ Hòa	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	769m x 8m	13903	3500	
-24	Sửa chữa nâng cấp cụm đường khu phố 3 phường Tân Thành (Nguyễn Văn Huyên, Dân Chủ, Đoàn Kết)	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	990m x (8, 12, 14m)  [lộ giới: 8, 16, 20m]	19965	5800	
+24	Sửa chữa nâng cấp cụm đường khu phố 3 phường Tân Thành (Nguyễn Văn Huyên, Dân Chủ, Đoàn Kết)	Ban Quản lý dự án đầu tư xây dựng công trình quận Tân Phú	Quận Tân Phú	2006 - 2007	990m x (8, 12, 14m) [lộ giới: 8, 16, 20m]	19965	5800	
 25	Xây dựng cầu Đồng Tròn - quận 9	Khu Quản lý Giao thông đô thị số 2	Quận 9	2006 - 2007	82m x 11m	25486	5000	Chuyển chủ đầu tư từ Công ty QLCT Cầu Phà sang Khu QLGTĐT số 2
 26	Xây dựng đường vành đai bắc Công viên Lịch sử - Văn hóa - Dân tộc (đoạn từ Hương lộ 33 đến bờ sông Đồng Nai)	Công ty Công viên Lịch sử - Văn hóa - Dân tộc	Quận 9	2006 - 2007	733m x 10,5m	30060	15000	
 27	Sửa chữa, nâng cấp cầu 19/5, huyện Hóc Môn	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2006 - 2007	cầu BTCT H30	29898	7700	
@@ -471,56 +408,45 @@ Bổ sung vốn phõn cấp để thực hiện cỏc cụng trỡnh theo chỉ 
 và bổ sung vốn phõn cấp từ nguồn thu vượt tiền sử dụng đất năm 2005 của cỏc quận, huyện					
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)					
 					Đơn vị tớnh: triệu đồng
-STT	QUẬN-HUYỆN	Kế hoạch năm 2006 đó giao	Kế hoạch 
-bổ sung 	Tổng kế hoạch năm 2006 	Ghi chỳ
+STT	QUẬN-HUYỆN	Kế hoạch năm 2006 đó giao	Kế hoạch bổ sung	Tổng kế hoạch năm 2006	Ghi chỳ
 	Tổng số	240295	102016	342311	
 1	Ủy ban nhân dân quận 1	10000	6000	16000	Thanh tốn kinh phí đã tạm ứng để sửa chữa lề đường phục vụ APEC
-2	Ủy ban nhân dân quận 6	24500	21814	46314	- Thanh tốn kinh phí đã tạm ứng để nâng cấp các hẻm đồng bộ với các hẻm thuộc dự án nâng cấp đơ thị (4,079 tỷ đồng)
- - Cấp lại số thu vượt tiển sử dụng đất năm 2005 theo chỉ đạo của UBNDTP tại CV số 4717/UBND-TM ngày 10/7/2006 (17,735 tỷ đồng)
-3	Ủy ban nhân dân quận 8	18400	18056	36456	Cấp lại số thu vượt tiền sử dụng đất năm 2005 
+2	Ủy ban nhân dân quận 6	24500	21814	46314	- Thanh tốn kinh phí đã tạm ứng để nâng cấp các hẻm đồng bộ với các hẻm thuộc dự án nâng cấp đơ thị (4,079 tỷ đồng) - Cấp lại số thu vượt tiển sử dụng đất năm 2005 theo chỉ đạo của UBNDTP tại CV số 4717/UBND-TM ngày 10/7/2006 (17,735 tỷ đồng)
+3	Ủy ban nhân dân quận 8	18400	18056	36456	Cấp lại số thu vượt tiền sử dụng đất năm 2005
 4	Ủy ban nhõn dõn quận 10	10000	22000	32000	Hoàn trả phần ngõn sỏch quận 10 đó tạm ứng để hỗ trợ, di dời cho Quõn khu 7 khi thu hồi đất trong khu thương mại số 90A Lý Thường Kiệt
-5	Ủy ban nhõn dõn quận Bỡnh Tõn	12400	6190	18590	Bố trớ vốn để xõy dựng hệ thống cấp nước cứu hỏa cục bộ trờn địa bàn quận Bỡnh Tõn 
-6	Ủy ban nhân dân quận Phú Nhuận	10000	5163	15163	Bổ sung vốn phân cấp để thực hiện cơng trình thốt nước đường Trần Kế Xương 
-7	Ủy ban nhân dân quận Tân Bình	10000	3534	13534	Bổ sung vốn phân cấp để chi trả tiền bồi thường mặt bằng cho Cơng ty TNHH Hồng Phúc để thực hiện dự án xây dựng trụ sở UBND quận Tân Phú 
-8	Ủy ban nhân dân quận Thủ Đức 	59441	3155	62596	Bổ sung vốn phân cấp để thực hiện nâng cấp 9 tuyến đường trên địa bàn quận theo chỉ đạo của UBNDTP tại CV số 1143/UBND-ĐT ngày 01/3/2006
-9	Ủy ban nhân dân huyện Bình Chánh	71054	5824	76878	Bố trí vốn để xây dựng hệ thống cấp nước cứu hỏa cục bộ trên địa bàn huyện Bình Chánh 
-10	Ủy ban nhõn dõn huyện Nhà Bố 	14500	10280	24780	Thanh toỏn kinh phớ đó tạm ứng để mua lại 47 nền đất tỏi định cư tại xó Phỳ Xuõn (từ nguồn thu đấu giỏ quyền sử dụng đất được để lại cho huyện Nhà Bố)
-Bảng tổng hợp danh mục đầu tư Năm 2006 								
+5	Ủy ban nhõn dõn quận Bỡnh Tõn	12400	6190	18590	Bố trớ vốn để xõy dựng hệ thống cấp nước cứu hỏa cục bộ trờn địa bàn quận Bỡnh Tõn
+6	Ủy ban nhân dân quận Phú Nhuận	10000	5163	15163	Bổ sung vốn phân cấp để thực hiện cơng trình thốt nước đường Trần Kế Xương
+7	Ủy ban nhân dân quận Tân Bình	10000	3534	13534	Bổ sung vốn phân cấp để chi trả tiền bồi thường mặt bằng cho Cơng ty TNHH Hồng Phúc để thực hiện dự án xây dựng trụ sở UBND quận Tân Phú
+8	Ủy ban nhân dân quận Thủ Đức	59441	3155	62596	Bổ sung vốn phân cấp để thực hiện nâng cấp 9 tuyến đường trên địa bàn quận theo chỉ đạo của UBNDTP tại CV số 1143/UBND-ĐT ngày 01/3/2006
+9	Ủy ban nhân dân huyện Bình Chánh	71054	5824	76878	Bố trí vốn để xây dựng hệ thống cấp nước cứu hỏa cục bộ trên địa bàn huyện Bình Chánh
+10	Ủy ban nhõn dõn huyện Nhà Bố	14500	10280	24780	Thanh toỏn kinh phớ đó tạm ứng để mua lại 47 nền đất tỏi định cư tại xó Phỳ Xuõn (từ nguồn thu đấu giỏ quyền sử dụng đất được để lại cho huyện Nhà Bố)
+Bảng tổng hợp danh mục đầu tư Năm 2006								
 Vốn ngân sách tập trung								
 Công trình chuẩn bị đầu tư								
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND								
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)								
-								 Đơn vị tính: Triệu đồng
-Stt	Tên công trình, dự án 	Chủ đầu tư	Địa điểm 
-thực hiện	Thời gian KC-HT 	Năng lực thiết kế 	Tổng vốn đầu tư 	Kế hoạch bổ sung	Ghi chú 
-	Tổng cộng 					5316714	18922	
+								Đơn vị tính: Triệu đồng
+Stt	Tên công trình, dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian KC-HT	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch bổ sung	Ghi chú
+	Tổng cộng					5316714	18922	
 Công trình chuẩn bị đầu tư						5316714	18922	
 	01. Vốn đối ứng ODA					512010	2100	
-1	Lập dự án Nâng cấp cơ sở hạ tầng cấp 3 các khu dân cư thu nhập thấp ngoài lưu vực Tân Hóa - Lò Gốm - Dự án thành phần số 2, Tiểu dự án Nâng cấp đô thị TP Hồ Chí Minh	Ban Quản lý các dự án nâng cấp đô thị thành phố	Thành phố 
-Hồ Chí Minh	2005 - 2008	Nâng cấp 71 khu dân cư thu nhập thấp	313260	500	
-2	Lập dự án Xây dựng hệ thống ống cấp nước cấp 3 và hệ thống thoát nước ngoài lưu vực Tân Hóa - Lò Gốm, Dự án thành phần số 5, 6 - Tiểu dự án Nâng cấp đô thị	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận 8, 
-quận Bình Tân, quận Tân Bình, quận 6	2006 - 2011	Nâng cấp 40km cống cấp 2, 3	191000	600	
-3	Hỗ trợ kỹ thuật chuẩn bị dự án hai tuyến metro thành phố Hồ Chí Minh	Ban chuẩn bị dự án đường sắt nội đô TPHCM	Thành phố 
-Hồ Chí Minh	2006 - 2007	Tư vấn quốc tế hỗ trợ kỹ thuật chuẩn bị dự án 2 tuyến metro ưu tiên	7750	1000	
+1	Lập dự án Nâng cấp cơ sở hạ tầng cấp 3 các khu dân cư thu nhập thấp ngoài lưu vực Tân Hóa - Lò Gốm - Dự án thành phần số 2, Tiểu dự án Nâng cấp đô thị TP Hồ Chí Minh	Ban Quản lý các dự án nâng cấp đô thị thành phố	Thành phố Hồ Chí Minh	2005 - 2008	Nâng cấp 71 khu dân cư thu nhập thấp	313260	500	
+2	Lập dự án Xây dựng hệ thống ống cấp nước cấp 3 và hệ thống thoát nước ngoài lưu vực Tân Hóa - Lò Gốm, Dự án thành phần số 5, 6 - Tiểu dự án Nâng cấp đô thị	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận 8, quận Bình Tân, quận Tân Bình, quận 6	2006 - 2011	Nâng cấp 40km cống cấp 2, 3	191000	600	
+3	Hỗ trợ kỹ thuật chuẩn bị dự án hai tuyến metro thành phố Hồ Chí Minh	Ban chuẩn bị dự án đường sắt nội đô TPHCM	Thành phố Hồ Chí Minh	2006 - 2007	Tư vấn quốc tế hỗ trợ kỹ thuật chuẩn bị dự án 2 tuyến metro ưu tiên	7750	1000	
 	Chương trình giống - cây - con					1600000	942	
 1	Lập dự án xây dựng Trung tâm Công nghệ sinh học thành phố	Trung tâm Công nghệ sinh học thành phố	Quận 12	2006 - 2010	22ha, xây dựng các tòa nhà hành chính, nghiên cứu, sản xuất… và các thiềt bị chuyên ngành	1600000	942	
-	Chương trình đầu tư cho  giáo dục - đào tạo					449300	2000	
-1	Lập dự án xây dựng Trường Cán bộ thành phố Hồ Chí Minh	Trường Cán bộ thành phố	Quận 
-Bình Thạnh	2006 - 2007	7ha	195000	1200	
-2	Lập dự án sửa chữa khu A cơ sở 2 Trường Cán bộ thành phố	Trường Cán bộ thành phố	Quận 
-Bình Thạnh	2006 - 2007	650m2	2000	100	
-3	Lập dự xây dựng Trường Mầm non Sơn Ca 11	Ban Quản lý dự án đầu tư xây dựng công trình quận Phú Nhuận	Quận 
-Phú Nhuận	2006 - 2007	1.080m2 sàn xây dựng	15000	150	
+	Chương trình đầu tư cho giáo dục - đào tạo					449300	2000	
+1	Lập dự án xây dựng Trường Cán bộ thành phố Hồ Chí Minh	Trường Cán bộ thành phố	Quận Bình Thạnh	2006 - 2007	7ha	195000	1200	
+2	Lập dự án sửa chữa khu A cơ sở 2 Trường Cán bộ thành phố	Trường Cán bộ thành phố	Quận Bình Thạnh	2006 - 2007	650m2	2000	100	
+3	Lập dự xây dựng Trường Mầm non Sơn Ca 11	Ban Quản lý dự án đầu tư xây dựng công trình quận Phú Nhuận	Quận Phú Nhuận	2006 - 2007	1.080m2 sàn xây dựng	15000	150	
 4	Lập dự án xây dựng khu giáo dục thể chất Trường THPT Hùng Vương	Ban Quản lý dự án đầu tư xây dựng công trình quận 5	Quận 5	2006 - 2007	1.836m2 sàn xây dựng	10000	150	
 5	Lập dự án xây dựng Trường THPH Nguyễn Khuyến	Ban Quản lý dự án khu vực đầu tư xây dựng quận 4	Quận 4	2006 - 2008	45 phòng học và các phòng chức năng	85470	100	
 6	Lập dự án xây dựng Trường Tiểu học phường 9, quận 4	Ban Quản lý dự án khu vực đầu tư xây dựng quận 4	Quận 4	2007 - 2008	44 phòng học và các phòng chức năng	77130	100	
 7	Lập dự án xây dựng mới Trường Trung học cơ sở Phước Long A	Ban Quản lý dự án khu vực quận 9	Quận 9	2007 - 2008	45 phòng học và các phòng chức năng	36700	100	
 8	Lập dự án xây dựng mới Trường Tiểu học Phước Long A	Ban Quản lý dự án khu vực quận 9	Quận 9	2007 - 2008	30 phòng học và các phòng chức năng	28000	100	
 	Chương trình ba giảm					107500	900	
-1	Lập dự án xây dựng khu dân cư Nhị Xuân (giai đoạn 2), phục vụ Chương trình 3 giảm	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện 
-Hóc Môn	2007	6 lô chung cư dành cho 2.500 học viên	107000	400	
-2	Lập dự án đầu tư mở rộng cụm công nghiệp Nhị Xuân (200 ha)	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện 
-Hóc Môn	2007 - 2008	200ha	500	500	Ngân sách thành phố hỗ trợ kinh phí lập quy hoạch và công tác chuẩn bị đầu tư
+1	Lập dự án xây dựng khu dân cư Nhị Xuân (giai đoạn 2), phục vụ Chương trình 3 giảm	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện Hóc Môn	2007	6 lô chung cư dành cho 2.500 học viên	107000	400	
+2	Lập dự án đầu tư mở rộng cụm công nghiệp Nhị Xuân (200 ha)	Ban Quản lý Cụm công nghiệp - Khu dân cư đô thị mới Nhị Xuân	Huyện Hóc Môn	2007 - 2008	200ha	500	500	Ngân sách thành phố hỗ trợ kinh phí lập quy hoạch và công tác chuẩn bị đầu tư
 	Chương trình xây nhà tái định cư					580175	4600	
 1	Lập dự án xây dựng hạ tầng kỹ thuật khu dân cư phường Bình Khánh, Thủ Thiêm quận 2 (khu đất 57 ha)	Ban Quản lý dự án ĐT XD khu đô thị mới Thủ Thiêm	Quận 2	2006 - 2007	57ha	3255	300	Tổng mức đầu tư dự kiến là 328 tỷ đồng. Ngân sách cấp chi phí chuẩn bị đầu tư.
 2	Lập dự án xây dựng chung cư 20 tầng, phường 14, quận 3	Ban Quản lý dự án đầu tư xây dựng công trình quận 3	Quận 3	2006 - 2007	300 căn hộ chung cư	82000	300	
@@ -540,46 +466,37 @@ Hóc Môn	2007 - 2008	200ha	500	500	Ngân sách thành phố hỗ trợ kinh ph�
 1	Lập dự án đầu tư đường trục chính D2 trong Khu Công nghệ cao thành phố	Ban Quản lý các dự án đầu tư - xây dựng Khu công nghệ cao thành phố	Quận 9	2006 - 2007	3,7km	190000	500	
 2	Lập dự án san nền lô E-1 Khu Công nghệ cao thành phố	Công ty Phát triển khu công nghệ cao	Quận 9	2006 - 2007	3.7ha	6855	150	
 	Chương trình nước sạch					100000	400	
-1	Lập dự án đầu tư công trình nước sinh hoạt nông thôn giai đoạn 2006 - 2010	Trung tâm Nước sinh hoạt và vệ sinh môi trường nông thôn	Thành phố 
-Hồ Chí Minh	2007 - 2010	Xây dựng và mở rộng 50 trạm cấp nước	100000	400	
+1	Lập dự án đầu tư công trình nước sinh hoạt nông thôn giai đoạn 2006 - 2010	Trung tâm Nước sinh hoạt và vệ sinh môi trường nông thôn	Thành phố Hồ Chí Minh	2007 - 2010	Xây dựng và mở rộng 50 trạm cấp nước	100000	400	
 	Chương trình chống ngập nước nội thị					104096	1030	
 1	Lập dự án xây dựng hệ thống tiêu thoát nước kết hợp nâng cấp mặt đường đường Trương Đình Hội	Ban Quản lý dự án khu vực đầu tư xây dựng quận 8	Quận 8	2006	Lắp đặt 800m cống thoát nước các loại, kết hợp mở rộng mặt đường	14288	180	
 2	Lập dự án xây dựng hệ thống tiêu thoát nước kết hợp nâng cấp mặt đường 41	Ban Quản lý dự án khu vực đầu tư xây dựng quận 8	Quận 8	2006 - 2007	Lắp đặt 1.100m cống các loại, kết hợp nâng cấp mặt đường hiện hữu	19981	200	
 3	Lập dự án xây dựng hệ thống tiêu thoát nước kết hợp nâng cấp mặt đường đường Thanh Niên	Ban Quản lý dự án khu vực đầu tư xây dựng quận 8	Quận 8	2006	Lắp đặt 800m cống thoát nước các loại kết hợp nâng cấp mặt đường	13827	150	
 4	Lập dự án nâng cấp hệ thống công trình thủy lợi An Phú - Phú Mỹ Hưng, Củ Chi	Ban Quản lý dự án công ty QLKTDV Thủy lợi	Huyện Củ Chi	2007 - 2009	Tưới tiêu 1.200ha	56000	500	
 	Chương trình đầu tư cho giao thông					1138301	2800	
-1	Lập dự án Xây dựng đường nối từ ngã ba Nơ Trang Long - Nguyễn Xí vào đường trục Khu công nghiệp và dân cư Bình Hòa	Ban Quản lý dự án khu công nghiệp Bình Hòa	Quận 
-Bình Thạnh	2006 - 2007	500m x 30m	64424	200	
+1	Lập dự án Xây dựng đường nối từ ngã ba Nơ Trang Long - Nguyễn Xí vào đường trục Khu công nghiệp và dân cư Bình Hòa	Ban Quản lý dự án khu công nghiệp Bình Hòa	Quận Bình Thạnh	2006 - 2007	500m x 30m	64424	200	
 2	Lập dự án nâng cấp, mở rộng đường Lê Văn Việt	Ban Quản lý dự án khu vực quận 9	Quận 9	2006 - 2007	4.618m x 30m bê tông nhựa nóng	200000	200	
 3	Nâng cấp, mở rộng đường Hương lộ 2	Ban Quản lý dự án khu vực đầu tư xây dựng quận Bình Tân	Quận Bình Tân	2006 - 2007	3690m x 14m (2 làn xe, lộ giới 40m)	24429	200	
 4	Lập dự án nâng cấp mở rộng đường Tên Lửa (từ đường Kinh Dương Vương đến Khu Y tế kỹ thuật cao)	Ban Quản lý dự án khu vực đầu tư xây dựng quận Bình Tân	Quận Bình Tân	2006 - 2007	700m x 23m (6 làn xe, lộ giới 40m)	34076	200	
-5	Lập dự án nâng cấp và mở rộng đường Đa Phước	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2006	1944m x 14m (ĐBGT đúng lộ giới 30m)	51311	200	
-6	Lập dự án mở rộng đường vào chung cư 108/69 G-H đường Trần Quang Diệu phường14 quận 3	Ban Quản lý dự án đầu tư xây dựng công trình quận 3	Quận 3	2006	506m x 10m  BTNN	6800	200	
+5	Lập dự án nâng cấp và mở rộng đường Đa Phước	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2006	1944m x 14m (ĐBGT đúng lộ giới 30m)	51311	200	
+6	Lập dự án mở rộng đường vào chung cư 108/69 G-H đường Trần Quang Diệu phường14 quận 3	Ban Quản lý dự án đầu tư xây dựng công trình quận 3	Quận 3	2006	506m x 10m BTNN	6800	200	
 7	Lập dự án cải tạo, nâng cấp đường Dương Đình Hội, quận 9	Ban Quản lý dự án khu vực quận 9	Quận 9	2006	2.650m x 12m	19500	100	
-8	Lập dự án bêtông hóa các tuyến đường giao thông nông thôn huyện Hóc Môn	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện 
-Hóc Môn	2006	Bêtông hóa 07 tuyến đường, tổng chiều dài 10.818m x 9m	42406	500	
+8	Lập dự án bêtông hóa các tuyến đường giao thông nông thôn huyện Hóc Môn	Ban Quản lý dự án đầu tư xây dựng công trình huyện Hóc Môn	Huyện Hóc Môn	2006	Bêtông hóa 07 tuyến đường, tổng chiều dài 10.818m x 9m	42406	500	
 9	Lập dự án nâng cấp mở rộng đường Lũy Bán Bích - Tân Hóa (đoạn từ ngã 3 Âu Cơ đến ngã 3 Hồng Bàng)	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận 6, quận 11, quận Tân Bình, quận Tân Phú	2006 - 2007	4.842m x 23m (mặt đường 15m)	537435	200	
 10	Lập dự án nâng cấp mở rộng đường Phạm Văn Chí phần bên trái tuyến (đoạn từ ngã tư Bình Tiên đến rạch Lò Gốm)	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận 6	2006 - 2007	1.186m x 20m (mặt đường 12m)	54432	200	
 11	Lập dự án nâng cấp mở rộng đường Bà Hom phần bên trái tuyến (đoạn từ An Dương Vương đến vòng xoay Phú Lâm)	Ban Quản lý các dự án nâng cấp đô thị thành phố	Quận 6	2006 - 2007	1.070m x 1/2 (4m + 12m mặt đường + 4m)	67188	200	
 12	Lập dự án sửa chữa nâng cấp đường vào khu sinh thái Hoa - Cá - Kiểng xã Trung An - Phú Hòa Đông	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Củ Chi	Huyện Củ Chi	2006 - 2007	7.000m x 12m (cấp phối sỏi đỏ)	20800	200	
-13	Lập dự án nâng cấp, mở rộng đường Thới Hòa	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện 
-Bình Chánh	2006	1.900m x 12m mặt đường láng nhựa	15500	200	Vận động nhân dân đóng góp 100% tiền đền bù giải tỏa (3tỷ)
+13	Lập dự án nâng cấp, mở rộng đường Thới Hòa	Ban Quản lý dự án khu vực đầu tư xây dựng huyện Bình Chánh	Huyện Bình Chánh	2006	1.900m x 12m mặt đường láng nhựa	15500	200	Vận động nhân dân đóng góp 100% tiền đền bù giải tỏa (3tỷ)
 	Các công trình và dự án khác					528477	3500	
-1	Lập  dự án xây dựng khu nhà ở cao cấp  cho chuyên gia (phục vụ dự án đầu tư Khu Công nghệ cao thành phố)	Công ty Phát triển Khu công nghệ cao	Quận 9	2006 - 2007	32ha	2700	800	Tổng mức đầu tư dự kiến khoảng 2.500 tỷ đồng. Ngân sách chỉ cấp để hỗ trợ công tác quy hoạch, lập dự án, rà phá bom mìn
+1	Lập dự án xây dựng khu nhà ở cao cấp cho chuyên gia (phục vụ dự án đầu tư Khu Công nghệ cao thành phố)	Công ty Phát triển Khu công nghệ cao	Quận 9	2006 - 2007	32ha	2700	800	Tổng mức đầu tư dự kiến khoảng 2.500 tỷ đồng. Ngân sách chỉ cấp để hỗ trợ công tác quy hoạch, lập dự án, rà phá bom mìn
 2	Lập dự án đầu tư xây dựng hạ tấng kỹ thuật khu nhà lưu trú công nhân phường Long Thạnh Mỹ, quận 9	Công ty Phát triển Khu công nghệ cao	Quận 9	2006 - 2007	3,2ha	32207	300	
-3	Lập dự án đầu tư hạ tầng kỹ thuật khu lưu trú công nhân xã Tân Nhựt, huyện Bình Chánh	Tổng Công ty Địa ốc Sài Gòn	Huyện 
-Bình Chánh	2006 - 2007	5ha	25063	300	
+3	Lập dự án đầu tư hạ tầng kỹ thuật khu lưu trú công nhân xã Tân Nhựt, huyện Bình Chánh	Tổng Công ty Địa ốc Sài Gòn	Huyện Bình Chánh	2006 - 2007	5ha	25063	300	
 4	Lập dự án di dời, tháo dỡ và thu hồi đất để xây dựng công viên Hồ Khánh Hội (giai đoạn 2)	Ban Quản lý dự án khu vực đầu tư xây dựng quận 4	Quận 4	2006	31.273m2	199512	200	
 5	Lập dự án di dời, tháo dỡ và thu hồi đất để xây dựng công viên Cù lao Nguyễn Kiệu phường 1, quận 4	Ban Quản lý dự án khu vực đầu tư xây dựng quận 4	Quận 4	2006 - 2007	25.203m2	180691	200	
-6	Lập dự án Lắp đặt 800 trụ cứu hỏa phục vụ công tác phòng cháy chữa cháy trên địa bàn thành phố Hồ Chí Minh (giai đoạn 2)	Tổng Công ty Cấp nước	Thành phố 
-Hồ Chí Minh	2006	Lắp đặt 800 trụ cứu hỏa trên địa bàn thành phố (đợt 2)	17716	200	
-7	Lập dự án đầu tư xây dựng đường Hương lộ 65 nối dài, huyện Hóc Môn (từ Tỉnh lộ 15 đến nhà máy giết mổ và chế biến gia súc)	Ủy ban nhân dân huyện Hóc Môn	Huyện 
-Hóc Môn	2006	1100m x 12m	8000	150	
+6	Lập dự án Lắp đặt 800 trụ cứu hỏa phục vụ công tác phòng cháy chữa cháy trên địa bàn thành phố Hồ Chí Minh (giai đoạn 2)	Tổng Công ty Cấp nước	Thành phố Hồ Chí Minh	2006	Lắp đặt 800 trụ cứu hỏa trên địa bàn thành phố (đợt 2)	17716	200	
+7	Lập dự án đầu tư xây dựng đường Hương lộ 65 nối dài, huyện Hóc Môn (từ Tỉnh lộ 15 đến nhà máy giết mổ và chế biến gia súc)	Ủy ban nhân dân huyện Hóc Môn	Huyện Hóc Môn	2006	1100m x 12m	8000	150	
 8	Lập dự án trụ sở Trung tâm Dịch vụ tư vấn đầu tư xây dựng khu đô thị mới Nam Thành phố	Ban Quản lý dự án đầu tư xây dựng khu đô thị mới Nam Sài Gòn	Lô C9, Khu A	2007 - 2008	Xây dựng mới trụ sở	2500	100	
 9	Lập dự án đầu tư xây dựng sàn giao dịch bất động sản và trụ sở làm việc Trung tâm Kiểm định bản đồ và Tư vấn tài nguyên môi trường	Trung tâm Kiểm định bản đồ và Tư vấn tài nguyên môi trường	Quận 1	2006	Diện tích khu đất: 714m2	7500	150	
-10	Lập dự án xây dựng Trung tâm Hoa - Kiểng Sài Gòn	Tổng Công ty Nông nghiệp Sài Gòn	Huyện 
-Bình Chánh	2007 - 2010	500ha hoa cây kiểng	44446	500	
+10	Lập dự án xây dựng Trung tâm Hoa - Kiểng Sài Gòn	Tổng Công ty Nông nghiệp Sài Gòn	Huyện Bình Chánh	2007 - 2010	500ha hoa cây kiểng	44446	500	
 11	Lập dự án đầu tư xây dựng Khu dân cư phía Bắc Đại lộ Đông Tây thuộc khu đô thị mới Thủ Thiêm (khu 30 ha)	Ban Quản lý dự án ĐT XD khu đô thị mới Thủ Thiêm	Quận 2	2006 - 2007	30ha	4342	500	Tổng vốn đầu tư dự kiến là 4.710 tỷ đồng. Ngân sách cấp chi phí chuần bị đầu tư.
 12	Lập dự án đầu tư thiết bị PCCC, cải tạo hệ thống điện, thay hệ thống thang máy của Thư viện Tổng hợp Thành phố	Ban Quản lý dự án ĐTXD công trình VHTT	Quận 1	2006 - 2007	Thiết bị	3800	100	
 BẢNG TỔNG HỢP DANH MỤC ĐẦU TƯ NĂM 2006								
@@ -588,7 +505,7 @@ Chương trỡnh đầu tư cơ sở hạ tầng tại 3 xó điểm xõy dựng
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND								
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)								
 								Đơn vị tớnh: triệu đồng
-STT	Danh mục cơng trình	Chủ đầu tư	Địa điểm thực hiện	Thời gian   khởi cơng hồn thành	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch năm 2006	Ghi chú 
+STT	Danh mục cơng trình	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi cơng hồn thành	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch năm 2006	Ghi chú
 	Tổng số					55350	55350	
 I	Ủy ban nhân dân huyện Bình chánh					23340	23340	
 1	Nâng cấp đường Rạch Ơng Đồ xã Bình Chánh	Ban Quản lý dự án QLDA ĐTXD cơng trình huyện Bình Chánh	Huyện Bình Chánh	2006	3.093m dài	4994	4994	
@@ -607,53 +524,36 @@ II	Ủy ban nhân dân huyện Củ Chi					32010	32010
 5	Xây dựng Nhà Văn hĩa xã Thái Mỹ	Ban Quản lý dự án khu vực ĐTXD huyện Củ Chi	Huyện Củ Chi	2006	1.116m2	4995	4995	
 6	Đầu tư trang thiết bị Nhà Văn hĩa xã Thái Mỹ	Ban Quản lý dự án khu vực ĐTXD huyện Củ Chi	Huyện Củ Chi	2006	Trang thiết bị	718	718	
 7	Kĭn cố hĩa 08 tuyến kênh mương nội đồng	Ban Quản lý dự án khu vực ĐTXD huyện Củ Chi	Huyện Củ Chi	2006	4.138m	3700	3700	
-8	 Xây dựng 02 tuyến kênh tĭu - giao thơng nội đồng	Ban Quản lý dự án khu vực ĐTXD huyện Củ Chi	Huyện Củ Chi	2006	6.998m	2707	2707	
-Bảng tổng hợp danh mục đầu tư Năm 2006 								
+8	Xây dựng 02 tuyến kênh tĭu - giao thơng nội đồng	Ban Quản lý dự án khu vực ĐTXD huyện Củ Chi	Huyện Củ Chi	2006	6.998m	2707	2707	
+Bảng tổng hợp danh mục đầu tư Năm 2006								
 Nguồn vốn ngân sách thành phố								
 Công tác quy hoạch								
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND								
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)								
-								 Đơn vị tính: Triệu đồng
-STT	Tờn cụng trỡnh, dự ỏn	Chủ đầu tư	Địa điểm 
-thực hiện	Thời gian
-khởi cụng
-hồn thành	Năng lực
-thiết kế	Tổng vốn
-đầu tư	Kế hoạch năm 2006	Ghi chú
+								Đơn vị tính: Triệu đồng
+STT	Tên cơng trình, dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi cơng hồn thành	Năng lực thiết kế	Tổng vốn đầu tư	Kế hoạch năm 2006	Ghi chú
 	Tổng cộng					6214	3420	
 1	Lập quy hoạch tỷ lệ 1/500 khu vực Trường Chinh và Phan Huy Ích kênh Tham Lương	Ban Quản lý dự án ĐTXD cơng trình quận Tân Bình	Quận Tân Bình	2006 - 2007	20ha	480	240	
 2	Lập quy hoạch tỷ lệ 1/500 khu vực Phạm Văn Bạch - Trường Chinh	Ban Quản lý dự án ĐTXD cơng trình quận Tân Bình	Quận Tân Bình	2006 - 2007	24ha	520	260	
-3	Lập quy hoạch phát triển cơng nghiệp Tp.HCM đến năm 2010	Sở Cơng nghiệp	Thành phố 
-Hồ Chí Minh	2004 - 2006		167	167	Sở Tài chính cấp phát
-4	Lập quy hoạch phát triển 2 ngành Cơ khí
-và Hĩa chất	Sở Cơng nghiệp	Thành phố 
-Hồ Chí Minh	2004 - 2006		683	683	Sở Tài chính cấp phát
-5	Lập quy hoạch chi tiết 1/2000 khu Đại học kết nối với đơ thị mới Nam thành phố	Ban Quản lý khu Nam	Huyện
-Bình Chánh	2006 - 2007	583ha	1310	500	
+3	Lập quy hoạch phát triển cơng nghiệp Tp.HCM đến năm 2010	Sở Cơng nghiệp	Thành phố Hồ Chí Minh	2004 - 2006		167	167	Sở Tài chính cấp phát
+4	Lập quy hoạch phát triển 2 ngành Cơ khí và Hĩa chất	Sở Cơng nghiệp	Thành phố Hồ Chí Minh	2004 - 2006		683	683	Sở Tài chính cấp phát
+5	Lập quy hoạch chi tiết 1/2000 khu Đại học kết nối với đơ thị mới Nam thành phố	Ban Quản lý khu Nam	Huyện Bình Chánh	2006 - 2007	583ha	1310	500	
 6	Lập quy hoạch chỉnh trang chi tiết 1/2000 hai bên đường Lê Văn Lương	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	4,4ha	149	80	
 7	Lập quy hoạch chỉnh trang chi tiết 1/2000 một phần khu số 7	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	7,97ha	216	110	
 8	Lập quy hoạch chỉnh trang chi tiết 1/2000 phía Bắc khu B	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	37,8ha	465	240	
 9	Lập quy hoạch chỉnh trang chi tiết 1/2000 phía Đơng Quốc lộ 50 thuộc khu 9B-10	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	3,75ha	127	70	
-10	Lập quy hoạch chỉnh trang chi tiết 1/2000 phía  Tây Quốc lộ 50 cạnh khu tái định cư số 3	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	12,22ha	271	140	
+10	Lập quy hoạch chỉnh trang chi tiết 1/2000 phía Tây Quốc lộ 50 cạnh khu tái định cư số 3	Ban Quản lý khu Nam	Khu Đơ thị Nam thành phố	2006 - 2007	12,22ha	271	140	
 11	Lập quy hoạch chỉnh trang chi tiết 1/2000 hai bên đường Quốc lộ 50 thuộc khu 11B	Ban Quản lý khu Nam	Khu Đơ thị Nam hành phố	2006 - 2007	11,74ha	263	130	
-12	Lập quy hoạch chi tiết xây dựng tỷ lệ 1/2000 khu Long Thới - Nhơn Đức, huyện Nhà Bè	Trung tâm khai thác Quỹ đất	Huyện Nhà Bè	2006 - 2007	339,8942
-ha	1051	400	
-13	Lập quy hoạch chi tiết xây dựng tỷ lệ 1/2000 khu Nhơn Đức - Phước Lộc, huyện Nhà Bè	Trung tâm khai thác Quỹ đất	Huyện Nhà Bè	2006 - 2007	58,8115
-ha	512	200	
-14	Lập quy hoạch chi tiết 1/2000 cụm cụng nghiệp Nhị Xuõn (mở rộng)	Ban Quản lý cụm cụng nghiệp - dõn cư Nhị Xuõn	Huyện 
-Húc Mụn	2006 - 2007	200ha	500	200	
+12	Lập quy hoạch chi tiết xây dựng tỷ lệ 1/2000 khu Long Thới - Nhơn Đức, huyện Nhà Bè	Trung tâm khai thác Quỹ đất	Huyện Nhà Bè	2006 - 2007	339,8942 ha	1051	400	
+13	Lập quy hoạch chi tiết xây dựng tỷ lệ 1/2000 khu Nhơn Đức - Phước Lộc, huyện Nhà Bè	Trung tâm khai thác Quỹ đất	Huyện Nhà Bè	2006 - 2007	58,8115 ha	512	200	
+14	Lập quy hoạch chi tiết 1/2000 cụm cụng nghiệp Nhị Xuõn (mở rộng)	Ban Quản lý cụm cụng nghiệp - dõn cư Nhị Xuõn	Huyện Húc Mụn	2006 - 2007	200ha	500	200	
 DANH MỤC CỄNG TRÈNH ĐẦU TƯ XÂY DỰNG NĂM 2006						
 Nguồn vốn phõn cấp cho Ủy ban nhõn dõn quận, huyện quản lý						
 để thực hiện cụng tỏc quy hoạch sử dụng đất đến năm 2010 và định hướng đến năm 2020						
 (Ban hành kốm theo Quyết định số 141/2006/QĐ-UBND						
 ngày 22 thỏng 9 năm 2006 của Ủy ban nhõn dõn thành phố)						
 						Đơn vị tớnh: triệu đồng
-STT	Tờn cụng trỡnh, dự ỏn	Chủ đầu tư	Địa điểm	Thời gian
-khởi cụng
-hồn thành	Tổng vốn
-đầu tư	Kế hoạch
-vốn năm
-2006
+STT	Tên cơng trình, dự án	Chủ đầu tư	Địa điểm	Thời gian khởi cơng hồn thành	Tổng vốn đầu tư	Kế hoạch vốn năm 2006
 	Tổng cộng				55847	55847
 1	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận 1 và các phường thuộc quận 1	Ủy ban nhân dân quận 1	Quận 1	2006	1910	1910
 2	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận 2 và các phường thuộc quận 2	Ủy ban nhân dân quận 2	Quận 2	2006	1908	1908
@@ -667,62 +567,42 @@ vốn năm
 10	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận 10 và các phường thuộc quận 10	Ủy ban nhân dân quận 10	Quận 10	2006	2648	2648
 11	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận 11 và các phường thuộc quận 11	Ủy ban nhân dân quận 11	Quận 11	2006	2705	2705
 12	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận 12 và các phường thuộc quận 12	Ủy ban nhân dân quận 12	Quận 12	2006	1810	1810
-13	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Gị Vấp và các phường thuộc quận Gị Vấp	Ủy ban nhân dân quận Gị Vấp	Quận
-Gị Vấp	2006	2173	2173
-14	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Bình Thạnh và các phường thuộc quận Bình Thạnh	Ủy ban nhân dân quận Bình Thạnh	Quận
-Bình Thạnh	2006	3287	3287
-15	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Bình Tân và các phường thuộc quận Bình Tân	Ủy ban nhân dân quận Bình Tân	Quận
-Bình Tân	2006	1872	1872
-16	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Phú Nhuận và các phường thuộc quận Phú Nhuận	Ủy ban nhân dân quận Phú Nhuận	Quận
-Phú Nhuận	2006	2650	2650
-17	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Tân Bình và các phường thuộc quận Tân Bình	Ủy ban nhân dân quận Tân Bình	Quận
-Tân Bình	2006	2601	2601
-18	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Tân Phú và các phường thuộc quận Tân Phú	Ủy ban nhân dân quận Tân Phú 	Quận
-Tân Phú	2006	2040	2040
-19	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Thủ Đức và các phường thuộc quận Thủ Đức	Ủy ban nhân dân quận Thủ Đức	Quận
-Thủ Đức	2006	1993	1993
-20	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Bình Chánh và các xã, thị trấn thuộc huyện Bình Chánh	Ủy ban nhân dân huyện Bình Chánh	Quận
-Bình Chánh	2006	2831	2831
-21	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Củ Chi và các xã, thị trấn thuộc huyện Củ Chi	Ủy ban nhân dân huyện Củ Chi	Huyện
-Củ Chi	2006	3457	3457
-22	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Cần Giờ và các xã, thị trấn thuộc huyện Cần Giờ	Ủy ban nhân dân huyện Cần Giờ 	Huyện
-Cần Giờ	2006	1353	1353
-23	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Hĩc Mơn và các xã, thị trấn thuộc huyện Hĩc Mơn	Ủy ban nhân dân huyện Hĩc Mơn	Huyện
-Hĩc Mơn	2006	2216	2216
-24	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Nhà Bè và các xã, thị trấn thuộc huyện Nhà Bè	Ủy ban nhân dân huyện Nhà Bè 	Huyện
-Nhà Bè	2006	1532	1532
+13	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Gị Vấp và các phường thuộc quận Gị Vấp	Ủy ban nhân dân quận Gị Vấp	Quận Gị Vấp	2006	2173	2173
+14	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Bình Thạnh và các phường thuộc quận Bình Thạnh	Ủy ban nhân dân quận Bình Thạnh	Quận Bình Thạnh	2006	3287	3287
+15	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Bình Tân và các phường thuộc quận Bình Tân	Ủy ban nhân dân quận Bình Tân	Quận Bình Tân	2006	1872	1872
+16	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Phú Nhuận và các phường thuộc quận Phú Nhuận	Ủy ban nhân dân quận Phú Nhuận	Quận Phú Nhuận	2006	2650	2650
+17	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Tân Bình và các phường thuộc quận Tân Bình	Ủy ban nhân dân quận Tân Bình	Quận Tân Bình	2006	2601	2601
+18	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Tân Phú và các phường thuộc quận Tân Phú	Ủy ban nhân dân quận Tân Phú	Quận Tân Phú	2006	2040	2040
+19	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) quận Thủ Đức và các phường thuộc quận Thủ Đức	Ủy ban nhân dân quận Thủ Đức	Quận Thủ Đức	2006	1993	1993
+20	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Bình Chánh và các xã, thị trấn thuộc huyện Bình Chánh	Ủy ban nhân dân huyện Bình Chánh	Quận Bình Chánh	2006	2831	2831
+21	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Củ Chi và các xã, thị trấn thuộc huyện Củ Chi	Ủy ban nhân dân huyện Củ Chi	Huyện Củ Chi	2006	3457	3457
+22	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Cần Giờ và các xã, thị trấn thuộc huyện Cần Giờ	Ủy ban nhân dân huyện Cần Giờ	Huyện Cần Giờ	2006	1353	1353
+23	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Hĩc Mơn và các xã, thị trấn thuộc huyện Hĩc Mơn	Ủy ban nhân dân huyện Hĩc Mơn	Huyện Hĩc Mơn	2006	2216	2216
+24	Quy hoạch sử dụng đất đến năm 2010, định hướng đến năm 2020 và kế hoạch sử dụng đất 5 năm (2006 - 2010) huyện Nhà Bè và các xã, thị trấn thuộc huyện Nhà Bè	Ủy ban nhân dân huyện Nhà Bè	Huyện Nhà Bè	2006	1532	1532
 BẢNG TỔNG HỢP DANH MỤC ĐẦU TƯ NĂM 2006											
 Nguồn vốn Quảng cáo Đài Truyền hình thành phố											
 (Ban hành kèm theo Quyết định số 141/2006/QĐ-UBND ngày 22 tháng 9 năm 2006 của Ủy ban nhân dân thành phố)											
 											Đơn vị tính: triệu đồng
-STT	Tên dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi cơng hồn thành	Năng lực thiết kế	Tổng vốn đầu tư 	Cấp phát đến năm 2005	Kế hoạch năm 2006 đã giao	Cấp phát trong năm 2006	Kế hoạch bổ sung 	Ghi chú
+STT	Tên dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi cơng hồn thành	Năng lực thiết kế	Tổng vốn đầu tư	Cấp phát đến năm 2005	Kế hoạch năm 2006 đã giao	Cấp phát trong năm 2006	Kế hoạch bổ sung	Ghi chú
 	Tổng số					293138	20117	5100	4087	98327	
 I	Cơng trình khởi cơng mới					80200	0	4900	4087	61127	
-1	Đầu tư thiết bị tăng cường cho hệ thống truyền dẫn 	Đài 
-Truyền hình 	Quận 1	2006 - 2007	Thiết bị chuyên dùng	8156		4000	4000	4156	
-2	Nâng cấp hệ thống UPS và lưới điện	Đài 
-Truyền hình 	Quận 1	2006 - 2007	Thiết bị chuyên dùng	5155		500	0	4655	
-3	Đầu tư thiết bị thay thế năm 2005	Đài 
-Truyền hình 	Quận 1	2006 - 2007	Thiết bị chuyên dùng	14956		100	56	12000	
-4	Đầu tư hệ thống tổng khống chế 	Đài 
-Truyền hình 	Quận 1	2006 - 2007	Thiết bị chuyên dùng	15845		100	0	13000	
-5	Đầu tư lắp đặt trạm mặt đất vệ tinh (truyền dẫn tín hiệu truyền hình qua vệ tinh)	Đài 
-Truyền hình 	Quận 1	2006	Thiết bị chuyên dùng	7416		100	31	7316	
-6	Đầu tư hệ thống làm tin kỹ thuật số	Đài 
-Truyền hình 	Quận 1	2006 - 2007	Thiết bị chuyên dùng	28672		100	0	20000	
+1	Đầu tư thiết bị tăng cường cho hệ thống truyền dẫn	Đài Truyền hình	Quận 1	2006 - 2007	Thiết bị chuyên dùng	8156		4000	4000	4156	
+2	Nâng cấp hệ thống UPS và lưới điện	Đài Truyền hình	Quận 1	2006 - 2007	Thiết bị chuyên dùng	5155		500	0	4655	
+3	Đầu tư thiết bị thay thế năm 2005	Đài Truyền hình	Quận 1	2006 - 2007	Thiết bị chuyên dùng	14956		100	56	12000	
+4	Đầu tư hệ thống tổng khống chế	Đài Truyền hình	Quận 1	2006 - 2007	Thiết bị chuyên dùng	15845		100	0	13000	
+5	Đầu tư lắp đặt trạm mặt đất vệ tinh (truyền dẫn tín hiệu truyền hình qua vệ tinh)	Đài Truyền hình	Quận 1	2006	Thiết bị chuyên dùng	7416		100	31	7316	
+6	Đầu tư hệ thống làm tin kỹ thuật số	Đài Truyền hình	Quận 1	2006 - 2007	Thiết bị chuyên dùng	28672		100	0	20000	
 II	Cơng trình chuẩn bị thực hiện dự án					198041	7200	200	0	37040	
-7	Xây dựng phim trường cho Hãng phim Truyền hình	Đài 
-Truyền hình 	Huyện 
-Củ Chi	2002 - 2010	50ha	198041	7200	200	0	37040	Chi trả phần đền bù giải tỏa để hồn trả vốn vay Quỹ Đầu tư theo Văn bản số 3352/STC-NS ngày 25/4/2006 của Sở Tài chính, trong đĩ: Nguồn thu từ quảng cáo của Đài Truyền hình 17.040 tỷ đồng; Nguồn ngân sách Trung ương cấp năm 2003 là 20 tỷ đồng
+7	Xây dựng phim trường cho Hãng phim Truyền hình	Đài Truyền hình	Huyện Củ Chi	2002 - 2010	50ha	198041	7200	200	0	37040	Chi trả phần đền bù giải tỏa để hồn trả vốn vay Quỹ Đầu tư theo Văn bản số 3352/STC-NS ngày 25/4/2006 của Sở Tài chính, trong đĩ: Nguồn thu từ quảng cáo của Đài Truyền hình 17.040 tỷ đồng; Nguồn ngân sách Trung ương cấp năm 2003 là 20 tỷ đồng
 III	Cơng trình thanh tốn khối lượng đọng					14897	12917	0	0	160	
-8	Đầu tư mạng trao đổi chương trình với các Đài địa phương	Đài Truyền hình 	Quận 1	2004 - 2006	Thiết bị chuyên dùng 	7291	6185	0	0	150	
-9	Đầu tư hệ thống hậu kỳ và quảng cáo ảo	Đài Truyền hình 	Quận 1	2004 - 2006	Thiết bị chuyên dùng 	7606	6732	0	0	10	
+8	Đầu tư mạng trao đổi chương trình với các Đài địa phương	Đài Truyền hình	Quận 1	2004 - 2006	Thiết bị chuyên dùng	7291	6185	0	0	150	
+9	Đầu tư hệ thống hậu kỳ và quảng cáo ảo	Đài Truyền hình	Quận 1	2004 - 2006	Thiết bị chuyên dùng	7606	6732	0	0	10	
 CHI TIẾT DỰ ÁN ĐẦU TƯ XÂY DỰNG NĂM 2006											
-Nguồn vốn khấu hao cơ bản từ phụ thu tiền điện 											
+Nguồn vốn khấu hao cơ bản từ phụ thu tiền điện											
 (Ban hành kèm theo Quyết định số 141/2006/QĐ-UBND											
 ngày 22 tháng 9 năm 2006 của Ủy ban nhân dân thành phố)											
 											Đơn vị: Triệu đồng
-STT	Tên công trình dự án	Chủ đầu tư	Địa điểm thực hiện 	Thời gian khởi công hoàn thành	Năng lực thiết kế			Tổng vốn đầu tư	Kế hoạch năm 2006	Kế hoạch bổ sung 	Ghi chú
+STT	Tên công trình dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi công hoàn thành	Năng lực thiết kế			Tổng vốn đầu tư	Kế hoạch năm 2006	Kế hoạch bổ sung	Ghi chú
 					Đường dây 15KV (mét)	Đường dây hạ thế (mét)	Công suất MBT (KVA)				
 1	2	3	4	5	6	7	8	9	10	11	12
 	TỔNG SỐ		36		194601	224273	1572501	542622.5	71487	26987	
@@ -732,9 +612,7 @@ B	Công trình chuyển tiếp		17		175007	215364	73141	435996.2	66495	5665
 1	Xây dựng mới lưới điện trung hạ thế chung cư Phạm Viết Chánh	Công ty Điện lực thành phố	Quận Bình Thạnh	2005 - 2006	918	3500	320	3765	31	1156	TDT 166/QĐ-SCN ngày 09-8-1999 của Sở Công nghiệp
 2	Phát triển đường dây trung thế trục chính Khu Công nghệ cao	Ban Quản lý các Dự án Khu Công nghệ cao TP HCM	Quận 9	2005 - 2006	30761	0	320	48289	10000	5411	QĐ số 153/QĐ-SCN-CN2 ngày 12-07-2005 của Sở Công nghiệp
 3	Cải tạo hệ thống điện Bệnh viện Chấn thương chỉnh hình	Bệnh viện Chấn thương chỉnh hình	Quận 5	2005 - 2006	36	1890	1150	5850.5	1260	2020	QĐ số 205/QĐ-SCN-CN2 ngày 05-10-2004 của Sở Công nghiệp
-4	Xây dựng mới lưới điện ngầm cung cấp cho nhóm chung cư phường Sơn Kỳ - Khu dân cư phụ trợ Khu công nghiệp Tân Bình	Công ty Sản xuất Kinh doanh XNK Dịch vụ và Đầu tư Tân Bình	Quận 
-Tân Phú	2005 - 2006	1789	14382	3200	10986.7	1800	1400	QĐ số 53/QĐ-SCN-QLĐN ngày 23-3-2006 của Sở Công nghiệp
-
+4	Xây dựng mới lưới điện ngầm cung cấp cho nhóm chung cư phường Sơn Kỳ - Khu dân cư phụ trợ Khu công nghiệp Tân Bình	Công ty Sản xuất Kinh doanh XNK Dịch vụ và Đầu tư Tân Bình	Quận Tân Phú	2005 - 2006	1789	14382	3200	10986.7	1800	1400	QĐ số 53/QĐ-SCN-QLĐN ngày 23-3-2006 của Sở Công nghiệp
 5	Ngầm hóa lưới điện trung hạ thế đường Lê Duẩn, quận 1	Công ty Điện lực thành phố	Quận 1	2005 - 2006	655	3850	1320	6908	344	2144	TDT 481/EVN-ĐLHCM-VII ngày 30-8-2003 của Công ty Điện lực
 6	Ngầm hóa lưới điện trung hạ thế đường Đồng Khởi, quận 1	- nt -	Quận 1	2005 - 2006	180	3186	0	6383	444	-444	TDT 669/ĐLHCM-XV ngày 23-6-2004 của Cty Điện lực
 7	Ngầm hóa lưới điện trung hạ thế đường Lê Lợi, quận 1	- nt -	Quận 1	2005 - 2006	710	2220	0	3325	1209	508	TDT 669/ĐLHCM-XV ngày 23-6-2004 của Công ty Điện lực
@@ -743,15 +621,14 @@ Tân Phú	2005 - 2006	1789	14382	3200	10986.7	1800	1400	QĐ số 53/QĐ-SCN-QLĐ
 10	TCCS và phát triển trạm hạ thế, lưới hạ thế chống quá tải cho các xã : Bà Điểm, Xuân Thới Thượng, Xuân Thới Sơn, Thị trấn Hóc Môn, Tân Thới Nhì	- nt -	Huyện Hóc Môn	2005 - 2006	6068	1813	10690	5916	264	247	TDT 2240/ĐLHCM-XV ngày 16-12-2003 của Công ty Điện lực
 11	TCCS và phát triển trạm hạ thế, lưới hạ thế chống quá tải cho các phường: An Phú Đông, Thạnh Xuân, Thạnh Lộc, Hiệp Thành, Tân Thới Hiệp, quận 12	- nt -	Quận 12	2005 - 2006	4930	1360	6553	4448	196	727	TDT 2371/ĐLHCM-XV ngày 26-12-2003 của Công ty Điện lực
 12	TCCS và phát triển trạm hạ thế, lưới hạ thế chống quá tải cho các phường: Đông Hưng Thuận, Tân Thới Nhất, Trung Mỹ Tây, Tân Chánh Hiệp, quận 12	- nt -	Quận 12	2005 - 2006	141	5105	8000	5710	239	1352	TDT 2400/ĐLHCM-XV ngày 12-12-2003 của Cty ĐL
-13	Hoàn thiện và phát triển lưới hạ thế khu vực quận 9 	- nt -	Quận 9	2005 - 2006	2770	7150	5243	3878	65	80	TDT 1977/ĐLHCM-XV ngày 20-11-2003 của Công ty Điện lực
+13	Hoàn thiện và phát triển lưới hạ thế khu vực quận 9	- nt -	Quận 9	2005 - 2006	2770	7150	5243	3878	65	80	TDT 1977/ĐLHCM-XV ngày 20-11-2003 của Công ty Điện lực
 14	Thay đổi cấu trúc cấp điện cho Trung tâm Tim Mạch	Công ty Điện lực thành phố	Quận 10	2005 - 2006	0	0	0	1204	171	1033	TDT 446/EVN-ĐLHCM-XV ngày 10-5-2004 của Công ty Điện lực TP
-15	Thay đổi cấu trúc cấp điện cho Bệnh viện Trưng Vương 	- nt -	Quận 10	2005 - 2006	0	0	0	667	14	637	TDT 438/EVN-ĐLHCM-XV ngày 06-5-2004 của Công ty Điện lực TP
+15	Thay đổi cấu trúc cấp điện cho Bệnh viện Trưng Vương	- nt -	Quận 10	2005 - 2006	0	0	0	667	14	637	TDT 438/EVN-ĐLHCM-XV ngày 06-5-2004 của Công ty Điện lực TP
 16	Trang bị nguồn phát điện Diesel cho xã đảo Thạnh An huyện Cần Giờ	Công ty Điện lực thành phố	Huyện Cần Giờ	2005 - 2006	0	0	0	6247	1724	2789	BCNCKT 566/QĐ-KHĐT-KT ngày 13-8-2002 của Sở KHĐT
-17	Các dự án đại lộ Đông - Tây 
-(Ngoài ra còn khoảng 50 tỷ vốn đền bù lưới điện hiện trạng lấy từ nguồn ngân sách tập trung)	Công ty Điện lực thành phố	Thành phố Hồ Chí Minh	2005 - 2006	106319	143464	35495	308260	44600	-15489	BCNCKT 115/QĐ-EVN-HĐQT ngày 31-4-2004 của Tổng Công ty Điện lửùùc Vieọt Nam
+17	Các dự án đại lộ Đông - Tây (Ngoài ra còn khoảng 50 tỷ vốn đền bù lưới điện hiện trạng lấy từ nguồn ngân sách tập trung)	Công ty Điện lực thành phố	Thành phố Hồ Chí Minh	2005 - 2006	106319	143464	35495	308260	44600	-15489	BCNCKT 115/QĐ-EVN-HĐQT ngày 31-4-2004 của Tổng Công ty Điện lửùùc Vieọt Nam
 C	Công trình khởi công mới		5		16064	4639	18160	79928.3	2020	17300	
 1	Cải tạo hệ thống điện Quân khu 7	Phòng Hậu cần Quân khu Bộ - Cục Hậu cần Quân khu 7	Quận Phú Nhuận	2005	0	4007	400	6101.6	500	2500	QĐ số 122/QĐ-SCN-CN2 ngày 07-7-2006 của Sở Công nghiệp
-2	Xây dựng mới trạm biến thế 560 KVA tại trụ sở Công an thành phố	Công an thành phố 	Quận 1	2006	200	0	560	2644.7	800	1500	QĐ duyệt điều chỉnh BCKTKT số 115/QĐ-SCN ngày 26-6-2006
+2	Xây dựng mới trạm biến thế 560 KVA tại trụ sở Công an thành phố	Công an thành phố	Quận 1	2006	200	0	560	2644.7	800	1500	QĐ duyệt điều chỉnh BCKTKT số 115/QĐ-SCN ngày 26-6-2006
 3	Xây dựng mới lưới trung thế ngầm, trạm biến thế và hạ thế ngầm cho Khối khám, cấp cứu và điều trị 15 tầng - Bệnh viện Nhân dân Gia Định	Bệnh viện Nhân dân Gia Định	Quận Bình Thạnh	2006	260	132	3000	14000	100	2900	QĐ số 111/QĐ-SCN ngày 21-06-2006 của Sở Công nghiệp
 4	Xây dựng và cải tạo lưới điện Bệnh viện Nguyễn Tri Phương	Bệnh viện Nguyễn Tri Phương	Quận 10	2006	100	500	1000	14253.5	100	2900	QĐ số 134/QĐ-SCN ngày 24-7-2006 của Sở Công nghiệp
 5	Xây dựng mới lưới trung thế ngầm và trạm biến áp Khu dân cư phường Thạnh Mỹ Lợi quận 2 (giai đoạn 1)	Công ty Quản lý và Phát triển Nhà quận 2	Quận 2	2006	15504	0	13200	42928.5	520	7500	QĐ số 142/QĐ-SCN ngày 31-7-2006 của Sở Công nghiệp
@@ -766,10 +643,8 @@ D	Công trình quy hoạch		12		730	1270	1480000	4697	600	3547
 8	Quy hoạch phát triển Điện lực quận 8	-nt-	Quận 8	2006	55	120	120000	376	50	276	-nt-
 9	Quy hoạch phát triển Điện lực huyện Nhà Bè	-nt-	Huyện Nhà Bè	2006	90	170	120000	413	50	313	-nt-
 10	Quy hoạch phát triển Điện lực quận Bình Tân	-nt-	Quận Bình Tân	2006	80	110	150000	505	50	405	-nt-
-11	Quy hoạch phát triển Điện lực quận Thủ Đức	Sở Công nghiệp	Quận 
-Thủ Đức	2006	80	180	240000	725	50	675	CV số 498/SCN-QLĐN ngày 27-4-2006 của Sở Công nghiệp
-12	Quy hoạch phát triển Điện lực quận Gò Vấp	-nt-	Quận 
-Gò Vấp	2006	70	100	180000	554	50	454	-nt-
+11	Quy hoạch phát triển Điện lực quận Thủ Đức	Sở Công nghiệp	Quận Thủ Đức	2006	80	180	240000	725	50	675	CV số 498/SCN-QLĐN ngày 27-4-2006 của Sở Công nghiệp
+12	Quy hoạch phát triển Điện lực quận Gò Vấp	-nt-	Quận Gò Vấp	2006	70	100	180000	554	50	454	-nt-
 E	Công trình chuẩn bị đầàu tư		1		2800	3000	1200	5000	100	-100	
 1	XDM đường dây trung thế, trạm biến thế và hệ thống chiếu sáng công cộng đường Hương lộ 39 giai đoạn II, huyện Nhà Bè (đoạn từ Kênh Lộ đến ranh Long An)	Ban Quản lý Dự án Khu vực đầu tư xây dựng huyện Nhà Bè	Huyện Nhà Bè	2006	2800	3000	1200	5000	100	-100	CV số 790/CV-BQLDA ngày 20-12-2005 của Ban Quản lý Dự án Đầu tư Xây dựng Công trình huyện Nhà Bè
 Lưu ý:											
@@ -780,7 +655,7 @@ Nguồn vốn khấu hao cơ bản từ phụ thu tiền điện
 (Ban hành kèm theo Quyết định số 141/2006/QĐ-UBND											
 ngày 22 tháng 9 năm 2006 của Ủy ban nhân dân thành phố)											
 											Đơn vị tính: triệu đồng
-STT	Tên công trình dự án	Chủ đầu tư	Địa điểm thực hiện 	Thời gian khởi công hoàn thành	Năng lực thiết kế			Tổng vốn đầu tư	Kế hoạch năm 2006	Kế hoạch bổ sung 	Ghi chú
+STT	Tên công trình dự án	Chủ đầu tư	Địa điểm thực hiện	Thời gian khởi công hoàn thành	Năng lực thiết kế			Tổng vốn đầu tư	Kế hoạch năm 2006	Kế hoạch bổ sung	Ghi chú
 					Đường dây 15KV (mét)	Đường dây hạ thế (mét)	Công suất MBT (KVA)				
 1	2	3	4	5	6	7	8	9	10	11	12
 	TỔNG SỐ		16		20750	2710	991850	78519.9	0	41240	
@@ -788,22 +663,18 @@ A	Thanh toán khối lượng đọng		1		15382	715	2250	28617	0	50
 1	Xây dựng hệ thống điện nội khu trong Công viên phần mềm Quang Trung (giai đoạn 2)	Công ty Phát triển Công viên phần mềm Quang Trung	Quận 12	2004 - 2005	15382	715	2250	28617	0	50	QĐ số 156/SCN-CN2 ngày 02-7-2003 của Sở Công nghiệp
 B	Công trình khởi công mới		5		0	0	0	40640	0	40640	
 1	Di dời và tái bố trí lưới điện trong phạm vi công trình nâng cấp mở rộng đường Nguyễn Văn Trỗi - Nam Kỳ Khởi Nghĩa	Công ty Điện lực thành phố	Quận 1, 3, Tân Bình	2006	0	0	0	25000	0	25000	CV số 4943/CV-ĐLHCM-KH ngày 05-7-2006 của Công ty Điện lực
-2	Di dời và tái bố trí lưới điện trong phạm vi công trình nâng cấp mở rộng đường Lê Trọng Tấn	-nt-	Quận 
-Tân Phú	2006	0	0	0	3000	0	3000	-nt-
+2	Di dời và tái bố trí lưới điện trong phạm vi công trình nâng cấp mở rộng đường Lê Trọng Tấn	-nt-	Quận Tân Phú	2006	0	0	0	3000	0	3000	-nt-
 3	Di dời và tái bố trí lưới điện trong phạm vi công trình xây dựng cầu đường Nguyễn Văn Cừ	-nt-	Quận 1, 5, 4, 8	2006	0	0	0	10000	0	10000	-nt-
 4	Di dời và tái bố trí lưới điện trong phạm vi công trình xây dựng cầu Phú Mỹ	-nt-	Huyện Nhà Bè	2006	0	0	0	640	0	640	-nt-
 5	Di dời và tái bố trí lưới điện trong phạm vi công trình xây dựng cầu Thủ Thiêm	-nt-	Quận 1, 2	2006	0	0	0	2000	0	2000	-nt-
 C	Công trình quy hoạch		9		868	995	987500	4262.9	0	450	
 1	Quy hoạch phát triển Điện lực quận 11	Sở Công nghiệp	Quận 11	2006	40	76	53700	251.9	0	50	CV số 498/SCN-QLĐN ngày 27-4-2006 của Sở Công nghiệp
-2	Quy hoạch phát triển Điện lực quận Tân Phú	-nt-	Quận 
-Tân Phú	2006	92	110	141700	590	0	50	-nt-
-3	Quy hoạch phát triển Điện lực quận Tân Bình	-nt-	Quận 
-Tân Bình	2006	85	130	120900	525	0	50	-nt-
+2	Quy hoạch phát triển Điện lực quận Tân Phú	-nt-	Quận Tân Phú	2006	92	110	141700	590	0	50	-nt-
+3	Quy hoạch phát triển Điện lực quận Tân Bình	-nt-	Quận Tân Bình	2006	85	130	120900	525	0	50	-nt-
 4	Quy hoạch phát triển Điện lực quận 10	-nt-	Quận 10	2006	52	74	69700	321	0	50	-nt-
 5	Quy hoạch phát triển Điện lực quận 12	-nt-	Quận 12	2006	121	111	136700	580	0	50	-nt-
 6	Quy hoạch phát triển Điện lực huyện Hóc Môn	-nt-	Huyện Hóc Môn	2006	106	136	132200	570	0	50	-nt-
-7	Quy hoạch phát triển Điện lực huyện Củ Chi	-nt-	Huyện 
-Củ Chi	2006	143	147	140400	586	0	50	-nt-
+7	Quy hoạch phát triển Điện lực huyện Củ Chi	-nt-	Huyện Củ Chi	2006	143	147	140400	586	0	50	-nt-
 8	Quy hoạch phát triển Điện lực huyện Bình Chánh	-nt-	Huyện Bình Chánh	2006	145	136	140200	581	0	50	-nt-
 9	Quy hoạch phát triển Điện lực huyện Cần Giờ	-nt-	Huyện Cần Giờ	2006	84	75	52000	258	0	50	-nt-
 											

@@ -4,7 +4,7 @@ gồm: Trụ sở chính và chi nhánh TCTD
 								
 								
 phương án giao nhận nợ của tài sản bàn giao								
-(theo quy định tại Thông tư số       /2005/TT-NHNN ngày      tháng      năm 2005)								
+(theo quy định tại Thông tư số /2005/TT-NHNN ngày tháng năm 2005)								
 								
 								Đơn vị tính: đồng
 STT	Bên giao	Bên nhận	Tài sản nhận	Tổng giá trị tài sản	Trong đó vốn vay	Dư nợ bàn giao		Chữ ký của người nhận bàn giao
@@ -21,5 +21,5 @@ STT	Bên giao	Bên nhận	Tài sản nhận	Tổng giá trị tài sản	Trong �
 								
 	Ghi chú:	Tổng giá trị tài sản là Tổng giá trị tài sản của NLTQD theo sổ sách kế toán khi bàn giao tài sản						
 								
-						...., ngày     tháng    năm    		
+						...., ngày tháng năm		
 	Lập bảng		Kiểm soát			Giám đốc

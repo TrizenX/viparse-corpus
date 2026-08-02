@@ -5,64 +5,64 @@ Tên đơn vị			Biểu A28
 Điện báo nguồn vốn và sử dụng vốn bằng VND										
 		(Số dư ngày ... tháng ... năm ...)								
 			Đơn vị: Triệu đồng							
-Chỉ tiêu		Tài khoản	Số dư 	Số dư 	Ghi chú	t+2	t+3	t+4	t+5	Dự kiến ngày
+Chỉ tiêu		Tài khoản	Số dư	Số dư	Ghi chú	t+2	t+3	t+4	t+5	Dự kiến ngày
 	Tên tài khoản		ngày hôm trước	ngày báo cáo		Số dự kiến	Số dự kiến	Số dự kiến	Số dự kiến	tiếp theo
 I. Nguồn vốn VND huy động:										
-   - Nguồn vốn huy động từ TCKT và dân cư		431+433+435+44 (bằng VND)								
-   - TG Kho bạc	401	401								
-   - Vay NHNN	4922	403								
-   - Vay TCTD trong nước		411+4131+414								
-   - Bán ngoại tệ		4922								
-   - Các khoản khác		451+462+464+466								
+- Nguồn vốn huy động từ TCKT và dân cư		431+433+435+44 (bằng VND)								
+- TG Kho bạc	401	401								
+- Vay NHNN	4922	403								
+- Vay TCTD trong nước		411+4131+414								
+- Bán ngoại tệ		4922								
+- Các khoản khác		451+462+464+466								
 										
 II. Sử dụng vốn	1011+1012+1021+1022									
-   - Tiền mặt tồn quỹ	1113	101+102								
-   - Tiền gửi tại NHNN	211+212+213+214+221+222+231+233+241+251+252+253+26+271+272+273+275+28+29	111								
-   - Cho vay các TCKT và cá nhân trong nước	4912	201+202+203+205+211 + 212+213+22+231+233 + 241+251+252+253+261+27								
-   - Mua ngoại tệ		4912								
-   - Cho vay các TCTD bằng VND		131								
-   - Các khoản khác										
+- Tiền mặt tồn quỹ	1113	101+102								
+- Tiền gửi tại NHNN	211+212+213+214+221+222+231+233+241+251+252+253+26+271+272+273+275+28+29	111								
+- Cho vay các TCKT và cá nhân trong nước	4912	201+202+203+205+211 + 212+213+22+231+233 + 241+251+252+253+261+27								
+- Mua ngoại tệ		4912								
+- Cho vay các TCTD bằng VND		131								
+- Các khoản khác										
 										
 Thiếu hụt (-), dư thừa (+) nguồn vốn VND dự kiến										
 	403									
 Nguồn cân đối dự kiến	411+412+4121+414									
-   - Vay các TCTD	131+201+201+2031+205									
-   - Vay NHNN										
+- Vay các TCTD	131+201+201+2031+205									
+- Vay NHNN										
 										
 Lập biểu		Kiểm soát		Thủ trưởng đơn vị						
 							Phụ lục số 02/TTM		
 TÊN TỔ CHỨC TÍN DỤNG…………….									
 Dự kiến vốn khả dụng bằng Đồng Việt Nam tại tổ chức tín dụng									
 							Đơn vị: Triệu đồng		
-Chỉ tiêu	Tăng (+), giảm (-)	Tăng (+), giảm (-)	 +/-	 +/-	 +/-	 +/-	 +/-	 +/-	 +/-
+Chỉ tiêu	Tăng (+), giảm (-)	Tăng (+), giảm (-)	+/-	+/-	+/-	+/-	+/-	+/-	+/-
 	Ngày hôm nay (t)	Ngày hôm sau (t+1)	Ngày t+2	Ngày t+3	Ngày t+4	Ngày t+5	1 tháng tiếp theo	3 tháng tiếp theo	6 tháng tiếp theo
 I. Thay đổi nguồn vốn VND:	At	A(t+1)							
-   - Thay đổi TG Kho bạc									
-   - Thay đổi TG của dân cư và TCKT									
-   - Thay đổi nguồn vốn từ phát hành giấy tờ có giá									
-   - Thay đổi vốn tài trợ uỷ thác 									
-   - Thay đổi nợ vay NHNN									
-   - Thay đổi nợ TCTD trong nước									
-   - Các khoản bán ngoại tệ để thu VND									
-   - Các khoản khác									
+- Thay đổi TG Kho bạc									
+- Thay đổi TG của dân cư và TCKT									
+- Thay đổi nguồn vốn từ phát hành giấy tờ có giá									
+- Thay đổi vốn tài trợ uỷ thác									
+- Thay đổi nợ vay NHNN									
+- Thay đổi nợ TCTD trong nước									
+- Các khoản bán ngoại tệ để thu VND									
+- Các khoản khác									
 									
 II. Thay đổi sử dụng vốn bằng VND	Bt	B(t+1)							
-   - Thay đổi tiền mặt tồn quỹ									
-   - Thay đổi tiền gửi tại NHNN									
-   - Thay đổi cho vay cá nhân và TCKT									
-   - Thay đổi cho vay các TCTD									
-   - Thay đổi đầu tư vào giấy tờ có giá									
-   - Các khoản sử dụng VND để mua ngoại tệ									
-   - Các khoản khác									
+- Thay đổi tiền mặt tồn quỹ									
+- Thay đổi tiền gửi tại NHNN									
+- Thay đổi cho vay cá nhân và TCKT									
+- Thay đổi cho vay các TCTD									
+- Thay đổi đầu tư vào giấy tờ có giá									
+- Các khoản sử dụng VND để mua ngoại tệ									
+- Các khoản khác									
 									
 III. Chênh lệch giữa nguồn vốn và sử dụng vốn	Ct	C(t+1)=A(t+1)-B(t+1)							
 									
 IV. Thiếu hụt (-), dư thừa (+) nguồn vốn VND	Dt	D(t+1)= It+C(t+1)							
 									
 Nguồn cân đối dự kiến	Et	E(t+1)=G(t+1)+H(t+1)							
-   - Vay (+)/ cho vay (-) các TCTD	Gt	G(t+1)							
-   - Vay (+)/ gửi tiền (-) với NHNN	Ht	H(t+1)							
+- Vay (+)/ cho vay (-) các TCTD	Gt	G(t+1)							
+- Vay (+)/ gửi tiền (-) với NHNN	Ht	H(t+1)							
 									
 V. Trạng thái vốn khả dụng cuối ngày	It	I(t+1)=D(t+1)+E(t+1)							
-Ghi chú: - Chỉ dự kiến các thay đổi nguồn vốn và sử dụng vốn bằng VND 									
-                - Phương pháp tính dựa trên cơ sở dự kiến các khoản sẽ phát sinh và đến hạn bằng VND (nếu có)
+Ghi chú: - Chỉ dự kiến các thay đổi nguồn vốn và sử dụng vốn bằng VND									
+- Phương pháp tính dựa trên cơ sở dự kiến các khoản sẽ phát sinh và đến hạn bằng VND (nếu có)

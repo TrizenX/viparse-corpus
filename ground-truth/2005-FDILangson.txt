@@ -1,68 +1,68 @@
 Danh mục dự án gọi vốn đầu tư nước ngoài tỉnh lạng sơn					
-				 Đơn vị: USD	
+				Đơn vị: USD	
 STT	Tên dự án	Địa điểm	Quy mô	Tổng vốn đầu tư dự tính	Hình thức đầu tư
 					
-1	Thăm dò và khai thác vàng	Tỉnh Lạng Sơn	Trữ lượng ước tính 30 tấn Au	5900000	Liên doanh  
+1	Thăm dò và khai thác vàng	Tỉnh Lạng Sơn	Trữ lượng ước tính 30 tấn Au	5900000	Liên doanh
 					
 2	Khai thác, chế biến khoáng sản;	Huyện Cao Lộc	60.000 tấn quặng/năm	2500000	Liên doanh
 	sản xuất phân vi sinh		5.000 tấn phân/năm		
 					
-3	Khai thác và sản xuất nước khoáng	Huyện Tràng Định 		1500000	Liên doanh
+3	Khai thác và sản xuất nước khoáng	Huyện Tràng Định		1500000	Liên doanh
 					
-4	Nhà máy sản xuất	Huyện Chi Lăng	1,4 triệu tấn/năm	265000000	Liên doanh 
+4	Nhà máy sản xuất	Huyện Chi Lăng	1,4 triệu tấn/năm	265000000	Liên doanh
 	xi măng lò quay				
 					
 5	Sản xuất gạch men	Cao Lộc - Lạng Sơn	150.000- 300.000 m2/năm	2300000	Liên doanh
 					
 6	Nhà máy sản xuất tinh dầu hồi	Thành phố Lạng Sơn	Công suất 1000 tấn/năm	2500000	Liên doanh hoặc
 					100% vốn nước ngoài
-7	Nhà máy chế biến gừng xuất khẩu	Tỉnh Lạng Sơn	150.000 ha nguyên liệu; dây truyền 	2600000	Liên doanh hoặc
+7	Nhà máy chế biến gừng xuất khẩu	Tỉnh Lạng Sơn	150.000 ha nguyên liệu; dây truyền	2600000	Liên doanh hoặc
 			chế biến 3.500 tấn sản phẩm/năm		100% vốn nước ngoài
 8	Xí nghiệp sản xuất giầy xuất khẩu	Huyện Cao Lộc	1,5 triệu đôi/năm	2500000	Liên doanh hoặc
 					100% vốn nước ngoài
-9	Phát triển Khu du lịch 	Thành phố Lạng Sơn	Khu giải trí, khách sạn,	20000000	Liên doanh hoặc
+9	Phát triển Khu du lịch	Thành phố Lạng Sơn	Khu giải trí, khách sạn,	20000000	Liên doanh hoặc
 	Tam - Nhị Thanh		khu dưỡng bệnh...		100% vốn nước ngoài
 					
 10	Phát triển khu nghỉ mát	Trên đỉnh núi Mẫu Sơn	Hạ tầng, khu vui chơi	15000000	Liên doanh hoặc
-	Mẫu Sơn		nghỉ  ngơi...		100% vốn nước ngoài
+	Mẫu Sơn		nghỉ ngơi...		100% vốn nước ngoài
 					
 11	Khách sạn Lạng Sơn	Thành phố Lạng Sơn	120 giường, 70 phòng	3000000	Liên doanh hoặc
 			và các công trình khác		100% vốn nước ngoài
 					
-12	Trung tâm thương mại	Cửa khẩu Chi Ma	Khu văn phòng, bán hàng miễn thuế	3500000	Liên doanh 
+12	Trung tâm thương mại	Cửa khẩu Chi Ma	Khu văn phòng, bán hàng miễn thuế	3500000	Liên doanh
 					
-13	Trung tâm thương mại 	Thành phố Lạng Sơn	Siêu thị, văn phòng cho	6000000	Liên doanh hoặc
+13	Trung tâm thương mại	Thành phố Lạng Sơn	Siêu thị, văn phòng cho	6000000	Liên doanh hoặc
 	Thành phố Lạng Sơn		thuê, khu vui chơi		100% vốn nước ngoài
 					
 14	Trồng hoa quả và chế biến các	Thành phố Lạng Sơn	Trồng và chế biến hoa quả	10000000	Liên doanh hoặc
 	sản phẩm từ hoa quả				100% vốn nước ngoài
 					
-15	Chăn nuôi bò sữa và chế biến 	Tỉnh Lạng sơn	Đàn bò 10.000 con	5000000	Liên doanh hoặc
+15	Chăn nuôi bò sữa và chế biến	Tỉnh Lạng sơn	Đàn bò 10.000 con	5000000	Liên doanh hoặc
 	các sản phẩm từ sữa bò		xây dựng nhà xưởng chế biến sữa		100% vốn nước ngoài
 					
 16	Sản xuất thức ăn gia súc, chăn	Chi Lăng - Lạng Sơn	Chế biến thức ăn chăn nuôi 35.000	10000000	Liên doanh hoặc
-	nuôi và chế biến thực phẩm		 tấn/năm và chế biến thực phẩm		100% vốn nước ngoài
+	nuôi và chế biến thực phẩm		tấn/năm và chế biến thực phẩm		100% vốn nước ngoài
 					
-17	Trồng và chế biến chè xuất khẩu	Huyện Đình Lâp	Diện tích chè 1.500 ha	5000000	Liên doanh 
+17	Trồng và chế biến chè xuất khẩu	Huyện Đình Lâp	Diện tích chè 1.500 ha	5000000	Liên doanh
 					
-18	Trồng thông và xây dựng nhà 	Đình Lập, Lộc Bình	Công suất chế biến 5.000 tấn/năm	2000000	Liên doanh
+18	Trồng thông và xây dựng nhà	Đình Lập, Lộc Bình	Công suất chế biến 5.000 tấn/năm	2000000	Liên doanh
 	máy chế biến nhựa thông				
 					
-19	Trồng rừng và xây dựng 	Đình Lập, Lộc Bình		20000000	Liên doanh hoặc
+19	Trồng rừng và xây dựng	Đình Lập, Lộc Bình		20000000	Liên doanh hoặc
 	nhà máy ván dăm ép				100% vốn nước ngoài
 					100% vốn nước ngoài
-20	Xây dựng khu công nghiệp 	Huyện Cao Lộc	 20 ha	3500000	Liên doanh hoặc
-	Hoàng Đồng  - Lạng Sơn.		xây dựng hạ tầng.		100% vốn nước ngoài
+20	Xây dựng khu công nghiệp	Huyện Cao Lộc	20 ha	3500000	Liên doanh hoặc
+	Hoàng Đồng - Lạng Sơn.		xây dựng hạ tầng.		100% vốn nước ngoài
 					
 21	Xây dựng khu công nghiệp	Thành Phố Lạng Sơn	27 ha	5000000	Liên doanh hoặc
-	Hoa Bia - Lạng Sơn 		Xây dựng hạ tầng		100% vốn nước ngoài
+	Hoa Bia - Lạng Sơn		Xây dựng hạ tầng		100% vốn nước ngoài
 					
 22	Khu đô thị mới Phú Lộc	Thành phố Lạng Sơn	63 ha	20000000	Liên doanh hoặc
 			Xây dựng, kinh doanh hạ tầng		100% vốn nước ngoài
-			 và các công trình trong khu đô thị		
+			và các công trình trong khu đô thị		
 23	Khu tái định cư Phai Luông	Thành Phố Lạng Sơn	9,4 ha		Liên doanh hoặc
 			Xây dựng nhà trung cư, nhà biệt thự	3700000	100% vốn nước ngoài
 			và các công trình dịch vụ		
 24	Khu đô thị mới Nam Hoàng Đồng	Thành Phố Lạng Sơn	90 ha	20000000	Liên doanh hoặc
 			Xây dựng, kinh doanh hạ tầng		100% vốn nước ngoài
-			 và các công trình trong khu đô thị
+			và các công trình trong khu đô thị
