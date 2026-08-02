@@ -28,7 +28,14 @@ import urllib.parse
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from find_candidates import WAYBACK, classify, fetch, legacy_fonts, list_archived  # noqa: E402
+from find_candidates import (  # noqa: E402
+    KINDS,
+    WAYBACK,
+    classify,
+    declared_fonts,
+    fetch,
+    list_archived,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 PROVENANCE = ROOT / "PROVENANCE.md"
@@ -37,14 +44,14 @@ CORPUS = ROOT / "corpus" / "public-domain"
 SAFE = re.compile(r"[^A-Za-z0-9._-]+")
 
 
-def safe_name(url: str, timestamp: str) -> str:
+def safe_name(url: str, timestamp: str, kind: str = "doc") -> str:
     """A filename that survives every filesystem and reads the same everywhere.
 
     Archived URLs are percent-encoded and often carry spaces and Vietnamese
     diacritics; leaving those in makes the corpus awkward to work with and the
     provenance table hard to read.
 
-    The extension is always `.doc`. Some sources serve documents through a script
+    The extension comes from the screened kind. Some sources serve documents through a script
     (`download.php?file=...`) or with a numeric suffix, and naming a Word document
     `.772` or `.download` misleads every tool that looks at it. The mimetype filter
     upstream already established what these are.
@@ -62,9 +69,12 @@ def safe_name(url: str, timestamp: str) -> str:
 
     raw = urllib.parse.unquote(candidate)
     raw = unicodedata.normalize("NFKD", raw).encode("ascii", "ignore").decode()
-    raw = re.sub(r"\.(doc|DOC)$", "", raw)
-    stem = SAFE.sub("-", raw).strip("-")[:48] or "doc"
-    return f"{timestamp[:4]}-{stem}.doc"
+    # Strip whatever extension the source used, in any case — the kind decides the one
+    # that goes back on. Matching only `.doc` produced `2003-A06.rtf.rtf` the first time
+    # this ran over a format other than Word.
+    raw = re.sub(r"\.(doc|docx|pdf|rtf|xls|xlsx)$", "", raw, flags=re.IGNORECASE)
+    stem = SAFE.sub("-", raw).strip("-")[:48] or KINDS[kind][1].lstrip(".")
+    return f"{timestamp[:4]}-{stem}{KINDS[kind][1]}"
 
 
 def existing_rows() -> set[str]:
@@ -90,6 +100,15 @@ def main() -> int:
     ap.add_argument("--from", dest="year_from", type=int, default=2000)
     ap.add_argument("--to", dest="year_to", type=int, default=2009)
     ap.add_argument("--limit", type=int, default=12, help="candidates screened per domain")
+    ap.add_argument("--kind", choices=sorted(KINDS), default="doc")
+    ap.add_argument(
+        "--max-bytes",
+        type=int,
+        default=0,
+        help="skip anything larger; 0 means no limit. A 1.3 MB statistics table is a "
+        "real legacy document and useless as corpus material, because ground truth for "
+        "it cannot be transcribed by hand.",
+    )
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
@@ -114,7 +133,9 @@ def main() -> int:
         PROVENANCE.write_text(text + "\n" + row + "\n", encoding="utf-8")
 
     for domain in domains:
-        candidates = list_archived(domain, args.year_from, args.year_to, args.limit)
+        candidates = list_archived(
+            domain, args.year_from, args.year_to, args.limit, args.kind
+        )
         print(f"  {domain}: screening {len(candidates)}", file=sys.stderr)
 
         for ts, url in candidates:
@@ -123,11 +144,14 @@ def main() -> int:
             except Exception:
                 continue
 
-            encoding = classify(legacy_fonts(data), data)
+            if args.max_bytes and len(data) > args.max_bytes:
+                continue
+
+            encoding = classify(declared_fonts(data, args.kind), data, args.kind)
             if not encoding:
                 continue
 
-            name = safe_name(url, ts)
+            name = safe_name(url, ts, args.kind)
             if name in already:
                 continue
             already.add(name)

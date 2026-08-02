@@ -64,12 +64,34 @@ def fetch(url: str, timeout: int = 60, attempts: int = 3) -> bytes:
     raise last if last else RuntimeError("fetch failed")
 
 
-def list_archived(domain: str, year_from: int, year_to: int, limit: int) -> list[tuple[str, str]]:
+# Formats worth screening, and the archive mimetype that finds them. `.doc` was the
+# whole corpus for a long time, which hid a class of bug: `.doc` reaches viparse's DOCX
+# engine through LibreOffice, so that one path was well covered and PDF, RTF and XLS had
+# no real-document coverage at all. The first PDF screened turned up a defect.
+KINDS = {
+    "doc": ("application/msword", ".doc"),
+    "pdf": ("application/pdf", ".pdf"),
+    "rtf": ("application/rtf", ".rtf"),
+    "xls": ("application/vnd.ms-excel", ".xls"),
+}
+
+# Legacy Vietnamese font families, as they appear in each container. `.doc` and `.xls`
+# hide them in OLE2 streams; a PDF names them in /BaseFont, often behind a six-letter
+# subset tag; RTF spells them out in the font table. One pattern covers all four because
+# the names are the same names.
+_FONT_BYTES = re.compile(
+    rb"\.Vn[A-Za-z]+|VNI-[A-Za-z]+|VPS[A-Za-z]+|ABC[A-Za-z]*|VNS[A-Za-z0-9]+"
+)
+
+
+def list_archived(
+    domain: str, year_from: int, year_to: int, limit: int, kind: str = "doc"
+) -> list[tuple[str, str]]:
     params = urllib.parse.urlencode(
         {
             "url": domain,
             "matchType": "domain",
-            "filter": "mimetype:application/msword",
+            "filter": f"mimetype:{KINDS[kind][0]}",
             "from": year_from,
             "to": year_to,
             "limit": limit,
@@ -89,6 +111,19 @@ def list_archived(domain: str, year_from: int, year_to: int, limit: int) -> list
         if len(parts) == 2:
             rows.append((parts[0], parts[1]))
     return rows
+
+
+def declared_fonts(data: bytes, kind: str) -> set[str]:
+    """Legacy font names the container declares, whatever the container is.
+
+    OLE2 (`.doc`, `.xls`) needs the streams walked; PDF and RTF are byte-scannable, and
+    a plain scan is deliberate — a PDF font name sits in `/BaseFont`, sometimes as
+    `ABCDEF+.VnTime`, and RTF writes its font table as text. Neither needs parsing to be
+    *narrowed*, and narrowing is all the font stage is for. The text decides.
+    """
+    if kind in ("doc", "xls"):
+        return legacy_fonts(data)
+    return {match.decode("latin-1") for match in _FONT_BYTES.findall(data)}
 
 
 def legacy_fonts(data: bytes) -> set[str]:
@@ -167,7 +202,46 @@ def text_family(text: str) -> str | None:
     return "vni" if after_vowel / high > _VNI_THRESHOLD else "tcvn3"
 
 
-def classify(fonts: set[str], data: bytes | None = None) -> str | None:
+def container_text(data: bytes, kind: str) -> str | None:
+    """The document's text, extracted the way that container needs.
+
+    ``.doc`` uses this repo's own piece-table reader, written independently of viparse so
+    the corpus is not screened by the library under test. PDF and RTF use pdfplumber and
+    striprtf, the same libraries viparse uses — writing a second PDF text extractor to
+    avoid that would be a project, not a precaution, and the independence that matters is
+    of the *conversion table* and the *ground truth*, both of which stay separate. Every
+    transcript is still read before it is marked `ready`.
+    """
+    import tempfile
+
+    suffix = KINDS[kind][1]
+    try:
+        if kind == "doc":
+            with tempfile.NamedTemporaryFile(suffix=suffix) as tmp:
+                tmp.write(data)
+                tmp.flush()
+                return extract(tmp.name)
+        if kind == "rtf":
+            from striprtf.striprtf import rtf_to_text
+
+            return rtf_to_text(data.decode("latin-1", errors="replace"), errors="ignore")
+        if kind == "pdf":
+            import pdfplumber
+
+            with tempfile.NamedTemporaryFile(suffix=suffix) as tmp:
+                tmp.write(data)
+                tmp.flush()
+                with pdfplumber.open(tmp.name) as pdf:
+                    return "\n".join(page.extract_text() or "" for page in pdf.pages)
+    except Exception:
+        return None
+    # `.xls` has no text stage here. A font-only screen was measured at a 44% false
+    # positive rate on `.doc`, so shipping one for `.xls` would put known-bad candidates
+    # in the corpus. Screening it needs a reader this repo does not have yet.
+    return None
+
+
+def classify(fonts: set[str], data: bytes | None = None, kind: str = "doc") -> str | None:
     """Legacy encoding name, or None.
 
     The font table narrows the candidates and the text decides. Font alone is not
@@ -182,17 +256,14 @@ def classify(fonts: set[str], data: bytes | None = None) -> str | None:
     if data is None:
         return sorted(families)[0]
 
-    import tempfile
-
-    try:
-        with tempfile.NamedTemporaryFile(suffix=".doc") as tmp:
-            tmp.write(data)
-            tmp.flush()
-            text = extract(tmp.name)
-    except Exception:
+    text = container_text(data, kind)
+    if text is None:
         return None
 
-    if text_is_legacy(data) is not True:
+    # The byte-level legacy test reads the raw container, which only means anything when
+    # the text sits in it as bytes. A PDF stores glyph codes and an RTF escapes its high
+    # bytes, so for those the extracted text is the only evidence there is.
+    if kind == "doc" and text_is_legacy(data) is not True:
         return None
     from_text = text_family(text)
     if from_text is None:
@@ -220,6 +291,7 @@ def classify(fonts: set[str], data: bytes | None = None) -> str | None:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--domain", required=True, help="e.g. mof.gov.vn")
+    ap.add_argument("--kind", choices=sorted(KINDS), default="doc")
     ap.add_argument("--from", dest="year_from", type=int, default=2000)
     ap.add_argument("--to", dest="year_to", type=int, default=2009)
     ap.add_argument("--limit", type=int, default=50, help="candidates to screen")
@@ -227,9 +299,12 @@ def main() -> int:
     ap.add_argument("--json", action="store_true")
     args = ap.parse_args()
 
-    rows = list_archived(args.domain, args.year_from, args.year_to, args.limit)
+    rows = list_archived(args.domain, args.year_from, args.year_to, args.limit, args.kind)
     if not rows:
-        print("no archived .doc files found for that domain and range", file=sys.stderr)
+        print(
+            f"no archived {KINDS[args.kind][1]} files found for that domain and range",
+            file=sys.stderr,
+        )
         return 1
 
     print(f"screening {len(rows)} candidate(s) from {args.domain} "
@@ -245,12 +320,12 @@ def main() -> int:
         checked += 1
         time.sleep(0.5)  # stay under the archive's rate limit
 
-        fonts = legacy_fonts(data)
-        encoding = classify(fonts, data)
+        fonts = declared_fonts(data, args.kind)
+        encoding = classify(fonts, data, args.kind)
         if not encoding:
             continue
 
-        name = url.rsplit("/", 1)[-1].split("?")[0] or f"{ts}.doc"
+        name = url.rsplit("/", 1)[-1].split("?")[0] or f"{ts}{KINDS[args.kind][1]}"
         hit = {
             "file": name,
             "source": url,

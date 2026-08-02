@@ -298,6 +298,37 @@ permission. Three ways forward, in order of preference:
    government, which is public record. Two counties were checked and had none archived
    as `.doc`; more exist.
 
+## Beyond `.doc`, 2026-08-02
+
+The corpus was `.doc` only, which hid a class of problem: `.doc` reaches viparse's DOCX
+engine through LibreOffice, so that one path was thoroughly covered while PDF, RTF and
+XLS had no real-document coverage at all.
+
+`find_candidates.py` and `fetch_corpus.py` now take `--kind`. Reconnaissance across the
+domains already screened:
+
+| kind | archived | declaring a legacy font |
+| --- | ---: | ---: |
+| `rtf` | 36 | **23** |
+| `pdf` | 48 | 14 |
+| `xls` | 56 | 4 |
+
+Collected: **21 RTF** and **7 PDF**, all TCVN3, all `pending-transcript`.
+
+### `.xls` is screened font-only, so it is not collected
+
+A font-only screen measured a 44% false-positive rate on `.doc`. Shipping one for `.xls`
+would put known-bad candidates in the corpus, and this repo has no independent `.xls`
+reader to run the deciding text stage with. Left uncollected rather than collected
+badly — 4 candidates is not worth the exception.
+
+### PDFs are capped by size, and the reason is the transcript
+
+`--max-bytes` exists because `moit.gov.vn` serves 1.3 MB monthly industrial statistics
+tables. They are real legacy documents and useless here: ground truth for a table that
+size cannot be produced by hand, and a benchmark entry without ground truth is storage,
+not evidence.
+
 ## What is still missing
 
 - **VISCII and VPS samples — never searched for.** 34 government domains produced only
