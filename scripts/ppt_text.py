@@ -2,37 +2,38 @@
 """Text out of a PowerPoint 97 ``.ppt``, independently of viparse.
 
 viparse reaches a legacy ``.ppt`` through LibreOffice and python-pptx. Screening the
-corpus with that same path would mean the benchmark is a collection of exactly the files
+corpus with that same path would make the benchmark a collection of exactly the files
 the library already handles — the reason ``doc_text.py`` exists for Word, and the
 standard the PDF and RTF stages could not meet.
 
-A ``.ppt`` is an OLE2 container whose ``PowerPoint Document`` stream is a flat sequence
-of records: an 8-byte header (version/instance, type, length) then the payload. Text
-lives in two of them, and the distinction is the whole point here:
+Following the pointer, not scanning the stream
+----------------------------------------------
+A ``.ppt`` is saved incrementally: each save appends a new ``Document`` container and
+leaves the previous one in place. Scanning the ``PowerPoint Document`` stream for text
+therefore returns **every revision** — on the one legacy presentation collected, the
+whole slide index appeared twice, and a first attempt produced a transcript at exactly
+twice any parser's length with 1021 of 1023 long lines duplicated.
 
-* ``TextCharsAtom`` (0x0FA0) — UTF-16LE, already Unicode.
+The live revision is found the way PowerPoint finds it:
+
+1. ``Current User`` stream → ``CurrentUserAtom.offsetToCurrentEdit``.
+2. That offset holds a ``UserEditAtom``, chained backwards through ``offsetLastEdit``.
+3. Each edit carries a ``PersistDirectoryAtom`` mapping persist IDs to stream offsets;
+   merged newest-first, the current edit's ``docPersistIdRef`` resolves to the live
+   ``Document``.
+
+This is the Word piece table's lesson again: a stale revision is still in the file, and
+a reader that scans instead of resolving finds it.
+
+Records inside that container
+-----------------------------
+An 8-byte header — version/instance, type, length — then the payload. Containers, whose
+low nibble of the first field is 0xF, hold other records rather than data, so the walk
+descends into them. Text lives in:
+
 * ``TextBytesAtom`` (0x0FA8) — one byte per character, which is where a legacy encoding
   survives. A slide typed in ``.VnTime`` is stored here.
-
-Container records — those whose low nibble of the first field is 0xF — hold other
-records rather than data, so the walk descends into them instead of skipping their
-length. Missing that reads the file as a single opaque blob and finds nothing.
-
-.. warning::
-   **Not yet correct enough for ground truth.** PowerPoint keeps slide text in more than
-   one place, and this reader still returns some of it twice: on the one legacy ``.ppt``
-   collected it produces 97,359 characters where a parser produces 85,410, with 578
-   duplicated lines. The text it returns is right; there is too much of it.
-
-   Reading only ``TextBytesAtom`` inside ``SlideListWithText`` removed most of the
-   duplication but not all — the index appears to carry a second copy for some shapes.
-   Until that is understood the document it was built for stays ``pending-transcript``,
-   because a transcript that repeats lines charges the repetition to whatever is
-   measured against it.
-
-   The record walk is also not fully trustworthy: scanning the stream for
-   ``TextCharsAtom`` matched 760 records, most of them arbitrary bytes rather than text.
-   ``TextBytesAtom`` — the one that matters for a legacy file — is clean.
+* ``TextCharsAtom`` (0x0FA0) — UTF-16LE, already Unicode.
 
     python3 scripts/ppt_text.py file.ppt
 """
@@ -41,28 +42,73 @@ from __future__ import annotations
 
 import struct
 import sys
+from collections.abc import Iterator
 
 _TEXT_CHARS_ATOM = 0x0FA0
 _TEXT_BYTES_ATOM = 0x0FA8
+_USER_EDIT_ATOM = 0x0FF5
+_PERSIST_DIRECTORY_ATOM = 0x1772
 
-# PowerPoint stores slide text *twice*: once per shape, inside the drawing records, and
-# once flattened into a document-level index. Reading the stream for text atoms without
-# caring where they sit therefore returns every line two or four times — measured on the
-# one legacy .ppt collected, 1021 of 1023 long lines were duplicates, and the transcript
-# came out at exactly twice the length of any parser's output.
-#
-# The index is the complete copy — 124 atoms against the drawing records' 16 in that
-# file, because a shape whose text lives in the outline stores only a reference. So the
-# walk reads the index and nothing else.
-_SLIDE_LIST_WITH_TEXT = 0x0FF0
 _HEADER = struct.Struct("<HHI")
+_CURRENT_USER = struct.Struct("<III")  # size, headerToken, offsetToCurrentEdit
+_USER_EDIT = struct.Struct("<IHBBIII")  # …, offsetLastEdit, offsetPersistDirectory, docId
 
 # PowerPoint writes CR for a paragraph break and 0x0B for a soft line break.
 _BREAKS = str.maketrans({"\r": "\n", "\x0b": "\n"})
 
 
-def _records(data: bytes, start: int, end: int, *, inside_index: bool):
-    """Yield ``(type, payload)`` for text atoms in the slide-text index only."""
+def _persist_map(data: bytes, offset: int) -> dict[int, int]:
+    """Persist ID → stream offset, from one edit's directory."""
+    if offset + _HEADER.size > len(data):
+        return {}
+    _, record_type, length = _HEADER.unpack_from(data, offset)
+    if record_type != _PERSIST_DIRECTORY_ATOM:
+        return {}
+    mapping: dict[int, int] = {}
+    position = offset + _HEADER.size
+    end = min(position + length, len(data))
+    while position + 4 <= end:
+        (entry,) = struct.unpack_from("<I", data, position)
+        position += 4
+        persist_id, count = entry & 0xFFFFF, entry >> 20
+        for index in range(count):
+            if position + 4 > end:
+                break
+            (target,) = struct.unpack_from("<I", data, position)
+            position += 4
+            mapping[persist_id + index] = target
+    return mapping
+
+
+def _live_document(data: bytes, current_user: bytes) -> int | None:
+    """Offset of the ``Document`` container belonging to the most recent save."""
+    if len(current_user) < _HEADER.size + _CURRENT_USER.size:
+        return None
+    _, _, offset = _CURRENT_USER.unpack_from(current_user, _HEADER.size)
+
+    mapping: dict[int, int] = {}
+    document_id: int | None = None
+    seen: set[int] = set()
+    while offset and offset not in seen and offset + _HEADER.size <= len(data):
+        seen.add(offset)
+        _, record_type, _ = _HEADER.unpack_from(data, offset)
+        if record_type != _USER_EDIT_ATOM:
+            break
+        _, _, _, _, last_edit, persist_offset, persist_id = _USER_EDIT.unpack_from(
+            data, offset + _HEADER.size
+        )
+        # Walked newest to oldest, so an older directory must not overwrite a newer
+        # entry: setdefault keeps the first — newest — mapping for each persist ID.
+        for key, value in _persist_map(data, persist_offset).items():
+            mapping.setdefault(key, value)
+        if document_id is None:
+            document_id = persist_id
+        offset = last_edit
+    return mapping.get(document_id) if document_id is not None else None
+
+
+def _records(data: bytes, start: int, end: int) -> Iterator[tuple[int, bytes]]:
+    """Yield ``(type, payload)`` for every atom, descending into containers."""
     position = start
     while position + _HEADER.size <= end:
         version_instance, record_type, length = _HEADER.unpack_from(data, position)
@@ -70,13 +116,8 @@ def _records(data: bytes, start: int, end: int, *, inside_index: bool):
         if length > end - body:
             return
         if version_instance & 0x0F == 0x0F:
-            yield from _records(
-                data,
-                body,
-                body + length,
-                inside_index=inside_index or record_type == _SLIDE_LIST_WITH_TEXT,
-            )
-        elif inside_index:
+            yield from _records(data, body, body + length)
+        else:
             yield record_type, data[body : body + length]
         position = body + length
 
@@ -92,10 +133,21 @@ def extract(path: str) -> str:
     with olefile.OleFileIO(path) as ole:
         if not ole.exists("PowerPoint Document"):
             return ""
-        stream = ole.openstream("PowerPoint Document").read()
+        data = ole.openstream("PowerPoint Document").read()
+        current_user = (
+            ole.openstream("Current User").read() if ole.exists("Current User") else b""
+        )
+
+    start = _live_document(data, current_user)
+    if start is None or start + _HEADER.size > len(data):
+        # No usable pointer chain. Reading the whole stream would return every saved
+        # revision, so return nothing rather than something silently doubled.
+        return ""
+    _, _, length = _HEADER.unpack_from(data, start)
+    body = start + _HEADER.size
 
     parts: list[str] = []
-    for record_type, payload in _records(stream, 0, len(stream), inside_index=False):
+    for record_type, payload in _records(data, body, min(body + length, len(data))):
         if record_type == _TEXT_BYTES_ATOM:
             # One byte per character. Decoding as Latin-1 keeps every byte intact, which
             # is what a legacy table needs to read afterwards — decoding as anything

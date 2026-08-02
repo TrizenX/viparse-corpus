@@ -335,19 +335,29 @@ Legacy `.ppt` exists in the archives: **9 of 17** archived presentations across 
 domains declare a legacy font, including VNI ones (`VNI-Times`, `VNI-Avo`, `VNI-Revue`)
 from `hochiminhcity.gov.vn`. That answers the question the `.pptx` engine could not.
 
-**One document collected, held `pending-transcript`.** `scripts/ppt_text.py` reads the
-PowerPoint 97 record structure directly — the same approach `doc_text.py` takes to Word,
-and genuinely independent of the LibreOffice-and-python-pptx path viparse uses. The text
-it returns is correct: `I- CÁC VB PHÁP QUY ĐÃ BAN HÀNH, LIÊN QUAN ĐẾN HOẠT ĐỘNG ĐT-XD`.
+**One document collected and transcribed.** `scripts/ppt_text.py` reads the PowerPoint
+97 record structure directly — the approach `doc_text.py` takes to Word, and genuinely
+independent of the LibreOffice-and-python-pptx path viparse uses.
 
-There is simply too much of it. PowerPoint keeps slide text in more than one place, and
-the reader returns 97,359 characters where a parser returns 85,410, with 578 duplicated
-lines. Reading only `TextBytesAtom` inside `SlideListWithText` removed most of the
-duplication but not all.
+Getting it right took three attempts, and the reason is worth recording because it is
+the Word piece table's lesson in a second format. **A `.ppt` is saved incrementally:
+each save appends a new `Document` container and leaves the previous one in place.**
+Scanning the stream for text therefore returns every revision.
 
-Collected and held rather than transcribed, because a transcript that repeats lines
-charges the repetition to whatever is measured against it — and a benchmark number
-produced that way is worse than no number.
+| approach | characters | duplicated long lines |
+| --- | ---: | ---: |
+| scan the stream for text atoms | 171,790 | 1021 of 1023 |
+| restrict to `SlideListWithText`, `TextBytesAtom` only | 97,359 | 578 |
+| **resolve the live revision through the persist directory** | **85,717** | **2** |
+
+A parser returns 85,410 on the same file. The reader now finds the live `Document` the
+way PowerPoint does: `Current User` → `CurrentUserAtom.offsetToCurrentEdit` →
+`UserEditAtom`, chained backwards through `offsetLastEdit`, each carrying a
+`PersistDirectoryAtom` that resolves `docPersistIdRef` to a stream offset.
+
+One spelling needed correcting by hand: `VEÂØ` is E + circumflex + huyền typed as
+separate marks, and reads `VỀ` — the stacked-modifier variant already seen once in a VNI
+document.
 
 ## What is still missing
 

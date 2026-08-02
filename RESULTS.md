@@ -413,6 +413,23 @@ a document-level legacy font signal, not merely on `encoding="auto"` — without
 unrecognised font stopped protecting non-Vietnamese text and `Señor` became `Seđor`,
 which a check against `main` caught before it shipped.
 
+## PowerPoint, one document
+
+| Format | n | char | diacritic | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| `.ppt` (VNI) | 1 | 0.996 | **1.000** | 1.000 |
+
+One document is one document, and this number should be read as "the path works end to
+end", not as an accuracy figure for the format.
+
+It is worth more than the TCVN3 and VNI headline numbers in one specific way, though:
+the transcript comes from `scripts/ppt_text.py`, which parses the PowerPoint record
+structure directly, while viparse reads the same file through LibreOffice and
+python-pptx. The two extractors share no code. The *conversion table* is still common
+ancestry — viparse's VNI table was derived from `scripts/vni.py` — so this measures
+extraction independently and conversion circularly, which is one axis better than the
+`.doc` numbers manage.
+
 ## Excel, and why its number is the least trustworthy here
 
 28 legacy `.xls` documents, 22 TCVN3 and **6 VNI** — the first VNI material found outside
