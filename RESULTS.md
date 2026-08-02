@@ -449,15 +449,25 @@ workbook where the transcript has 29,530, and 88% of them were tabs. Fixing it
 and **did not move the score at all**. Sheet names and cell whitespace were the other two
 guesses; between them they moved 0.939 to 0.942.
 
-The real cause is a spreadsheet cell being too short for per-block content detection. In
-the mixed-encoding workbook `2007-bkqd1412006.dot`, a VNI cell inside an otherwise TCVN3
-sheet stays unconverted: `TOÅNG SOÁ` comes back as `TONG SO`. The 24-character floor that
-[viparse#87](https://github.com/TrizenX/viparse/pull/87) needed in order not to read
-`MôC LôC` as VNI is the same floor a spreadsheet cell cannot clear.
+The real cause turned out to be narrower and exactly findable, and it is **fixed**
+([viparse#104](https://github.com/TrizenX/viparse/pull/104)): a table block carries
+`rows` and no `text` key, and the per-block content fallback asked it for `text`. It got
+the empty string and silently declined — for every table in every document. On a
+spreadsheet the table *is* the document.
 
-That is a genuine limitation and it is the honest reading of 0.939 — not "spreadsheets
-are hard to measure", which is what the first draft of this section said before the
-cause was found.
+Joining the cells is also what makes detection possible at that granularity. One cell is
+far too short to score; a sheet is not.
+
+| | before | after |
+| --- | ---: | ---: |
+| `.xls` diacritic, 28 documents | 0.942 | **0.979** |
+| `.doc` diacritic, 48 documents | 0.972 | **0.976** |
+| whole corpus, 93 documents | 0.980 | **0.983** |
+
+Word tables benefited too — this was never only a spreadsheet problem. Three drafts of
+this section blamed number rendering, then sheet names, then cell whitespace, then
+"spreadsheets are hard to measure". Only the fourth measured which characters actually
+mismatched.
 
 ### The `.xls` reader is genuinely independent, unlike the PDF and RTF ones
 
