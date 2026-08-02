@@ -1,0 +1,75 @@
+Thông tư
+Liên tịch Bộ Tài chính - Công nghiệp - Tổng cục Hải quan
+Số 120/2000/TTLT-BTC-BCN-TCHQ ngày 25 tháng 12 năm 2000
+Về việc bổ sung, sửa đổi chính sách thuế theo tỷ lệ nội địa hoá đối với các sản phẩm, phụ tùng thuộc ngành cơ khí - điện - điện tử hướng dẫn tại Thông tư liên tịch 
+số 176/1998/TTLT-BTC-BCN-TCHQ ngày 25/12/1998 của liên Bộ
+Tài chính - Công nghiệp - Tổng cục Hải quan 
+
+Căn cứ ý kiến của Thủ tướng Chính phủ tại các Công văn số 4830/KTTH ngày 24/09/1997, số 1440/CP-KTTH ngày 07/11/1998 của Chính phủ, số 2687/VPCP-KTTH ngày 15/07/1998 và số 3300/VPCP-KTTH ngày 09/08/2000 của Văn phòng Chính phủ về chính sách thuế theo tỷ lệ nội địa hoá sản phẩm.
+Để thúc đẩy việc sản xuất, chế tạo các linh kiện, phụ tùng và sản phẩm trong nước thay thế hàng nhập khẩu và giải quyết các vướng mắc phát sinh trong quá trình thực hiện đồng thời tăng cường các biện pháp quản lý, kiểm tra chống thất thu cho ngân sách Nhà nước, liên Bộ Tài chính - Công nghiệp - Tổng cục Hải quan thống nhất hướng dẫn bổ sung, sửa đổi việc thực hiện chính sách thuế theo tỷ lệ nội địa hoá đối với các sản phẩm, phụ tùng thuộc các ngành cơ khí - điện - điện tử tại Thông tư liên tịch số 176/1998/TTLT-BTC-BCN-TCHQ ngày 25/12/1998 của Bộ Tài chính - Công nghiệp - Tổng cục Hải quan, như sau: 
+
+I- Thay thế điểm 3 (các điều kiện để được áp dụng thuế nhập khẩu theo tỷ lệ nội địa hoá) bằng điểm 3 mới, như sau: 3- Các điều kiện để được áp dụng thuế nhập khẩu theo tỷ lệ nội địa hoá:
+Để được áp dụng thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá, các doanh nghiệp phải có đủ các điều kiện sau:
+3.1 - Đủ điều kiện kỹ thuật, năng lực công nghệ sản xuất sản phẩm theo hướng dẫn của Bộ Công nghiệp:
+3.2- Bản đăng ký thực hiện nội địa hoá sản xuất sản phẩm, phụ tùng - có xác nhận của Bộ Công nghiệp.
+3.3- Có văn bản đảm bảo tính hợp pháp về sở hữu công nghiệp của cơ quan có thẩm quyền đối với sản phẩm đăng ký thực hiện chính sách thuế theo tỷ lệ nội địa hoá.
+3.4- Trực tiếp nhập khẩu chi tiết, cụm chi tiết, bộ phận, phụ tùng, nguyên vật liệu để sản xuất. 
+3.5- Thực hiện thanh toán 100% giá trị các lô hàng nhập khẩu qua Ngân hàng. 
+3.6- Thực hiện nộp thuế GTGT theo phương pháp khẩu trừ.
+
+II- Thay thế điểm 4 (tỷ lệ nội địa hoá) bằng điểm 4 mới, như sau: 
+4- Tỷ lệ nội địa hoá:
+4.1: Tỷ lệ nội địa hoá được xác định bằng công thức sau:
+
+||Z - I||||||I|||
+N|=||X|100%|=|(1|-||)  X|100%|
+||Z||||||Z|||
+
+Trong đó:
+- N (%): Tỷ lệ nội địa hoá của một loại sản phẩm hoặc phụ tùng.
+- Z: Giá nhập khẩu hoặc giá bán của sản phẩm; Phụ tùng nguyên chiếc mà doanh nghiệp sản xuất, lắp ráp.
++ Giá nhập khẩu: Là giá mua tại cửa khẩu nhập - Việt Nam (giá CIF). Giá nhập khẩu được xác định theo hoá đơn và các chứng từ nhập khẩu có liên quan. Trường hợp, sản phẩm hoặc phụ tùng chưa được nhập khẩu dưới dạng nguyên chiếc, thì các doanh nghiệp căn cứ giá nhập khẩu (CIF) của sản phẩm, phụ tùng cùng loại tại thị trường khu vực để kê khai - Giá nhập khẩu được áp dụng để xác định tỷ lệ nội địa hoá trong năm Tài chính đầu tiên đăng ký thực hiện nội địa hoá.
+* (Năm Tài chính là năm dương lịch bắt đầu từ ngày 01/01 và kết thúc ngày 31/12 hàng năm hoặc năm 12 tháng khác với năm dương lịch mà Bộ Tài chính cho phép doanh nghiệp được áp dụng).
++ Giá bán sản phẩm: là giá bán bình quân gia quyền, không bao gồm thuế GTGT và các khoản chi khuyến mại, thưởng mua hàng, hoa hồng đại lý. Giá bán sản phẩm được xác định căn cứ vào sổ sách kế toán của doanh nghiệp, hoá đơn bán hàng (hoá đơn theo quy định của Bộ Tài chính).
+- I: Giá trị nhập khẩu (CIF) của bán thành phẩm, chi tiết, cụm chi tiết, bộ phận do doanh nghiệp trực tiếp nhập khẩu.
+4.2: Xác định tỷ lệ nội địa hoá cho năm tiếp theo:
+Khi kết thúc năm Tài chính, doanh nghiệp phải xác định lại tỷ lệ nội địa hoá thực tế đạt được, để làm căn cứ xác định thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá của sản phẩm, phụ tùng cho năm tài chính tiếp theo.
+Tỷ lệ nội địa hoá của sản phẩm, phụ tùng cho năm tài chính tiếp theo được xác định theo tỷ lệ nội địa hoá thực tế của năm trước liền kề. Trong đó chỉ tiêu (Z) là: giá bán sản phẩm, theo hướng dẫn tại điểm 4.1; Chỉ tiêu (I) là giá CIF nhập khẩu thực tế.
+Sau sáu mươi ngày (60 ngày) kể từ ngày kết thúc năm Tài chính, doanh nghiệp phải nộp báo cáo quyết toán về tình hình thực hiện nội địa hoá cho Bộ Công nghiệp, Cơ quan Hải quan - Nơi làm thủ tục nhập khẩu, cơ quan Thuế nơi doanh nghiệp đăng ký nộp thuế: Trong báo cáo quyết toán (có xác nhận của cơ quan kiểm toán) phải xác định cụ thể tỷ lệ nội địa hoá thực tế của sản phẩm, phụ tùng đăng ký thực hiện nội địa hoá. Giám đốc doanh nghiệp tự chịu trách nhiệm trước pháp luật về tính trung thực, chính xác của các số liệu tong báo cáo quyết toán.
+Cơ quan Hải quan nơi doanh nghiệp làm thủ tục nhập khẩu, căn cứ tỷ lệ nội địa hoá thực tế đạt được tại báo cáo quyết toán, thực hiện tính và thu thuế nhập khẩu tương ứng theo tỷ lệ nội địa hoá thực tế. Mức thuế nhập khẩu này được áp dụng bắt đầu từ năm Tài chính tiếp theo. Trường hợp, trong sáu mươi ngày (60 ngày) kể từ khi kết thúc năm Tài chính, cơ quan Hải quan đã thu thuế nhập khẩu khác với mức thuế doanh nghiệp được hưởng thì thực hiện tính và thu thuế nhập khẩu của doanh nghiệp theo đúng mức thuế nhập khẩu tương ứng với mức nội địa hoá thực tế đạt được trong báo cáo quyết toán.
+Đối với các chủng loại (model) sản phẩm, phụ tùng mà doanh nghiệp đăng ký thực hiện nội địa hoá, nhưng chỉ thực hiện sản xuất, lắp ráp trong thời hạn một năm (không thực hiện nội địa hoá trong năm tiếp theo), khi kết thúc sản xuất, lắp ráp các sản phẩm, phụ tùng này (chậm nhất là 30 ngày) các doanh nghiệp phải thực hiện báo cáo quyết toán theo đúng hướng dẫn và nộp thuế nhập khẩu theo tỷ lệ nội địa hoá thực tế đạt được. Trường hợp nếu tỷ lệ nội địa khá thực tế cao hơn tỷ lệ nội địa hoá đã đăng ký, doanh nghiệp sẽ được hoàn lại số thuế nhập khẩu đã nộp; Nếu tỷ lệ nội địa hoá được xác định lại thấp hơn tỷ lệ nội địa hoá mà doanh nghiệp đã đăng kiểm với Bộ Công nghiệp, thì doanh nghiệp sẽ phải thực hiện nộp thuế bổ sung theo đúng mức thuế tương ứng với tỷ lệ nội địa hoá thực tế.
+4.3- Đối với trường hợp các doanh nghiệp nhập khẩu linh kiện, phụ tùng chỉ đơn thuần lắp ráp, không sản xuất cũng như không sử dụng linh kiện, phụ tùng do trong nước sản xuất, hoặc có sử dụng các sản phẩm, linh kiện bộ phận sản xuất trong nước nhưng chỉ là các sản phẩm, bộ phận phụ (bao bì, tài liệu quảng cáo, sách hướng dẫn sử dụng), thì chỉ được áp dụng mức thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá ở mức có tỷ lệ nội địa hoá thấp nhất.
+
+III- Thay thế điểm 6 (Chỉ số ưu tiên) bằng điểm 6 mới, như sau:
+ 6- Chỉ số khuyến khích:
+Trong trường hợp các doanh nghiệp sản xuất, lắp ráp các sản phẩm, phụ tùng cần khuyến khích thì thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá được tính giảm như sau:
+Tk = Ts x (1 - k)
+trong đó:
+- Tk: Thuế suất thuế nhập khẩu khuyến khích 
+- Ts: Thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá thực tế đạt được 
+- k: Hệ số khuyến khích (k  0,5 - mức giảm thuế không vượt quá 50% so với mức thuế phải nộp). Hệ số khuyến khích được áp dụng thống nhất cho từng loại sản phẩm, phụ tùng nằm trong danh mục sản phẩm, phụ tùng cần khuyến khích đầu tư. Thời gian áp dụng hệ số khuyến khích tối đa không quá 5 năm và theo nguyên tắc giảm dần theo từng năm.
+Doanh mục sản phẩm, phụ tùng cần khuyến khích đầu tư; Thời gian áp dụng hệ số khuyến khích; Hệ số khuyến khích cho sản phẩm, phụ tùng do Bộ Công nghiệp công bố sau khi đã có ý kiến thống nhất của Bộ Tài chính và Bộ Khoa học, Công nghệ và Môi trường.
+
+IV- Thay thế điểm 7 (Tổ chức thực hiện) bằng điểm 7 mới, như sau:
+7- Tổ chức thực hiện:
+7.1- Đăng ký hồ sơ.
+Các doanh nghiệp sản xuất, lắp ráp sản phẩm, phụ tùng phải nộp cho cơ quan Hải quan (nơi làm thủ tục nhập khẩu) hồ sơ đăng ký để được áp dụng thuế nhập khẩu theo tỷ lệ nội địa hoá trong năm, bao gồm:
+7.1.1- Bản xác nhận của Bộ Công nghiệp về điều kiện kỹ thuật, năng lưc công nghệ sản xuất và tỷ lệ nội địa hoá của sản phẩm phụ tùng của doanh nghiệp (đối với các sản phẩm, phụ tùng đăng ký thực hiện nội địa hoá trong năm đầu tiên).
+7.1.2. Danh mục và định mức về số lượng các bán thành phẩm, chi tiết, cụm chi tiết, bộ phận cấu thành nên một sản phẩm hoặc phụ tùng. Trong đó phân ra danh mục các bán thành phẩm, chi tiết, cụm chi tiết, bộ phận nhập khẩu cùng với giá nhập khẩu (CIF) và danh mục các bán thành phẩm, chi tiết, cụm chi tiết, bộ phận sản xuất trong nước (đối với các chi tiết, cụm chi tiết, bộ phận, phụ tùng do đơn vị tự sản xuất hoặc mua của các đơn vị sản xuất, lắp ráp trong nước thì phải ghi rõ: đơn vị tự sản xuất hoặc tên đơn vị cung cấp).
+Nếu doanh nghiệp nào đăng ký thực hiện thuế suất thuế nhập khẩu nguyên liệu theo tỷ lệ nội địa hoá, thì phải cung cấp danh mục và định mức về số lượng các nguyên vật liệu nhập khẩu để sản xuất sản phẩm, phụ tùng đó.
+7.1.3- Bản đăng ký áp dụng tính thuế GTGT theo phương pháp khấu trừ thuế - có ý kiến chấp nhận của cơ quan thuế nơi doanh nghiệp đăng ký nộp thuế.
+7.1.4- Hồ sơ đăng ký chỉ thực hiện cung cấp một lần với cơ quan Hải quan. Căn cứ tỷ lệ nội địa hoá xác định của Bộ công nghiệp, cơ quan Hải quan xác định tính, thu mức thuế nhập khẩu theo tỷ lệ nội địa hoá và thực hiện trong vòng 01 năm (tính theo năm tài chính) kể cả trường hợp doanh nghiệp thay thế nguồn cung cấp đã đăng ký.
+Trường hợp cơ quan Hải quan phát hiện doanh nghiệp nhập khẩu nhưng không đủ các điều kiện hướng dẫn tại điểm 3 Mục I của Thông tư này thì tiến hành lập Biên bản và không áp dụng thuế suất thuế nhập khẩu theo tỷ lệ nội địa hoá.
+7.2- Theo dõi và quyết toán hàng nhập khẩu:
+7.2.1- Theo dõi hàng nhập khẩu: khi nhập khẩu doanh nghiệp có trách nhiệm kê khai đầy đủ số lượng từng loại nguyên vật liệu, bán thành phẩm, chi tiết, cụm chi tiết, bộ phận và giá nhập khẩu của chúng, đồng thời mở sổ theo dõi hàng nhập khẩu theo quy định của cơ quan Hải quan, Tổng cục Hải quan hướng dẫn Hải quan địa phương theo dõi hàng nhập khẩu đảm bảo thuận lợi cho các doanh nghiệp, tránh lợi dụng, trốn thuế nhập khẩu.
+7.2.2- Quyết toán hàng nhập khẩu: Chậm nhất là 60 ngày, kể từ ngày kết thúc năm Tài chính, các doanh nghiệp phải tổng hợp báo cáo quyết toán về tình hình nhập khẩu, sản xuất, lắp ráp của năm trước. Cụ thể:
+- Bảng tính toán tỷ lệ nội địa hoá thực tế đạt được trong năm, được xác định theo hướng dẫn tại mục II Thông tư này.
+- Số lượng bán thành phẩm, chỉ tiết, cụm chi tiết, bộ phận, phụ tùng nhập khẩu; Số lượng chi tiết, cụm chi tiết, bộ phận, phụ tùng do trong nước sản xuất; số lượng đã sử dụng vàp sản xuất, lắp ráp; số lượng sản phẩm, phụ tùng sản xuất ra; số chuyển sang năm sau; số đã nhượng bán hoặc không sử dụng vào mục đích sản xuất lắp ráp sản phẩm, phụ tùng.
+- Giấy phép sản xuất, kinh doanh phù hợp với đăng ký ngành nghề sản xuất, kinh doanh (bản poto) của các doanh nghiệp bán chi tiết, cụm chi tiết, bộ phận, phụ tùng do trong nước sản xuất cho các doanh nghiệp đăng ký thực hiện nội địa hoá sản phẩm, phụ tùng.
+Các số liệu trong báo cáo quyết toán, phải có xác nhận của cơ quan kiểm toán độc lập. 
+Trên cơ sở báo cáo quyết toán của doanh nghiệp, cơ quan Hải quan nơi doanh nghiệp đăng ký áp dụng thuế nhập khẩu theo tỷ lệ nội địa hoá, thực hiện tính, thu thuế nhập khẩu theo tỷ lệ nội địa hoá cho sản phẩm, phụ tùng của doanh nghiệp theo tỷ lệ nội địa hoá thực tế đạt được theo đúng quy định của Thông tư này. Trường hợp có nghi vấn cơ quan Thuế địa phương chủ trì phối hợp cùng cơ quan Hải quan địa phương tiến hành kiểm tra việc nhập khẩu, sản xuất, nguồn mua trong nước,... xác định tỷ lệ nội địa hoá thực tế của doanh nghiệp và báo cáo kết quả (biên bản) kiểm tra về Bộ Tài chính, Bộ Công nghiệp và Tổng cục Hải quan. Cơ quan Hải quan thực hiện tính lại Thuế suất thuế nhập khẩu tương ứng với tỷ lệ nội địa hoá xác định tại biên bản kiểm tra. Trường hợp doanh nghiệp có hành vi giam lận, trốn thuế, sẽ bị xử phạt theo Luật định.
+
+V- Những quy định khác:
+Thông tư này có hiệu lực thi hành từ ngày 01/01/2001. Các điểm quy định tại Thông tư số 176/1998/TTLT-BTC-BCN-TCHQ ngày 25/12/1998 của Liên Bộ Tài chính - Công nghiệp - Tổng cục Hải quan nếu không trái với quy định tại Thông tư này vẫn còn hiệu lực thi hành.
+Trường hợp các doanh nghiệp đã đăng ký thực hiện nội địa hoá sản xuất sản phẩm, phụ tùng đã được Bộ Công nghiệp ghi nhận trước thời điểm ngày 01/01/2001, nếu không có nhu cầu đăng ký lại vẫn được tiếp tục thực hiện theo quy định tại Thông tư này. Doanh nghiệp không đủ các điều kiện hướng dẫn tại điểm 3 Mục I của Thông tư này thì chỉ được áp dụng thuế suất thuế nhập khẩu tương ứng theo tỷ lệ nội địa hoá đã được Bộ Công nghiệp ghi nhận trước thời điểm ngày 01/01/2000, nhưng tối đa không quá ngày 01/03/2001. Đối với các trường hợp này, trên cơ sở báo cáo của doanh nghiệp, cơ quan Hải quan tiến hành quyết toán cho doanh nghiệp, nếu phát hiện doanh nghiệp không chấp hành đúng quy định, phải xử lý truy thu thuế nhập khẩu theo đúng thuế suất quy định tại Biểu thuế nhập khẩu và các quy định hiện hành, đồng thời tập hợp, phản ánh những điểm chưa hợp lý về Tổng cục Hải quan, để Tổng cục Hải quan cùng Bộ Tài chính, Bộ Công nghiệp xem xét, giải quyết.
+Trong quá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp thời để Liên Bộ xử lý phù hợp.

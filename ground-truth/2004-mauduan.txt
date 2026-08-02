@@ -317,7 +317,7 @@ EMBED PBrush
 
 Hình 1: Mô hình mạng CNTT địa phương trong sơ đồ Tổng thể
 
-I.2 CáC YÊU CầU hệ thống cơ sở hạ tầng công nghệ thông tin
+I.2 CÁC YÊU CẦU hệ thống cơ sở hạ tầng công nghệ thông tin
 	1. tận dụng được Môi trường Vật lý hiện tại.
 Hiện tại, hệ thống hạ tầng cơ sở CNTT kết nối  các trung tâm thông tin thông qua môi trường vật lý hiện có là mạng điện thoại cấp địa phương và Quốc gia. Hệ thống hạ tầng cơ sở CNTT phải tận dụng được phương thức truyền thông hiện có và phải sẵn sàng nâng cấp được khi các mạng truyền số liệu được thiết lập. Với hệ thống mạng thoại, cần sử dụng các loại modem thích hợp có tốc độ từ 28.800 bps - 33.600bps với các thủ tục (protocol) sửa sai và nén phù hợp. Trong tương lai có thể dùng các Router và các thiết bị phục vụ cho mạng truyền số liệu .
 
@@ -347,7 +347,7 @@ Có khả năng kết nối các dạng CSDL có môi trường làm việc khá
 
 Hình 2 : Sơ đồ mạng LAN/WAN của hệ thống hạ tầng CNTT của mạng hành chính quốc gia
 
-Iii. Thiết kế hệ thống hạ tầng Cntt CHO CấP tỉnh
+Iii. Thiết kế hệ thống hạ tầng Cntt CHO CẤP tỉnh
 1.Các chức năng chính của cơ sở hạ tầng CNTT bao gồm:
 Liên lạc, trao đổi thông tin nội bộ trong mạng cục bộ
 Thu thập thông tin từ các đơn vị trực thuộc (cấp Sở, Huyện)
@@ -361,7 +361,7 @@ Lựa chọn phần mềm cho mạng WAN.
 Các yêu cầu trang thiết bị máy móc phù hợp.
 Lựa chọn các phần mềm phục vụ điều hành.
 
-	3. lựa chọn Thiết kế Hạ tầng cơ sở CNTT CấP tỉnh
+	3. lựa chọn Thiết kế Hạ tầng cơ sở CNTT CẤP tỉnh
 
 	31. Một số chi tiết kỹ thuật cho cấp tỉnh (các khuyến cáo)
 	a/Trang thiết bị với cấu hình tối thiểu :
@@ -379,7 +379,7 @@ Lựa chọn các phần mềm phục vụ điều hành.
 		- Phần mềm truyền tin: LOTUS NOTES
 	c/ Topo nối ghép
 
-3.2. một số chi tiết kỹ thuật cho CấP sở(các khuyến cáo)
+3.2. một số chi tiết kỹ thuật cho CẤP sở(các khuyến cáo)
 	a/ Các trang thiết bị có cấu hình tối thiểu:
 		-- Máy chủ: 586/16MRAM/1GByte HDD
 		- Trạm làm việc : 486/586/8MRAM 512MByte HDD

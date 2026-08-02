@@ -241,6 +241,29 @@ def container_text(data: bytes, kind: str) -> str | None:
     return None
 
 
+# Vietnamese letters as Unicode. Their presence is the evidence that a document has
+# *already* been migrated, whatever its font table still says.
+_UNICODE_VN = set("àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ")
+
+
+def legacy_dominates(text: str) -> bool:
+    """Whether the legacy bytes outweigh the Unicode Vietnamese already in the text.
+
+    ``text_family`` measures the *shape* of the high bytes — where they sit relative to
+    vowels — which tells TCVN3 from VNI but says nothing about whether the document is
+    legacy at all. A migrated document keeps a handful of stray Latin-1 characters and
+    passes that test on ratio alone.
+
+    Screening `.doc` on font names gave a 44% false-positive rate. Adding a text stage
+    without this check reproduced it almost exactly on RTF and PDF: 12 of the first 28
+    files collected were already Unicode, 43%. Same lesson, third time — hence a
+    function rather than a line, so the next format cannot skip it.
+    """
+    high = sum(1 for ch in text if 0xA0 < ord(ch) < 0x100)
+    unicode_vn = sum(1 for ch in text.lower() if ch in _UNICODE_VN)
+    return high > unicode_vn
+
+
 def classify(fonts: set[str], data: bytes | None = None, kind: str = "doc") -> str | None:
     """Legacy encoding name, or None.
 
@@ -264,6 +287,8 @@ def classify(fonts: set[str], data: bytes | None = None, kind: str = "doc") -> s
     # the text sits in it as bytes. A PDF stores glyph codes and an RTF escapes its high
     # bytes, so for those the extracted text is the only evidence there is.
     if kind == "doc" and text_is_legacy(data) is not True:
+        return None
+    if not legacy_dominates(text):
         return None
     from_text = text_family(text)
     if from_text is None:

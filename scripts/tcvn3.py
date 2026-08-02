@@ -80,8 +80,29 @@ def _fix_uppercase_runs(text: str) -> str:
     return "\n".join(out)
 
 
+# Codepoints a PDF text layer substitutes for TCVN3 bytes.
+#
+# A PDF stores glyph codes, and the extractor resolves them through the font's encoding.
+# For `.VnTime` that puts `ư` — TCVN3's 0xAD, the soft hyphen slot — out as U+2212 MINUS
+# SIGN. Measured across the three legacy PDFs collected: 124 occurrences, 124 of them
+# adjacent to a letter and none between digits (`nhµ n−íc` is nhà nước, `Thñ t−íng` is
+# Thủ tướng, `Th«ng t−` is Thông tư).
+#
+# Mapped unconditionally here because this table is only ever applied to text already
+# established as TCVN3. A general-purpose converter would need the adjacency test, since
+# a minus sign between digits is a minus sign.
+# U+2219 BULLET OPERATOR is TCVN3's 0xB7 (`ã`), from `céng hoµ x∙ héi` (cộng hoà xã hội)
+# and `Quü b¶o l∙nh` (Quỹ bảo lãnh).
+#
+# U+2030 PER MILLE is deliberately absent: `0,4 ‰` in a growth statistic is a real per
+# mille sign, not a substitution. The test for membership here is that every occurrence
+# reads as a Vietnamese letter in context, not that the codepoint looks unusual.
+_PDF_SUBSTITUTIONS = {"\u2212": "\xad", "\u2219": "\xb7"}
+
+
 def convert(text: str) -> str:
     """Apply the table, restore uppercase runs, normalise to NFC."""
+    text = "".join(_PDF_SUBSTITUTIONS.get(c, c) for c in text)
     mapped = "".join(TABLE.get(c, c) for c in text)
     return unicodedata.normalize("NFC", _fix_uppercase_runs(mapped))
 

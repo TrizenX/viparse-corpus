@@ -413,6 +413,53 @@ a document-level legacy font signal, not merely on `encoding="auto"` — without
 unrecognised font stopped protecting non-Vietnamese text and `Señor` became `Seđor`,
 which a check against `main` caught before it shipped.
 
+## First numbers for RTF and PDF
+
+The corpus was `.doc` only until now, and `.doc` reaches viparse's DOCX engine through
+LibreOffice — so one path was thoroughly covered and the others were guesses.
+
+| Format | n | char | diacritic |
+| --- | ---: | ---: | ---: |
+| `.doc` TCVN3 | 44 | 0.969 | 0.975 |
+| `.doc` VNI | 4 | 0.984 | 0.998 |
+| **`.rtf`** | 11 | **0.991** | **0.996** |
+| **`.pdf`** | 5 | **0.986** | **0.973** |
+
+RTF needs `encoding="auto"`: its engine deliberately emits no font signal, because an
+RTF font table lists the fonts a document *declares* rather than the fonts applied to
+text. In default mode a legacy `.rtf` comes back as mojibake with no warning.
+
+### viparse loses every `ư` in a legacy PDF
+
+The `.pdf` diacritic gap is almost entirely one letter. Of the characters viparse fails
+to match, `ư` accounts for **129** — which is exactly the number of U+2212 MINUS SIGN
+characters in the five source files.
+
+A PDF stores glyph codes and the extractor resolves them through the font's encoding.
+For `.VnTime` that puts TCVN3's `0xAD` — the soft-hyphen slot, which is `ư` — out as
+U+2212. All 129 occurrences sit next to a letter and none between digits: `nhµ n−íc` is
+nhà nước, `Thñ t−íng` is Thủ tướng, `Th«ng t−` is Thông tư.
+
+This is VIP-87's shape a third time. `.doc` lost `ư` through `<w:softHyphen/>`; PDF
+loses it through a codepoint substitution. Same letter, three mechanisms.
+
+A second substitution appears twice: U+2219 BULLET OPERATOR for `0xB7` (`ã`), from
+`céng hoµ x∙ héi` and `Quü b¶o l∙nh`. U+2030 PER MILLE is *not* one — `0,4 ‰` in a
+growth statistic is a real per mille sign. The test for inclusion is that every
+occurrence reads as a Vietnamese letter in context, not that the codepoint looks odd.
+
+### 12 of the first 28 files collected were already Unicode
+
+43%, against the 44% that font-only screening produced on `.doc`. The text stage was
+present and did not help: `text_family` measures the *shape* of the high bytes — where
+they sit relative to vowels — which separates TCVN3 from VNI but says nothing about
+whether a document is legacy at all. A migrated document keeps a handful of stray
+Latin-1 characters and passes on ratio alone.
+
+`legacy_dominates()` now requires the legacy bytes to outnumber the Unicode Vietnamese
+already present. The 12 were removed. Same lesson, third time — hence a named function
+rather than an inline check, so the next format cannot skip it.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.
