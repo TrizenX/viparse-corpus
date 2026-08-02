@@ -225,6 +225,23 @@ def container_text(data: bytes, kind: str) -> str | None:
             from striprtf.striprtf import rtf_to_text
 
             return rtf_to_text(data.decode("latin-1", errors="replace"), errors="ignore")
+        if kind == "xls":
+            # xlrd 2.x reads `.xls` and nothing else, which makes it a genuinely
+            # independent reader here: viparse reaches a legacy spreadsheet through
+            # LibreOffice and openpyxl, so the corpus and the library under test share
+            # no code on this path. That is the standard the `.doc` reader set, and the
+            # PDF and RTF stages could not meet.
+            import xlrd
+
+            with tempfile.NamedTemporaryFile(suffix=suffix) as tmp:
+                tmp.write(data)
+                tmp.flush()
+                book = xlrd.open_workbook(tmp.name)
+                lines = []
+                for sheet in book.sheets():
+                    for row in range(sheet.nrows):
+                        lines.append("\t".join(_cell_text(cell) for cell in sheet.row(row)))
+                return "\n".join(lines)
         if kind == "pdf":
             import pdfplumber
 
@@ -235,15 +252,33 @@ def container_text(data: bytes, kind: str) -> str | None:
                     return "\n".join(page.extract_text() or "" for page in pdf.pages)
     except Exception:
         return None
-    # `.xls` has no text stage here. A font-only screen was measured at a 44% false
-    # positive rate on `.doc`, so shipping one for `.xls` would put known-bad candidates
-    # in the corpus. Screening it needs a reader this repo does not have yet.
     return None
 
 
 # Vietnamese letters as Unicode. Their presence is the evidence that a document has
 # *already* been migrated, whatever its font table still says.
 _UNICODE_VN = set("àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ")
+
+
+def _cell_text(cell: Any) -> str:
+    """One spreadsheet cell as a reader sees it.
+
+    Every number in a `.xls` is a float, and printing it raw gives
+    `33.74668725180189` where the sheet shows `33.7` and `4.999999999` where it shows
+    `5`. That is a rendering difference, not a transcription: it made a ground-truth
+    file disagree with every parser on the *numbers* and dragged the Vietnamese score
+    down with it, because a line that mismatches takes its diacritics with it.
+
+    Integral values print as integers and the rest are trimmed, which is what a
+    spreadsheet does by default. The corpus measures Vietnamese text recovery; how many
+    decimals a tool prints is not what it is asking about.
+    """
+    value = cell.value
+    if isinstance(value, float):
+        if value.is_integer():
+            return str(int(value))
+        return f"{value:.10g}"
+    return str(value)
 
 
 def legacy_dominates(text: str) -> bool:

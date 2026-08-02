@@ -1,0 +1,305 @@
+{
+  "tool": "viparse",
+  "tool_version": "0.1.18",
+  "subset": "public-domain",
+  "metric_version": "1",
+  "summary": {
+    "n_documents": 28,
+    "n_failures": 64,
+    "failures": [
+      "2002-0112qd",
+      "2003-02120",
+      "2003-02144qd",
+      "2003-A-15",
+      "2003-A04",
+      "2003-A05",
+      "2003-A06",
+      "2003-A16",
+      "2003-A28",
+      "2003-A30",
+      "2003-A37",
+      "2003-TT132001",
+      "2004-0328NDCP",
+      "2004-1113C_Michele_Debonneuil-_Phattrien_congnghe",
+      "2004-13-t-Phuluc3",
+      "2004-13D56_Le_Quang_Thung-phatbieu",
+      "2004-19Z9A_Luat_hop_tac_xasuadoi",
+      "2004-1E849_Tran_Du_Lich",
+      "2004-1ED4D_Francois_Godement-Thoikyquado",
+      "2004-1F7ZB_EtudeBinh_vn",
+      "2004-A3",
+      "2004-A33",
+      "2004-A40",
+      "2004-B1-1-DONTC",
+      "2004-B1-2-TMDA",
+      "2004-B1-3-LLTC",
+      "2004-B1-4-LLCN",
+      "2004-B6",
+      "2004-B8",
+      "2004-HDTMDT",
+      "2004-NghiDinh114_2003",
+      "2004-NghiDinh115_2003",
+      "2004-NghiDinh116_2003",
+      "2004-NghiDinh117_2003",
+      "2004-NghiDinh29_1998",
+      "2004-TT1691998",
+      "2004-duanLD9820",
+      "2004-mauduan",
+      "2005-1ADDZ_Ke_hoach_2005__QH_lan_6_25-10",
+      "2005-1DCA4_3b",
+      "2005-QD-256",
+      "2005-QDINHUUDAI522",
+      "2005-QDSUA522",
+      "2005-nghiencuu_2004_07_21_110129",
+      "2005-nghiencuu_2005_09_15_090641",
+      "2006-16EZE_TT01.06GopvonDNNVV",
+      "2006-19412_QD115.04TTg_BLTch_DNNVV",
+      "2006-1E499_ND109veDKKD_dacotrenmucPTDNN-V",
+      "2006-HHamau3-1995",
+      "2006-Hamau1BK1995",
+      "2006-Mau-MD-1M-Dntn",
+      "2006-Mau-MD-2M-TNHH1",
+      "2006-Mau-MD-3M-CP",
+      "2006-Mau-MD-5M-HD",
+      "2006-Mau-MDS-1M",
+      "2006-Mau-MDS-3M-HD",
+      "2006-Mau-MTB-10M-Von-CtyCP",
+      "2006-Mau-MTB-10M-Von-CtyHD",
+      "2006-huong-dan-ghi-phieu",
+      "2006-quydinhkiemtra02",
+      "2007-1AF57_02-2007",
+      "2007-Quy-che-chi-tieu-noi-bo-2007",
+      "2008-23.QD-991-UBND",
+      "2009-download"
+    ],
+    "char_accuracy": 0.976616,
+    "diacritic_accuracy": 0.939282,
+    "syllable_accuracy": 0.947912
+  },
+  "documents": [
+    {
+      "document": "2005-2005_04_14_084750",
+      "char_accuracy": 0.988868,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 539,
+      "diacritic_positions": 99
+    },
+    {
+      "document": "2005-2942C_Detai2003",
+      "char_accuracy": 0.995219,
+      "diacritic_accuracy": 0.991631,
+      "syllable_accuracy": 0.992373,
+      "truth_chars": 15895,
+      "diacritic_positions": 3226
+    },
+    {
+      "document": "2005-2BZ73_FDI_Dong_Nam_Bo",
+      "char_accuracy": 0.999182,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 4889,
+      "diacritic_positions": 347
+    },
+    {
+      "document": "2005-34448_Data_08-2005_Website",
+      "char_accuracy": 0.999304,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 14372,
+      "diacritic_positions": 933
+    },
+    {
+      "document": "2005-391F5_Danh_muc",
+      "char_accuracy": 0.998938,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 21662,
+      "diacritic_positions": 3020
+    },
+    {
+      "document": "2005-4E4ZD_XKT2.05",
+      "char_accuracy": 0.982306,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 0.835694,
+      "truth_chars": 1865,
+      "diacritic_positions": 98
+    },
+    {
+      "document": "2005-82F5B_NK_01-05",
+      "char_accuracy": 0.985211,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 0.877698,
+      "truth_chars": 1420,
+      "diacritic_positions": 107
+    },
+    {
+      "document": "2005-8A2AC_NKT2.05",
+      "char_accuracy": 0.985146,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 0.860795,
+      "truth_chars": 1885,
+      "diacritic_positions": 109
+    },
+    {
+      "document": "2005-C6DFD_XK_01-05",
+      "char_accuracy": 0.98806,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 0.884892,
+      "truth_chars": 1340,
+      "diacritic_positions": 99
+    },
+    {
+      "document": "2005-FDILangson",
+      "char_accuracy": 0.997841,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 3242,
+      "diacritic_positions": 549
+    },
+    {
+      "document": "2005-KH2003-bieu",
+      "char_accuracy": 0.762237,
+      "diacritic_accuracy": 0.772758,
+      "syllable_accuracy": 0.694095,
+      "truth_chars": 13034,
+      "diacritic_positions": 1483
+    },
+    {
+      "document": "2006-15786_FDI_Hoa_Ky",
+      "char_accuracy": 0.99898,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 2941,
+      "diacritic_positions": 271
+    },
+    {
+      "document": "2006-1B4B5_DTRNN_07-2005_NEW",
+      "char_accuracy": 0.998899,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 2726,
+      "diacritic_positions": 216
+    },
+    {
+      "document": "2006-2005_12_20_160215",
+      "char_accuracy": 0.988697,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 7343,
+      "diacritic_positions": 1294
+    },
+    {
+      "document": "2006-Bang-bieu",
+      "char_accuracy": 0.99502,
+      "diacritic_accuracy": 0.99776,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 5623,
+      "diacritic_positions": 893
+    },
+    {
+      "document": "2006-Bieu-ban-hanh-kem-theo-TT04",
+      "char_accuracy": 0.959387,
+      "diacritic_accuracy": 0.998681,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 4112,
+      "diacritic_positions": 758
+    },
+    {
+      "document": "2006-Mau21_CKTC_NSH-1",
+      "char_accuracy": 0.995455,
+      "diacritic_accuracy": 0.992537,
+      "syllable_accuracy": 0.994681,
+      "truth_chars": 880,
+      "diacritic_positions": 134
+    },
+    {
+      "document": "2006-Mau21_CKTC_NSH",
+      "char_accuracy": 0.995643,
+      "diacritic_accuracy": 0.992537,
+      "syllable_accuracy": 0.994819,
+      "truth_chars": 918,
+      "diacritic_positions": 134
+    },
+    {
+      "document": "2006-Mau22_CKTC_NSH-1",
+      "char_accuracy": 0.997466,
+      "diacritic_accuracy": 0.99422,
+      "syllable_accuracy": 0.996016,
+      "truth_chars": 1184,
+      "diacritic_positions": 173
+    },
+    {
+      "document": "2006-Mau22_CKTC_NSH",
+      "char_accuracy": 0.99761,
+      "diacritic_accuracy": 0.994286,
+      "syllable_accuracy": 0.996183,
+      "truth_chars": 1255,
+      "diacritic_positions": 175
+    },
+    {
+      "document": "2006-Mau23_CKTC_NSH-1",
+      "char_accuracy": 0.998439,
+      "diacritic_accuracy": 0.994898,
+      "syllable_accuracy": 0.996479,
+      "truth_chars": 1281,
+      "diacritic_positions": 196
+    },
+    {
+      "document": "2006-Mau23_CKTC_NSH",
+      "char_accuracy": 0.998426,
+      "diacritic_accuracy": 0.994536,
+      "syllable_accuracy": 0.996364,
+      "truth_chars": 1271,
+      "diacritic_positions": 183
+    },
+    {
+      "document": "2006-download",
+      "char_accuracy": 0.997265,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 1.0,
+      "truth_chars": 2194,
+      "diacritic_positions": 410
+    },
+    {
+      "document": "2007-2007_01_09_103051",
+      "char_accuracy": 0.991641,
+      "diacritic_accuracy": 0.98977,
+      "syllable_accuracy": 0.992857,
+      "truth_chars": 2632,
+      "diacritic_positions": 391
+    },
+    {
+      "document": "2007-74Z4A_solieu9thang-2",
+      "char_accuracy": 0.994819,
+      "diacritic_accuracy": 1.0,
+      "syllable_accuracy": 0.971951,
+      "truth_chars": 3088,
+      "diacritic_positions": 287
+    },
+    {
+      "document": "2007-bkqd1412006.dot",
+      "char_accuracy": 0.979162,
+      "diacritic_accuracy": 0.881298,
+      "syllable_accuracy": 0.919784,
+      "truth_chars": 97612,
+      "diacritic_positions": 16512
+    },
+    {
+      "document": "2009-download-xls",
+      "char_accuracy": 0.993149,
+      "diacritic_accuracy": 0.989198,
+      "syllable_accuracy": 0.99127,
+      "truth_chars": 20288,
+      "diacritic_positions": 3888
+    },
+    {
+      "document": "2009-xls",
+      "char_accuracy": 0.993149,
+      "diacritic_accuracy": 0.989198,
+      "syllable_accuracy": 0.99127,
+      "truth_chars": 20288,
+      "diacritic_positions": 3888
+    }
+  ]
+}

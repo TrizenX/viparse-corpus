@@ -1,0 +1,345 @@
+1. Một số chỉ tiêu tổng hợp 									
+									
+Số TT	Tên chỉ tiêu	Đơn vị 
+tÝnh	Thùc hiƯn 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003				
+									
+	A. Chỉ tiêu kinh tế								
+1	 Tốc độ tăng tổng sản phẩm trong nước (GDP)	%	6.8	7	7.5				
+2	 Tốc độ tăng GTSX nông, lâm, ngư nghiệp	%	4.6	5	5				
+3	 Tốc độ tăng giá trị sản xuất công nghiệp	%	14.2	14.4	14.5				
+4	 Tốc độ tăng giá trị dịch vụ	%	6.7	6.7	7				
+5	 Tốc độ tăng  kim ngạch xuất khẩu	%	4	7.1	7.5				
+6	 Tốc độ tăng kim ngạch nhập khẩu	%	3.4	12.6	6.1				
+7	 Đầu tư xã hội (giá hiện hành)	Nghìn tỷ đồng	163.5	183.8	215		484.492	540	610
+	       Tỉ lệ so với GDP	%	33.74668725	34	35.2		33.74668725	34.03703704	35.24590164
+8	 Lạm phát	%	0.8	4	4				
+9	 Thu ngân sách nhà nước	Nghìn tỷ đồng	103.9	112	123				
+	       Tăng so với năm trước	%	14.5	7.795957652	9.821428571				
+	       Tỉ lệ so với GDP	%	21.4	20.5	20.1		21.44514254	20.74074074	20.16393443
+10	 Chi ngân sách nhà nước	Nghìn tỷ đồng	129.78	141.1	157.32				
+	       Tăng so với năm trước	%	17.8	8.722453383	11.49539334				
+	  Mức bội chi ngân sách nhà nước	Nghìn tỷ đồng	23.7	27	30.5				
+	B. Chỉ tiêu xã hội và xoá đói giảm nghèo								
+11	 Dân số trung bình	Triệu người	78.6858	79.7154	80.735				
+12	 Mức giảm sinh	‰	0.52	0.42	0.4				
+13	 Tốc độ tăng dân số	%	1.35	1.308495307	1.279050221				
+14	 Lao động được giải quyết việc làm	Triệu người	1.4	1.4	1.5				
+15	 Tuyển mới cho đào tạo nghề	Nghìn người	886.6	982	1070				
+17	 Thất nghiệp thành thị	%	6.3	6.1	5.9				
+18	 Tỉ lệ trẻ em dưới 5 tuổi suy dinh dưỡng	%	32	29.5	28				
+19	 Tỷ lệ số dân nông thôn được cấp nước sạch	%	46	50	55				
+20	 Tỉ lệ hộ nghèo	%	16	14.3	12.5				
+21	 Tỷ lệ xã  có trường tiểu học	%	99	99.9	100				
+22	 Tỷ lệ xã  có đường ô tô đến trung tâm	%	95	96.6	97.2				
+24	 Tỷ lệ xã  có điện	%	76	80	82				
+25	 Tỷ lệ xã có trạm y tế	%	97.5	97.5	97.5				
+26	 Tỷ lệ chết của trẻ em dưới 1 tuổi	‰	34	35	34				
+	 								
+									
+									
+				1.013567613					
+									
+									
+									
+									
+									
+									
+									
+									
+	97.20670391								
+2. Tổng sản phẩm trong nước, tích luỹ, tiêu dùng				
+				
+Tên chỉ tiêu	Đơn vị 
+tÝnh	Thùc hiƯn 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch  
+năm 2003
+				
+1.GDP theo giá 1994	Nghìn tỷ đồng	292.4	312.8	336.5
+  - Tốc độ tăng trưởng GDP	%	6.8	7	7.5
+    Trong đó:				
+        + Nông, lâm, ngư nghiệp	"	2.8	3.6	4
+        + Công nghiêp, xây dựng	"	10.3	10	10.5
+        + Dịch vụ	"	6.1	6.2	6.6
+				
+2.  GDP theo giá hiện hành 	Nghìn tỷ đồng	484.492	541	610
+  - Chỉ số giá GDP	%	2.7	4.3	5
+  - Cơ cấu GDP				
+        + Nông, lâm, ngư nghiệp 	%	23.6	23.5	22.5
+        + Công nghiệp và xây dựng	%	37.8	38.4	39
+        + Dịch vụ	%	38.6	38.1	38.5
+  - GDP bình quân đầu người	Nghìn đồng	6177.2	6805	7610
+3. Tích luỹ, tiêu dùng				
+  - Tổng quỹ tích luỹ (giá hiện hành)	Nghìn tỷ đồng	149.621	178.9	207.6
+  - Tổng quỹ tiêu dùng (giá hiện hành)	Nghìn tỷ đồng	344.8	382.4	422.6
+  - Cơ cấu tích luỹ, tiêu dùng:	%	100	100	100
+        + Tích luỹ	%	30.3	31.9	32.9
+        + Tiêu dùng	%	69.7	68.1	67.1
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+		0.03396648045		
+		96.6		
+3. Nông, lâm, ngư  nghiệp 							
+							
+Tên chỉ tiêu	Đơn vị 
+tính	Mục tiêu 2005	Thực hiện 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh (%)	
+		 (hoặc b/q)				Ước 2002/ 
+2001	KH 2003/
+ước 2002
+A. Giá trị sản xuất  (giá 1994)	Ngh. tỷ đồng		146.5	153.79	161.5	105	105.0133299
+    Trong đó:							
+        Nông nghiệp	Ngh. tỷ đồng		114.9	120.1	123.5	104.5	102.8309742
+        Lâm nghiệp	Ngh. tỷ đồng		6	6.01	6.2	100.1666667	103.1613977
+        Ngư nghiệp	Ngh. tỷ đồng		25.6	27.68	31.8	108.125	114.8843931
+B. Sản phẩm chủ yếu							
+1. Nông nghiệp							
+  - Sản lượng lương thực có hạt	Triệu tấn		34.2	35.8	36.1	104.6783626	100.8379888
+Lúa cả năm						7	7
+   Diện tích	Nghìn  ha	8000				7	7
+   Năng suất	Tạ/ha	43.1				7	7
+    Trong đó: Sản lượng lúa	Triệu tấn	34.5	32.1	33.6	33.6	104.6728972	100
+Lúa Đông xuân						7	7
+   Diện tích	Nghìn  ha	3250				7	7
+   Năng suất	Tạ/ha	52				7	7
+   Sản lượng	Triệu tấn	16.9				7	7
+Lúa Hè thu						7	7
+   Diện tích	Nghìn  ha	2480				7	7
+   Năng suất	Tạ/ha	38				7	7
+   Sản lượng	Triệu tấn	9.43				7	7
+Lúa mùa						7	7
+   Diện tích	Nghìn  ha	2270				7	7
+   Năng suất	Tạ/ha	36				7	7
+   Sản lượng	Triệu tấn	8.17				7	7
+                     Sản lượng ngô	Triệu tấn	2.5	2.1	2.2	2.5	104.7619048	113.6363636
+   Diện tích	Nghìn  ha	890				7	7
+   Năng suất	Tạ/ha	28				7	7
+   Sản lượng	Triệu tấn	2.5				7	7
+Sản lượng cây công nghiệp chủ yếu:						7	7
+  MÝa	TriƯu tÊn	20				7	7
+  Bông xơ	Nghìn  tấn	20				7	7
+  Chè búp khô	Nghìn  tấn	100				7	7
+  - Cà phê	Nghìn tấn	650	843.9	650	600	77.023344	92.30769231
+  - Cao su (mủ khô)	Nghìn tấn	420	300.7	320	350	106.4183572	109.375
+ Điều	Nghìn  tấn	200				7	7
+Chăn nuôi:						7	7
+ Đàn trâu	Triệu con	3				7	7
+  Đàn bò	"	4.5				7	7
+  Đàn lợn	"	22				7	7
+  Gia cầm	"	220				7	7
+  - Thịt hơi các loại	Nghìn tấn	2.6	2000	2100	2235	105	106.4285714
+  Trứng	Tỷ quả	5					
+Diện tích được tưới  trong  năm	Triệu ha	3.5					
+Diện tích được tiêu trong  năm	Triệu ha	1.8					
+2. Lâm nghiệp:							
+  - Trồng rừng tập trung	Nghìn ha	300	193.5	200	200	103.3591731	100
+3. Thuỷ sản:							
+  - Sản lượng thuỷ, hải sản	Triệu tấn	2.5	2.4	2.42	2.45	100.8333333	101.2396694
+    Trong đó: Sản lượng nuôi trồng	Nghìn tấn	1150	710	880	990	123.943662	112.5
+  - Diện tích nuôi trồng thuỷ sản	Nghìn ha	700	755	940	1000	124.5033113	106.3829787
+ 4. Công nghiệp												
+												
+Tên chỉ tiêu	Đơn vị 
+tính	Mục tiêu 2005	Thực hiện 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)						
+		 (hoặc b/q)				Ước 2002/
+TH 2001	KH 2003/
+Ước 2002					
+												
+1. Giá trị sản xuất (giá 1994)	Ngh. tỷ đồng		234	267.6	306.402	114.3589744	114.5					
+    Trong đó:												
+   - Công nghiệp khai thác	Ngh. tỷ đồng		30.5	32.3	34.4964	105.9016393	106.8					
+   - Công nghiệp chế biến	Ngh. tỷ đồng		187.1	216.9	250.3026	115.9273116	115.4					
+   - Sản xuất và phân phối 
+      điện, khí đốt và nước	Ngh. tỷ đồng		16.4	18.4	21.5648	112.195122	117.2					
+2. Sản phẩm chủ yếu												
+ - Điện phát ra	Triệu kwh	48	30646	35450	40732.05	115.6757815	114.9					
+ - Dầu qui đổi	Nghìn tấn	21	18620	19000	20700	102.0408163	108.9473684			16750	17000	17000
+   Trong đó: dầu thô	Nghìn tấn		16800	16600	17000	98.80952381	102.4096386					
+ - Than sạch	Nghìn tấn	14.04	13000	15000	15900	115.3846154	106					
+ - Thép cán	Nghìn tấn	2.7	1900	2200	2450	115.7894737	111.3636364					
+ - Phân hoá học (đạm + lân)	Nghìn tấn	1300	1070	1160	1250	108.411215	107.7586207					
+ - Vải lụa thành phẩm	Triệu mét	600-700	378	440	507	116.4021164	115.2272727					
+ - Giấy các loại	Nghìn tấn	600	427.7	471.3	531.5	110.1940613	112.7731806					
+ - Xi măng	Nghìn tấn	22-23	15400	19500	22700	126.6233766	116.4102564					
+ - Đường các loại	Nghìn tấn	1120	1060	1072	1150	101.1320755	107.2761194					
+Bia	TriƯu lÝt	900				7	7					
+Thuốc lá	Triệu bao	2100				7	7					
+ - Bia	TriƯu lÝt		820	830	865	101.2195122	104.2168675					
+ - Xe đạp	 Nghìn cái		742	1000	1326	134.7708895	132.6					
+ - Động cơ Điezen	 Nghìn cái	60	18100	24000	25000	132.5966851	104.1666667					
+ - Động cơ điện	 Nghìn cái	65	54100	69400	79000	128.2809612	113.832853					
+ - Ô tô các loại	Cái		19090	27500	36000	144.0544788	130.9090909					
+ - Xe máy các loại	Cái		461000	613000	815000	132.9718004	132.9526917					
+ - Ti vi các loại	Nghìn cái		1150	1650	1820	143.4782609	110.3030303					
+ - Máy công cụ 	Cái		450	590	660	131.1111111	111.8644068					
+ Sămlốp ô tô máy kéo	Nghìn  Bộ	1000	314	400	610	127.388535	152.5					
+5. Xuất - Nhập khẩu														
+														
+Tên chỉ tiêu	Đơn vị 
+tÝnh	Thùc hiƯn 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)									
+					Ước 2002/
+TH 2001	KH 2003/
+Ước 2002								
+A. Kim ngạch xuất khẩu hàng hoá	Triệu USD	15027	16100	17300	107.1404805	107.4534161								
+    Trong đó: Doanh nghiệp đầu tư nước
+                      ngoài (không kể dầu khí)	Triệu USD	3673	4200	4600	114.3479445	109.5238095								
+Chia ra: - Hàng CN nặng và khoáng sản	Triệu USD	4600	4750	4800	103.2608696	101.0526316								
+                       So víi tỉng xŭt khÈu	%	30.61156585	29.50310559	27.74566474										
+             - Hàng công nghiệp nhẹ 	Triệu USD	5400	6350	7200	117.5925926	113.3858268								
+                       So víi tỉng xŭt khÈu	%	35.93531643	39.44099379	42.3										
+             - Hàng nông, lâm, thuỷ sản 	Tỉ USD	5027	5000	5300	99.46290034	106								
+                       So víi tỉng xŭt khÈu	%	33.45311772	31.05590062	30.63583815										
+Các mặt hàng chủ yếu:														
+ 1. Dầu thô	Triệu tấn	16.732	17	17	101.6017213	100			15027	15800	17000	191.6709184	199.2433796	211.7061021
+ 2. Hàng dệt may	Triệu USD	1975	2500	2700	126.5822785	108								
+ 3. Hàng giầy dép 	Triệu USD	1560	1750	2000	112.1794872	114.2857143								
+ 4. Hàng thuỷ sản	Triệu USD	1778	2000	2300	112.4859393	115								
+ 5. Gạo	Triệu tấn	3.729	3.4	3.2	91.17725932	94.11764706								
+Xuất khẩu bình quân đầu người	USD	191.6709184	202	211.7061021					78.4	79.3	80.3			
+  6. Hàng điện tử	Triệu USD				7									
+  7. Cà phê :Số lượng	Ngh. tấn				7									
+                 Giá trị	Triệu USD				7									
+  8. Hàng thủ công, mỹ nghệ	Triệu USD				7									
+  9. Cao su: Số lượng	Ngh. tấn				7									
+                 Giá trị	Triệu USD				7									
+ 10. Hạt điều 	Triệu USD				7									
+ B. Kim ngạch nhập khẩu hàng hoá	Triệu USD	16162	18200	19300	112.6098255	106.043956								
+     Trong đó: DN có vốn đầu tư N.ngoài	Triệu USD	4984	6000	6400	120.3852327	106.6666667								
+														
+Chia ra: 														
+    - Máy móc thiết bị và phụ tùng	Triệu USD	4700	5400	5800	114.893617	107.4074074								
+            So với nhập khẩu	%	29	29.67032967	30.05181347										
+    - Nguyên nhiên vật liệu 	Triệu USD	10612	11950	12600	112.6083679	105.4393305								
+            So với nhập khẩu   	%	65.66019057	65.65934066	65.28497409										
+    - Hàng tiêu dùng 	Triệu USD	850	850	900	100	105.8823529								
+            So với  nhập khẩu	%	5.259250093	4.8	4.663212435										
+Mặt hàng chủ yếu:														
+  1. Xăng dầu (không kể tạm nhập tái xuất)	Nghìn tấn	8998	9800	10500	108.9130918	107.1428571								
+  2. Phân Urê	Nghìn tấn	1605	1600	1750	99.68847352	109.375								
+  3. Thép thành phẩm	Nghìn tấn	2178	2800	3000	128.5583104	107.1428571								
+  4. Phôi thép	Nghìn tấn	1760	1800	2000	102.2727273	111.1111111								
+  5. Ô- tô nguyên chiếc	 Ngh. chiếc	28.266	25	28	88.4454822	112								
+  6. Linh kiện lắp ráp ô-tô	Nghìn bộ	21.182	26.5	28.5	125.1062223	107.5471698								
+  7. Linh kiện xe máy 	Nghìn bộ	2502	1000	1000	39.96802558	100								
+  8. Linh kiện điện tử	Triệu USD	503	600	600	119.2842942	100								
+ C. Chênh lệch (nhập khẩu-xuất khẩu)	Triệu USD	1135	2100	2000										
+      So víi xŭt khÈu	%	7.553071139	13.04347826	11.56069364										
+6. Giao thông, Vận tải, bưu điện, du lịch 						
+						
+Tên chỉ tiêu	Đơn vị tính	Thực hiện 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)	
+					Ước 2002/
+TH 2001	KH 2003/
+Ước 2002
+1. Vận tải:						
+  - Vận tải hàng hóa	Triệu tấn	145.8	161.1	172.6	110.4938272	107.1384233
+	Tỷ tấn.km	44.07	50.2	54.9	113.9096891	109.3625498
+     + Vận tải ngoài nước	Triệu tấn	9.5	12.8	13.79	134.7368421	107.734375
+	Tỷ tấn.km	27.8	30.7	34	110.4316547	110.7491857
+     + Vận tải trong nước	Triệu tấn	136.2	148.7	158.8	109.1776799	106.7921991
+	Tỷ tấn.km	16.2	19.5	20.8	120.3703704	106.6666667
+  - Vận tải hành khách	Triệu HK	844.2	850.5	896.8	100.7462687	105.4438566
+	Tỷ HK.km	28.79	31.4	33.7	109.0656478	107.3248408
+2. Bưu điện						
+  - Số lượng bưu cục	Bưu cục	2900	3100	3200	106.8965517	103.2258065
+  - Số dân bình quân 1 cơ sở bưu điện	Nghìn người	25100	24660	24000	98.24701195	97.32360097
+  - Số máy điện thoại trên 100 dân	Máy	5	6.5	7.1	130	109.2307692
+  - Số máy điện thoại thuê bao mới	Nghìn máy	1000	1100	1200	110	109.0909091
+3. Du lịch						
+  - Số lượt khách quốc tế	Nghìn người	2330	2550	2800	109.4420601	109.8039216
+  - Số lượt khách nội địa	Nghìn người	11700	12200	12700	104.2735043	104.0983607
+7.  giáo dục, đào tạo						
+						
+Tên chỉ tiêu	Đơn vị 
+tÝnh	Thùc hiƯn 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)	
+					Ước 2002/
+TH 2001	KH 2003/
+Ước 2002
+						
+- Số học sinh mẫu giáo	Ngh. cháu	2232	2231	2239	99.95519713	100.3585836
+- Số học sinh tiểu học	Ngh. học sinh	9371	8951	8535	95.51808772	95.35247458
+- Số học sinh trung học cơ sở	Ngh. học sinh	6253	6493	6607	103.8381577	101.7557369
+- Số học sinh trung học phổ thông	Ngh. học sinh	2327	2464	2604	105.8874087	105.6818182
+Tuyển mới đào tạo:						
+   + Đại học và cao đẳng	Ngh. sinh viên	239.6	269.5	283	112.4791319	105.0092764
+   + Trung học chuyên nghiệp	Ngh. học sinh	95.4	160	171.2	167.7148847	107
+   + Công nhân kỹ thuật	Ngh. học sinh	886.6	982	1070	110.7602075	108.9613035
+   + Cao học trong nước	Ngh. người	6	6.5	9	108.3333333	138.4615385
+   + Nghiên cứu sinh trong nước 	Ngh. người	1	1.2	1.4	120	116.6666667
+   + Đào tạo lại và bồi dưỡng cán  
+      bộ quản lý	Ngh. người	30	30	35	100	116.6666667
+8.  văn hoá, y tế 						
+						
+Tên chỉ tiêu	Đơn vị tính	Thực hiện 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)	
+					Ước 2002/
+TH 2001	KH 2003/
+Ước 2002
+						
+1. Văn hoá						
+  - Số sách xuất bản	Triệu bản	270	280	290	103.7037037	103.5714286
+    Trong đó: sách giáo khoa phổ thông	Triệu bản	155	165	180	106.4516129	109.0909091
+  - Số giờ chương trình đài tiếng nói VN	Ngh. giờ/năm	46.1	47.45	49.27	102.9284165	103.8356164
+  - Số giờ phát sóng đài tiếng nói VN	Ngh. giờ/năm	258	323.2	325	125.2713178	100.5569307
+  - Tỷ lệ hộ được nghe đài tiếng nói VN	%	90	93	94	103.3333333	101.0752688
+  - Số giờ chương trình truyền hình VN	Ngh. giờ/năm	24.3	25.18	29.2	103.6213992	115.9650516
+  - Số giờ phát sóng truyền hình VN	Ngh. giờ/năm	271	310	320	114.3911439	103.2258065
+  - Tỷ lệ hộ được xem truyền hình	%	82	84	86	102.4390244	102.3809524
+2. Y tế						
+  - Tỉ lệ số xã có trạm y tế	%	97.5	97.5	97.5		
+  - Tổng số giường bệnh	Ngh. giường	180	190	195	105.5555556	102.6315789
+  - Tỉ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng	%	32	29.5	28		
+9. Đầu tư phát triển 						
+					Theo giá hiện hành	
+Tên chỉ tiêu	Đơn vị 
+tÝnh	Thùc hiƯn 
+năm 2001	Ước TH 
+năm 2002	Kế hoạch 
+năm 2003	So sánh  (%)	
+					Ước 2002/
+TH 2001	KH 2003/
+Ước 2002
+Tổng số	Ngh. tỷ đồng	163.5	183.8	215	112.4159021	116.9749728
+So với GDP	%	33.7	34	35.2		
+1. Vốn đầu tư  thuộc ngân sách nhà nước	Ngh. tỷ đồng	40.4	40.5	44	100.2475248	108.6419753
+So với tổng số	%	24.70948012	21.7	20.46511628		
+2. Vốn tín dụng đầu tư 	Ngh. tỷ đồng	28	24	30.5	85.71428571	127.0833333
+So với tổng số	%	17.12538226	12.8	14.18604651		
+    Trong đó: Tín dụng đầu tư phát triển 
+                     của Nhà nước 	Ngh. tỷ đồng	21.7	17.5	20.5	80.64516129	117.1428571
+3. Vốn đầu tư của doanh nghiệp nhà nước	Ngh. tỷ đồng	26.6	32.8	39.5	123.3082707	120.4268293
+So với tổng số	%	16.26911315	18.4	18.37209302		
+4. Vốn đầu tư của dân cư và tư nhân	Ngh. tỷ đồng	38.5	48	58	124.6753247	120.8333333
+So với tổng số	%	23.54740061	26.5	26.97674419		
+5. Vốn đầu tư trực tiếp nước ngoài 	Ngh. tỷ đồng	30	34	36	113.3333333	105.8823529
+So với tổng số	%	18.34862385	18.49836779	16.74418605		
+6. Vốn huy động khác	Ngh. tỷ đồng		4.5	7		
+So với tổng số	%		2.4	3.2		
+						
+		92.72171254

@@ -413,6 +413,48 @@ a document-level legacy font signal, not merely on `encoding="auto"` — without
 unrecognised font stopped protecting non-Vietnamese text and `Señor` became `Seđor`,
 which a check against `main` caught before it shipped.
 
+## Excel, and why its number is the least trustworthy here
+
+28 legacy `.xls` documents, 22 TCVN3 and **6 VNI** — the first VNI material found outside
+`.doc`, from `hochiminhcity.gov.vn`.
+
+| Subset | n | char | diacritic | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| `.xls` overall | 28 | 0.977 | **0.939** | 0.948 |
+| of which TCVN3 | 22 | 0.909 | 0.938 | — |
+| of which VNI | 6 | 0.948 | 0.994 | — |
+
+**Read 0.939 with more caution than the other formats.** Two of the three worst
+documents disagree with viparse mainly on *spreadsheet rendering*, not on Vietnamese:
+for `2005-KH2003-bieu` viparse emits 69,739 characters where the transcript has 15,206,
+with every sheet present in both. The difference is empty cells padded out as tabs. A
+grid rendered two reasonable ways shifts the segment alignment, and the diacritics of a
+shifted line count as wrong.
+
+The corpus asks how much Vietnamese survives. On a spreadsheet that question is harder
+to isolate than on prose, and this number does not isolate it cleanly.
+
+### The `.xls` reader is genuinely independent, unlike the PDF and RTF ones
+
+`xlrd` 2.x reads `.xls` and nothing else, while viparse reaches a legacy spreadsheet
+through LibreOffice and openpyxl — so the corpus and the library under test share no
+code on this path. That is the standard `scripts/doc_text.py` set and the PDF and RTF
+stages could not meet.
+
+### Two defects in this repo, found by scoring
+
+**Numbers were transcribed at full float precision.** xlrd returns
+`33.74668725180189` where the sheet shows `33.7`, and `4.999999999` where it shows `5`.
+That made the transcript disagree with every parser on the numbers and dragged the
+Vietnamese score down with it: char 0.910 → 0.977 and syllable 0.791 → 0.948 once cells
+render the way a reader sees them. The diacritic figure did not move, which is how the
+0.939 above is known to be about something else.
+
+**A filename collision.** `download.xls` and `download.doc`, from different ministries in
+the same year, produced the same stem — and transcripts are keyed on the stem, so the
+spreadsheet was matched against the Word document's transcript. The validator caught it;
+`safe_name` now disambiguates.
+
 ## First numbers for RTF and PDF
 
 The corpus was `.doc` only until now, and `.doc` reaches viparse's DOCX engine through

@@ -1,0 +1,115 @@
+	Phụ lục: Tổng hợp tình hình giám sát, đánh giá dự án đầu tư 9 tháng/2003 (số lượng các dự án theo báo cáo)												
+													
+STT	Cơ quan	Tổng số		Trong đó		Số D.A.	Kết thúc	Số D.A.	Số D.A.	Số D.A.	Số D.A.	Số D.A.	Số D.A.
+			Dự án 			phê duyệt	trong kỳ	thực hiện	có vi phạm	chậm tiến	phải điều	ngừng	đưa vào HĐ
+			nhóm A	nhóm B	nhóm C	trong kỳ		GS, ĐG		độ	chỉnh	thực hiện	nhưng không
+													hiệu quả
+1	2	3	4	5	6	7	8	9	10	11	12	13	14
+													
+A	Các Tỉnh, thành phố												
+													
+1	An giang	268	1	33	234	184	100			8	33	2	
+2	Đồng Nai (b/c quý III)	28		5	23	18	10				8		
+3	Nam định (không có số liệu)												
+4	Hà Giang	354		20	334	80	120						
+5	Đăk Lăk	331		4	327	331	229				49	2	
+6	Bình Định	350		7	343	75	40	75	0	3	8		
+7	Bến Tre (chưa có số liệu)												
+8	Long An	104		58	56	50	6	8	4	3	16	1	0
+9	Bình Phước (chưa có số liệu) 												
+10	Hưng Yên	113		7	106	27	48	113	0	0	24	0	0
+11	Đà Nẵng	404	2	58	334	158	143	301	0	1	8	0	0
+12	Cần Thơ	558		54	504	57	312			4	3	1	
+13	Lào Cai (quý III)	35		10	25	35	18				3		
+14	Hà tĩnh (không có số liệu)												
+15	Hà Tây (quý III)	157			157	157	52			5	9	1	
+16	UBND Tỉnh Lạng Sơn	252		40	212	138	35	120	3	90	79	22	
+17	Vĩnh Phúc	188		21	167	188		180		35	40	1	3
+18	Bắc Ninh	126		29	97	51		126	0		29		
+19	Cà mau	88		22	66	31	43		61		9	0	
+20	Bình thuận	333	1	30	322	123	77	195		64	37		
+	Tổng	3689	3	368	2985	1580	1156	923	68	149	318	30	3
+													
+													
+													
+													
+													
+													
+													
+													
+													
+B	Các Bộ, ngành												
+													
+1	Bộ y tế	60	7	51	2	9	11				3		
+2	Ngoại giao	3		2	1	1	1	3					
+3	Bộ Lao động-TB&XH	22	1	14	7	11	6	22		4	3	0	0
+4	Bộ Bưu chính- VT	18		4	14		6	18		1	1		
+5	Thông tấn xã VN	11		6	5	6	6	11					
+6	Đài truyền hình VN	14	3	5	6	4	3	8		1	3		
+7	Ban cơ yếu CP	8		5	3								
+8	Trung tâm KHTN&CNQG	23		5	18	13				3	6		
+9	TCT Hàng Hải	7	1	5	1		1						
+10	Cục HKDD VN	166	2	15	149	67	38			6	6	11	
+11	Ban QLDA lăng chủ tịch HCM	3		1	2	3		3		1	2		
+12	TCty thuốc lá	23		5	18	13				3	3		
+13	Tcty lương thực MN	17		6	11	4	7			1			
+14	TCty lương thực MB	28		3	25	21	11		2		5		
+													
+	Tổng	403	14	127	262	152	90	65	2	20	32	11	0
+													
+C	các dự án nhóm A đã nhận được báo cáo GSĐT theo yêu cầu												
+		68	68	0	0	2	2	45	0	11	17	0	0
+													
+	Tổng cộng	4160	85	495	3247	1734	1248	1033	70	180	367	41	3
+	Các tỷ lệ		0.02043269231	0.1189903846	0.7805288462	0.4168269231	0.3	0.2483173077	0.06776379477	0.174249758	0.3552758955	0.03969022265	0.002904162633
+													
+													
+													
+													
+													
+1	Nguyễn Hữu Hùng									1	1		
+2	Mai Dũng									2	3		
+3	Phan Hiền	19	19				1	16					
+4	Vinh	6	6								2		
+5	Long	9	9					4			2		
+6	Việt Dũng	12	12					10			3		
+7	Oanh	7	7			2		6		6	5		
+8	Phạm Giao	12	12				1	6					
+9	Tân												
+10	Thanh	3	3					3		2	1		
+													
+	Cộng	68	68	0	0	2	2	45	0	11	17	0	0
+	danh mục các dự án nhóm a đang đầu tư năm 2003 (nguồn vốn NS tập trung)						
+							
+TT	Ngành	Tổng số	Khởi công	Chuyển 	hoàn 	Tổng 	Tỷ lệ %
+			mới	tiếp	thành	vốn	vốn đầu tư
+						(tỷ đồng)	
+							
+1	Nông nghiệp	8		8		354.1	0.05180915037
+2	Thuỷ lợi	7	1	5	1	684	0.1000775455
+3	Lâm nghiệp	3		3		203	0.0297013768
+4	Thuỷ sản	1			1	23.6	0.003452967943
+5	Giao thông	35	4	27	4	4588.8	0.6713974278
+6	Công cộng	2		2		58	0.008486107657
+7	Kho tàng	1		1		4	0.0005852488039
+8	Giáo dục đào tạo	6		5	1	94	0.01375334689
+9	Y tế- xã hội	7	2	5		230.3	0.03369569988
+10	Văn hoá- thông tin	3		3		349.9	0.05119463912
+11	Thể dục, thể thao	1		1		45	0.006584049044
+12	Quản lý nhà nước	1	1			200	0.02926244019
+							
+	Cộng	75	8	60	7	6834.7	1
+		1	0.1066666667	0.8	0.09333333333		
+							
+							
+	số dự án nhóm a được phê duyệt qua các năm						
+							
+	Năm	Số dự án	Tổng mức				
+			vốn				
+			(tỷ đồng)				
+							
+	2000	23	46406.74				
+	2001	26	72451				
+	2002	36	54132				
+							
+	Cộng	85	172989.74

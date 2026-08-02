@@ -74,7 +74,19 @@ def safe_name(url: str, timestamp: str, kind: str = "doc") -> str:
     # this ran over a format other than Word.
     raw = re.sub(r"\.(doc|docx|pdf|rtf|xls|xlsx)$", "", raw, flags=re.IGNORECASE)
     stem = SAFE.sub("-", raw).strip("-")[:48] or KINDS[kind][1].lstrip(".")
-    return f"{timestamp[:4]}-{stem}{KINDS[kind][1]}"
+    name = f"{timestamp[:4]}-{stem}{KINDS[kind][1]}"
+    # Transcripts are keyed on the *stem*, so two formats sharing a source name would
+    # share a ground-truth file. `download.doc` and `download.xls` from different
+    # ministries in the same year did exactly that — the .xls was matched against the
+    # .doc's transcript and the validator caught it.
+    if any(
+        (CORPUS / family / f"{timestamp[:4]}-{stem}{other[1]}").exists()
+        for other in KINDS.values()
+        if other[1] != KINDS[kind][1]
+        for family in ("tcvn3", "vni", "viscii", "vps")
+    ):
+        name = f"{timestamp[:4]}-{stem}-{KINDS[kind][1].lstrip('.')}{KINDS[kind][1]}"
+    return name
 
 
 def existing_rows() -> set[str]:
