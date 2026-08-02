@@ -329,6 +329,26 @@ tables. They are real legacy documents and useless here: ground truth for a tabl
 size cannot be produced by hand, and a benchmark entry without ground truth is storage,
 not evidence.
 
+## PowerPoint, 2026-08-02
+
+Legacy `.ppt` exists in the archives: **9 of 17** archived presentations across seven
+domains declare a legacy font, including VNI ones (`VNI-Times`, `VNI-Avo`, `VNI-Revue`)
+from `hochiminhcity.gov.vn`. That answers the question the `.pptx` engine could not.
+
+**One document collected, held `pending-transcript`.** `scripts/ppt_text.py` reads the
+PowerPoint 97 record structure directly — the same approach `doc_text.py` takes to Word,
+and genuinely independent of the LibreOffice-and-python-pptx path viparse uses. The text
+it returns is correct: `I- CÁC VB PHÁP QUY ĐÃ BAN HÀNH, LIÊN QUAN ĐẾN HOẠT ĐỘNG ĐT-XD`.
+
+There is simply too much of it. PowerPoint keeps slide text in more than one place, and
+the reader returns 97,359 characters where a parser returns 85,410, with 578 duplicated
+lines. Reading only `TextBytesAtom` inside `SlideListWithText` removed most of the
+duplication but not all.
+
+Collected and held rather than transcribed, because a transcript that repeats lines
+charges the repetition to whatever is measured against it — and a benchmark number
+produced that way is worse than no number.
+
 ## What is still missing
 
 - **VISCII and VPS samples — never searched for.** 34 government domains produced only

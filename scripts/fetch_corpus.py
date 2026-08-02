@@ -71,8 +71,11 @@ def safe_name(url: str, timestamp: str, kind: str = "doc") -> str:
     raw = unicodedata.normalize("NFKD", raw).encode("ascii", "ignore").decode()
     # Strip whatever extension the source used, in any case — the kind decides the one
     # that goes back on. Matching only `.doc` produced `2003-A06.rtf.rtf` the first time
-    # this ran over a format other than Word.
-    raw = re.sub(r"\.(doc|docx|pdf|rtf|xls|xlsx)$", "", raw, flags=re.IGNORECASE)
+    # this ran over a format other than Word; a hand-written list of the others then
+    # produced `...ppt.ppt` the first time it ran over PowerPoint. Built from KINDS so
+    # the next format cannot repeat it.
+    known = "|".join(sorted({k[1].lstrip(".") for k in KINDS.values()} | {"docx", "xlsx", "pptx"}))
+    raw = re.sub(rf"\.({known})$", "", raw, flags=re.IGNORECASE)
     stem = SAFE.sub("-", raw).strip("-")[:48] or KINDS[kind][1].lstrip(".")
     name = f"{timestamp[:4]}-{stem}{KINDS[kind][1]}"
     # Transcripts are keyed on the *stem*, so two formats sharing a source name would

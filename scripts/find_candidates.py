@@ -73,6 +73,7 @@ KINDS = {
     "pdf": ("application/pdf", ".pdf"),
     "rtf": ("application/rtf", ".rtf"),
     "xls": ("application/vnd.ms-excel", ".xls"),
+    "ppt": ("application/vnd.ms-powerpoint", ".ppt"),
 }
 
 # Legacy Vietnamese font families, as they appear in each container. `.doc` and `.xls`
@@ -121,7 +122,7 @@ def declared_fonts(data: bytes, kind: str) -> set[str]:
     `ABCDEF+.VnTime`, and RTF writes its font table as text. Neither needs parsing to be
     *narrowed*, and narrowing is all the font stage is for. The text decides.
     """
-    if kind in ("doc", "xls"):
+    if kind in ("doc", "xls", "ppt"):
         return legacy_fonts(data)
     return {match.decode("latin-1") for match in _FONT_BYTES.findall(data)}
 
@@ -225,6 +226,13 @@ def container_text(data: bytes, kind: str) -> str | None:
             from striprtf.striprtf import rtf_to_text
 
             return rtf_to_text(data.decode("latin-1", errors="replace"), errors="ignore")
+        if kind == "ppt":
+            from ppt_text import extract as ppt_extract
+
+            with tempfile.NamedTemporaryFile(suffix=suffix) as tmp:
+                tmp.write(data)
+                tmp.flush()
+                return ppt_extract(tmp.name)
         if kind == "xls":
             # xlrd 2.x reads `.xls` and nothing else, which makes it a genuinely
             # independent reader here: viparse reaches a legacy spreadsheet through
