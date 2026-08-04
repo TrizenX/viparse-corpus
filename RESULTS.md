@@ -609,6 +609,59 @@ French, and applying the TCVN3 table to the whole document turned `François` in
 precisely the case viparse's own per-run detection exists for. A scan of the other 33
 found no second instance.
 
+## viparse 0.1.23, and a correction to the number being quoted
+
+Both rows below were produced today, on the same 96 documents, with the same two
+commands. Until now they were not: the baseline was scored on 93 documents and the
+figure being quoted publicly came from a third file.
+
+| Tool | n | char | **diacritic** | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| No conversion — byte-faithful extraction | 96 | 0.772 | **0.019** | 0.223 |
+| viparse 0.1.23, end-to-end, `encoding="auto"` | 96 | 0.978 | **0.982** | 0.981 |
+
+Five real formats: 48 `.doc`, 31 `.xls`, 11 `.rtf`, 5 `.pdf`, 1 `.ppt`, dated 2002–2009.
+No `.docx` — the twelve in the repository are synthetic and are scored separately.
+
+### What was wrong
+
+viparse's README claimed **0.983 over 108 documents**. Both halves were wrong, in
+opposite directions and for different reasons.
+
+**108 was a file count, not a document count.** It counts everything under `corpus/`:
+the 96 real documents, the 12 synthetic VNI files that exist to test a table rather
+than to be scored beside real ones, and four `.gitkeep` placeholders. The number of
+hand-transcribed government documents was, and is, 96.
+
+**0.983 came from an experiment, not a release.** It is the summary of
+`viparse-vip113-tables.json`, labelled `0.1.20+vip113` — a branch measurement taken
+before the work shipped. No results file had been published for 0.1.21 or 0.1.22 at
+all, so the most recent *released* figure on record was 0.1.20's 0.980, and the number
+in circulation belonged to neither.
+
+Neither error flattered the project by much — 0.982 against 0.983 is nothing, and 96
+against 108 understates the corpus if anything. That is what made them survive: a wrong
+number that looks unremarkable is not checked. The one that matters is the third,
+unstated error — the two rows had never been measured on the same set of documents, so
+the gap between them was not strictly a comparison.
+
+### The missing command
+
+`--pred` was produced by whatever was in the shell history that day. The corpus was
+public, the metric was public, every result was public, and the step in between was
+not — which meant no stranger could regenerate a single number in this file.
+
+[`scripts/run_viparse.py`](scripts/run_viparse.py) is now that step:
+
+```bash
+python3 scripts/run_viparse.py --corpus corpus/public-domain --out out/
+python3 scripts/score.py --pred out/ --truth ground-truth/ --subset public-domain \
+    --tool viparse --tool-version 0.1.23 --out results/viparse-0.1.23-full-corpus.json
+```
+
+The baseline row is the same script with `--encoding none`, which is why the two are
+now comparable: same reader, same files, one flag apart.
+
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.
