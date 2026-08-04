@@ -662,6 +662,49 @@ python3 scripts/score.py --pred out/ --truth ground-truth/ --subset public-domai
 The baseline row is the same script with `--encoding none`, which is why the two are
 now comparable: same reader, same files, one flag apart.
 
+## Ordinary Unicode documents, measured for the first time
+
+Everything above measures legacy-encoded files. That is the moat and the right thing to
+measure — but it is not what most callers will hand over, and until 2026-08-04 there was
+no number at all for an ordinary Unicode `.docx` or PDF. Twenty minutes of spot-checking
+that gap found three defects, so it became a benchmark:
+[`structure/`](structure/README.md).
+
+| document | order | completeness | headings | table |
+| --- | ---: | ---: | ---: | --- |
+| `structured.docx` | **1.000** | 1.000 | **1.000** | ok |
+| `structured.xlsx` | **1.000** | 1.000 | **1.000** | ok |
+| `structured.pptx` | **1.000** | 1.000 | **1.000** | ok |
+| `one_column.pdf` | **1.000** | 1.000 | **0.000** | ok |
+| `two_column.pdf` | **0.600** | 1.000 | **0.000** | ok |
+| `three_column.pdf` | **0.657** | 1.000 | **0.000** | ok |
+
+Unlike the headline accuracy figure, this one cannot be circular. It never compares
+against a transcript: it plants labels and counts whether they come back in the right
+order, at the right level, attached to the right things. Nothing improves by editing the
+ground truth, because the ground truth is arithmetic. Its weakness is the opposite one —
+the documents are generated rather than found, so it measures the easy half of the world.
+
+Completeness is 1.000 everywhere and always was. Both failures are failures of
+arrangement, which is the harder kind to notice: the text is all there, fluent, and
+wrong. A PDF has no headings, and a multi-column PDF is read across the page rather than
+down the columns — paragraph 1 followed by paragraph 19.
+
+### The three it found, all in shipped code
+
+**PowerPoint titles were never headings**, since 0.1.19. `shape is slide.shapes.title`
+never matched, because python-pptx builds a fresh proxy on every access.
+
+**A table split across chunks lost its header**, so the continuation was bare numbers
+with unnamed columns — a chunk that looks usable and is not.
+
+**A table split across PDF pages lost its header** as well, for a different reason: two
+blocks, the second with no header row at all.
+
+The first draft of this benchmark reported `table: ok` for every document, because its
+fixture table had four rows and always fit in one chunk. A benchmark whose fixture cannot
+reproduce the defect is a benchmark that certifies it.
+
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.
