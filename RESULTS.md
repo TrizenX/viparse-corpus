@@ -549,6 +549,41 @@ Latin-1 characters and passes on ratio alone.
 already present. The 12 were removed. Same lesson, third time — hence a named function
 rather than an inline check, so the next format cannot skip it.
 
+## Whitespace table detection for PDF: measured, and not shipped
+
+The PDF engine finds tables by their ruling lines, and the five legacy PDFs in the corpus
+have none — `lines=0 rects=0 curves=0` on every first page. They draw their tables by
+aligning whitespace. pdfplumber has a `"text"` strategy for exactly that, so turning it
+on as a fallback looked obvious.
+
+It halves the accuracy.
+
+| PDF, 5 documents | char | diacritic |
+| --- | ---: | ---: |
+| ruling lines only (shipped) | **0.991** | **0.999** |
+| falling back to whitespace | 0.493 | 0.440 |
+
+The strategy is not finding columns; it is finding gaps between characters. A centred
+title comes out as:
+
+```
+['B¸o c', '¸o vÒ t', '×nh h', '×nh']     "Báo cáo về tình hình", split mid-syllable
+['vi', 'Öt na', 'm', '']                 "việt nam"
+```
+
+Tuning did not rescue it. `text_tolerance` at 6 and 12 changed nothing;
+`min_words_vertical=12` reduced the damage to three columns and still split the title
+across them.
+
+The cause is the documents themselves: legacy Vietnamese PDFs position text
+character-by-character with irregular spacing, so there is no consistent whitespace
+column signal to find. A detector that works here would have to look for column
+boundaries that *repeat across many rows*, which is a different piece of work from
+flipping a strategy flag.
+
+Recorded so the next person to notice `find_tables=0` on these files has the measurement
+rather than the idea.
+
 ## Four errors found in this harness, not in viparse
 
 Recorded because a benchmark whose own defects go unlisted is not evidence.
