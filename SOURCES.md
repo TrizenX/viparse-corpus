@@ -379,6 +379,41 @@ One spelling needed correcting by hand: `VEÂØ` is E + circumflex + huyền typ
 separate marks, and reads `VỀ` — the stacked-modifier variant already seen once in a VNI
 document.
 
+## Hunting `ẳ`, and coming up empty
+
+`ẳ` is the last Vietnamese letter with no known VNI sequence. It is not rare in the
+language — 3.2 occurrences per 100,000 characters across the corpus's TCVN3 transcripts,
+in ordinary words like `đẳng`, `thẳng`, `khẳng`, `chẳng`, `hẳn`, `phẳng`. The VNI subset
+was 139,609 characters, which predicts about 4 or 5 occurrences. It has none.
+
+Swept 12 southern domains across **all five formats** — earlier VNI sweeps only looked at
+`.doc`, and readers for the rest did not exist yet. Result: one new VNI document,
+`dongnai.gov.vn`, 3,558 characters. No `ẳ`, and no unmapped byte following a base vowel.
+
+The government web in the south is now exhausted as a VNI source at this depth.
+
+### It cannot be derived, and here is the proof
+
+The circumflex family is regular; the breve family is not.
+
+| tone | circumflex (â) | breve (ă) |
+| --- | --- | --- |
+| base | 0xE2 | 0xEA |
+| sắc | 0xE1 (−1) | 0xE9 (−1) |
+| huyền | 0xE0 (−2) | 0xE8 (−2) |
+| hỏi | 0xE5 (**+3**) | **unknown** |
+| ngã | 0xE3 (+1) | 0xFC (**+18**) |
+| nặng | 0xE4 (+2) | 0xEB (+1) |
+
+The breve row tracks the circumflex row for sắc and huyền and then breaks completely at
+ngã and nặng. Applying the circumflex offset for hỏi would give 0xED — which is already
+the letter `í`, and reading `Chi phí` as `Chi phẳ` is precisely the class of error the
+`a½` entry was.
+
+So `ẳ` stays unmapped until a document containing it turns up. Unmatched input passes
+through unchanged, so a document with `ẳ` returns it unconverted rather than silently
+wrong.
+
 ## What is still missing
 
 - **VISCII and VPS samples — never searched for.** 34 government domains produced only

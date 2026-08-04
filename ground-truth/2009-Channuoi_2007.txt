@@ -1,0 +1,451 @@
+	chủ đề: chăn nuôi					
+	mạng lưới điểm chăn nuôi Gà tập trung năm 2007					
+Mã số	Số TT	Địa chỉ		Loại hình chăn nuôi	Số hộ (hộ)	Số Gà (con)
+		Xã	Huyện			Ga_con
+2	1			Điểm chăn nuôi Gà		
+4	2			Điểm chăn nuôi Gà		
+5	3			Điểm chăn nuôi Gà		
+14	4			Điểm chăn nuôi Gà		
+15	5			Điểm chăn nuôi Gà		
+20	6			Điểm chăn nuôi Gà		
+21	7			Điểm chăn nuôi Gà		
+22	8			Điểm chăn nuôi Gà		
+23	9			Điểm chăn nuôi Gà		
+25	10			Điểm chăn nuôi Gà		
+28	11			Điểm chăn nuôi Gà		
+34	12			Điểm chăn nuôi Gà		
+35	13			Điểm chăn nuôi Gà		
+37	14			Điểm chăn nuôi Gà		
+39	15			Điểm chăn nuôi Gà		
+43	16			Điểm chăn nuôi Gà		
+49	17			Điểm chăn nuôi Gà		
+61	18			Điểm chăn nuôi Gà		
+64	19			Điểm chăn nuôi Gà		
+71	20			Điểm chăn nuôi Gà		
+72	21			Điểm chăn nuôi Gà		
+74	22			Điểm chăn nuôi Gà		
+75	23			Điểm chăn nuôi Gà		
+77	24			Điểm chăn nuôi Gà		
+79	25			Điểm chăn nuôi Gà		
+82	26			Điểm chăn nuôi Gà		
+83	27			Điểm chăn nuôi Gà		
+84	28			Điểm chăn nuôi Gà		
+85	29			Điểm chăn nuôi Gà		
+86	30			Điểm chăn nuôi Gà		
+87	31			Điểm chăn nuôi Gà		
+88	32			Điểm chăn nuôi Gà		
+89	33			Điểm chăn nuôi Gà		
+91	34			Điểm chăn nuôi Gà		
+92	35			Điểm chăn nuôi Gà		
+94	36			Điểm chăn nuôi Gà		
+95	37			Điểm chăn nuôi Gà		
+96	38			Điểm chăn nuôi Gà		
+97	39			Điểm chăn nuôi Gà		
+98	40			Điểm chăn nuôi Gà		
+99	41			Điểm chăn nuôi Gà		
+100	42			Điểm chăn nuôi Gà		
+101	43			Điểm chăn nuôi Gà		
+104	44			Điểm chăn nuôi Gà		
+106	45			Điểm chăn nuôi Gà		
+108	46			Điểm chăn nuôi Gà		
+109	47			Điểm chăn nuôi Gà		
+110	48			Điểm chăn nuôi Gà		
+111	49			Điểm chăn nuôi Gà		
+115	50			Điểm chăn nuôi Gà		
+118	51			Điểm chăn nuôi Gà		
+120	52			Điểm chăn nuôi Gà		
+143	53			Điểm chăn nuôi Gà		
+147	54			Điểm chăn nuôi Gà		
+148	55			Điểm chăn nuôi Gà		
+151	56			Điểm chăn nuôi Gà		
+153	57			Điểm chăn nuôi Gà		
+165	58			Điểm chăn nuôi Gà		
+170	59			Điểm chăn nuôi Gà		
+174	60			Điểm chăn nuôi Gà		
+178	61			Điểm chăn nuôi Gà		
+182	62			Điểm chăn nuôi Gà		
+183	63			Điểm chăn nuôi Gà		
+186	64			Điểm chăn nuôi Gà		
+189	65			Điểm chăn nuôi Gà		
+192	66			Điểm chăn nuôi Gà		
+195	67			Điểm chăn nuôi Gà		
+196	68			Điểm chăn nuôi Gà		
+199	69			Điểm chăn nuôi Gà		
+201	70			Điểm chăn nuôi Gà		
+202	71			Điểm chăn nuôi Gà		
+203	72			Điểm chăn nuôi Gà		
+205	73			Điểm chăn nuôi Gà		
+206	74			Điểm chăn nuôi Gà		
+209	75			Điểm chăn nuôi Gà		
+211	76			Điểm chăn nuôi Gà		
+	mạng lưới điểm chăn nuôi heo tập trung năm 2007					
+Mã số	Số TT	Địa chỉ		Loại hình chăn nuôi	Số hộ (hộ)	Số Heo (con)
+		Xã	Huyện			Ga_con
+3	1			Điểm chăn nuôi Heo		
+6	2			Điểm chăn nuôi Heo		
+7	3			Điểm chăn nuôi Heo		
+8	4			Điểm chăn nuôi Heo		
+9	5			Điểm chăn nuôi Heo		
+10	6			Điểm chăn nuôi Heo		
+11	7			Điểm chăn nuôi Heo		
+12	8			Điểm chăn nuôi Heo		
+13	9			Điểm chăn nuôi Heo		
+18	10			Điểm chăn nuôi Heo		
+19	11			Điểm chăn nuôi Heo		
+24	12			Điểm chăn nuôi Heo		
+26	13			Điểm chăn nuôi Heo		
+27	14			Điểm chăn nuôi Heo		
+29	15			Điểm chăn nuôi Heo		
+31	16			Điểm chăn nuôi Heo		
+32	17			Điểm chăn nuôi Heo		
+36	18			Điểm chăn nuôi Heo		
+38	19			Điểm chăn nuôi Heo		
+41	20			Điểm chăn nuôi Heo		
+45	21			Điểm chăn nuôi Heo		
+46	22			Điểm chăn nuôi Heo		
+47	23			Điểm chăn nuôi Heo		
+50	24			Điểm chăn nuôi Heo		
+51	25			Điểm chăn nuôi Heo		
+52	26			Điểm chăn nuôi Heo		
+53	27			Điểm chăn nuôi Heo		
+56	28			Điểm chăn nuôi Heo		
+57	29			Điểm chăn nuôi Heo		
+58	30			Điểm chăn nuôi Heo		
+59	31			Điểm chăn nuôi Heo		
+62	32			Điểm chăn nuôi Heo		
+65	33			Điểm chăn nuôi Heo		
+66	34			Điểm chăn nuôi Heo		
+68	35			Điểm chăn nuôi Heo		
+69	36			Điểm chăn nuôi Heo		
+70	37			Điểm chăn nuôi Heo		
+73	38			Điểm chăn nuôi Heo		
+76	39			Điểm chăn nuôi Heo		
+78	40			Điểm chăn nuôi Heo		
+81	41			Điểm chăn nuôi Heo		
+90	42			Điểm chăn nuôi Heo		
+93	43			Điểm chăn nuôi Heo		
+102	44			Điểm chăn nuôi Heo		
+103	45			Điểm chăn nuôi Heo		
+105	46			Điểm chăn nuôi Heo		
+107	47			Điểm chăn nuôi Heo		
+112	48			Điểm chăn nuôi Heo		
+113	49			Điểm chăn nuôi Heo		
+114	50			Điểm chăn nuôi Heo		
+116	51			Điểm chăn nuôi Heo		
+117	52			Điểm chăn nuôi Heo		
+119	53			Điểm chăn nuôi Heo		
+122	54			Điểm chăn nuôi Heo		
+124	55			Điểm chăn nuôi Heo		
+125	56			Điểm chăn nuôi Heo		
+126	57			Điểm chăn nuôi Heo		
+128	58			Điểm chăn nuôi Heo		
+129	59			Điểm chăn nuôi Heo		
+130	60			Điểm chăn nuôi Heo		
+132	61			Điểm chăn nuôi Heo		
+134	62			Điểm chăn nuôi Heo		
+136	63			Điểm chăn nuôi Heo		
+141	64			Điểm chăn nuôi Heo		
+149	65			Điểm chăn nuôi Heo		
+152	66			Điểm chăn nuôi Heo		
+166	67			Điểm chăn nuôi Heo		
+167	68			Điểm chăn nuôi Heo		
+171	69			Điểm chăn nuôi Heo		
+175	70			Điểm chăn nuôi Heo		
+176	71			Điểm chăn nuôi Heo		
+179	72			Điểm chăn nuôi Heo		
+181	73			Điểm chăn nuôi Heo		
+184	74			Điểm chăn nuôi Heo		
+185	75			Điểm chăn nuôi Heo		
+188	76			Điểm chăn nuôi Heo		
+191				Điểm chăn nuôi Heo		
+194				Điểm chăn nuôi Heo		
+198				Điểm chăn nuôi Heo		
+200				Điểm chăn nuôi Heo		
+204				Điểm chăn nuôi Heo		
+208				Điểm chăn nuôi Heo		
+210				Điểm chăn nuôi Heo		
+	mạng lưới điểm chăn nuôi Trâu bò tập trung năm 2007					
+Mã số	Số TT	Địa chỉ		Loại hình chăn nuôi	Số hộ (hộ)	Số trâu bò (con)
+		Xã	Huyện			Ga_con
+16	1			Điểm chăn nuôi Trâu, Bò		
+17	2			Điểm chăn nuôi Trâu, Bò		
+30	3			Điểm chăn nuôi Trâu, Bò		
+33	4			Điểm chăn nuôi Trâu, Bò		
+40	5			Điểm chăn nuôi Trâu, Bò		
+42	6			Điểm chăn nuôi Trâu, Bò		
+44	7			Điểm chăn nuôi Trâu, Bò		
+48	8			Điểm chăn nuôi Trâu, Bò		
+54	9			Điểm chăn nuôi Trâu, Bò		
+55	10			Điểm chăn nuôi Trâu, Bò		
+60	11			Điểm chăn nuôi Trâu, Bò		
+63	12			Điểm chăn nuôi Trâu, Bò		
+67	13			Điểm chăn nuôi Trâu, Bò		
+80	14			Điểm chăn nuôi Trâu, Bò		
+123	15			Điểm chăn nuôi Trâu, Bò		
+142	16			Điểm chăn nuôi Trâu, Bò		
+144	17			Điểm chăn nuôi Trâu, Bò		
+145	18			Điểm chăn nuôi Trâu, Bò		
+146	19			Điểm chăn nuôi Trâu, Bò		
+150	20			Điểm chăn nuôi Trâu, Bò		
+154	21			Điểm chăn nuôi Trâu, Bò		
+155	22			Điểm chăn nuôi Trâu, Bò		
+156	23			Điểm chăn nuôi Trâu, Bò		
+157	24			Điểm chăn nuôi Trâu, Bò		
+158	25			Điểm chăn nuôi Trâu, Bò		
+159	26			Điểm chăn nuôi Trâu, Bò		
+160	27			Điểm chăn nuôi Trâu, Bò		
+161	28			Điểm chăn nuôi Trâu, Bò		
+162	29			Điểm chăn nuôi Trâu, Bò		
+163	30			Điểm chăn nuôi Trâu, Bò		
+164	31			Điểm chăn nuôi Trâu, Bò		
+168	32			Điểm chăn nuôi Trâu, Bò		
+169	33			Điểm chăn nuôi Trâu, Bò		
+172	34			Điểm chăn nuôi Trâu, Bò		
+173	35			Điểm chăn nuôi Trâu, Bò		
+177	36			Điểm chăn nuôi Trâu, Bò		
+180	37			Điểm chăn nuôi Trâu, Bò		
+187	38			Điểm chăn nuôi Trâu, Bò		
+190	39			Điểm chăn nuôi Trâu, Bò		
+193	40			Điểm chăn nuôi Trâu, Bò		
+197	41			Điểm chăn nuôi Trâu, Bò		
+207	42			Điểm chăn nuôi Trâu, Bò		
+giá trị sản xuất ngành chăn nuôi		
+STT	Danh mục	Giá trị sản xuất năm 2007 ( triệu đồng )
+	Tổng số	
+1	Gia Súc	
+2	Gia Cầm	
+3	Chăn nuôi khác	
+4	Sản phẩm không giết mổ	
+5	Sản phẩm phụ thu chăn nuôi	
+		
+		
+	Một số gia súc, gia cầm chính năm 2007	
+STT	Danh mục	Số lượng
+1	Đàn Trâu ( con)	
+2	Đàn Bò ( con )	
+3	Đàn Heo ( con )	
+4	Đàn Gà ( nghìn con )	
+5	Đàn Vịt, Ngan, Ngỗng ( nghìn con)	
+		
+		
+sản lượng sản phẩm chăn nuôi năm 2007		
+STT	Danh mục	Sản lượng
+1	Sản lượng thịt Trâu (tấn)	
+2	Sản lượng thịt Bò (tấn)	
+3	Sản lượng Sữa tươi (tấn)	
+4	Sản lượng thịt Heo (tấn)	
+5	Sản lượng thịt Gia cầm (tấn)	
+6	Sản lượng Trứng (nghìn quả)	
+	Giá trị sản lượng ngành chăn nuôi theo địa bàn huyện năm 2007 (triệu đồng)												
+STT	Chỉ tiêu	Toàn tỉnh	Biên Hòa	Vĩnh Cửu	Trảng Bom	Thống Nhất	Long Khánh	Xuân Lộc	Cẩm Mỹ	Định Quán	Tân Phú	Long Thành	Nhơn Trạch
+A	Tổng giá trị sản xuất ngành NN												
+	Tổng GTSL ngành chăn nuôi												
+	Tỷ lệ % CN / Tổng GTSLNN												
+1	GTSL Gia Súc												
+	Tỷ lệ % GS / Tổng GTSLNN												
+	Tỷ lệ % GS / chăn nuôi												
+2	GTSL Gia Cầm												
+	Tỷ lệ % GC / Tổng GTSLNN												
+	Tỷ lệ % GC / chăn nuôi												
+Gia súc, gia cầm năm 2007 theo địa bàn huyện										
+STT	Phân theo địa bàn	Số hộ chăn nuôi tòan huyện (hộ)	Số điểm chăn nuôi tập trung (điểm)	Trâu (con)	Bò (con)	Heo (con)	Gia cầm (con)	Sản lượng Gia súc (tấn)	Sản lượng Gia Cầm (tấn)	Tỷ trọng GTSL ngành chăn nuôi trong GTSL ngành nông nghiệp (%)
+1	H. Định Quán									
+2	H. Cẩm Mỹ									
+3	H. Long Thành									
+4	H. Nhơn Trạch									
+5	H. Tân Phú									
+6	H. Thống Nhất									
+7	H. Trảng Bom									
+8	H. Vĩnh Cửu									
+9	H. Xuân Lộc									
+10	TP. Biên Hòa									
+11	TX. Long Khánh									
+	Tổng									
+	doanh nghiệp chăn nuôi năm 2007			
+STT	Tên doanh nghiệp	Địa chỉ	Loại hình chăn nuôi	Quy mô (con)
+1				
+2				
+3				
+4				
+5				
+6				
+7				
+8				
+9				
+10				
+11				
+12				
+13				
+Số hộ chăn nuôi tập trung theo địa bàn phường xã					
+Mã số	Tên xã	Huyện	Số hộ chăn nuôi tập trung	Tổng số hộ dân	Tỷ lệ hộ CN tập trung trên tổng số hộ dân %
+1	Xã Phước An	H. Nhơn Trạch			
+2	Xã Phước Khánh	H. Nhơn Trạch			
+3	Xã Vĩnh Thanh	H. Nhơn Trạch			
+4	Xã Long Thọ	H. Nhơn Trạch			
+5	Xã Phú Đông	H. Nhơn Trạch			
+6	Xã Phú Hữu	H. Nhơn Trạch			
+7	Xã Đại Phước	H. Nhơn Trạch			
+8	Xã Phú Thạnh	H. Nhơn Trạch			
+9	Xã Phú Hội	H. Nhơn Trạch			
+10	Xã Hiệp Phước	H. Nhơn Trạch			
+11	Xã Long Tân	H. Nhơn Trạch			
+12	Xã Phước Thiền	H. Nhơn Trạch			
+13	Xã Bình An	H. Long Thành			
+14	Xã Phước Bình	H. Long Thành			
+15	Xã Tân Hiệp	H. Long Thành			
+16	Xã Long An	H. Long Thành			
+17	Xã Long Đức	H. Long Thành			
+18	Xã An Phước	H. Long Thành			
+19	Xã Bình Sơn	H. Long Thành			
+20	Xã Lộc An	H. Long Thành			
+21	Thị trấn Long Thành	H. Long Thành			
+22	Xã Bàu Cạn	H. Long Thành			
+23	Xã Long Phước	H. Long Thành			
+24	Xã Phước Thái	H. Long Thành			
+25	Xã Suối Trầu	H. Long Thành			
+26	Xã Tam Phước	H. Long Thành			
+27	Xã Tam An	H. Long Thành			
+28	Xã An Viễn	H. Trảng Bom			
+29	Xã Cẩm Đường	H. Long Thành			
+30	Xã Thừa Đức	H. Cẩm Mỹ			
+31	Xã Xuân Hòa	H. Xuân Lộc			
+32	Xã Xuân Thành	H. Xuân Lộc			
+33	Xã Suối Cao	H. Xuân Lộc			
+34	Xã Xuân Bắc	H. Xuân Lộc			
+35	Xã Xuân Tâm	H. Xuân Lộc			
+36	Xã Xuân Hưng	H. Xuân Lộc			
+37	Thị trấn Gia Ray	H. Xuân Lộc			
+38	Xã Xuân Hiệp	H. Xuân Lộc			
+39	Xã Xuân Phú	H. Xuân Lộc			
+40	Xã Xuân Tây	H. Cẩm Mỹ			
+41	Xã Suối Tre	Tx. Long Khánh			
+42	Xã Bàu Sen	Tx. Long Khánh			
+43	Xã Xuân Lập	Tx. Long Khánh			
+44	Xã Xuân Thạnh	H. Thống Nhất			
+45	Xã Hàng Gòn	Tx. Long Khánh			
+46	Xã Bàu Hàm 2	H. Thống Nhất			
+47	Xã Sông Trầu	H. Trảng Bom			
+48	Xã Đồi 61	H. Trảng Bom			
+49	Thị trấn Trảng Bom	H. Trảng Bom			
+50	Xã Quảng Tiến	H. Trảng Bom			
+51	Xã Xuân Đường	H. Cẩm Mỹ			
+52	Xã Bàu Hàm 1	H. Trảng Bom			
+53	Xã Thanh Bình	H. Trảng Bom			
+54	Xã Hưng Thịnh	H. Trảng Bom			
+55	Xã Xuân Định	H. Xuân Lộc			
+56	Phường Xuân Trung	Tx. Long Khánh			
+57	Phường Xuân An	Tx. Long Khánh			
+58	Phường Xuân Thanh	Tx. Long Khánh			
+59	Phường Xuân Bình	Tx. Long Khánh			
+60	Phường Xuân Hòa	Tx. Long Khánh			
+61	Xã Xuân Tân	Tx. Long Khánh			
+62	Phường Phú Bình	Tx. Long Khánh			
+63	Xã Bình Lộc	Tx. Long Khánh			
+64	Xã Bảo Vinh	Tx. Long Khánh			
+65	Xã Bảo Quang	Tx. Long Khánh			
+66	Xã Xuân Thọ	H. Xuân Lộc			
+67	Xã Suối Cát	H. Xuân Lộc			
+68	Xã Xuân Trường	H. Xuân Lộc			
+69	Xã Lâm San	H. Cẩm Mỹ			
+70	Xã Sông Ray	H. Cẩm Mỹ			
+71	Xã Long Giao	H. Cẩm Mỹ			
+72	Xã Gia Tân 1	H. Thống Nhất			
+73	Xã Gia Tân 3	H. Thống Nhất			
+74	Xã Gia Tân 2	H. Thống Nhất			
+75	xã Phú Túc	H. Định Quán			
+76	Xã Suối Nho	H. Định Quán			
+77	Xã Gia Kiệm	H. Thống Nhất			
+78	Xã Quang Trung	H. Thống Nhất			
+79	Xã Xuân Thiện	H. Thống Nhất			
+80	Xã Bàu Trâm	Tx. Long Khánh			
+81	Xã Bảo Hòa	H. Xuân Lộc			
+82	Xã Xuân Bảo	H. Cẩm Mỹ			
+83	Xã Nhân Nghĩa	H. Cẩm Mỹ			
+84	Xã Xuân Mỹ	H. Cẩm Mỹ			
+85	Xã Bảo Bình	H. Cẩm Mỹ			
+86	Xã Lang Minh	H. Xuân Lộc			
+87	Xã Xuân Đông	H. Cẩm Mỹ			
+88	Xã Xuân Quế	H. Cẩm Mỹ			
+89	Xã Sông Nhạn	H. Cẩm Mỹ			
+90	Xã Lộ 25	H. Thống Nhất			
+91	Xã Hưng Lộc	H. Thống Nhất			
+92	Xã Sông Thao	H. Trảng Bom			
+93	Xã Cây Gáo	H. Trảng Bom			
+94	Xã Trung Hòa	H. Trảng Bom			
+95	Xã Tây Hòa	H. Trảng Bom			
+96	Xã Đông Hòa	H. Trảng Bom			
+97	Xã Vĩnh Tân	H. Vĩnh Cửu			
+98	Thị trấn Vĩnh An	H. Vĩnh Cửu			
+99	Phường Quang Vinh	TP. Biên Hòa			
+100	Phường Trung Dũng	TP. Biên Hòa			
+101	Phường Thanh Bình	TP. Biên Hòa			
+102	Phường Bửu Long	TP. Biên Hòa			
+103	Phường Hòa Bình	TP. Biên Hòa			
+104	Xã Hiệp Hòa	TP. Biên Hòa			
+105	Phường An Bình	TP. Biên Hòa			
+106	Xã An Hòa	H. Long Thành			
+107	Xã Long Hưng	H. Long Thành			
+108	Xã Thiện Tân	H. Vĩnh Cửu			
+109	Phường Trảng Dài	TP. Biên Hòa			
+110	Phường Long Bình	TP. Biên Hòa			
+111	Phường Tân Vạn	TP. Biên Hòa			
+112	Phường Long Bình Tân	TP. Biên Hòa			
+113	Phường Tân Phong	TP. Biên Hòa			
+114	Xã Giang Điền	H. Trảng Bom			
+115	Xã Phước Tân	H. Long Thành			
+116	Xã Hố Nai 3	H. Trảng Bom			
+117	Phường Quyết Thắng	TP. Biên Hòa			
+118	Phường Thống Nhất	TP. Biên Hòa			
+119	Phường Tân Tiến	TP. Biên Hòa			
+120	Phường Tân Hiệp	TP. Biên Hòa			
+121	Phường Tam Hoà	TP. Biên Hòa			
+122	Phường Tam Hiệp	TP. Biên Hòa			
+123	Phường Bình Đa	TP. Biên Hòa			
+124	Phường Tân Mai	TP. Biên Hòa			
+125	Phường Tân Biên	TP. Biên Hòa			
+126	Phường Hố Nai	TP. Biên Hòa			
+127	Phường Tân Hòa	TP. Biên Hòa			
+128	Xã Thạnh Phú	H. Vĩnh Cửu			
+129	Xã Bình Hòa	H. Vĩnh Cửu			
+130	Xã Bình Lợi	H. Vĩnh Cửu			
+131	Xã Tân Bình	H. Vĩnh Cửu			
+132	Xã Tân An	H. Vĩnh Cửu			
+133	Xã Bắc Sơn	H. Trảng Bom			
+134	Xã Bình Minh	H. Trảng Bom			
+135	Xã Đắk Lua	H. Tân Phú			
+136	Xã Gia Canh	H. Định Quán			
+137	Xã Phú Tân	H. Định Quán			
+138	Xã Thanh Sơn	H. Định Quán			
+139	Xã Phú Xuân	H. Tân Phú			
+140	Xã Phú Lộc	H. Tân Phú			
+141	Xã Trà Cổ	H. Tân Phú			
+142	Xã Ngọc Định	H. Định Quán			
+143	Xã La Ngà	H. Định Quán			
+144	Xã Túc Trưng	H. Định Quán			
+145	Xã Phú Cường	H. Định Quán			
+146	Xã Phú Ngọc	H. Định Quán			
+147	Xã Phú Vinh	H. Định Quán			
+148	Thị trấn Định Quán	H. Định Quán			
+149	Xã Phú Lập	H. Tân Phú			
+150	Xã Phú Thịnh	H. Tân Phú			
+151	Xã Phú Lợi	H. Định Quán			
+152	Thị trấn Tân Phú	H. Tân Phú			
+153	Xã Phú Hòa	H. Định Quán			
+154	Xã Phú Điền	H. Tân Phú			
+155	Xã Phú Thanh	H. Tân Phú			
+156	Xã Thanh Sơn	H. Định Quán			
+157	Xã Núi Tượng	H. Tân Phú			
+158	Xã Tà Lài	H. Tân Phú			
+159	Xã Nam Cát Tiên	H. Tân Phú			
+160	Xã Phú An	H. Tân Phú			
+161	Xã Phú Sơn	H. Tân Phú			
+162	Xã Phú Lý	H. Vĩnh Cửu			
+163	Xã Mã Đà	H. Vĩnh Cửu			
+164	Xã Hiếu Liêm	H. Vĩnh Cửu			
+165	Xã Phú Lâm	H. Tân Phú			
+166	Xã Phú Bình	H. Tân Phú			
+167	Xã Phú Trung	H. Tân Phú			
+168	Xã Trị An	H. Vĩnh Cửu			
+169	Phường Bửu Hòa	TP. Biên Hòa			
+170	Xã Tân Hạnh	TP. Biên Hòa			
+171	Xã Hoá An	TP. Biên Hòa

@@ -1,0 +1,133 @@
+	chủ đề: kinh tế trang trại						
+	Hoạt động của trang trại phân theo huyện năm 2007						
+TT	Tên huyện	Tổng diện tích đất trang trại (ha)	Tổng vốn trong hoạt động kinh tế trang trại (triệu đồng)	Thu nhập thuần túy của kinh tế trang trại (triệu đồng)	Tổng số lao động (người)	Giá trị SX của trang trại (triệu đồng)	Tỷ lệ GTSX của trang trại so với GTSX Nông - Lâm - Thủy (%)
+1	H. Định Quán						
+2	H. Cẩm Mỹ						
+3	H. Long Thành						
+4	H. Nhơn Trạch						
+5	H. Tân Phú						
+6	H. Thống Nhất						
+7	H. Trảng Bom						
+8	H. Vĩnh Cửu						
+9	H. Xuân Lộc						
+10	TP. Biên Hòa						
+11	TX. Long Khánh						
+	Tổng						
+các loại hình trang trại theo địa bàn huyện năm 2007							
+Tên huyện	Tổng số trang trại (trang trại)	Trang trại trồng cây hàng năm (trang trại)	Trang trại trồng cây lâu năm (trang trại)	Trang trại chăn nuôi (trang trại)	Trang trại lâm nghiệp (trang trại)	Trang trại nuôi trồng thủy sản (trang trại)	Trang trại tổng hợp (trang trại)
+H. Định Quán							
+H. Cẩm Mỹ							
+H. Long Thành							
+H. Nhơn Trạch							
+H. Tân Phú							
+H. Thống Nhất							
+H. Trảng Bom							
+H. Vĩnh Cửu							
+H. Xuân Lộc							
+TP. Biên Hòa							
+TX. Long Khánh							
+Tổng							
+diện tích một số cây trồng chính của trang trại năm 2007		
+STT	Loại cây	Diện tích (ha)
+I	Cây công nghiệp	
+1	Tiêu	
+2	Điều	
+3	Cà phê	
+4	Cao su	
+5	Mía	
+6	Cây khác	
+II	Cây ăn quả	
+1	Chôm chôm	
+2	Xoài	
+3	Sỗu Riêng	
+4	Bưởi	
+5	Cây khác	
+III	Cây lương thực	
+1	Lúa	
+2	Bắp	
+3	Mỳ	
+4	Cây khác	
+		
+		
+số lượng vật nuôi chủ yếu của trang trại năm 2007		
+STT	Tên vật nuôi	Số lượng (con)
+1	Trâu Bò lấy thịt và sức kéo	
+2	Bò sữa	
+3	Heo thịt	
+4	Heo nái	
+5	Dê, hươu, Nai	
+6	Gia cầm	
+7	Đàn ong	
+Tổng số trang trại năm 2007		
+STT	Tên trang trại	Số trang trại (trang trại)
+1	Trang trại trồng cây hàng năm	
+2	Trang trại trồng cây lâu năm	
+3	Trang trại chăn nuôi	
+4	Trang trại lâm nghiệp	
+5	Trang trại nuôi trồng thủy sản	
+6	Trang trại tổng hợp	
+	Tổng	
+		
+		
+cơ cấu sử dụng đất của trang trại năm 2007		
+STT	Tên trang trại	Diện tích (ha)
+1	Đất trồng cây hàng năm	
+2	Đất trồng cây lâu năm	
+3	Đất chăn nuôi	
+4	Đất lâm nghiệp	
+5	Đất nuôi trồng thủy sản	
+6	Đất khác	
+	Tổng	
+tư liệu sản xuất của trang trại đến năm 2007		
+STT	Tên phương tiện	Số tiền (triệu đồng)
+1	Máy kéo	
+2	Phương tiện vận tải	
+3	Máy phát điện	
+4	Máy bơm nước	
+5	Máy tuốt lúa, xay xát, nghiền thức ăn, xẻ gỗ	
+6	Máy móc khác	
+7	Chuồng trại	
+		
+		
+		
+		
+thu chi của trang trại năm 2007		
+STT	Thu, chi	Số tiền (triệu đồng)
+I	Chi	
+1	Chi phí lao động	
+2	Chi phí vật chất	
+II	Thu	
+1	Giá trị sản xuất	
+2	Doanh thu	
+3	Thu nhập thuần túy	
+một số đặc điểm của chủ trang trại năm 2007			
+STT		Số người (người)	Tỷ lệ %
+	Tổng số		
+I	giới tính		
+1	Nam		
+2	Nữ		
+II	Thành phần dân tộc		
+1	Dân tộc kinh		
+2	Dân tộc ít người		
+III	Trình độ học vấn		
+1	Không bằng cấp		
+2	Sơ cấp		
+3	Cao đẳng, trung cấp		
+4	Đại học		
+5	Trên đại học		
+III	Thành phần xã hội		
+1	Nông dân		
+2	Cán bộ xã		
+3	Cán bộ hưu trí		
+4	Cán bộ, bộ đội, công nhân viên chức		
+5	Thành phần khác		
+						
+	Kinh tế trang trại phân theo loại hình năm 2007					
+STT	Loại hình trang trại	Diện tích (ha)	Lao động (người)	Chi phí sản xuất (triệu đồng)	Giá trị sản xuất (triệu đồng)	Thu nhập thuần túy (triệu đồng)
+1	Trang trại trồng cây hàng năm					
+2	Trang trại trồng cây lâu năm					
+3	Trang trại chăn nuôi					
+4	Trang trại lâm nghiệp					
+5	Trang trại nuôi trồng thủy sản					
+6	Trang trại tổng hợp					
+	Tổng
