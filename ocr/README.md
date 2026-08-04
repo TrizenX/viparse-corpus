@@ -26,50 +26,46 @@ The renderer shares no code with viparse or with Tesseract, so nothing here can 
 itself. Each document is a multi-page TIFF, which also exercises the frame walking the
 engine does for a digitised archive.
 
-## Results — viparse 0.1.25 + Tesseract 5.5.3, `vie`
+## Results — viparse 0.1.26 + Tesseract 5.5.3, `vie`
 
-| render | documents | char | **diacritic** | syllable |
+| subject | documents | char | **diacritic** | syllable |
 | --- | ---: | ---: | ---: | ---: |
-| clean, all | 96 | 0.874 | **0.933** | 0.872 |
-| clean, prose only | 65 | 0.926 | **0.967** | 0.938 |
-| degraded, all | 96 | 0.749 | **0.816** | 0.748 |
-| degraded, prose only | 65 | 0.856 | **0.898** | 0.866 |
+| **real scans** | **2** | **0.984** | **0.968** | **0.954** |
+| rendered clean, all | 96 | 0.952 | 0.990 | 0.949 |
+| rendered clean, prose only | 65 | 0.951 | 0.992 | 0.951 |
+| rendered degraded, all | 96 | 0.947 | 0.986 | 0.944 |
+| rendered degraded, prose only | 65 | 0.949 | 0.991 | 0.947 |
 
 For comparison, the same metric on the same documents through the **conversion** path —
-legacy bytes, no OCR — is **0.982**.
+legacy bytes, no OCR — is **0.986**.
 
-**OCR is the weakest part of viparse, by a wide margin, and 0.967 is its ceiling.** That
-figure comes from a perfectly rendered page with no skew, no sensor noise, no paper
-texture and no bleed-through, in a font Tesseract finds easy. A real scan will do worse
-than 0.967; the degraded row suggests roughly how much, and it is not a substitute for
-measuring real scans.
+The real-scan row is the one that means what people assume the others mean. Two documents
+is not a benchmark; it is a floor under the claim that the rendered figures are not
+fantasy, and the gap between 0.968 and 0.990 is roughly what a real page costs.
 
-## Why two subsets
+> **Every figure published here on the morning of 2026-08-04 was wrong**, and by a lot —
+> 0.933 where the truth is 0.990. The cause was a defect in `score.py`, not in OCR, and it
+> is described in [the correction below](#the-numbers-published-this-morning-were-wrong).
+> The superseded results files are kept, marked with a `superseded` field.
 
-31 of the 96 transcripts are spreadsheets — tab-separated tables. This renderer wraps text
-to a column width, so a tabular row becomes a run-on line and the layout is destroyed
-*before Tesseract sees it*. Those documents score 0.714 against 0.914 for `.doc` and 0.999
-for `.pdf`, and that gap measures the renderer, not the OCR.
+## The two subsets no longer differ, and that is also the bug
 
-| source format | n | diacritic (mean) |
-| --- | ---: | ---: |
-| `.pdf` | 5 | 0.999 |
-| `.rtf` | 11 | 0.991 |
-| `.doc` | 48 | 0.914 |
-| `.ppt` | 1 | 0.895 |
-| `.xls` | 31 | **0.714** |
+The original split — all 96 documents against the 65 that are prose — existed because
+spreadsheets scored 0.714 while `.pdf` scored 0.999, and the renderer was blamed for
+flattening tab-separated tables into run-on lines.
 
-So both figures are published: the whole corpus, and the 65 documents this renderer can
-actually draw. The cut is `>80%` of non-blank lines containing a tab.
+With the metric fixed, `all` scores 0.990 and `prose only` 0.992. The renderer was not the
+problem. Tabular transcripts segment very differently from OCR output, so they were the
+documents the pairing defect hit hardest, and the entire justification for splitting them
+out was an artifact of it.
 
-**That threshold was chosen after seeing the scores**, which is worth saying rather than
-hiding. What makes it defensible is that it lands in an empty part of the distribution —
-31 documents sit above 0.8 and 5 sit between 0.2 and 0.8 — and that both numbers are here
-either way.
+Both subsets are still published, now for a duller reason: they agree.
 
 ## What OCR actually gets wrong
 
-Almost entirely **tone marks**, in both directions:
+Almost entirely **tone marks**, in both directions. The counts below are from `difflib`
+over flattened text and are independent of the scoring defect, so the *taxonomy* stands
+even though the rates it was used to explain were overstated:
 
 | | count | |
 | --- | ---: | --- |
@@ -133,6 +129,45 @@ is not this one, or the measurement eats itself again.
 The rule was correct about Vietnamese and wrong about the data. That is the whole lesson,
 and it is why the code is not in the library.
 
+## The numbers published this morning were wrong
+
+`score.py` splits both texts into segments on sentence punctuation, aligns the segment
+lists, and then — for a region where they differ — used to pair the two sides
+**positionally**, padding the shorter with empty strings.
+
+That breaks the moment the two sides segment differently, and they do: segmentation
+depends on punctuation the parser may have misread. On the real scan `2005-mpi-qd837`, OCR
+lost a single `:` in `Số : 837`. Every following segment shifted by one, the title block
+was compared against an unrelated paragraph, and one 284-character segment was scored
+against `""`.
+
+- Raw similarity of the two texts, whitespace flattened: **0.9904**
+- Reported by the metric: **0.578**
+
+The fix joins each changed region and compares it as one pair, with a size cap so the
+baseline row — mojibake that shares almost nothing with the truth — cannot fall back into
+the O(n²) alignment this file was already written to avoid. `--self-test` now carries a
+case built from that exact scan: a lost `:` must not cost more than 5% of char accuracy.
+
+What moved:
+
+| | before | after |
+| --- | ---: | ---: |
+| viparse, legacy corpus | 0.982 | **0.986** |
+| baseline, no conversion | 0.019 | **0.019** |
+| OCR, rendered clean, all | 0.933 | **0.990** |
+| OCR, rendered degraded, all | 0.816 | **0.986** |
+
+The baseline did not move, which is the reassuring part: the floor was never in question,
+so the gap the product is about is intact. Everything else was understated, OCR worst of
+all — the more a prediction's punctuation differs from the truth's, the harder the defect
+hit it, and OCR misreads punctuation more than any other path.
+
+The lesson is the one this repository keeps relearning, pointed at itself this time: a
+measurement that has never been checked against a simpler measurement of the same thing is
+not evidence. One `difflib.SequenceMatcher` ratio, computed in three lines, would have
+caught this at any point in the last four days.
+
 ## Caveats
 
 - **A rendered page is not a scan.** Stated again because it is the whole limitation.
@@ -140,5 +175,12 @@ and it is why the code is not in the library.
   exactly the rendered text, so the score compares like with like. 243 pages per variant.
 - **One font, one engine, one language model.** Arial Unicode, Tesseract 5.5.3, `vie`.
   Nothing here says how a different font or a newer model would score.
-- **No real scanned Vietnamese document has been measured at all.** That still needs one,
-  and it is the thing that would make this number mean what people will assume it means.
+- **Two real scans is not a benchmark.** They are the first ever measured here, and they
+  exist to bound the rendered figures rather than to stand on their own. Both are
+  single pages, hand-transcribed from the image *before* OCR was run on them.
+- **Both transcripts were made by reading the scan.** That is the same method the rest of
+  the corpus uses, and it carries the same risk: a transcription error is indistinguishable
+  from an OCR success.
+- **Eleven scans were found; nine were rejected**, all but one for personal data — names,
+  addresses, company emails and phone numbers in correspondence and licence registers. The
+  corpus has excluded documents on that basis before.

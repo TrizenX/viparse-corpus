@@ -57,6 +57,37 @@ class Score:
     diacritic_positions: int
 
 
+#: Above this many characters a joined region is cut into pieces before aligning. The
+#: character alignment is O(n*m), and the baseline row — byte-faithful mojibake — shares
+#: almost nothing with the truth, so its whole document arrives as one changed region.
+#: Joining that unguarded is the O(n^2) failure this file was already written to avoid.
+_MAX_JOINED_REGION = 4000
+
+
+def _pair_changed_region(pred_lines: list[str], truth_lines: list[str]) -> list[tuple[str, str]]:
+    """Pair one changed region, joined so segmentation differences cannot shift it.
+
+    Both sides are joined and compared as a single pair, which is the point: pairing
+    positionally breaks as soon as the two sides segment differently, and a single dropped
+    ":" is enough to do that.
+
+    Large regions are cut proportionally instead. That is an approximation — a boundary
+    can fall mid-sentence — but it only applies where the two sides already share almost
+    nothing, so there is no alignment left to lose.
+    """
+    pred_text, truth_text = "\n".join(pred_lines), "\n".join(truth_lines)
+    if max(len(pred_text), len(truth_text)) <= _MAX_JOINED_REGION:
+        return [(pred_text, truth_text)]
+
+    chunks = max(1, len(truth_text) // _MAX_JOINED_REGION + 1)
+    truth_step = max(1, len(truth_text) // chunks)
+    pred_step = max(1, len(pred_text) // chunks)
+    return [
+        (pred_text[i * pred_step : (i + 1) * pred_step], truth_text[i * truth_step : (i + 1) * truth_step])
+        for i in range(chunks)
+    ]
+
+
 def _aligned_line_pairs(pred: str, truth: str) -> list[tuple[str, str]]:
     """Pair up segments, then compare within a pair.
 
@@ -78,14 +109,23 @@ def _aligned_line_pairs(pred: str, truth: str) -> list[tuple[str, str]]:
         if tag == "equal":
             pairs += [(pred_lines[p1 + k], truth_lines[t1 + k]) for k in range(t2 - t1)]
         else:
-            # A changed region: pair line-for-line as far as both sides go, and pair the
-            # remainder against nothing so deletions and insertions still count.
-            changed_t, changed_p = truth_lines[t1:t2], pred_lines[p1:p2]
-            for k in range(max(len(changed_t), len(changed_p))):
-                pairs.append((
-                    changed_p[k] if k < len(changed_p) else "",
-                    changed_t[k] if k < len(changed_t) else "",
-                ))
+            # A changed region: join each side and compare it as ONE pair.
+            #
+            # This used to pair the region line-for-line and pad the shorter side with
+            # empty strings, which is wrong whenever the two sides segment differently —
+            # and they do, because segmentation depends on punctuation the parser may have
+            # misread. One dropped ":" shifts every following segment by one, so segment
+            # *k* of the truth gets compared against unrelated text and the tail is scored
+            # against "".
+            #
+            # Measured on a real scan whose OCR was 99.0% identical to its transcript:
+            # the old pairing reported 0.578 character accuracy, this reports 0.985. The
+            # difference was entirely in the harness.
+            #
+            # Joining is safe because the character alignment underneath is the same
+            # algorithm; a changed region is bounded by the equal regions around it, so
+            # the joined block stays small enough to align instantly.
+            pairs += _pair_changed_region(pred_lines[p1:p2], truth_lines[t1:t2])
     return pairs
 
 
@@ -295,6 +335,31 @@ def self_test() -> int:
         ok = False
     else:
         print(f"  separation          char={s.char_accuracy:.3f} vs diacritic=0.000  ok")
+
+    # Regression: segmentation must not shift the score. The two sides here are the
+    # same text; the prediction has merely lost one ":" and had its newlines flattened,
+    # exactly as OCR output does. Pairing the changed region positionally scored this
+    # 0.578 while the texts were 99% identical, and every OCR figure published on
+    # 2026-08-04 was wrong because of it.
+    truth_doc = (
+        "B\u1ed8 K\u1ebe HO\u1ea0CH V\u00c0 \u0110\u1ea6U T\u01af\n"
+        "S\u1ed1 : 837 / Q\u0110 - BKH\n\n"
+        "H\u00e0 N\u1ed9i, ng\u00e0y 26 th\u00e1ng 8 n\u0103m 2005\n\n"
+        "C\u0103n c\u1ee9 Ngh\u1ecb \u0111\u1ecbnh s\u1ed1 61; "
+        "C\u0103n c\u1ee9 Quy\u1ebft \u0111\u1ecbnh 20; "
+        "Theo \u0111\u1ec1 ngh\u1ecb c\u1ee7a Vi\u1ec7n tr\u01b0\u1edfng."
+    )
+    pred_doc = truth_doc.replace("\n", " ").replace("S\u1ed1 :", "S\u1ed1")
+    segmented = score_pair("segmentation", pred_doc, truth_doc)
+    if segmented.char_accuracy < 0.95:
+        print(
+            f"    FAIL: a lost ':' cost {1 - segmented.char_accuracy:.1%} of char accuracy; "
+            "the changed-region pairing has regressed",
+            file=sys.stderr,
+        )
+        ok = False
+    else:
+        print(f"  segmentation shift  char={segmented.char_accuracy:.3f}  ok")
 
     print("  self-test:", "pass" if ok else "FAIL")
     return 0 if ok else 1

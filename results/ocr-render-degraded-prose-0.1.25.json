@@ -532,5 +532,6 @@
       "truth_chars": 2133,
       "diacritic_positions": 441
     }
-  ]
+  ],
+  "superseded": "Scored with a metric that paired changed regions positionally; a segmentation difference shifted the comparison and understated OCR badly. See the 0.1.26 file."
 }

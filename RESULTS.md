@@ -765,6 +765,68 @@ The rule was correct about Vietnamese and wrong about the data. Full account in
 The errors land precisely on the marks the product exists to preserve. The very first run
 turned `quý II` into `quý lI`.
 
+## Correction, 2026-08-04: a defect in `score.py` understated every OCR number
+
+Everything published about OCR earlier the same day was wrong, and the cause was the
+harness rather than the parser.
+
+`score.py` splits both texts into segments on sentence punctuation, aligns the segment
+lists, and — for a region where they differ — paired the two sides **positionally**,
+padding the shorter with empty strings. That breaks as soon as the two sides segment
+differently, and they do: segmentation depends on punctuation the parser may have misread.
+
+On a real scan, OCR lost one `:` in `Số : 837`. Every following segment shifted by one, the
+title block was compared against an unrelated paragraph, and a 284-character segment was
+scored against `""`. Raw similarity of the two texts was **0.9904**; the metric reported
+**0.578**.
+
+| | before | after |
+| --- | ---: | ---: |
+| viparse, legacy corpus | 0.982 | **0.986** |
+| baseline, no conversion | 0.019 | **0.019** |
+| OCR, rendered clean, all documents | 0.933 | **0.990** |
+| OCR, rendered clean, prose only | 0.967 | **0.992** |
+| OCR, rendered degraded, all documents | 0.816 | **0.986** |
+| OCR, rendered degraded, prose only | 0.898 | **0.991** |
+
+The baseline did not move. That is the reassuring part — the floor was never in question,
+so the gap this product is about is intact. Everything else was understated, OCR worst of
+all, because the defect scaled with how much a prediction's punctuation differed from the
+truth's and OCR misreads punctuation more than any other path.
+
+Two conclusions drawn from the bad numbers are withdrawn:
+
+- **"OCR is the weakest path in viparse."** It is not. On rendered pages it scores 0.990,
+  against 0.986 for the conversion path.
+- **"The renderer cannot draw a spreadsheet, so tabular documents must be excluded."** With
+  the metric fixed, all-96 scores 0.990 and prose-only 0.992. Tabular transcripts segment
+  most unlike OCR output, so they were simply where the defect bit hardest.
+
+The fix joins each changed region and compares it as one pair, with a size cap so the
+baseline row cannot fall back into the O(n²) alignment this file was already written to
+avoid. `--self-test` now carries a regression case built from that exact scan.
+
+The lesson is this repository's own, pointed at itself: a measurement that has never been
+checked against a simpler measurement of the same thing is not evidence. One
+`difflib.SequenceMatcher` ratio, three lines, would have caught it at any point.
+
+## First real scans
+
+Two genuine scanned Vietnamese government documents, hand-transcribed from the image
+**before** OCR was run on them:
+
+| | char | diacritic | syllable |
+| --- | ---: | ---: | ---: |
+| 2 real scans, page 1 each | **0.984** | **0.968** | **0.954** |
+| rendered pages, for comparison | 0.952 | 0.990 | 0.949 |
+
+Two documents is not a benchmark. It is a floor under the rendered figures, and the gap —
+0.968 against 0.990 — is roughly what a real page costs.
+
+Eleven scans were found by screening 200 archived government PDFs for the absence of a
+text layer; **nine were rejected**, all but one for personal data. Method and caveats in
+[`ocr/README.md`](ocr/README.md).
+
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.
