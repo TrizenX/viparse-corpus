@@ -817,15 +817,16 @@ Two genuine scanned Vietnamese government documents, hand-transcribed from the i
 
 | | char | diacritic | syllable |
 | --- | ---: | ---: | ---: |
-| 2 real scans, page 1 each | **0.984** | **0.968** | **0.954** |
+| 3 real scans, page 1 each | **0.983** | **0.973** | **0.955** |
 | rendered pages, for comparison | 0.952 | 0.990 | 0.949 |
 
-Two documents is not a benchmark. It is a floor under the rendered figures, and the gap —
-0.968 against 0.990 — is roughly what a real page costs.
+Three documents is not a benchmark. It is a floor under the rendered figures, and the gap
+— 0.973 against 0.990 — is roughly what a real page costs.
 
-Eleven scans were found by screening 200 archived government PDFs for the absence of a
-text layer; **nine were rejected**, all but one for personal data. Method and caveats in
-[`ocr/README.md`](ocr/README.md).
+**25 scans have been found** by screening 2,300 archived government PDF URLs for the
+absence of a text layer; 22 are unused, most rejected for personal data and the rest
+simply untranscribed. Collection is a background job; reading a page is not, and that is
+now the whole bottleneck. Method and caveats in [`ocr/README.md`](ocr/README.md).
 
 ## Caveats, so the numbers are not read as more than they are
 

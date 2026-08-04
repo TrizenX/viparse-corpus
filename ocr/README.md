@@ -30,7 +30,7 @@ engine does for a digitised archive.
 
 | subject | documents | char | **diacritic** | syllable |
 | --- | ---: | ---: | ---: | ---: |
-| **real scans** | **2** | **0.984** | **0.968** | **0.954** |
+| **real scans** | **3** | **0.983** | **0.973** | **0.955** |
 | rendered clean, all | 96 | 0.952 | 0.990 | 0.949 |
 | rendered clean, prose only | 65 | 0.951 | 0.992 | 0.951 |
 | rendered degraded, all | 96 | 0.947 | 0.986 | 0.944 |
@@ -39,9 +39,15 @@ engine does for a digitised archive.
 For comparison, the same metric on the same documents through the **conversion** path —
 legacy bytes, no OCR — is **0.986**.
 
-The real-scan row is the one that means what people assume the others mean. Two documents
-is not a benchmark; it is a floor under the claim that the rendered figures are not
-fantasy, and the gap between 0.968 and 0.990 is roughly what a real page costs.
+The real-scan row is the one that means what people assume the others mean. Three
+documents is not a benchmark; it is a floor under the claim that the rendered figures are
+not fantasy, and the gap between 0.973 and 0.990 is roughly what a real page costs.
+
+| document | char | diacritic |
+| --- | ---: | ---: |
+| `2005-mpi-qd837` | 0.991 | 0.988 |
+| `2005-mpi-tt01-ptbv` | 0.981 | 0.983 |
+| `2015-molisa-ttr-nd51` | 0.979 | 0.954 |
 
 > **Every figure published here on the morning of 2026-08-04 was wrong**, and by a lot —
 > 0.933 where the truth is 0.990. The cause was a defect in `score.py`, not in OCR, and it
@@ -175,12 +181,20 @@ caught this at any point in the last four days.
   exactly the rendered text, so the score compares like with like. 243 pages per variant.
 - **One font, one engine, one language model.** Arial Unicode, Tesseract 5.5.3, `vie`.
   Nothing here says how a different font or a newer model would score.
-- **Two real scans is not a benchmark.** They are the first ever measured here, and they
-  exist to bound the rendered figures rather than to stand on their own. Both are
-  single pages, hand-transcribed from the image *before* OCR was run on them.
+- **Three real scans is not a benchmark.** They exist to bound the rendered figures rather
+  than to stand on their own. All three are single pages, hand-transcribed from the image
+  *before* OCR was run on them.
 - **Both transcripts were made by reading the scan.** That is the same method the rest of
   the corpus uses, and it carries the same risk: a transcription error is indistinguishable
   from an OCR success.
-- **Eleven scans were found; nine were rejected**, all but one for personal data — names,
-  addresses, company emails and phone numbers in correspondence and licence registers. The
-  corpus has excluded documents on that basis before.
+- **Twenty-five scans have been found; twenty-two are unused.** Most were rejected for
+  personal data — names, addresses, company emails and phone numbers in correspondence,
+  licence registers and tender awards. The corpus has excluded documents on that basis
+  before. The rest are collected and untranscribed, which is the real bottleneck:
+  screening 2,300 candidate URLs is a background job, and reading a page is not.
+
+- **The automated PII screen is a first pass, not a filter.** It looks for `Ông`/`Bà`
+  followed by a name, email addresses and phone numbers. It cleared a tender award whose
+  only personal name sat in the signature block, with no honorific in front of it — caught
+  by eye, not by the regex. Every document that reaches a transcript is read in full
+  first, and that is what the screen is for: reducing how many need reading, not deciding.

@@ -1,0 +1,40 @@
+{
+  "tool": "viparse+tesseract",
+  "tool_version": "0.1.27 (real scans)",
+  "subset": "ocr-render",
+  "metric_version": "1",
+  "summary": {
+    "n_documents": 3,
+    "n_failures": 0,
+    "failures": [],
+    "char_accuracy": 0.982824,
+    "diacritic_accuracy": 0.972993,
+    "syllable_accuracy": 0.95489
+  },
+  "documents": [
+    {
+      "document": "2005-mpi-qd837",
+      "char_accuracy": 0.991003,
+      "diacritic_accuracy": 0.988201,
+      "syllable_accuracy": 0.970414,
+      "truth_chars": 1556,
+      "diacritic_positions": 339
+    },
+    {
+      "document": "2005-mpi-tt01-ptbv",
+      "char_accuracy": 0.981176,
+      "diacritic_accuracy": 0.983015,
+      "syllable_accuracy": 0.957537,
+      "truth_chars": 2125,
+      "diacritic_positions": 471
+    },
+    {
+      "document": "2015-molisa-ttr-nd51",
+      "char_accuracy": 0.978939,
+      "diacritic_accuracy": 0.954111,
+      "syllable_accuracy": 0.942346,
+      "truth_chars": 2374,
+      "diacritic_positions": 523
+    }
+  ]
+}
