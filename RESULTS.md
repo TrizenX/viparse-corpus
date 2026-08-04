@@ -705,6 +705,46 @@ The first draft of this benchmark reported `table: ok` for every document, becau
 fixture table had four rows and always fit in one chunk. A benchmark whose fixture cannot
 reproduce the defect is a benchmark that certifies it.
 
+## OCR, measured for the first time
+
+`viparse[ocr]` was advertised in six places and measured in none: every OCR test in the
+library mocks Tesseract, no scanned document existed in any published benchmark, and the
+engine had never been run against a real Tesseract in this project. Full method and
+caveats in [`ocr/README.md`](ocr/README.md).
+
+Scoring OCR needs a page image whose correct text is already known. The corpus has no
+scans, but it has 96 transcripts — rendering one back to a page image produces the missing
+pair at no cost in new transcription.
+
+| render | documents | char | **diacritic** | syllable |
+| --- | ---: | ---: | ---: | ---: |
+| clean, all | 96 | 0.874 | **0.933** | 0.872 |
+| clean, prose only | 65 | 0.926 | **0.967** | 0.938 |
+| degraded, all | 96 | 0.749 | **0.816** | 0.748 |
+| degraded, prose only | 65 | 0.856 | **0.898** | 0.866 |
+
+The conversion path scores **0.982** on the same documents. **OCR is the weakest part of
+viparse by a wide margin, and 0.967 is a ceiling** — a perfectly rendered page, no skew,
+no sensor noise, no paper texture, in a font Tesseract finds easy.
+
+### Two subsets, because the renderer cannot draw a spreadsheet
+
+31 transcripts are tab-separated tables. This renderer wraps to a column width, so a
+tabular row becomes a run-on line and the layout is destroyed before Tesseract sees it —
+`.xls` scores 0.714 against 0.999 for `.pdf`. That gap measures the renderer, not the OCR,
+so both the whole corpus and the 65 prose documents are published. The `>80%`-tabbed-lines
+threshold was chosen after seeing the scores; it lands in an empty part of the
+distribution, and both numbers are here either way.
+
+### The errors are tone marks, in both directions
+
+`i` → `ỉ` 93 times — a hook invented where there is none. `ề` → `ê` 39 times, `ầ` → `â` 14,
+`ồ` → `ô` 7 — the tone dropped from an already-circumflexed vowel. Plus `I` → `l` or `|`
+19 times, the classic.
+
+The errors land precisely on the marks the product exists to preserve. The very first run
+turned `quý II` into `quý lI`.
+
 ## Caveats, so the numbers are not read as more than they are
 
 - **Ten documents, all TCVN3.** Nothing here says anything about VNI, VISCII or VPS.

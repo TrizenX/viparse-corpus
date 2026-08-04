@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 structure/documents/
+ocr/clean/
+ocr/degraded/

@@ -209,7 +209,9 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--pred", type=Path, required=True, help="directory of parser output, one .txt per document")
     ap.add_argument("--truth", type=Path, required=True, help="directory of ground-truth transcripts")
-    ap.add_argument("--subset", required=True, choices=["public-domain", "synthetic"])
+    ap.add_argument(
+        "--subset", required=True, choices=["public-domain", "synthetic", "ocr-render"]
+    )
     ap.add_argument("--tool", default="viparse")
     ap.add_argument("--tool-version", default="")
     ap.add_argument("--out", type=Path)
