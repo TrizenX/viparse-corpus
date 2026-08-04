@@ -736,6 +736,26 @@ so both the whole corpus and the 65 prose documents are published. The `>80%`-ta
 threshold was chosen after seeing the scores; it lands in an empty part of the
 distribution, and both numbers are here either way.
 
+### A repair layer for those errors: built, measured, not shipped
+
+The obvious fix does not work, and the reason is worth more than the fix would have been.
+A Vietnamese syllable carries at most one tone, so `tỉếng` is orthographically impossible
+and can be repaired without any lexicon — which also avoids the circularity a
+corpus-derived dictionary would bring.
+
+On a 50/50 split fixed before scoring, it was **worse on every split**: −0.00303 on clean
+held-out, −0.00029 on degraded held-out. Two independent reasons. OCR drops spaces, so a
+token is routinely two words joined — `hướngchính`, `nướcngoài` — each with its own
+legitimate tone, and the rule deletes a correct one. And the class it targets barely
+exists: 4 of 36,910 tokens carry two tones, all of them joined words.
+
+The largest real error class is `chi` → `chỉ`, where both forms are ordinary words. Every
+large error class here produces a *legal* result, and orthography cannot rank legal
+alternatives — that needs context, a language model, and a corpus that is not this one.
+
+The rule was correct about Vietnamese and wrong about the data. Full account in
+[`ocr/README.md`](ocr/README.md).
+
 ### The errors are tone marks, in both directions
 
 `i` → `ỉ` 93 times — a hook invented where there is none. `ề` → `ê` 39 times, `ầ` → `â` 14,

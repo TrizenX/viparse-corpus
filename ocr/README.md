@@ -87,6 +87,52 @@ Note the asymmetry — Tesseract *invents* a hook on bare `i` far more often tha
 one, and *drops* the tone from `ê`, `â`, `ồ` rather than inventing it. A post-OCR
 correction pass has an obvious shape, and is not attempted here.
 
+## A post-OCR repair layer: built, measured, not shipped
+
+The error table above suggests an obvious fix, and it does not work. Recording why, because
+the reasoning looks sound right up until it meets the data.
+
+**The rule.** A Vietnamese syllable carries at most one tone mark — grave, acute, hook,
+tilde, dot below — and `ă â ê ô ơ ư đ` are letter forms, not tones. So `tỉếng` is not a
+rare word; it is orthographically impossible, and no lexicon is needed to know that. When
+two tones appear and exactly one of the vowels also carries a circumflex/breve/horn, that
+vowel is the nucleus, so the tone on the plain vowel is the intruder: `tỉếng` → `tiếng`.
+
+This mattered because the alternative was a dictionary, and a dictionary built from this
+corpus would make the measurement circular. The constraint comes from the writing system
+instead.
+
+**Result, on a 50/50 split fixed before anything was scored:**
+
+| split | before | after | |
+| --- | ---: | ---: | ---: |
+| clean, dev | 0.96696 | 0.96693 | −0.00003 |
+| clean, held-out | 0.96738 | 0.96435 | **−0.00303** |
+| degraded, dev | 0.87771 | 0.87765 | −0.00006 |
+| degraded, held-out | 0.91611 | 0.91582 | −0.00029 |
+
+Worse everywhere. Two independent reasons, either of which is fatal.
+
+**The premise is false in OCR output.** The rule assumes a token is a syllable. OCR drops
+spaces, so tokens are routinely two words joined — `hướngchính`, `nướcngoài`, `lạichặt`,
+`mạnhđề`. Each word has its own legitimate tone; the rule reads the pair as an impossible
+syllable and deletes a **correct** tone. Every change it made on the held-out set was of
+this kind.
+
+**The error it targets does not occur.** Of 36,910 word tokens in the predictions, **4**
+carry two or more tone marks — 0.01% — and only 2 are short enough to be a single syllable.
+All 4 are joined words. The largest real error class is `chi` → `chỉ`, 26 occurrences: a
+single tone *added*, where both the correct and the incorrect form are ordinary Vietnamese
+words. No spelling rule can separate them.
+
+**What this says about the general problem.** Every large error class here produces a
+*legal* result: `chi`/`chỉ`, `ề`/`ê`, `ầ`/`â`. Orthography cannot rank legal alternatives;
+that needs context, which means a language model, which means a corpus — and a corpus that
+is not this one, or the measurement eats itself again.
+
+The rule was correct about Vietnamese and wrong about the data. That is the whole lesson,
+and it is why the code is not in the library.
+
 ## Caveats
 
 - **A rendered page is not a scan.** Stated again because it is the whole limitation.
