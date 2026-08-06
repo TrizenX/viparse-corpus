@@ -187,6 +187,13 @@ caught this at any point in the last four days.
 - **Both transcripts were made by reading the scan.** That is the same method the rest of
   the corpus uses, and it carries the same risk: a transcription error is indistinguishable
   from an OCR success.
+- **Collection is reproducible now.** `find_scans.py` fetches in parallel with retries and
+  reports HTTP 429 as its own outcome, so a throttled sweep says *"this run did not screen
+  them"* rather than *"no scans found"*. The version that actually collected the current
+  25 was ad-hoc shell — two phases with a `glob("*.pdf")` between them, which silently
+  skipped every file saved as `.PDF`, seven of fourteen in one batch. There is no
+  intermediate listing any more, so that class of loss cannot recur.
+
 - **Twenty-five scans have been found; twenty-two are unused.** Most were rejected for
   personal data — names, addresses, company emails and phone numbers in correspondence,
   licence registers and tender awards. The corpus has excluded documents on that basis
