@@ -34,6 +34,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from pathlib import Path
 
 LABEL = re.compile(r"Đoạn số (\d+)")
@@ -66,13 +67,65 @@ def score_headings(markdown: str, expected: list[str]) -> tuple[float, list[str]
     return _ratio(len(expected) - len(missing), len(expected)), missing
 
 
+def row_present(text: str, cells: list[str]) -> bool:
+    """Whether ``cells`` appear together, in order, on one line of ``text``.
+
+    Two mistakes are avoided here, and both were in the first version of this function,
+    which asked ``all(cell in text for cell in cells)``.
+
+    **Cells had to be somewhere, not together.** Text in which no row survived intact —
+    the cells scattered across different lines — scored 0.5, because every individual
+    value could still be found. A destroyed table went on earning credit.
+
+    **Short cells matched inside longer numbers.** A row ``["1999", "24"]`` that does not
+    occur at all scored 1.0 against the text ``trong 1999 có 240 vụ``, because ``24`` is
+    inside ``240``. In a corpus of statistics tables that is not a hypothetical.
+
+    Requiring one line, in order, and consuming each match before looking for the next
+    fixes both. It is stricter than a renderer's exact whitespace, which is the point: the
+    claim being measured is that the row came back as a row.
+    """
+    for line in text.splitlines():
+        cursor = 0
+        for cell in cells:
+            found = _find_whole(line, cell, cursor)
+            if found < 0:
+                break
+            cursor = found + len(cell)
+        else:
+            return True
+    return False
+
+
+def _find_whole(line: str, cell: str, start: int) -> int:
+    """``line.find(cell, start)``, but refusing a match glued to more of the same kind.
+
+    ``"24"`` inside ``"240"`` is not the cell ``24``, and a corpus of statistics tables is
+    exactly where that fires. A match is rejected when the character on either side is
+    alphanumeric *and so is the cell's own edge* — so ``5,6`` still matches inside
+    ``\t5,6\t`` and a cell that begins with punctuation is not held to a rule that cannot
+    apply to it.
+    """
+    while True:
+        found = line.find(cell, start)
+        if found < 0 or not cell:
+            return found
+        before = line[found - 1] if found else ""
+        after = line[found + len(cell) :][:1]
+        glued_left = cell[0].isalnum() and before.isalnum()
+        glued_right = cell[-1].isalnum() and after.isalnum()
+        if not (glued_left or glued_right):
+            return found
+        start = found + 1
+
+
 def score_table(chunks: list[object], table: list[list[str]]) -> dict:
     """Rows recovered, and whether any chunk carries rows without the header."""
     header_cells = table[0]
     data_rows = table[1:]
 
     def cells_present(text: str, cells: list[str]) -> bool:
-        return all(cell in text for cell in cells)
+        return row_present(text, cells)
 
     joined = "\n".join(c.text for c in chunks)
     recovered = sum(1 for row in data_rows if cells_present(joined, row))
@@ -115,11 +168,69 @@ def score_document(path: Path, spec: dict) -> dict:
     }
 
 
+def self_test() -> int:
+    """Check the metric against cases it must get right, before trusting it on documents.
+
+    `score.py` has had one of these since it was written; this file went without for four
+    days and grew two defects in that time, both in `row_present` and both found only when
+    someone finally wrote adversarial cases down.
+
+    Neither had ever moved a published number — the fixture's cell values are distinctive
+    enough that they never fired — which is exactly why they survived. A latent defect in
+    a metric is a defect that will fire on the first corpus that differs from the one it
+    was written against.
+    """
+    ok = True
+
+    def check(label: str, got: object, want: object) -> None:
+        nonlocal ok
+        good = got == want
+        print(f"  {label:34} {str(got):>6}  {'ok' if good else 'FAIL (want ' + str(want) + ')'}")
+        ok = ok and good
+
+    row = ["Chỉ tiêu", "5,6"]
+    # A row is recovered when it comes back as a *row*, not when its values can be found
+    # somewhere. This scored 0.5 before: every cell existed, no line held them together.
+    check("scattered cells are not a row", row_present("Chỉ tiêu x\ny 5,6", row), False)
+    check("cells together, in order", row_present("Chỉ tiêu	5,6", row), True)
+    check("order matters", row_present("5,6	Chỉ tiêu", row), False)
+
+    # "24" inside "240" is not the cell 24. This scored 1.0 before, on a row that does not
+    # occur — and this corpus is largely statistics tables.
+    check("no match inside a longer number", row_present("1999 có 240 vụ", ["1999", "24"]), False)
+    check("same number, standing alone", row_present("1999	24", ["1999", "24"]), True)
+    check("punctuation edge still matches", row_present("x	+0,76", ["x", "+0,76"]), True)
+
+    # order agrees with the trivially-correct alternative: strictly ascending or not.
+    # 2/3, not 1/3: [1,19,2,20] has three consecutive pairs and two of them ascend. The
+    # first draft of this test asserted 1/3 and the test caught the test, which is the
+    # only reason to write expectations out by hand rather than from the code.
+    for labels, want in (([1, 2, 3], 1.0), ([3, 2, 1], 0.0), ([1, 19, 2, 20], 2 / 3)):
+        strictly = labels == sorted(labels) and len(set(labels)) == len(labels)
+        got = score_order(labels)
+        check(f"order {labels}", round(got, 3), round(want, 3))
+        if (got == 1.0) != strictly:
+            print("    FAIL: order==1.0 must mean strictly ascending", file=sys.stderr)
+            ok = False
+
+    check("heading found", score_headings("# Tiêu đề\n", ["Tiêu đề"])[0], 1.0)
+    check("paragraph is not a heading", score_headings("Tiêu đề\n", ["Tiêu đề"])[0], 0.0)
+
+    print("  self-test:", "pass" if ok else "FAIL")
+    return 0 if ok else 1
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--documents", type=Path, required=True)
+    ap.add_argument("--documents", type=Path, required=False)
     ap.add_argument("--out", type=Path)
+    ap.add_argument("--self-test", action="store_true", help="run the built-in check and exit")
     args = ap.parse_args()
+
+    if args.self_test:
+        return self_test()
+    if args.documents is None:
+        ap.error("--documents is required unless --self-test is given")
 
     try:
         import viparse

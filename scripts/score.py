@@ -361,6 +361,26 @@ def self_test() -> int:
     else:
         print(f"  segmentation shift  char={segmented.char_accuracy:.3f}  ok")
 
+    # The size guard on a changed region had never executed: 0 of 3044 pairs reached it,
+    # even on the baseline row where prediction and truth share almost nothing. Untested
+    # code in a file that has already shipped one wrong number is not a guard, it is a
+    # hope — so the case is constructed here rather than waited for.
+    import time
+
+    big_truth = " ".join(f"dòng {i} nội dung tiếng Việt có dấu" for i in range(400))
+    big_pred = " ".join(f"XXXX {i} zzzz" for i in range(400))
+    started = time.monotonic()
+    pairs = _aligned_line_pairs(big_pred, big_truth)
+    elapsed = time.monotonic() - started
+    if len(pairs) < 2:
+        print("    FAIL: the changed-region size guard did not split; it is dead code", file=sys.stderr)
+        ok = False
+    elif elapsed > 30:
+        print(f"    FAIL: guarded alignment took {elapsed:.0f}s; the cap is too high", file=sys.stderr)
+        ok = False
+    else:
+        print(f"  large mismatch      split into {len(pairs)} pair(s) in {elapsed:.1f}s  ok")
+
     print("  self-test:", "pass" if ok else "FAIL")
     return 0 if ok else 1
 

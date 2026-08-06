@@ -36,6 +36,11 @@ _TEXT_PER_PAGE_FLOOR = 40
 #: after, so the test is the *fraction* of pages carrying one.
 _IMAGE_PAGE_RATIO = 0.6
 
+#: Pages examined before deciding. Opening every page of a 300-page PDF to answer "is
+#: this a scan" is wasteful, but a sample is a cap and a cap that is not reported reads as
+#: a whole-document verdict. When it applies, the verdict says so.
+_SAMPLE_PAGES = 12
+
 _UA = "Mozilla/5.0 (compatible; viparse-corpus/1.0; +https://github.com/TrizenX/viparse-corpus)"
 
 
@@ -79,7 +84,7 @@ def classify(path: Path) -> Verdict:
             pages = len(pdf.pages)
             if not pages:
                 return Verdict("", "unreadable", detail="no pages")
-            sample = pdf.pages[: min(pages, 12)]
+            sample = pdf.pages[:_SAMPLE_PAGES]
             chars = sum(len((page.extract_text() or "").strip()) for page in sample)
             with_images = sum(1 for page in sample if page.images)
             per_page = chars / len(sample)
@@ -93,7 +98,8 @@ def classify(path: Path) -> Verdict:
         kind = "digital"
     else:
         kind = "mixed"
-    return Verdict("", kind, pages, round(per_page, 1), round(image_ratio, 2))
+    sampled = "" if pages <= _SAMPLE_PAGES else f"decided on the first {_SAMPLE_PAGES} of {pages} pages"
+    return Verdict("", kind, pages, round(per_page, 1), round(image_ratio, 2), sampled)
 
 
 def main() -> int:
@@ -127,9 +133,10 @@ def main() -> int:
         if verdict.kind == "scan":
             kept = args.out / (url.rsplit("/", 1)[-1].split("?")[0] or "scan.pdf")
             temporary.replace(kept)
+            note = f"  [{verdict.detail}]" if verdict.detail else ""
             print(
                 f"  SCAN     {kept.name}  {verdict.pages}p  "
-                f"{verdict.chars_per_page} chars/page  {verdict.image_pages:.0%} image pages"
+                f"{verdict.chars_per_page} chars/page  {verdict.image_pages:.0%} image pages{note}"
             )
         else:
             temporary.unlink(missing_ok=True)
